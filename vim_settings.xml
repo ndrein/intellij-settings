@@ -3,6 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1483047457315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/ls" timestamp="1482360514711">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/README.md" timestamp="1483069254250">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+      </file>
+      <file name="/Python Console" timestamp="1483138549232">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1482355788317">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" timestamp="1482355632304">
         <mark key="a" line="42" column="7" />
         <mark key="'" line="5" column="19" />
@@ -11,48 +34,60 @@
         <mark key="." line="57" column="31" />
         <mark key="^" line="57" column="31" />
       </file>
-      <file name="/start_script.py" timestamp="1483047457315">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/.gitignore" timestamp="1483068534820">
+        <mark key="'" line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483069553016">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/dev/ls-colors/ls" timestamp="1482274878637">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls_colors/print_dircolors_code.py" timestamp="1482448990150">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="78" column="43" />
-        <mark key="]" line="79" column="3" />
-        <mark key="." line="79" column="3" />
-        <mark key="^" line="79" column="3" />
+      <file name="$USER_HOME$/dev/ls-colors/ls.py" timestamp="1482177123967">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/test-pycharm/test.py" timestamp="1483058327767">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="36" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1482338226650">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/ls-colors/extension_to_color.py" timestamp="1482262501696">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" timestamp="1482447527969">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="53" column="7" />
-        <mark key="]" line="54" column="51" />
-        <mark key="." line="54" column="51" />
-        <mark key="^" line="54" column="51" />
-      </file>
-      <file name="/a.dummy" timestamp="1482355788317">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1483069551003">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/setup.py" timestamp="1482347227683">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/README.md" timestamp="1482439030736">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="110" />
+      <file name="$USER_HOME$/dev/ls-colors/colors.json" timestamp="1482262940300">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="103" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/bin/ls" timestamp="1482446808197">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1483069553016">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" timestamp="1482511050500">
         <mark key="'" line="87" column="0" />
@@ -66,12 +101,6 @@
         <mark key="]" line="24" column="16" />
         <mark key="." line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/colors.json" timestamp="1482262940300">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="103" />
-        <mark key="." line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/ls-colors/ls_colors/command.py" timestamp="1482346929897">
         <mark key="'" line="20" column="8" />
         <mark key="[" line="12" column="0" />
@@ -79,47 +108,31 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls" timestamp="1482274878637">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="11" column="37" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="11" column="37" />
+      <file name="$USER_HOME$/dev/test-pycharm/test.py" timestamp="1483058327767">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/.gitignore" timestamp="1483068534820">
-        <mark key="'" line="27" column="0" />
+      <file name="$USER_HOME$/test/test-pycharm/test.py" timestamp="1483138629361">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/extension_to_color.py" timestamp="1482262501696">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="2" column="63" />
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/print_dircolors_code.py" timestamp="1482448990150">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="78" column="43" />
+        <mark key="]" line="79" column="3" />
+        <mark key="." line="79" column="3" />
+        <mark key="^" line="79" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/bin/ls" timestamp="1482446808197">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1483069551003">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls.py" timestamp="1482177123967">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls_colors/ls" timestamp="1482360514711">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" timestamp="1482447527969">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="51" />
+        <mark key="^" line="54" column="51" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1482511079252">
         <mark key="'" line="0" column="0" />
@@ -128,23 +141,15 @@
         <mark key="." line="88" column="28" />
         <mark key="^" line="88" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="36" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/README.md" timestamp="1483069254250">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/dev/ls-colors/README.md" timestamp="1482439030736">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="110" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/ls-colors/extension_to_color.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/ls-colors/extension_to_color.py" />
       <jump line="41" column="0" filename="$USER_HOME$/dev/ls-colors/extension_to_color.py" />
@@ -244,13 +249,14 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
+      <jump line="1" column="16" filename="$USER_HOME$/test/test-pycharm/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoJ2Zyb20gdmltJykK</text>
       </register>
       <register name="-" type="4">
-        <text>functionality</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWVcPg==</text>
@@ -259,7 +265,7 @@
         <text encoding="base64">ZnJvbSBzeW50YXguZGZhIGltcG9ydCBERkEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoJ2Zyb20gdmltJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -277,13 +283,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YyA9IEMoKSAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmlnaHQgbm93LCB3ZSdyZSB3b3JraW5nIG9uIHBhcnNpbmcgbG9naWNhbCBmb3JtdWxhcyBpbnRvIHBhcnNlIHRyZWVzLgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzcmludCh2Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBwcmludCBwcmludCgndGhpcyBpcyByZW1vdGUnKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -295,10 +301,10 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QSBTY2FubmVyIGlzIGNyZWF0ZWQgdXNpbmcgYSBERkEuCg==</text>
+        <text encoding="base64">UmlnaHQgbm93LCB3ZSdyZSB3b3JraW5nIG9uIHBhcnNpbmcgbG9naWNhbCBmb3JtdWxhcyBpbnRvIHBhcnNlIHRyZWVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TGFuZ3VhZ2UgdG9vbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
