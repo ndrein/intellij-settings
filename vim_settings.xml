@@ -14,7 +14,10 @@
       <file name="/start_script.py" timestamp="1483047457315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1482338226650">
+      <file name="/Python Console" timestamp="1484947496967">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1484947180486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1482355788317">
@@ -102,6 +105,13 @@
       <file name="$USER_HOME$/dev/ls-colors/setup.py" timestamp="1482347227683">
         <mark key="'" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" timestamp="1484947496377">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/ls-colors/README.md" timestamp="1482439030736">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="33" column="0" />
@@ -150,11 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/ls-colors/extension_to_color.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/ls-colors/extension_to_color.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/ls-colors/ls" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
@@ -250,13 +255,18 @@
       <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/test-pycharm/test.py" />
       <jump line="38" column="32" filename="$USER_HOME$/dev/ls-colors/ls_colors/print_dircolors_code.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
+      <jump line="21" column="32" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
+      <jump line="31" column="46" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWVcPg==</text>
@@ -265,7 +275,7 @@
         <text encoding="base64">ZnJvbSBzeW50YXguZGZhIGltcG9ydCBERkEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtX2NvbmZsaWN0cyArPSBsZW4obGVmdCkgLSBsX2luZGV4Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -283,16 +293,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmlnaHQgbm93LCB3ZSdyZSB3b3JraW5nIG9uIHBhcnNpbmcgbG9naWNhbCBmb3JtdWxhcyBpbnRvIHBhcnNlIHRyZWVzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmlnaHQgbm93LCB3ZSdyZSB3b3JraW5nIG9uIHBhcnNpbmcgbG9naWNhbCBmb3JtdWxhcyBpbnRvIHBhcnNlIHRyZWVzLgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -304,10 +314,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QSBTY2FubmVyIGlzIGNyZWF0ZWQgdXNpbmcgYSBERkEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TGFuZ3VhZ2UgdG9vbHMK</text>
+        <text encoding="base64">QSBTY2FubmVyIGlzIGNyZWF0ZWQgdXNpbmcgYSBERkEuCg==</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
