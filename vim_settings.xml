@@ -105,8 +105,8 @@
       <file name="$USER_HOME$/dev/ls-colors/setup.py" timestamp="1482347227683">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" timestamp="1484947496377">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" timestamp="1484963028621">
+        <mark key="'" line="36" column="0" />
         <mark key="[" line="8" column="30" />
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
@@ -160,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/ls-colors/ls" />
@@ -260,6 +258,8 @@
       <jump line="31" column="46" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
       <jump line="29" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
       <jump line="8" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
