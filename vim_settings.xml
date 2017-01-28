@@ -152,8 +152,8 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485625381874">
-        <mark key="'" line="85" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485626801776">
+        <mark key="'" line="32" column="0" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -167,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="40" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="42" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="55" column="9" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
@@ -267,6 +266,7 @@
       <jump line="49" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
