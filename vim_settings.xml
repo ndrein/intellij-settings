@@ -152,12 +152,12 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485626801776">
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485628046727">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="71" column="28" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/test-pycharm/test.txt" timestamp="1484945945594">
         <mark key="[" line="0" column="0" />
@@ -269,11 +269,11 @@
       <jump line="32" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGJ1aWxkX2NvbXBsZW1lbnRfdHJhbnNpdGlvbnMoY2xzLCB0cmFuc2l0aW9ucywgYmVnaW5uaW5nX3N0YXRlLCBzeW1ib2xzLCBhLCBlbmRfc3RhdGVfYSwgZW5kX3N0YXRlX2IpOgogICAgICAgICIiIgogICAgICAgIENvbnZlbmllbmNlIG1ldGhvZCB0byBhZGQgdG8gdGhlIHRyYW5zaXRpb25zIGRpY3QgdG8gbWFrZSBhIERGQQogICAgICAgIElmIHdlIHNlZSBhbiBhLCBnbyB0byBlbmRfc3RhdGVfYQogICAgICAgIElmIHdlIHNlZSBvbmUgb2YgdGhlIGdpdmVuIHN5bWJvbHMgdGhhdCdzIG5vdCBhLCBnbyB0byBlbmRfc3RhdGVfYgoKICAgICAgICA6cGFyYW0gdHJhbnNpdGlvbnM6IHRyYW5zaXRpb25zIGRpY3QKICAgICAgICA6cGFyYW0gc3ltYm9sczogc2V0IG9mIHN5bWJvbHMKICAgICAgICA6cGFyYW0gYTogc3ltYm9sCiAgICAgICAgOnJldHVybjogbW9kaWZpZWQgdHJhbnNpdGlvbnMgZGljdAogICAgICAgICIiIgogICAgICAgIHRyYW5zaXRpb25zID0gY2xzLmJ1aWxkX211bHRpcGxlX3RyYW5zaXRpb25zKHRyYW5zaXRpb25zLCBiZWdpbm5pbmdfc3RhdGUsIHthfSwgZW5kX3N0YXRlX2EpCiAgICAgICAgdHJhbnNpdGlvbnMgPSBjbHMuYnVpbGRfbXVsdGlwbGVfdHJhbnNpdGlvbnModHJhbnNpdGlvbnMsIGJlZ2lubmluZ19zdGF0ZSwgc3ltYm9scyAtIHthfSwgZW5kX3N0YXRlX2IpCiAgICAgICAgcmV0dXJuIHRyYW5zaXRpb25zCgoK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWVcPg==</text>
