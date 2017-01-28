@@ -35,6 +35,13 @@
         <mark key="^" line="1" column="103" />
         <mark key="." line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/.gitignore" timestamp="1485621914492">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="86" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ls-colors/ls_colors/command.py" timestamp="1482346929897">
         <mark key="'" line="20" column="8" />
         <mark key="[" line="12" column="0" />
@@ -42,8 +49,8 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/.gitignore" timestamp="1483068534820">
-        <mark key="'" line="27" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/.gitignore" timestamp="1485621927915">
+        <mark key="'" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1483069551003">
         <mark key="'" line="16" column="0" />
@@ -119,11 +126,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" timestamp="1482511050500">
-        <mark key="'" line="87" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" timestamp="1485622042843">
+        <mark key="'" line="79" column="0" />
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="31" />
+        <mark key="." line="5" column="72" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls" timestamp="1482274878637">
         <mark key="'" line="15" column="0" />
@@ -145,8 +152,8 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1482511079252">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485622052467">
+        <mark key="'" line="49" column="0" />
         <mark key="[" line="88" column="17" />
         <mark key="]" line="88" column="28" />
         <mark key="." line="88" column="28" />
@@ -160,14 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/ls-colors/colorize_ls.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/ls-colors/ls" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="47" column="4" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="24" column="74" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
-      <jump line="20" column="3" filename="$USER_HOME$/dev/ls-colors/bin/ls" />
-      <jump line="5" column="20" filename="$USER_HOME$/dev/ls-colors/bin/ls" />
       <jump line="32" column="4" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
@@ -260,6 +259,14 @@
       <jump line="8" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
       <jump line="4" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
       <jump line="36" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/.gitignore" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/.gitignore" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
