@@ -6,23 +6,14 @@
       <file name="/start_script.py" timestamp="1483047457315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" timestamp="1482355632304">
-        <mark key="a" line="42" column="7" />
-        <mark key="'" line="5" column="19" />
-        <mark key="[" line="57" column="25" />
-        <mark key="]" line="57" column="31" />
-        <mark key="." line="57" column="31" />
-        <mark key="^" line="57" column="31" />
-      </file>
       <file name="/Python Console" timestamp="1483138549232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" timestamp="1486846034246">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="23" />
-        <mark key="." line="44" column="23" />
-        <mark key="^" line="44" column="23" />
+      <file name="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" timestamp="1486849604491">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1482355788317">
         <mark key="[" line="0" column="0" />
@@ -44,6 +35,12 @@
         <mark key="[" line="24" column="75" />
         <mark key="]" line="24" column="16" />
         <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/University/Winter 2017/CS 341/a3/A3Test.java" timestamp="1486849598546">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/colors.json" timestamp="1482262940300">
         <mark key="[" line="1" column="9" />
@@ -94,7 +91,7 @@
         <mark key="." line="36" column="37" />
         <mark key="^" line="36" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483069553016">
+      <file name="/Dummy.txt" timestamp="1486849468240">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -161,13 +158,11 @@
         <mark key="." line="88" column="28" />
         <mark key="^" line="88" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1486844596428">
+      <file name="/fragment.java" timestamp="1486849468262">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
       <jump line="19" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
       <jump line="8" column="20" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
@@ -254,7 +249,6 @@
       <jump line="52" column="5" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="39" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="48" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="14" column="19" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="7" column="16" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="54" column="4" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
@@ -263,16 +257,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="51" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="38" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="47" column="52" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="44" column="21" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="57" column="12" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="17" column="6" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
@@ -281,7 +278,7 @@
         <text>wwwwwwwwwwwww</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -299,31 +296,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyB2b2lkIHByaW50bG4oT2JqZWN0IHMpIHsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzKTsKLy8gICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0OwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxwcyA9IGEuY2hhckF0KGkpICsgbHBzICsgYS5jaGFyQXQoaik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQgPSBsZWZ0ICsgYS5jaGFyQXQoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChvcHRbaV1bal0gPT0gb3B0W2ldW2ogLSAxXSkgewogICAgICAgICAgICAgICAgaiA9IGogLSAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkZW50aWNhbCBjaGFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChvcHRbaV1bal0gPT0gb3B0W2kgKyAxXVtqXSkgewogICAgICAgICAgICAgICAgaSA9IGkgKyAxOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFMKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgPSBpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbHBzID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGogPSBqOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSA9PSBqKSB7CiAgICAgICAgICAgIHJldHVybiBsZWZ0CiAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGVmdCArIHJpZ2h0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
