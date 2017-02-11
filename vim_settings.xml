@@ -3,16 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" timestamp="1482355632304">
-        <mark key="a" line="42" column="7" />
-        <mark key="'" line="5" column="19" />
-        <mark key="[" line="57" column="25" />
-        <mark key="]" line="57" column="31" />
-        <mark key="." line="57" column="31" />
-        <mark key="^" line="57" column="31" />
-      </file>
       <file name="/start_script.py" timestamp="1483047457315">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/colors.json" timestamp="1486830243842">
+        <mark key="'" line="1" column="1" />
+        <mark key="[" line="1" column="74" />
+        <mark key="]" line="1" column="74" />
+        <mark key="." line="1" column="74" />
       </file>
       <file name="/Python Console" timestamp="1484947496967">
         <mark key="[" line="0" column="0" />
@@ -89,8 +87,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls_colors/print_dircolors_code.py" timestamp="1484945970418">
-        <mark key="'" line="38" column="32" />
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/print_dircolors_code.py" timestamp="1486829807614">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -146,11 +144,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/ls-colors/bin/ls" timestamp="1482446808197">
+      <file name="$USER_HOME$/dev/ls-colors/bin/ls" timestamp="1486830144492">
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485628046727">
         <mark key="'" line="32" column="0" />
@@ -167,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="42" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="55" column="9" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="15" column="26" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="25" column="8" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
@@ -267,22 +263,24 @@
       <jump line="102" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/print_dircolors_code.py" />
+      <jump line="1" column="1" filename="$USER_HOME$/dev/ls-colors/ls_colors/colors.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZWVcPg==</text>
+        <text>94</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBzeW50YXguZGZhIGltcG9ydCBERkEK</text>
+        <text encoding="base64">ZXZhbCAkKHB5dGhvbjMgJHJvb3RfZGlyL2xzX2NvbG9ycy9wcmludF9kaXJjb2xvcnNfY29kZS5weSAkQCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGJ1aWxkX2NvbXBsZW1lbnRfdHJhbnNpdGlvbnMoY2xzLCB0cmFuc2l0aW9ucywgYmVnaW5uaW5nX3N0YXRlLCBzeW1ib2xzLCBhLCBlbmRfc3RhdGVfYSwgZW5kX3N0YXRlX2IpOgogICAgICAgICIiIgogICAgICAgIENvbnZlbmllbmNlIG1ldGhvZCB0byBhZGQgdG8gdGhlIHRyYW5zaXRpb25zIGRpY3QgdG8gbWFrZSBhIERGQQogICAgICAgIElmIHdlIHNlZSBhbiBhLCBnbyB0byBlbmRfc3RhdGVfYQogICAgICAgIElmIHdlIHNlZSBvbmUgb2YgdGhlIGdpdmVuIHN5bWJvbHMgdGhhdCdzIG5vdCBhLCBnbyB0byBlbmRfc3RhdGVfYgoKICAgICAgICA6cGFyYW0gdHJhbnNpdGlvbnM6IHRyYW5zaXRpb25zIGRpY3QKICAgICAgICA6cGFyYW0gc3ltYm9sczogc2V0IG9mIHN5bWJvbHMKICAgICAgICA6cGFyYW0gYTogc3ltYm9sCiAgICAgICAgOnJldHVybjogbW9kaWZpZWQgdHJhbnNpdGlvbnMgZGljdAogICAgICAgICIiIgogICAgICAgIHRyYW5zaXRpb25zID0gY2xzLmJ1aWxkX211bHRpcGxlX3RyYW5zaXRpb25zKHRyYW5zaXRpb25zLCBiZWdpbm5pbmdfc3RhdGUsIHthfSwgZW5kX3N0YXRlX2EpCiAgICAgICAgdHJhbnNpdGlvbnMgPSBjbHMuYnVpbGRfbXVsdGlwbGVfdHJhbnNpdGlvbnModHJhbnNpdGlvbnMsIGJlZ2lubmluZ19zdGF0ZSwgc3ltYm9scyAtIHthfSwgZW5kX3N0YXRlX2IpCiAgICAgICAgcmV0dXJuIHRyYW5zaXRpb25zCgoK</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -300,25 +298,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX2NvbmZsaWN0cyArPSBsZW4obGVmdCkgLSBsX2luZGV4Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGJ1aWxkX2NvbXBsZW1lbnRfdHJhbnNpdGlvbnMoY2xzLCB0cmFuc2l0aW9ucywgYmVnaW5uaW5nX3N0YXRlLCBzeW1ib2xzLCBhLCBlbmRfc3RhdGVfYSwgZW5kX3N0YXRlX2IpOgogICAgICAgICIiIgogICAgICAgIENvbnZlbmllbmNlIG1ldGhvZCB0byBhZGQgdG8gdGhlIHRyYW5zaXRpb25zIGRpY3QgdG8gbWFrZSBhIERGQQogICAgICAgIElmIHdlIHNlZSBhbiBhLCBnbyB0byBlbmRfc3RhdGVfYQogICAgICAgIElmIHdlIHNlZSBvbmUgb2YgdGhlIGdpdmVuIHN5bWJvbHMgdGhhdCdzIG5vdCBhLCBnbyB0byBlbmRfc3RhdGVfYgoKICAgICAgICA6cGFyYW0gdHJhbnNpdGlvbnM6IHRyYW5zaXRpb25zIGRpY3QKICAgICAgICA6cGFyYW0gc3ltYm9sczogc2V0IG9mIHN5bWJvbHMKICAgICAgICA6cGFyYW0gYTogc3ltYm9sCiAgICAgICAgOnJldHVybjogbW9kaWZpZWQgdHJhbnNpdGlvbnMgZGljdAogICAgICAgICIiIgogICAgICAgIHRyYW5zaXRpb25zID0gY2xzLmJ1aWxkX211bHRpcGxlX3RyYW5zaXRpb25zKHRyYW5zaXRpb25zLCBiZWdpbm5pbmdfc3RhdGUsIHthfSwgZW5kX3N0YXRlX2EpCiAgICAgICAgdHJhbnNpdGlvbnMgPSBjbHMuYnVpbGRfbXVsdGlwbGVfdHJhbnNpdGlvbnModHJhbnNpdGlvbnMsIGJlZ2lubmluZ19zdGF0ZSwgc3ltYm9scyAtIHthfSwgZW5kX3N0YXRlX2IpCiAgICAgICAgcmV0dXJuIHRyYW5zaXRpb25zCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtX2NvbmZsaWN0cyArPSBsZW4obGVmdCkgLSBsX2luZGV4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmlnaHQgbm93LCB3ZSdyZSB3b3JraW5nIG9uIHBhcnNpbmcgbG9naWNhbCBmb3JtdWxhcyBpbnRvIHBhcnNlIHRyZWVzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmlnaHQgbm93LCB3ZSdyZSB3b3JraW5nIG9uIHBhcnNpbmcgbG9naWNhbCBmb3JtdWxhcyBpbnRvIHBhcnNlIHRyZWVzLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -331,10 +329,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZWVcPg==</last-search>
+      <last-search>94</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZWVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>94</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -351,6 +349,7 @@
         <entry>CantTokenize</entry>
         <entry>fun</entry>
         <entry encoding="base64">XDxTZWVcPg==</entry>
+        <entry>94</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
