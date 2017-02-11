@@ -17,12 +17,12 @@
       <file name="/Python Console" timestamp="1483138549232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" timestamp="1486840192694">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="49" column="7" />
-        <mark key="." line="49" column="7" />
-        <mark key="^" line="49" column="7" />
+      <file name="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" timestamp="1486842954415">
+        <mark key="'" line="62" column="7" />
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="45" column="22" />
+        <mark key="." line="45" column="22" />
+        <mark key="^" line="45" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1482355788317">
         <mark key="[" line="0" column="0" />
@@ -161,22 +161,11 @@
         <mark key="." line="88" column="28" />
         <mark key="^" line="88" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1486838995455">
+      <file name="/fragment.java" timestamp="1486840937698">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/dev/ls-colors/ls" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="47" column="4" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="24" column="74" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
-      <jump line="20" column="3" filename="$USER_HOME$/dev/ls-colors/bin/ls" />
-      <jump line="5" column="20" filename="$USER_HOME$/dev/ls-colors/bin/ls" />
-      <jump line="32" column="4" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="40" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="42" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="55" column="9" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="15" column="26" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="25" column="8" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
@@ -265,23 +254,34 @@
       <jump line="12" column="59" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="21" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="26" column="27" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="52" column="5" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="14" column="19" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="7" column="16" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="54" column="4" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="31" column="20" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="29" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="44" column="7" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxwcyA9IGEuY2hhckF0KGkpIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">MCAmJiBqID09IDApIHs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZWVcPg==</text>
+        <text>int</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3B0W2ldW2pdID0gMSArIG9wdFtpIC0gMV1baiAtIDFdOwo=</text>
+      <register name="0" type="4">
+        <text>wwwwwwwwwwwww</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxwcyA9IGEuY2hhckF0KGkpIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -299,16 +299,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGkgPSAwLCBqID0gbiAtIDE7IGkgPj0gMDspIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaSA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSwgajsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxwcwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -317,27 +317,29 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxwcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxwcy5jb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZWVcPg==</last-search>
+      <last-search>int</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZWVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>int</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>int</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
@@ -366,6 +368,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
