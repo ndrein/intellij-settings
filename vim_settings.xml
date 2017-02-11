@@ -9,11 +9,12 @@
       <file name="/Python Console" timestamp="1483138549232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" timestamp="1486849604491">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" timestamp="1486850701394">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="55" column="60" />
+        <mark key="]" line="56" column="60" />
+        <mark key="." line="56" column="60" />
+        <mark key="^" line="56" column="60" />
       </file>
       <file name="/a.dummy" timestamp="1482355788317">
         <mark key="[" line="0" column="0" />
@@ -163,11 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
-      <jump line="8" column="20" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="9" column="22" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="57" column="4" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="28" column="6" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="38" column="3" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
@@ -263,13 +259,18 @@
       <jump line="17" column="6" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="53" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
       <jump line="1" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="74" column="23" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/University/Winter 2017/CS 341/a3/a3.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text encoding="base64">Ly8gT24gdGhlIG1haW4gZGlhZ29uYWwgLSBpbnNlcnQgdGhlIGNoYXIgaW4gdGhlIG1pZGRsZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">Ly8gT24gdGhlIG1haW4gZGlhZ29uYWwgLSBpbnNlcnQgdGhlIGNoYXIgaW4gdGhlIG1pZGRsZSA=</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
@@ -278,7 +279,7 @@
         <text>wwwwwwwwwwwww</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -296,31 +297,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0OwoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXRyaWV2ZSB0aGUgTFBTIGZyb20gdGhlIG9wdCBhcnJheQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChvcHRbaV1bal0gPT0gb3B0W2ldW2ogLSAxXSkgewogICAgICAgICAgICAgICAgaiA9IGogLSAxOwo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgaW50W11bXSBpbml0X2Jhc2VfY2FzZShpbnRbXVtdIG9wdCwgaW50IG4pIHsKLy8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgKytpKSB7Ci8vICAgICAgICAgICAgb3B0W2ldW2ldID0gMTsKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIHJldHVybiBvcHQ7Ci8vICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChvcHRbaV1bal0gPT0gb3B0W2kgKyAxXVtqXSkgewogICAgICAgICAgICAgICAgaSA9IGkgKyAxOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG9wdCA9IGluaXRfYmFzZV9jYXNlKG9wdCwgbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgPSBpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGEgPSAiYWEiOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGogPSBqOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSA9PSBqKSB7CiAgICAgICAgICAgIHJldHVybiBsZWZ0CiAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0OwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGVmdCArIHJpZ2h0Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
