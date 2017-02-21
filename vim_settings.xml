@@ -15,7 +15,7 @@
       <file name="ide.general.xml" timestamp="1487695231911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1484947496967">
+      <file name="/Python Console" timestamp="1487696656119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1484947180486">
@@ -86,7 +86,7 @@
         <mark key="." line="32" column="11" />
         <mark key="^" line="32" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486830780805">
+      <file name="/Dummy.txt" timestamp="1487696029689">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -102,6 +102,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/elements.py" timestamp="1487697771888">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" timestamp="1482447527969">
         <mark key="'" line="44" column="4" />
@@ -153,8 +160,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/snl.py" timestamp="1487695426118">
-        <mark key="'" line="83" column="0" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/snl.py" timestamp="1487697120971">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="66" column="71" />
+        <mark key="." line="66" column="71" />
+        <mark key="^" line="66" column="71" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485628046727">
         <mark key="'" line="32" column="0" />
@@ -171,29 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
-      <jump line="19" column="7" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
-      <jump line="8" column="20" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="9" column="22" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="57" column="4" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="28" column="6" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="38" column="3" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="13" column="22" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/dev/ls-colors/ls_colors/command.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/ls-colors/setup.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="17" column="11" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="5" column="23" filename="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="29" column="11" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
-      <jump line="8" column="37" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/colorize_ls.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/ls" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/ls-colors/ls_colors/ls" />
@@ -271,22 +259,71 @@
       <jump line="1" column="1" filename="$USER_HOME$/dev/ls-colors/ls_colors/colors.json" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
       <jump line="83" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="28" column="2" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="75" column="29" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="76" column="4" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="71" column="38" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="73" column="28" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="74" column="39" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="6" column="60" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="10" column="45" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="12" column="12" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="70" column="27" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="55" column="59" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="49" column="20" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="22" column="14" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/dev/snakes_and_ladders/elements.py" />
+      <jump line="23" column="6" filename="$USER_HOME$/dev/snakes_and_ladders/elements.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAkKHB5dGhvbjMgJHJvb3RfZGlyL2xzX2NvbG9ycy9wcmludF9kaXJjb2xvcnNfY29kZS5weSAkQCkK</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>94</text>
+        <text>ref</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXZhbCAkKHB5dGhvbjMgJHJvb3RfZGlyL2xzX2NvbG9ycy9wcmludF9kaXJjb2xvcnNfY29kZS5weSAkQCkK</text>
       </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="110" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkKHB5dGhvbjMgJHJvb3RfZGlyL2xzX2NvbG9ycy9wcmludF9kaXJjb2xvcnNfY29kZS5weSAkQCkK</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -304,40 +341,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQ29tbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQobnVtX2VsZW1lbnRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGJ1aWxkX2NvbXBsZW1lbnRfdHJhbnNpdGlvbnMoY2xzLCB0cmFuc2l0aW9ucywgYmVnaW5uaW5nX3N0YXRlLCBzeW1ib2xzLCBhLCBlbmRfc3RhdGVfYSwgZW5kX3N0YXRlX2IpOgogICAgICAgICIiIgogICAgICAgIENvbnZlbmllbmNlIG1ldGhvZCB0byBhZGQgdG8gdGhlIHRyYW5zaXRpb25zIGRpY3QgdG8gbWFrZSBhIERGQQogICAgICAgIElmIHdlIHNlZSBhbiBhLCBnbyB0byBlbmRfc3RhdGVfYQogICAgICAgIElmIHdlIHNlZSBvbmUgb2YgdGhlIGdpdmVuIHN5bWJvbHMgdGhhdCdzIG5vdCBhLCBnbyB0byBlbmRfc3RhdGVfYgoKICAgICAgICA6cGFyYW0gdHJhbnNpdGlvbnM6IHRyYW5zaXRpb25zIGRpY3QKICAgICAgICA6cGFyYW0gc3ltYm9sczogc2V0IG9mIHN5bWJvbHMKICAgICAgICA6cGFyYW0gYTogc3ltYm9sCiAgICAgICAgOnJldHVybjogbW9kaWZpZWQgdHJhbnNpdGlvbnMgZGljdAogICAgICAgICIiIgogICAgICAgIHRyYW5zaXRpb25zID0gY2xzLmJ1aWxkX211bHRpcGxlX3RyYW5zaXRpb25zKHRyYW5zaXRpb25zLCBiZWdpbm5pbmdfc3RhdGUsIHthfSwgZW5kX3N0YXRlX2EpCiAgICAgICAgdHJhbnNpdGlvbnMgPSBjbHMuYnVpbGRfbXVsdGlwbGVfdHJhbnNpdGlvbnModHJhbnNpdGlvbnMsIGJlZ2lubmluZ19zdGF0ZSwgc3ltYm9scyAtIHthfSwgZW5kX3N0YXRlX2IpCiAgICAgICAgcmV0dXJuIHRyYW5zaXRpb25zCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllID0gcmkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX2NvbmZsaWN0cyArPSBsZW4obGVmdCkgLSBsX2luZGV4Cg==</text>
+        <text encoding="base64">ZWNobyAkKHB5dGhvbjMgJHJvb3RfZGlyL2xzX2NvbG9ycy9wcmludF9kaXJjb2xvcnNfY29kZS5weSAkQCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">Ly8gQ29tbWVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
       </register>
     </registers>
     <search>
-      <last-search>94</last-search>
+      <last-search>ref</last-search>
       <last-offset />
-      <last-pattern>94</last-pattern>
+      <last-pattern>ref</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -349,13 +386,16 @@
         <entry>Command</entry>
         <entry>check_out</entry>
         <entry>call</entry>
-        <entry>print</entry>
         <entry>hash</entry>
         <entry>bash</entry>
         <entry>CantTokenize</entry>
         <entry>fun</entry>
         <entry encoding="base64">XDxTZWVcPg==</entry>
         <entry>94</entry>
+        <entry>pring</entry>
+        <entry>print</entry>
+        <entry>%</entry>
+        <entry>ref</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
