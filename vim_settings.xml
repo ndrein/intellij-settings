@@ -6,12 +6,11 @@
       <file name="/start_script.py" timestamp="1483047457315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/cells.py" timestamp="1487791190602">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="26" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/cells.py" timestamp="1487802620631">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls_colors/colors.json" timestamp="1486830608915">
         <mark key="'" line="1" column="1" />
@@ -22,14 +21,14 @@
       <file name="ide.general.xml" timestamp="1487695231911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1487797860903">
+      <file name="/Python Console" timestamp="1487803200157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1487797819030">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1487699661528">
+      <file name="/a.dummy" timestamp="1487801351340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/classes.py" timestamp="1487699617577">
@@ -84,12 +83,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/player.py" timestamp="1487799930418">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="66" column="21" />
-        <mark key="]" line="66" column="21" />
-        <mark key="." line="66" column="21" />
-        <mark key="^" line="71" column="41" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/player.py" timestamp="1487801853708">
+        <mark key="'" line="59" column="29" />
+        <mark key="[" line="69" column="75" />
+        <mark key="]" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+        <mark key="^" line="70" column="11" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
         <mark key="'" line="31" column="0" />
@@ -105,7 +104,7 @@
         <mark key="." line="32" column="11" />
         <mark key="^" line="32" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487793771828">
+      <file name="/Dummy.txt" timestamp="1487801908233">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -136,11 +135,12 @@
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/die.py" timestamp="1487796858936">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/die.py" timestamp="1487800677566">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" timestamp="1487798947914">
         <mark key="'" line="7" column="0" />
@@ -176,12 +176,12 @@
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1487799222031">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="17" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1487803894661">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls" timestamp="1482274878637">
         <mark key="'" line="15" column="0" />
@@ -206,19 +206,19 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/snl.py" timestamp="1487800541741">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="7" column="84" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/snl.py" timestamp="1487803349729">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="42" />
+        <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/game.py" timestamp="1487800425222">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="32" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/game.py" timestamp="1487803920629">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="64" />
+        <mark key="." line="24" column="64" />
+        <mark key="^" line="24" column="64" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485628046727">
         <mark key="'" line="32" column="0" />
@@ -235,30 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="10" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="50" column="19" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="45" column="33" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="49" column="25" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="30" column="17" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="37" column="36" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="41" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="42" column="29" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="11" column="19" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="40" column="15" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="44" column="36" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="16" column="14" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
@@ -267,18 +243,15 @@
       <jump line="65" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="77" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="16" column="42" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="99" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="37" column="16" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="40" column="26" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="7" column="10" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" />
@@ -300,7 +273,6 @@
       <jump line="27" column="83" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
       <jump line="11" column="29" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
@@ -320,34 +292,62 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" />
-      <jump line="46" column="23" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="60" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="63" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="75" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/main.py" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
       <jump line="19" column="56" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/die.py" />
+      <jump line="24" column="46" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="66" column="30" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="74" column="25" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="33" column="7" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="32" column="32" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="90" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="25" column="26" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
+      <jump line="93" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
+      <jump line="59" column="29" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="8" column="13" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="14" column="71" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="15" column="47" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="16" column="41" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
+      <jump line="36" column="57" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHJ5OgogICAgZnJvbSBuZXR3b3JreCBpbXBvcnQgRGlHcmFwaCwgaGFzX3BhdGgKZXhjZXB0IEltcG9ydEVycm9yOgogICAgcHJpbnQoIkNhbid0IGltcG9ydCBuZXR3b3JreCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGb3VuZFw+</text>
+        <text>cell_to</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbnVtLWNlbGxzJywgaGVscD0nTnVtYmVyIG9mIGNlbGxzIGluIHRoZSBib2FyZCcpCg==</text>
+        <text encoding="base64">Y2xhc3MgRWxlbWVudChBQkMpOgo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -376,7 +376,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZSkK</text>
+        <text encoding="base64">dHJ5OgogICAgZnJvbSBuZXR3b3JreCBpbXBvcnQgRGlHcmFwaCwgaGFzX3BhdGgKZXhjZXB0IEltcG9ydEVycm9yOgogICAgcHJpbnQoIkNhbid0IGltcG9ydCBuZXR3b3JreCIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -394,52 +394,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IGFyZ3YK</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSB0aGUgcGxheWVycwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBudW1fcGxheWVycyBpcyBOb25lCg==</text>
+        <text encoding="base64">Y2xhc3MgRWxlbWVudDoK</text>
       </register>
-      <register name="5" type="4">
-        <text>num_cells, num_players = parse_args()
-    game = Game(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50KCdVbmFibGUgdG8gdGVzdCBib2FyZHMuLi4nKQogICAgICAgICAgICBwcmludCgnVHJ5aW5nIHRvIHBsYXkgd2l0aCBjdXJyZW50IGJvYXJkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5kZXMK</text>
+        <text encoding="base64">a28K</text>
       </register>
       <register name=":" type="4">
         <text>%s/board/self/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGb3VuZFw+</last-search>
+      <last-search>cell_to</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGb3VuZFw+</last-pattern>
+      <last-pattern>cell_to</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>board</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>win</entry>
-        <entry>update</entry>
-        <entry>ind</entry>
         <entry>trun_rec</entry>
         <entry>nuk</entry>
         <entry>num</entry>
@@ -449,18 +444,23 @@
         <entry>next</entry>
         <entry>position</entry>
         <entry>path</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>tr</entry>
         <entry>board</entry>
         <entry>_test</entry>
         <entry encoding="base64">XDxVbmFibGVcPg==</entry>
         <entry encoding="base64">XDxudW1fY2VsbHNcPg==</entry>
         <entry encoding="base64">XDxGb3VuZFw+</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxTdGVwXD4=</entry>
+        <entry>ff</entry>
+        <entry>_cell</entry>
+        <entry>cell_to</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
         <entry>%s/&quot;/'/gc</entry>
         <entry>%s/board/self/gc</entry>
+        <entry>tabe snl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
