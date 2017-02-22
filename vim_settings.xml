@@ -22,10 +22,10 @@
       <file name="ide.general.xml" timestamp="1487695231911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1487791635005">
+      <file name="/Python Console" timestamp="1487793731281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1487791437563">
+      <file name="/fragment.py" timestamp="1487792912736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1487699661528">
@@ -83,12 +83,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/player.py" timestamp="1487791586591">
-        <mark key="'" line="50" column="22" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="53" column="32" />
-        <mark key="." line="53" column="32" />
-        <mark key="^" line="53" column="32" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/player.py" timestamp="1487793694135">
+        <mark key="'" line="68" column="20" />
+        <mark key="[" line="66" column="21" />
+        <mark key="]" line="66" column="21" />
+        <mark key="." line="66" column="21" />
+        <mark key="^" line="71" column="41" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
         <mark key="'" line="31" column="0" />
@@ -104,7 +104,7 @@
         <mark key="." line="32" column="11" />
         <mark key="^" line="32" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487791673990">
+      <file name="/Dummy.txt" timestamp="1487793771828">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -135,11 +135,11 @@
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/die.py" timestamp="1487726402268">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/die.py" timestamp="1487793727951">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" timestamp="1487781675408">
         <mark key="'" line="11" column="52" />
@@ -174,12 +174,12 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1487791670336">
-        <mark key="'" line="43" column="7" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1487793630559">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="23" column="43" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls" timestamp="1482274878637">
         <mark key="'" line="15" column="0" />
@@ -211,12 +211,12 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="82" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/game.py" timestamp="1487724891256">
-        <mark key="'" line="7" column="10" />
-        <mark key="[" line="7" column="99" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/game.py" timestamp="1487793494713">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="54" column="7" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485628046727">
         <mark key="'" line="32" column="0" />
@@ -233,11 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="14" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="2" column="11" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
@@ -283,7 +278,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="11" column="19" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="40" column="15" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="44" column="36" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
@@ -333,16 +327,22 @@
       <jump line="11" column="29" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="34" column="7" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="50" column="22" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
+      <jump line="68" column="20" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHNhbXBsZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE87IERFQlVHCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>tr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNlbGxfdG9fZWxlbXNbc2VsZi5fYm9hcmRfY2VsbHNbc3RhcnRdXSA9IGVsZW0K</text>
@@ -374,7 +374,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHNhbXBsZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE87IERFQlVHCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,43 +392,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBudW1fZGljZV9yb2xscyA9IHJldHVybiBsZW4oc2VsZi5wbGF5ZXJzKSAqIChzZWxmLmdhbWVfcm91bmQgLSAxKSArIHNlbGYucGxheWVycy5pbmRleChzZWxmLndpbm5lcikgKyAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbnVtX2RpY2Vfcm9sbHMoKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzdGFydCwgZW5kKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKHN0YXJ0LCBlbmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHIuZWxlbSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHByaW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9sbD10ci5yb2xsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQ9dHIuZW5kLmluZGV4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPXN0cigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyLmVsZW0uX19jbGFzc19fKSBpZiB0ci5lbGVtIGlzIG5vdCBOb25lIGVsc2UgJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzdGFydCwgZW5kKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKHN0YXJ0LCBlbmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nID0gJ3N0YXJ0OiB7c3RhcnR9IChyb2xsOiB7cm9sbH0pIC0+IGVuZDoge2VuZH0ge3R5cGV9Jy5mb3JtYXQoc3RhcnQ9dHIuc3RhcnQuaW5kZXgsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RhcnQuaW5kZXggPiBlbmQuaW5kZXgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kX3N0cmluZyA9ICdlbmQ6ICVzJyAlIHRyLmVuZC5pbmRleCBpZiB0ci5lbGVtIGlzIE5vbmUgZWxzZSAne2VuZH0gLT4gJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RhcnQuaW5kZXggPCBlbmQuaW5kZXgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3tzdGFydH0gKHtyb2xsfSkgLT4ge2VuZH0nLmZvcm1hdChzdGFydD10ci5zdGFydC5pbmRleCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb2xsPXRyLnJvbGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kPXRyLmVuZC5pbmRleCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>tr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern>tr</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -442,7 +442,6 @@
         <entry>update</entry>
         <entry>ind</entry>
         <entry>board</entry>
-        <entry>tr</entry>
         <entry>trun_rec</entry>
         <entry>nuk</entry>
         <entry>num</entry>
@@ -453,6 +452,7 @@
         <entry>position</entry>
         <entry>path</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>tr</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
