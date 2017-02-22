@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1483047457315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/cells.py" timestamp="1487724533636">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="40" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/cells.py" timestamp="1487725048407">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls_colors/colors.json" timestamp="1486830608915">
         <mark key="'" line="1" column="1" />
@@ -141,11 +141,12 @@
       <file name="$USER_HOME$/dev/ls-colors/setup.py" timestamp="1482347227683">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" timestamp="1487724892472">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" timestamp="1487725734586">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" timestamp="1484963028621">
         <mark key="'" line="26" column="0" />
@@ -173,12 +174,12 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1487724762424">
+      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1487725084110">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="33" />
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="50" />
+        <mark key="." line="38" column="50" />
+        <mark key="^" line="38" column="50" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls" timestamp="1482274878637">
         <mark key="'" line="15" column="0" />
@@ -229,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/elements.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/elements.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/snl.py" />
       <jump line="9" column="3" filename="$USER_HOME$/dev/snakes_and_ladders/elements.py" />
@@ -329,16 +328,18 @@
       <jump line="49" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
       <jump line="7" column="10" filename="$USER_HOME$/dev/snakes_and_ladders/game.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/cells.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGkK</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>num</text>
+        <text>destination</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE1JTl9FTEVNU19QRVJDRU5UQUdFID0gMC4xCiAgICBNQVhfRUxFTVNfUEVSQ0VOVEFHRSA9IDAuMgo=</text>
@@ -370,7 +371,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -388,40 +389,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IGV4aXQK</text>
+        <text encoding="base64">ICAgIHNpemUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9ib2FyZChzZWxmKToKICAgICAgICAiIiIKICAgICAgICBEZXRlcm1pbmUgaWYgYm9hcmQgaXMgcGxheWFibGUKCiAgICAgICAgOnJldHVybjogYm9vbAogICAgICAgICIiIgogICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWQK</text>
+        <text encoding="base64">ICAgICAgICBjbHMuYm9hcmQgPSBib2FyZAogICAgICAgIHJldHVybiBjbHMudGVzdF9lbGVtcygpCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWQKICAgIAogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgdGVzdF9lbGVtcyhjbHMpOgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRlc3RpbmF0aW9uID0gZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGVtcwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ2VsbDoKICAgIGRlZiBuZXh0KHNlbGYsIGRpcmVjdGlvbik6CiAgICAgICAgcGFzcwoKICAgIGRlZiBib2FyZF9wb3NpdGlvbihzZWxmKToKICAgICAgICAiIiIKICAgICAgICBIdW1hbi1yZWFkYWJsZSBsb2NhdGlvbiBvbiB0aGUgYm9hcmQgKGVnLiAyMykKCiAgICAgICAgOnJldHVybjogaW50CiAgICAgICAgIiIiCiAgICAgICAgcGFzcwoKY2xhc3MgQm9hcmRDZWxsKENlbGwpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGluZGV4LCBib2FyZCk6CiAgICAgICAgc2VsZi5pbmRleCwgc2VsZi5ib2FyZCA9IGluZGV4LCBib2FyZAoKICAgIGRlZiBuZXh0KHNlbGYsIGRpcmVjdGlvbik6CiAgICAgICAgIiIiCiAgICAgICAgTW92ZSAxIHBvc2l0aW9uIGZvcndhcmQgb3IgYmFja3dhcmQKCiAgICAgICAgOnBhcmFtIGRpcmVjdGlvbjogJ2ZvcndhcmQnIG9yICdiYWNrd2FyZCcKICAgICAgICA6cmV0dXJuOiBDZWxsLCBFbGVtZW50IG9yIE5vbmUKICAgICAgICAiIiIKICAgICAgICBhc3NlcnQoZGlyZWN0aW9uIGluICgnZm9yd2FyZCcsICdiYWNrd2FyZCcpKQogICAgICAgIGVsZW0gPSBOb25lCiAgICAgICAgbmV4dF9jZWxsID0gc2VsZi5ib2FyZC5jZWxsc1tzZWxmLmluZGV4ICsgMV0gaWYgZGlyZWN0aW9uID09ICdmb3J3YXJkJyBlbHNlIHNlbGYuYm9hcmQuY2VsbHNbc2VsZi5pbmRleCAtIDFdCgogICAgICAgIGlmIGhhc2F0dHIobmV4dF9jZWxsLCAnZWxlbScpOgogICAgICAgICAgICBuZXh0X2NlbGwgPSBuZXh0X2NlbGwudGFrZV9lbGVtKCkKCiAgICAgICAgcmV0dXJuIG5leHRfY2VsbCwgZWxlbQoKICAgIGRlZiB0YWtlX2VsZW0oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuZWxlbS5kZXN0aW5hdGlvbiBpZiBoYXNhdHRyKHNlbGYsICdlbGVtJykgZWxzZSBzZWxmCgogICAgZGVmIGJvYXJkX3Bvc2l0aW9uKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmluZGV4ICsgMQoKCmNsYXNzIFN0YXJ0Q2VsbChDZWxsKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBib2FyZCk6CiAgICAgICAgc2VsZi5ib2FyZCA9IGJvYXJkCgogICAgZGVmIG5leHQoc2VsZiwgZGlyZWN0aW9uKToKICAgICAgICByZXR1cm4gc2VsZi5ib2FyZC5jZWxsc1swXSwgTm9uZQoKICAgIGRlZiBib2FyZF9wb3NpdGlvbihzZWxmKToKICAgICAgICByZXR1cm4gMAoKCmNsYXNzIEVsZW1lbnQ6CiAgICBkZWYgX19pbml0X18oc2VsZiwgZGVzdGluYXRpb24pOgogICAgICAgICIiIgogICAgICAgIDpwYXJhbSBkZXN0aW5hdGlvbjogQ2VsbAogICAgICAgICIiIgogICAgICAgIHNlbGYuZGVzdGluYXRpb24gPSBkZXN0aW5hdGlvbgo=</text>
+        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IGV4aXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBjcmVhdGVfYm9hcmQobnVtX2NlbGxzKToKICAgICAgICAiIiIKICAgICAgICBOYWl2ZSBCb2FyZCBjb25zdHJ1Y3RvcgogICAgICAgIAogICAgICAgIDpwYXJhbSBudW1fY2VsbHM6IGludAogICAgICAgIDpyZXR1cm46IEJvYXJkCiAgICAgICAgIiIiCiAgICAgICAgYm9hcmQgPSBCb2FyZCgpCiAgICAgICAgYm9hcmQubnVtX2NlbGxzID0gbnVtX2NlbGxzCiAgICAgICAgYm9hcmQuY3JlYXRlX2NlbGxzKCkKCiAgICAgICAgYm9hcmQuYWRkX2VsZW1zKCkKICAgICAgICByZXR1cm4gYm9hcmQKCg==</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF9ib2FyZChzZWxmKToKICAgICAgICAiIiIKICAgICAgICBEZXRlcm1pbmUgaWYgYm9hcmQgaXMgcGxheWFibGUKCiAgICAgICAgOnJldHVybjogYm9vbAogICAgICAgICIiIgogICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>num</last-search>
+      <last-search>destination</last-search>
       <last-offset />
-      <last-pattern>num</last-pattern>
+      <last-pattern>destination</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -429,7 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call</entry>
         <entry>hash</entry>
         <entry>bash</entry>
         <entry>CantTokenize</entry>
@@ -449,6 +449,7 @@
         <entry>trun_rec</entry>
         <entry>nuk</entry>
         <entry>num</entry>
+        <entry>destination</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
