@@ -51,8 +51,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/dev/test-pycharm-wsl/test.py" timestamp="1492131568903">
-        <mark key="'" line="7" column="0" />
+      <file name="/mnt/c/Users/ndrei/dev/test-pycharm-wsl/test.py" timestamp="1492537982263">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -251,10 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="65" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/player.py" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="16" column="42" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
       <jump line="99" column="8" filename="$USER_HOME$/dev/snakes_and_ladders/board.py" />
@@ -351,6 +347,10 @@
       <jump line="7" column="0" filename="$USER_HOME$/dev/test-idea/src/test.hs" />
       <jump line="74" column="0" filename="$USER_HOME$/dev/test-idea/src/test.hs" />
       <jump line="7" column="0" filename="/mnt/c/Users/ndrei/dev/test-pycharm-wsl/test.py" />
+      <jump line="5" column="0" filename="/mnt/c/Users/ndrei/dev/test-pycharm-wsl/test.py" />
+      <jump line="3" column="6" filename="/mnt/c/Users/ndrei/dev/test-pycharm-wsl/test.py" />
+      <jump line="0" column="0" filename="/mnt/c/Users/ndrei/dev/test-pycharm-wsl/test.py" />
+      <jump line="6" column="0" filename="/mnt/c/Users/ndrei/dev/test-pycharm-wsl/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
