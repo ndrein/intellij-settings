@@ -6,15 +6,27 @@
       <file name="/start_script.py" timestamp="1493057993025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Test.java" timestamp="1493059913009">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="13" />
+      <file name="$USER_HOME$/dev/snakes_and_ladders/cells.py" timestamp="1487802620631">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493070685250">
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/colors.json" timestamp="1486830608915">
+        <mark key="'" line="1" column="1" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="ide.general.xml" timestamp="1487695231911">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1492738595742">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1487797819030">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/DFA.java" timestamp="1493059160986">
         <mark key="'" line="3" column="0" />
@@ -23,12 +35,21 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" timestamp="1493070808419">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="26" />
+      <file name="/mnt/c/Users/ndrei/dev/test-pycharm-wsl/test.py" timestamp="1492537982263">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1487801351340">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/classes.py" timestamp="1487699617577">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="7" column="60" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Main.java" timestamp="1493059359424">
         <mark key="'" line="5" column="0" />
@@ -36,18 +57,40 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/MainClassTest.java" timestamp="1493070788784">
-        <mark key="'" line="12" column="5" />
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="44" />
-        <mark key="." line="10" column="44" />
-        <mark key="^" line="10" column="44" />
+      <file name="$USER_HOME$/dev/test-idea/src/Main.java" timestamp="1492126311730">
+        <mark key="'" line="6" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Tester.java" timestamp="1493060013773">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/dev/ls-colors/command.py" timestamp="1482262995488">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="24" column="75" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/colors.json" timestamp="1482262940300">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="103" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/.gitignore" timestamp="1485621914492">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="86" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/command.py" timestamp="1482346929897">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/test-idea/src/MainClass.java" timestamp="1493070951073">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/Test.java" timestamp="1493059246783">
         <mark key="[" line="0" column="0" />
@@ -55,18 +98,198 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Tests.java" timestamp="1493070767483">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="11" column="41" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="11" column="41" />
+      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1483069551003">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls.py" timestamp="1482177123967">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/ls" timestamp="1482360514711">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/player.py" timestamp="1487801853708">
+        <mark key="'" line="59" column="29" />
+        <mark key="[" line="69" column="75" />
+        <mark key="]" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+        <mark key="^" line="70" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/README.md" timestamp="1483069254250">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/dfa.py" timestamp="1493058579832">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1493070685272">
+      <file name="/Dummy.txt" timestamp="1487801908233">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/print_dircolors_code.py" timestamp="1486829807614">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/test-pycharm/test.py" timestamp="1484945952996">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Test.java" timestamp="1493059417039">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/elements.py" timestamp="1487698942334">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" timestamp="1482447527969">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="51" />
+        <mark key="^" line="54" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/die.py" timestamp="1487800677566">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="7" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" timestamp="1493059660662">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" timestamp="1487798947914">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="29" column="60" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" timestamp="1484963028621">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/README.md" timestamp="1482439030736">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="110" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" timestamp="1485622042843">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="5" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/main.py" timestamp="1487799912466">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1492738657827">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls" timestamp="1482274878637">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+      </file>
+      <file name="/" timestamp="1487791329757">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/extension_to_color.py" timestamp="1482262501696">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/bin/ls" timestamp="1486830776234">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/snl.py" timestamp="1487803349729">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/test-idea/src/test.hs" timestamp="1492126427081">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/game.py" timestamp="1487803920629">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="64" />
+        <mark key="." line="24" column="64" />
+        <mark key="^" line="24" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485628046727">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/test-pycharm/test.txt" timestamp="1484945945594">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -77,47 +300,97 @@
       <jump line="2" column="0" filename="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/DFA.java" />
       <jump line="5" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/Main.java" />
       <jump line="5" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/Test.java" />
+      <jump line="5" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
       <jump line="10" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
-      <jump line="11" column="4" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
-      <jump line="6" column="4" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
-      <jump line="5" column="5" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
-      <jump line="4" column="23" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
-      <jump line="15" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/Tests.java" />
-      <jump line="10" column="5" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClassTest.java" />
+      <jump line="11" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClass.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Test</text>
+      </register>
+      <register name="/" type="4">
+        <text>cell_to</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIk11c3QgZXF1YWwgMSIsIHRlc3Rlci5yZXR1cm5fb25lKCksIDEpOwo=</text>
+        <text encoding="base64">Y2xhc3MgRWxlbWVudChBQkMpOgo=</text>
+      </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="110" code="0" mods="0" />
+        </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIG5hbWUoKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="q" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0OwppbXBvcnQgc3RhdGljIG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5Bc3NlcnRpb25zLmFzc2VydEVxdWFsczsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">dHJ5OgogICAgZnJvbSBuZXR3b3JreCBpbXBvcnQgRGlHcmFwaCwgaGFzX3BhdGgKZXhjZXB0IEltcG9ydEVycm9yOgogICAgcHJpbnQoIkNhbid0IGltcG9ydCBuZXR3b3JreCIpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="w" type="4">
+        <text />
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSB0aGUgcGxheWVycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQK</text>
+        <text encoding="base64">Y2xhc3MgRWxlbWVudDoK</text>
       </register>
-      <register name="-" type="4">
-        <text>int</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50KCdVbmFibGUgdG8gdGVzdCBib2FyZHMuLi4nKQogICAgICAgICAgICBwcmludCgnVHJ5aW5nIHRvIHBsYXkgd2l0aCBjdXJyZW50IGJvYXJkJykK</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/board/self/gc</text>
       </register>
     </registers>
     <search>
@@ -125,20 +398,73 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>trun_rec</entry>
+        <entry>nuk</entry>
+        <entry>num</entry>
+        <entry>destination</entry>
+        <entry>Die</entry>
+        <entry>ri</entry>
+        <entry>next</entry>
+        <entry>position</entry>
+        <entry>path</entry>
+        <entry>tr</entry>
+        <entry>board</entry>
+        <entry>_test</entry>
+        <entry encoding="base64">XDxVbmFibGVcPg==</entry>
+        <entry encoding="base64">XDxudW1fY2VsbHNcPg==</entry>
+        <entry encoding="base64">XDxGb3VuZFw+</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxTdGVwXD4=</entry>
+        <entry>ff</entry>
+        <entry>_cell</entry>
+        <entry>cell_to</entry>
+      </history-search>
+      <history-cmd>
+        <entry>29</entry>
+        <entry>%s/&quot;/'/gc</entry>
+        <entry>%s/board/self/gc</entry>
+        <entry>tabe snl</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
