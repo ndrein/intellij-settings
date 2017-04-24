@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1493057993025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Test.java" timestamp="1493059417039">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="13" />
+      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Test.java" timestamp="1493059913009">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/DFA.java" timestamp="1493059160986">
         <mark key="'" line="3" column="0" />
@@ -26,12 +26,12 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" timestamp="1493059660662">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" timestamp="1493060062742">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Main.java" timestamp="1493059359424">
         <mark key="'" line="5" column="0" />
@@ -39,8 +39,24 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Tests.java" timestamp="1493060242809">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+      </file>
       <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/dfa.py" timestamp="1493058579832">
         <mark key="'" line="18" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1493060342515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Tester.java" timestamp="1493060013773">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="11" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -51,22 +67,43 @@
       <jump line="2" column="0" filename="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/DFA.java" />
       <jump line="5" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/Main.java" />
       <jump line="5" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/Test.java" />
-      <jump line="5" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
       <jump line="10" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
-      <jump line="11" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
+      <jump line="11" column="4" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
+      <jump line="6" column="4" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
+      <jump line="5" column="5" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
+      <jump line="4" column="23" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
+      <jump line="15" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/Tests.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIk11c3QgZXF1YWwgMSIsIHRlc3Rlci5yZXR1cm5fb25lKCksIDEpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0OwppbXBvcnQgc3RhdGljIG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5Bc3NlcnRpb25zLmFzc2VydEVxdWFsczsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQK</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
