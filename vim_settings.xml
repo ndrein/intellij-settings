@@ -182,8 +182,8 @@
         <mark key="^" line="1" column="103" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/test-idea/src/MainClass.java" timestamp="1493131479212">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/dev/test-idea/src/MainClass.java" timestamp="1493135927288">
+        <mark key="'" line="8" column="0" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -310,9 +310,10 @@
       <jump line="10" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
       <jump line="11" column="0" filename="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClass.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClass.java" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClassTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClassTest.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClass.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClass.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
