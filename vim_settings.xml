@@ -86,11 +86,11 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/test-idea/src/MainClass.java" timestamp="1493070951073">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/test-idea/src/MainClass.java" timestamp="1493084738761">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/Test.java" timestamp="1493059246783">
         <mark key="[" line="0" column="0" />
@@ -307,7 +307,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
       <register name="-" type="4">
         <text>Test</text>
@@ -345,7 +345,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -366,28 +366,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHJ5OgogICAgZnJvbSBuZXR3b3JreCBpbXBvcnQgRGlHcmFwaCwgaGFzX3BhdGgKZXhjZXB0IEltcG9ydEVycm9yOgogICAgcHJpbnQoIkNhbid0IGltcG9ydCBuZXR3b3JreCIpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJ5OgogICAgZnJvbSBuZXR3b3JreCBpbXBvcnQgRGlHcmFwaCwgaGFzX3BhdGgKZXhjZXB0IEltcG9ydEVycm9yOgogICAgcHJpbnQoIkNhbid0IGltcG9ydCBuZXR3b3JreCIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSB0aGUgcGxheWVycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgRWxlbWVudDoK</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSB0aGUgcGxheWVycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50KCdVbmFibGUgdG8gdGVzdCBib2FyZHMuLi4nKQogICAgICAgICAgICBwcmludCgnVHJ5aW5nIHRvIHBsYXkgd2l0aCBjdXJyZW50IGJvYXJkJykK</text>
+        <text encoding="base64">Y2xhc3MgRWxlbWVudDoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/board/self/gc</text>
