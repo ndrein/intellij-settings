@@ -89,6 +89,9 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/syntax/dfa/dfa.py" timestamp="1493328147864">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" timestamp="1482447527969">
         <mark key="'" line="44" column="4" />
         <mark key="[" line="53" column="7" />
@@ -134,6 +137,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="63" />
       </file>
+      <file name="$USER_HOME$/dev/test-idea/src/main/MainClass.java" timestamp="1493327389660">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/test-idea/src/test.hs" timestamp="1492126427081">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="0" column="0" />
@@ -147,6 +153,19 @@
         <mark key="]" line="24" column="64" />
         <mark key="." line="24" column="64" />
         <mark key="^" line="24" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" timestamp="1493329493668">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/syntax/scanning/scanner.py" timestamp="1493328232688">
+        <mark key="'" line="79" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="ide.general.xml" timestamp="1487695231911">
         <mark key="[" line="0" column="0" />
@@ -183,10 +202,10 @@
         <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/dev/test-idea/src/MainClass.java" timestamp="1493156915850">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/Test.java" timestamp="1493059246783">
         <mark key="[" line="0" column="0" />
@@ -207,7 +226,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487801908233">
+      <file name="/Dummy.txt" timestamp="1493329223883">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -232,7 +251,6 @@
         <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/dev/test-idea/src/MainClassTest.java" timestamp="1493131504023">
-        <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -271,6 +289,12 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/test-idea/src/tests/MainClassTest.java" timestamp="1493328322559">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ls-colors/bin/ls" timestamp="1486830776234">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -290,6 +314,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1493329223906">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/test-pycharm/test.txt" timestamp="1484945945594">
         <mark key="[" line="0" column="0" />
@@ -316,10 +343,18 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClass.java" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClass.java" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/test-idea/src/MainClass.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/test-idea/src/main/MainClass.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/syntax/syntax/dfa/dfa.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/syntax/syntax/scanning/scanner.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/syntax/syntax/scanning/scanner.py" />
+      <jump line="10" column="20" filename="$USER_HOME$/dev/test-idea/src/tests/MainClassTest.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/test-idea/src/tests/MainClassTest.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkbyBub3RoaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Test</text>
@@ -357,7 +392,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkbyBub3RoaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -375,19 +410,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnMK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkbyBub3RoaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -396,10 +431,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/board/self/gc</text>
