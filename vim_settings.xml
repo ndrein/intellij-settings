@@ -167,12 +167,12 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" timestamp="1493329493668">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="5" column="48" />
-        <mark key="." line="5" column="48" />
-        <mark key="^" line="5" column="48" />
+      <file name="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" timestamp="1493332666996">
+        <mark key="'" line="3" column="26" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/syntax/syntax/scanning/scanner.py" timestamp="1493328232688">
         <mark key="'" line="79" column="0" />
@@ -239,7 +239,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493330614738">
+      <file name="/Dummy.txt" timestamp="1493332866021">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -263,11 +263,12 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/HelloWorldTest.java" timestamp="1493331631287">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/HelloWorldTest.java" timestamp="1493332679916">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/dev/test-idea/src/MainClassTest.java" timestamp="1493131504023">
         <mark key="[" line="14" column="0" />
@@ -334,7 +335,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1493331443856">
+      <file name="/fragment.java" timestamp="1493332819827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -376,16 +377,19 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/HelloWorld.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/HelloWorldTest.java" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/HelloWorld.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" />
+      <jump line="3" column="26" filename="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/dev/syntax/src/test/java/HelloWorldTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>HelloWorld</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>HelloWorld</text>
       </register>
       <register name="/" type="4">
-        <text>cell_to</text>
+        <text>fun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgRWxlbWVudChBQkMpOgo=</text>
@@ -435,43 +439,45 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGZ1bigpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBIZWxsb1dvcmxkIGhlbGxvID0gbmV3IEhlbGxvV29ybGQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5CZWZvcmVBbGw7Cg==</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHZvaWQgc2V0VXAoKSB7CgogICAgICAgIE1haW5DbGFzcyB0ZXN0ZXIgPSBuZXcgTWFpbkNsYXNzKCJzdHIiKTsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLnhtbC5pbnRlcm5hbC53cy5kdW1wLkxvZ2dpbmdEdW1wVHViZS5Qb3NpdGlvbi5CZWZvcmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/board/self/gc</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>fun</last-search>
+      <last-offset />
+      <last-pattern>fun</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>trun_rec</entry>
         <entry>nuk</entry>
         <entry>num</entry>
         <entry>destination</entry>
@@ -491,6 +497,7 @@
         <entry>ff</entry>
         <entry>_cell</entry>
         <entry>cell_to</entry>
+        <entry>fun</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
