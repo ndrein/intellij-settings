@@ -59,11 +59,12 @@
         <mark key="." line="70" column="11" />
         <mark key="^" line="70" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493417756449">
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="65" />
-        <mark key="." line="18" column="65" />
-        <mark key="^" line="18" column="65" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493420173625">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
         <mark key="'" line="31" column="0" />
@@ -230,7 +231,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493332866021">
+      <file name="/Dummy.txt" timestamp="1493420146287">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -287,11 +288,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493418352038">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="51" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493419531837">
+        <mark key="[" line="17" column="89" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" timestamp="1485622042843">
         <mark key="'" line="79" column="0" />
@@ -379,18 +380,21 @@
       <jump line="17" column="4" filename="$USER_HOME$/dev/syntax/src/test/java/HelloWorldTest.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
-      <jump line="19" column="20" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="21" column="35" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
+      <jump line="18" column="48" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
+      <jump line="19" column="9" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
+      <jump line="6" column="4" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgQFRlc3QK</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>Character</text>
       </register>
       <register name="/" type="4">
-        <text>fun</text>
+        <text>In</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBIYXNoU2V0PFN0cmluZz4gcyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKTsK</text>
@@ -422,7 +426,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgQFRlc3QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -440,46 +444,45 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNC0yNy4KICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHsKICAgICAgICB9KTs=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXYK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFzaFNldDxPYmplY3Q+IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBERkEoSGFzaCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRhYmxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/board/self/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>fun</last-search>
+      <last-search>In</last-search>
       <last-offset />
-      <last-pattern>fun</last-pattern>
+      <last-pattern>In</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nuk</entry>
         <entry>num</entry>
         <entry>destination</entry>
         <entry>Die</entry>
@@ -499,6 +502,7 @@
         <entry>_cell</entry>
         <entry>cell_to</entry>
         <entry>fun</entry>
+        <entry>In</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
