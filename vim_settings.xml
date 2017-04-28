@@ -59,8 +59,8 @@
         <mark key="." line="70" column="11" />
         <mark key="^" line="70" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493420173625">
-        <mark key="'" line="6" column="4" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493420290815">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="20" column="8" />
@@ -379,12 +379,12 @@
       <jump line="3" column="26" filename="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" />
       <jump line="17" column="4" filename="$USER_HOME$/dev/syntax/src/test/java/HelloWorldTest.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="21" column="35" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="18" column="48" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="19" column="9" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="6" column="4" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
