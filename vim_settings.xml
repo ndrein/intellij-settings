@@ -62,12 +62,12 @@
         <mark key="." line="70" column="11" />
         <mark key="^" line="70" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493661949445">
+      <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493667785473">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="24" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
         <mark key="'" line="31" column="0" />
@@ -188,6 +188,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" timestamp="1493667853286">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1487797819030">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="22" />
@@ -198,12 +204,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" timestamp="1493665518722">
-        <mark key="'" line="27" column="7" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" timestamp="1493667129399">
+        <mark key="'" line="26" column="10" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="34" column="18" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Main.java" timestamp="1493059359424">
         <mark key="'" line="5" column="0" />
@@ -444,13 +450,14 @@
       <jump line="58" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="27" column="7" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="26" column="10" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEhhc2hTZXQ8Q2hhcmFjdGVyPiBhbHBoYWJldCA9IG1ha2VDb21wbGV4QWxwaGFiZXQoKTsKICAgIEhhc2hTZXQ8SW50ZWdlcj4gc3RhdGVzID0gbWFrZUNvbXBsZXhTdGF0ZXMoKTsKICAgIEludGVnZXIgc3RhcnRfc3RhdGUgPSAwOwogICAgSGFzaFNldDxJbnRlZ2VyPiBhY2NlcHRfc3RhdGVzID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KDAsIDIpKTsKICAgIEhhc2hCYXNlZFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gdHJhbnNpdGlvbnMgPSBtYWtlQ29tcGxleFRyYW5zaXRpb25zKCk7CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>SimpleDFAGenerator</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>im</text>
@@ -485,7 +492,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEhhc2hTZXQ8Q2hhcmFjdGVyPiBhbHBoYWJldCA9IG1ha2VDb21wbGV4QWxwaGFiZXQoKTsKICAgIEhhc2hTZXQ8SW50ZWdlcj4gc3RhdGVzID0gbWFrZUNvbXBsZXhTdGF0ZXMoKTsKICAgIEludGVnZXIgc3RhcnRfc3RhdGUgPSAwOwogICAgSGFzaFNldDxJbnRlZ2VyPiBhY2NlcHRfc3RhdGVzID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KDAsIDIpKTsKICAgIEhhc2hCYXNlZFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gdHJhbnNpdGlvbnMgPSBtYWtlQ29tcGxleFRyYW5zaXRpb25zKCk7CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -503,31 +510,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXRydW4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2ltcGxlREZBKEhhc2hTZXQ8Q2hhcmFjdGVyPikgeyBzdXBlcihhbHBoYWJldCwgc3RhdGVzLCBzdGFydF9zdGF0ZSwgYWNjZXB0X3N0YXRlcywgdHJhbnNpdGlvbnMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYWxwaGFiZXQgCg==</text>
+        <text encoding="base64">Ly9jbGFzcyBTaW1wbGVERkFHZW5lcmF0b3IgaW1wbGVtZW50cyBERkFHZW5lcmF0b3Igewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEhhc2hTZXQ8Q2hhcmFjdGVyPiBhbHBoYWJldCA9IG1ha2VDb21wbGV4QWxwaGFiZXQoKTsKICAgIEhhc2hTZXQ8SW50ZWdlcj4gc3RhdGVzID0gbWFrZUNvbXBsZXhTdGF0ZXMoKTsKICAgIEludGVnZXIgc3RhcnRfc3RhdGUgPSAwOwogICAgSGFzaFNldDxJbnRlZ2VyPiBhY2NlcHRfc3RhdGVzID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KDAsIDIpKTsKICAgIEhhc2hCYXNlZFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gdHJhbnNpdGlvbnMgPSBtYWtlQ29tcGxleFRyYW5zaXRpb25zKCk7CiAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVHJpdmlhbERGQUdlbmVyYXRvciBpbXBsZW1lbnRzIERGQUdlbmVyYXRvciB7CiAgICBwdWJsaWMgREZBIGdlbmVyYXRlKCkgewogICAgICAgIHJldHVybiBuZXcgREZBKG5ldyBIYXNoU2V0PD4oKSwgbmV3IEhhc2hTZXQ8PihDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDEpKSwKICAgICAgICAgICAgICAgIDEsIG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgpKSwgSGFzaEJhc2VkVGFibGUuY3JlYXRlKCkpOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2ltcGxlREZBKEhhc2hTZXQ8Q2hhcmFjdGVyPikgeyBzdXBlcihhbHBoYWJldCwgc3RhdGVzLCBzdGFydF9zdGF0ZSwgYWNjZXB0X3N0YXRlcywgdHJhbnNpdGlvbnMpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihhbHBoYWJldCwgc3RhdGVzLCBzdGFydF9zdGF0ZSwgYWNjZXB0X3N0YXRlcywgdHJhbnNpdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/board/self/gc</text>
