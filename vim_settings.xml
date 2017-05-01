@@ -314,8 +314,8 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493670004104">
-        <mark key="'" line="23" column="4" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493678826265">
+        <mark key="'" line="8" column="2" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="17" column="110" />
@@ -471,6 +471,7 @@
       <jump line="14" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
       <jump line="0" column="4" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
+      <jump line="8" column="2" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
