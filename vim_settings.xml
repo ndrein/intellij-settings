@@ -198,12 +198,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" timestamp="1493662328134">
+      <file name="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" timestamp="1493664590556">
         <mark key="'" line="27" column="7" />
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="38" />
-        <mark key="." line="28" column="38" />
-        <mark key="^" line="28" column="38" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Main.java" timestamp="1493059359424">
         <mark key="'" line="5" column="0" />
@@ -447,7 +443,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBIYXNoU2V0PENoYXJhY3Rlcj4gYWxwaGFiZXQgPSBtYWtlQ29tcGxleEFscGhhYmV0KCk7CiAgICAgICAgSGFzaFNldDxJbnRlZ2VyPiBzdGF0ZXMgPSBtYWtlQ29tcGxleFN0YXRlcygpOwogICAgICAgIEludGVnZXIgc3RhcnRfc3RhdGUgPSAwOwogICAgICAgIEhhc2hTZXQ8SW50ZWdlcj4gYWNjZXB0X3N0YXRlcyA9IG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgwLCAyKSk7CiAgICAgICAgSGFzaEJhc2VkVGFibGU8SW50ZWdlciwgQ2hhcmFjdGVyLCBJbnRlZ2VyPiB0cmFuc2l0aW9ucyA9IG1ha2VDb21wbGV4VHJhbnNpdGlvbnMoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>SimpleDFAGenerator</text>
@@ -485,7 +481,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYWxwaGFiZXQgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -503,31 +499,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgVHJpdmlhbERGQUdlbmVyYXRvciBpbXBsZW1lbnRzIERGQUdlbmVyYXRvciB7CiAgICBwdWJsaWMgREZBIGdlbmVyYXRlKCkgewogICAgICAgIHJldHVybiBuZXcgREZBKG5ldyBIYXNoU2V0PD4oKSwgbmV3IEhhc2hTZXQ8PihDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDEpKSwKICAgICAgICAgICAgICAgIDEsIG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgpKSwgSGFzaEJhc2VkVGFibGUuY3JlYXRlKCkpOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihhbHBoYWJldCwgc3RhdGVzLCBzdGFydF9zdGF0ZSwgYWNjZXB0X3N0YXRlcywgdHJhbnNpdGlvbnMpOwo=</text>
+        <text encoding="base64">Y2xhc3MgVHJpdmlhbERGQUdlbmVyYXRvciBpbXBsZW1lbnRzIERGQUdlbmVyYXRvciB7CiAgICBwdWJsaWMgREZBIGdlbmVyYXRlKCkgewogICAgICAgIHJldHVybiBuZXcgREZBKG5ldyBIYXNoU2V0PD4oKSwgbmV3IEhhc2hTZXQ8PihDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDEpKSwKICAgICAgICAgICAgICAgIDEsIG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgpKSwgSGFzaEJhc2VkVGFibGUuY3JlYXRlKCkpOwogICAgfQp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihhbHBoYWJldCwgc3RhdGVzLCBzdGFydF9zdGF0ZSwgYWNjZXB0X3N0YXRlcywgdHJhbnNpdGlvbnMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaW1wbGVBY2NlcHRzTm90aGluZygpIHsKICAgICAgICBkZmEgPSBuZXcgU2ltcGxlREZBR2VuZXJhdG9yKCkuCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaW1wbGVBY2NlcHRzTm90aGluZygpIHsKICAgICAgICBkZmEgPSBuZXcgU2ltcGxlREZBR2VuZXJhdG9yKCkuCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cn0K</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY29tCg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/board/self/gc</text>
