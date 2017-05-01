@@ -62,12 +62,12 @@
         <mark key="." line="70" column="11" />
         <mark key="^" line="70" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493658719947">
-        <mark key="'" line="7" column="1" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="38" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493661949445">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
         <mark key="'" line="31" column="0" />
@@ -198,12 +198,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" timestamp="1493658952215">
-        <mark key="'" line="24" column="31" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="19" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" timestamp="1493662328134">
+        <mark key="'" line="27" column="7" />
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="28" column="38" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Main.java" timestamp="1493059359424">
         <mark key="'" line="5" column="0" />
@@ -248,7 +248,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493425248983">
+      <file name="/Dummy.txt" timestamp="1493661835443">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -305,12 +305,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493424987511">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493661829420">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" timestamp="1485622042843">
         <mark key="'" line="79" column="0" />
@@ -431,23 +431,32 @@
       <jump line="54" column="3" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
-      <jump line="58" column="31" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="25" column="11" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="35" column="12" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="43" column="12" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
+      <jump line="27" column="7" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>SimpleDFAGenerator</text>
       </register>
       <register name="/" type="4">
-        <text>Basic</text>
+        <text>im</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEhhc2hCYXNlZFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gbWFrZUNvbXBsZXhUcmFuc2l0aW9ucygpIHsKICAgICAgICBIYXNoQmFzZWRUYWJsZTxJbnRlZ2VyLCBDaGFyYWN0ZXIsIEludGVnZXI+IHRyYW5zaXRpb25zID0gSGFzaEJhc2VkVGFibGUuY3JlYXRlKCk7CiAgICAgICAgdHJhbnNpdGlvbnMucHV0KDAsICdhJywgMSk7CiAgICAgICAgdHJhbnNpdGlvbnMucHV0KDEsICdjJywgMCk7CiAgICAgICAgdHJhbnNpdGlvbnMucHV0KDIsICdiJywgMik7CiAgICAgICAgcmV0dXJuIHRyYW5zaXRpb25zOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIEhhc2hTZXQ8SW50ZWdlcj4gbWFrZUNvbXBsZXhTdGF0ZXMoKSB7CiAgICAgICAgSGFzaFNldDxJbnRlZ2VyPiBzdGF0ZXMgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgc3RhdGVzLmFkZCgwKTsKICAgICAgICBzdGF0ZXMuYWRkKDEpOwogICAgICAgIHN0YXRlcy5hZGQoMik7CiAgICAgICAgcmV0dXJuIHN0YXRlczsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBIYXNoU2V0PENoYXJhY3Rlcj4gbWFrZUNvbXBsZXhBbHBoYWJldCgpIHsKICAgICAgICBIYXNoU2V0PENoYXJhY3Rlcj4gYWxwaGFiZXQgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgYWxwaGFiZXQuYWRkKCdhJyk7CiAgICAgICAgYWxwaGFiZXQuYWRkKCdiJyk7CiAgICAgICAgYWxwaGFiZXQuYWRkKCdjJyk7CiAgICAgICAgcmV0dXJuIGFscGhhYmV0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBIYXNoU2V0PENoYXJhY3Rlcj4gYWxwaGFiZXQgPSBtYWtlQ29tcGxleEFscGhhYmV0KCk7CiAgICAgICAgSGFzaFNldDxJbnRlZ2VyPiBzdGF0ZXMgPSBtYWtlQ29tcGxleFN0YXRlcygpOwogICAgICAgIEludGVnZXIgc3RhcnRfc3RhdGUgPSAwOwogICAgICAgIEhhc2hTZXQ8SW50ZWdlcj4gYWNjZXB0X3N0YXRlcyA9IG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgwLCAyKSk7CiAgICAgICAgSGFzaEJhc2VkVGFibGU8SW50ZWdlciwgQ2hhcmFjdGVyLCBJbnRlZ2VyPiB0cmFuc2l0aW9ucyA9IG1ha2VDb21wbGV4VHJhbnNpdGlvbnMoKTsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -476,7 +485,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -494,48 +503,45 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgREZBIHNpbXBsZSgpIHsKICAgICAgICBIYXNoU2V0PENoYXJhY3Rlcj4gYWxwaGFiZXQgPSBtYWtlQ29tcGxleEFscGhhYmV0KCk7CiAgICAgICAgSGFzaFNldDxJbnRlZ2VyPiBzdGF0ZXMgPSBtYWtlQ29tcGxleFN0YXRlcygpOwogICAgICAgIEludGVnZXIgc3RhcnRfc3RhdGUgPSAwOwogICAgICAgIEhhc2hTZXQ8SW50ZWdlcj4gYWNjZXB0X3N0YXRlcyA9IG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgwLCAyKSk7CiAgICAgICAgSGFzaEJhc2VkVGFibGU8SW50ZWdlciwgQ2hhcmFjdGVyLCBJbnRlZ2VyPiB0cmFuc2l0aW9ucyA9IG1ha2VDb21wbGV4VHJhbnNpdGlvbnMoKTsKCiAgICAgICAgcmV0dXJuIG5ldyBERkEoYWxwaGFiZXQsIHN0YXRlcywgc3RhcnRfc3RhdGUsIGFjY2VwdF9zdGF0ZXMsIHRyYW5zaXRpb25zKTsKICAgIH0KICAgIHByaXZhdGUgc3RhdGljIEhhc2hCYXNlZFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gbWFrZUNvbXBsZXhUcmFuc2l0aW9ucygpIHsKICAgICAgICBIYXNoQmFzZWRUYWJsZTxJbnRlZ2VyLCBDaGFyYWN0ZXIsIEludGVnZXI+IHRyYW5zaXRpb25zID0gSGFzaEJhc2VkVGFibGUuY3JlYXRlKCk7CiAgICAgICAgdHJhbnNpdGlvbnMucHV0KDAsICdhJywgMSk7CiAgICAgICAgdHJhbnNpdGlvbnMucHV0KDEsICdjJywgMCk7CiAgICAgICAgdHJhbnNpdGlvbnMucHV0KDIsICdiJywgMik7CiAgICAgICAgcmV0dXJuIHRyYW5zaXRpb25zOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIEhhc2hTZXQ8SW50ZWdlcj4gbWFrZUNvbXBsZXhTdGF0ZXMoKSB7CiAgICAgICAgSGFzaFNldDxJbnRlZ2VyPiBzdGF0ZXMgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgc3RhdGVzLmFkZCgwKTsKICAgICAgICBzdGF0ZXMuYWRkKDEpOwogICAgICAgIHN0YXRlcy5hZGQoMik7CiAgICAgICAgcmV0dXJuIHN0YXRlczsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBIYXNoU2V0PENoYXJhY3Rlcj4gbWFrZUNvbXBsZXhBbHBoYWJldCgpIHsKICAgICAgICBIYXNoU2V0PENoYXJhY3Rlcj4gYWxwaGFiZXQgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgYWxwaGFiZXQuYWRkKCdhJyk7CiAgICAgICAgYWxwaGFiZXQuYWRkKCdiJyk7CiAgICAgICAgYWxwaGFiZXQuYWRkKCdjJyk7CiAgICAgICAgcmV0dXJuIGFscGhhYmV0OwogICAgfQogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVHJpdmlhbERGQUdlbmVyYXRvciBpbXBsZW1lbnRzIERGQUdlbmVyYXRvciB7CiAgICBwdWJsaWMgREZBIGdlbmVyYXRlKCkgewogICAgICAgIHJldHVybiBuZXcgREZBKG5ldyBIYXNoU2V0PD4oKSwgbmV3IEhhc2hTZXQ8PihDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDEpKSwKICAgICAgICAgICAgICAgIDEsIG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgpKSwgSGFzaEJhc2VkVGFibGUuY3JlYXRlKCkpOwogICAgfQp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgREZBIHRyaXZpYWwoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBERkEobmV3IEhhc2hTZXQ8PigpLCBuZXcgSGFzaFNldDw+KENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoMSkpLAogICAgICAgICAgICAgICAgMSwgbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KCkpLCBIYXNoQmFzZWRUYWJsZS5jcmVhdGUoKSk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBERkEgc2ltcGxlKCkgewogICAgICAgIEhhc2hTZXQ8Q2hhcmFjdGVyPiBhbHBoYWJldCA9IG1ha2VDb21wbGV4QWxwaGFiZXQoKTsKICAgICAgICBIYXNoU2V0PEludGVnZXI+IHN0YXRlcyA9IG1ha2VDb21wbGV4U3RhdGVzKCk7CiAgICAgICAgSW50ZWdlciBzdGFydF9zdGF0ZSA9IDA7CiAgICAgICAgSGFzaFNldDxJbnRlZ2VyPiBhY2NlcHRfc3RhdGVzID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KDAsIDIpKTsKICAgICAgICBIYXNoQmFzZWRUYWJsZTxJbnRlZ2VyLCBDaGFyYWN0ZXIsIEludGVnZXI+IHRyYW5zaXRpb25zID0gbWFrZUNvbXBsZXhUcmFuc2l0aW9ucygpOwoKICAgICAgICByZXR1cm4gbmV3IERGQShhbHBoYWJldCwgc3RhdGVzLCBzdGFydF9zdGF0ZSwgYWNjZXB0X3N0YXRlcywgdHJhbnNpdGlvbnMpOwogICAgfQogICAgcHJpdmF0ZSBzdGF0aWMgSGFzaEJhc2VkVGFibGU8SW50ZWdlciwgQ2hhcmFjdGVyLCBJbnRlZ2VyPiBtYWtlQ29tcGxleFRyYW5zaXRpb25zKCkgewogICAgICAgIEhhc2hCYXNlZFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gdHJhbnNpdGlvbnMgPSBIYXNoQmFzZWRUYWJsZS5jcmVhdGUoKTsKICAgICAgICB0cmFuc2l0aW9ucy5wdXQoMCwgJ2EnLCAxKTsKICAgICAgICB0cmFuc2l0aW9ucy5wdXQoMSwgJ2MnLCAwKTsKICAgICAgICB0cmFuc2l0aW9ucy5wdXQoMiwgJ2InLCAyKTsKICAgICAgICByZXR1cm4gdHJhbnNpdGlvbnM7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgSGFzaFNldDxJbnRlZ2VyPiBtYWtlQ29tcGxleFN0YXRlcygpIHsKICAgICAgICBIYXNoU2V0PEludGVnZXI+IHN0YXRlcyA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICBzdGF0ZXMuYWRkKDApOwogICAgICAgIHN0YXRlcy5hZGQoMSk7CiAgICAgICAgc3RhdGVzLmFkZCgyKTsKICAgICAgICByZXR1cm4gc3RhdGVzOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIEhhc2hTZXQ8Q2hhcmFjdGVyPiBtYWtlQ29tcGxleEFscGhhYmV0KCkgewogICAgICAgIEhhc2hTZXQ8Q2hhcmFjdGVyPiBhbHBoYWJldCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICBhbHBoYWJldC5hZGQoJ2EnKTsKICAgICAgICBhbHBoYWJldC5hZGQoJ2InKTsKICAgICAgICBhbHBoYWJldC5hZGQoJ2MnKTsKICAgICAgICByZXR1cm4gYWxwaGFiZXQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihhbHBoYWJldCwgc3RhdGVzLCBzdGFydF9zdGF0ZSwgYWNjZXB0X3N0YXRlcywgdHJhbnNpdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVHJpdmlhbERGQSBpbXBsZW1lbnRzIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgREZBIHRlc3QoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaW1wbGVBY2NlcHRzTm90aGluZygpIHsKICAgICAgICBkZmEgPSBuZXcgU2ltcGxlREZBR2VuZXJhdG9yKCkuCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBOb3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgREZBIHRlc3QoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgY29tCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/board/self/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>Basic</last-search>
+      <last-search>im</last-search>
       <last-offset />
-      <last-pattern>Basic</last-pattern>
+      <last-pattern>im</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Die</entry>
-        <entry>ri</entry>
-        <entry>next</entry>
         <entry>position</entry>
         <entry>path</entry>
         <entry>tr</entry>
@@ -553,6 +559,9 @@
         <entry>In</entry>
         <entry>List</entry>
         <entry>Basic</entry>
+        <entry>ex</entry>
+        <entry>static</entry>
+        <entry>im</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
