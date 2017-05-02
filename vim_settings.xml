@@ -165,12 +165,12 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493758303916">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="32" column="70" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493759699562">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/AcceptStatesNotInStatesException.java" timestamp="1493757224097">
         <mark key="[" line="5" column="87" />
@@ -241,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
@@ -341,13 +340,14 @@
       <jump line="41" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="5" column="26" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>throws</text>
