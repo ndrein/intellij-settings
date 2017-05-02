@@ -320,12 +320,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493740132174">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493742137054">
+        <mark key="'" line="25" column="12" />
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="41" />
         <mark key="^" line="26" column="12" />
-        <mark key="." line="26" column="0" />
+        <mark key="." line="25" column="41" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/lib/syntax/tests/test_cfg.py" timestamp="1485622042843">
         <mark key="'" line="79" column="0" />
@@ -443,7 +443,6 @@
       <jump line="35" column="12" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="43" column="12" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
@@ -499,16 +498,17 @@
       <jump line="2" column="7" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
       <jump line="3" column="13" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
       <jump line="28" column="21" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
+      <jump line="25" column="12" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Tm90SW5BbHBoYWJldEV4Y2VwdGlvbiA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Tm90SW5BbHBoYWJldEV4Y2VwdGlvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>IN</text>
+        <text>thr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGFjY2VwdHMoU3RyaW5nIGlucHV0KSB0aHJvd3MgTm90SW5BbHBoYWJldEV4Y2VwdGlvbiB7Cg==</text>
@@ -589,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>IN</last-search>
+      <last-search>thr</last-search>
       <last-offset />
-      <last-pattern>IN</last-pattern>
+      <last-pattern>thr</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>protected</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGb3VuZFw+</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxTdGVwXD4=</entry>
         <entry>ff</entry>
@@ -619,6 +618,7 @@
         <entry>Test</entry>
         <entry>org</entry>
         <entry>IN</entry>
+        <entry>thr</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
