@@ -22,7 +22,7 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1493756835442">
+      <file name="/a.dummy" timestamp="1493763675005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/classes.py" timestamp="1487699617577">
@@ -145,11 +145,10 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" timestamp="1493761984687">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" timestamp="1493765752483">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/main.py" timestamp="1487799912466">
         <mark key="'" line="14" column="0" />
@@ -217,11 +216,11 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" timestamp="1493755739214">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" timestamp="1493765469872">
+        <mark key="'" line="5" column="59" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1487797819030">
         <mark key="[" line="0" column="0" />
@@ -317,7 +316,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493762349124">
+      <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidDFAInput.java" timestamp="1493763706057">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493764443787">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -381,12 +386,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493762541510">
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493765726385">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="27" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/AcceptStatesNotInStatesException.java" timestamp="1493757224097">
         <mark key="[" line="5" column="87" />
@@ -424,6 +429,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/CharNotInAlphabet.java" timestamp="1493763659142">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/bin/ls" timestamp="1486830776234">
         <mark key="[" line="7" column="0" />
@@ -468,7 +479,7 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1493756853549">
+      <file name="/fragment.java" timestamp="1493764443771">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -553,7 +564,6 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
       <jump line="2" column="7" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="3" column="13" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
       <jump line="28" column="21" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
       <jump line="25" column="12" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/BadStartStateFactory.java" />
@@ -589,19 +599,20 @@
       <jump line="71" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
       <jump line="25" column="18" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
+      <jump line="3" column="59" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>specificic</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>void</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB2YWxpZGF0ZUNvbnN0cnVjdGlvbigpIHsKICAgICAgICBjaGVja1N0YXJ0U3RhdGUoKTsKICAgICAgICBjaGVja0FjY2VwdFN0YXRlcygpOwogICAgICAgIGNoZWNrVHJhbnNpdGlvbnMoKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgY2hlY2tTdGFydFN0YXRlKCkgewogICAgICAgIGlmICghc3RhdGVzLmNvbnRhaW5zKHN0YXJ0X3N0YXRlKSkKICAgICAgICAgICAgdGhyb3cgbmV3IFN0YXJ0U3RhdGVOb3RJblN0YXRlc0V4Y2VwdGlvbigpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBjaGVja0FjY2VwdFN0YXRlcygpIHsKICAgICAgICBpZiAoIXN0YXRlcy5jb250YWluc0FsbChhY2NlcHRfc3RhdGVzKSkKICAgICAgICAgICAgdGhyb3cgbmV3IEFjY2VwdFN0YXRlc05vdENvbnRhaW5lZEluU3RhdGVzRXhjZXB0aW9uKCJBY2NlcHQgc3RhdGVzIG5vdCBjb250YWluZWQgaW4gc3RhdGUgc2V0Iik7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGNoZWNrVHJhbnNpdGlvbnMoKSB7CiAgICAgICAgZm9yIChJbnRlZ2VyIHEgOiBzdGF0ZXMpIHsKICAgICAgICAgICAgZm9yIChDaGFyYWN0ZXIgYyA6IGFscGhhYmV0KSB7CiAgICAgICAgICAgICAgICBjaGVja1RyYW5zaXRpb24ocSwgYyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGNoZWNrVHJhbnNpdGlvbihJbnRlZ2VyIHEsIENoYXJhY3RlciBjKSB7CiAgICAgICAgY2hlY2tUcmFuc2l0aW9uRGVmaW5lZChxLCBjKTsKICAgICAgICBjaGVja1RyYW5zaXRpb25WYWxpZChxLCBjKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgY2hlY2tUcmFuc2l0aW9uRGVmaW5lZChJbnRlZ2VyIHEsIENoYXJhY3RlciBjKSB7CiAgICAgICAgaWYgKCF0cmFuc2l0aW9ucy5jb250YWlucyhxLCBjKSkKICAgICAgICAgICAgdGhyb3cgbmV3IEluY29tcGxldGVUcmFuc2l0aW9uc0V4Y2VwdGlvbihTdHJpbmcuZm9ybWF0KCJObyB0cmFuc2l0aW9uIGRlZmluZWQgZm9yICVkIHggJXMiLCBxLCBjKSk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGNoZWNrVHJhbnNpdGlvblZhbGlkKEludGVnZXIgcSwgQ2hhcmFjdGVyIGMpIHsKICAgICAgICBJbnRlZ2VyIG5leHQgPSB0cmFuc2l0aW9ucy5nZXQocSwgYyk7CiAgICAgICAgaWYgKCFzdGF0ZXMuY29udGFpbnMobmV4dCkpCiAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkVHJhbnNpdGlvbkV4Y2VwdGlvbihTdHJpbmcuZm9ybWF0KCJUcmFuc2l0aW9uICVkIHggJWMgLT4gJWQgaXMgaW52YWxpZCIsIHEsIGMsIG5leHQpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKG5ldyBTaW1wbGVGYWN0b3J5KCkuZ2VuZXJhdGUoKS5hY2NlcHRzKEFycmF5cy5hc0xpc3QoJ2MnKSkpOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -630,7 +641,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -648,31 +659,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgQFRlc3QKLy8gICAgdm9pZCBjYW5ub3RBY2NlcHRXaXRoRW1wdHlBbHBoYWJldCgpIHsKLy8gICAgICAgIGFzc2VydFRocm93cyhFbXB0eUFscGhhYmV0RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiBkZmEuYWNjZXB0cygiYSIpKTsKLy8gICAgICAgIGRmYS5hY2NlcHRzKCJhIik7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0cmFuc2l0aW9ucy5nZXQocSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBY2NlcHRTdGF0ZXNOb3RDb250YWluZWRJblN0YXRlc0V4Y2VwdGlvbihTdHJpbmcgbXNnKSB7CiAgICAgICAgc3VwZXIobXNnKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgcSA9IHRyYW5zaXRpb25zLmdldChxLCBjKTsKICAgICAgICAgICAgaWYgKHEgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkREZBSW5wdXQoKTs=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBERkEuZ2V0RGVjbGFyZWRGaWVsZHMK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gbmV4dDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/private/gc</text>
