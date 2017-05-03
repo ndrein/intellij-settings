@@ -23,12 +23,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/State.java" timestamp="1493845441356">
-        <mark key="'" line="14" column="7" />
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="53" />
-        <mark key="." line="15" column="53" />
-        <mark key="^" line="15" column="53" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/State.java" timestamp="1493851672715">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="16" column="92" />
+        <mark key="]" line="16" column="92" />
+        <mark key="^" line="16" column="92" />
+        <mark key="." line="16" column="92" />
       </file>
       <file name="/Interface.txt.ft" timestamp="1493844584094">
         <mark key="[" line="0" column="0" />
@@ -293,7 +293,7 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" timestamp="1493845091144">
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" timestamp="1493851542909">
         <mark key="'" line="16" column="29" />
         <mark key="[" line="54" column="112" />
         <mark key="]" line="46" column="80" />
@@ -514,7 +514,7 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1493845280286">
+      <file name="/fragment.java" timestamp="1493851557544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -535,7 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
       <jump line="10" column="6" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
@@ -635,6 +634,7 @@
       <jump line="11" column="13" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
       <jump line="16" column="29" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
       <jump line="14" column="7" filename="$USER_HOME$/dev/syntax/src/main/java/State.java" />
+      <jump line="3" column="19" filename="$USER_HOME$/dev/syntax/src/main/java/State.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -658,14 +658,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID09IGludGVnZXI7</text>
       </register>
       <register name="-" type="4">
-        <text>rhs</text>
+        <text encoding="base64">ID09IGludGVnZXI7</text>
       </register>
       <register name="/" type="4">
-        <text>rh</text>
+        <text>ST</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIEhhc2hTZXQ8Q2hhcmFjdGVyPiBtYWtlQWxwaGFiZXQoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBIYXNoU2V0PEludGVnZXI+IG1ha2VTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgwKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgSW50ZWdlciBtYWtlU3RhcnRTdGF0ZSgpIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBIYXNoU2V0PEludGVnZXI+IG1ha2VBY2NlcHRTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gbWFrZVRyYW5zaXRpb25zKCkgewogICAgICAgIHJldHVybiBIYXNoQmFzZWRUYWJsZS5jcmVhdGUoKTsKICAgIH0KfQo=</text>
@@ -697,7 +697,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaGFzaAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -715,10 +715,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -776,34 +776,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIuVE9ETzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNS0wMi4KICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIuVE9ETzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ET0MK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNS0wMi4KICovCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNS0wMy4KICovCg==</text>
+        <text encoding="base64">ICAgICMgVE9ET0MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNC0yNy4KICovCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNS0wMy4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNS0wMS4KICovCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNC0yNy4KICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>rh</last-search>
+      <last-search>ST</last-search>
       <last-offset />
-      <last-pattern>rh</last-pattern>
+      <last-pattern>ST</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>protected</last-substitute>
       <last-dir>1</last-dir>
@@ -811,7 +811,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Test</entry>
         <entry>org</entry>
         <entry>IN</entry>
         <entry>thr</entry>
@@ -831,6 +830,7 @@
         <entry>q</entry>
         <entry>StartStat</entry>
         <entry>rh</entry>
+        <entry>ST</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
