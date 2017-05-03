@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/File Header.txt.ft" timestamp="1493844644522">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1493766688589">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/classes.py" timestamp="1487699617577">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="0" column="0" />
@@ -11,17 +17,21 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/generators/DFAGenerator.java" timestamp="1493827292329">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="6" column="6" />
-        <mark key="." line="19" column="0" />
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/State.java" timestamp="1493829644680">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/State.java" timestamp="1493845441356">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="53" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1493844584094">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/IncompleteTransitionsException.java" timestamp="1493757276267">
         <mark key="[" line="5" column="85" />
@@ -29,10 +39,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/IncompleteTransitionsGenerator.java" timestamp="1493843815127">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/IncompleteTransitionsGenerator.java" timestamp="1493844304082">
+        <mark key="'" line="34" column="54" />
+        <mark key="[" line="35" column="54" />
+        <mark key="]" line="35" column="54" />
+        <mark key="." line="35" column="54" />
+        <mark key="^" line="35" column="54" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls.py" timestamp="1482177123967">
         <mark key="[" line="10" column="22" />
@@ -94,11 +106,12 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TransitionToInvalidStateGenerator.java" timestamp="1493843774100">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TransitionToInvalidStateGenerator.java" timestamp="1493844612076">
+        <mark key="'" line="37" column="35" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="37" column="54" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/generatories/TrivialInstance.java" timestamp="1493823059162">
         <mark key="[" line="36" column="5" />
@@ -158,10 +171,6 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/fragment.py" timestamp="1487797819030">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" timestamp="1493737907295">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="15" />
@@ -174,6 +183,9 @@
         <mark key="]" line="2" column="39" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1493844520968">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/test-pycharm/test.py" timestamp="1484945952996">
         <mark key="'" line="1" column="0" />
@@ -197,11 +209,11 @@
         <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/AcceptsTest.java" timestamp="1493827598023">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="50" column="48" />
-        <mark key="]" line="50" column="48" />
-        <mark key="." line="50" column="48" />
-        <mark key="^" line="50" column="30" />
+        <mark key="'" line="34" column="18" />
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="48" />
+        <mark key="." line="47" column="48" />
+        <mark key="^" line="47" column="30" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidTransitionInConstructionException.java" timestamp="1493757329746">
         <mark key="[" line="6" column="11" />
@@ -216,18 +228,23 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493830463238">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493844903038">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="18" column="20" />
-        <mark key="." line="18" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/AcceptStatesNotInStatesException.java" timestamp="1493757224097">
         <mark key="[" line="5" column="87" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/exceptions/AcceptStatesNotContainedInStates.java" timestamp="1493844857193">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/snl.py" timestamp="1487803349729">
         <mark key="'" line="16" column="41" />
@@ -276,12 +293,12 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" timestamp="1493825376379">
-        <mark key="'" line="26" column="18" />
-        <mark key="[" line="13" column="72" />
-        <mark key="]" line="13" column="101" />
-        <mark key="." line="13" column="101" />
-        <mark key="^" line="13" column="101" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" timestamp="1493845091144">
+        <mark key="'" line="16" column="29" />
+        <mark key="[" line="54" column="112" />
+        <mark key="]" line="46" column="80" />
+        <mark key="." line="54" column="120" />
+        <mark key="^" line="46" column="80" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
         <mark key="'" line="31" column="0" />
@@ -296,6 +313,9 @@
         <mark key="]" line="32" column="11" />
         <mark key="." line="32" column="11" />
         <mark key="^" line="32" column="11" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1493844596361">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" timestamp="1482447527969">
         <mark key="'" line="44" column="4" />
@@ -317,12 +337,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" timestamp="1493843795000">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="21" column="31" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" timestamp="1493844665621">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="18" column="71" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1492738657827">
         <mark key="'" line="30" column="0" />
@@ -336,6 +356,9 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1493844591788">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/game.py" timestamp="1487803920629">
         <mark key="'" line="54" column="0" />
@@ -376,10 +399,11 @@
         <mark key="^" line="44" column="27" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/EmptyStateSetGenerator.java" timestamp="1493843807069">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/EmptyStateSetGenerator.java" timestamp="1493843982969">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="31" />
+        <mark key="." line="28" column="31" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/BadAcceptStatesDFAFactory.java" timestamp="1493756279680">
         <mark key="[" line="30" column="5" />
@@ -388,11 +412,11 @@
         <mark key="." line="34" column="38" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/InvalidDFAConstructionsTest.java" timestamp="1493827767873">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="21" column="94" />
-        <mark key="]" line="21" column="94" />
-        <mark key="." line="21" column="94" />
-        <mark key="^" line="21" column="94" />
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="18" column="94" />
+        <mark key="]" line="18" column="94" />
+        <mark key="." line="18" column="94" />
+        <mark key="^" line="18" column="94" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/BadStartStateFactory.java" timestamp="1493747023632">
         <mark key="'" line="11" column="0" />
@@ -414,15 +438,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/BadAcceptStatesGenerator.java" timestamp="1493843787426">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1493830475932">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/BadAcceptStatesGenerator.java" timestamp="1493844660225">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="22" column="87" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" timestamp="1487798947914">
         <mark key="'" line="7" column="0" />
@@ -438,10 +458,10 @@
         <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/ValidDFAConstructionTest.java" timestamp="1493827713658">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" timestamp="1484963028621">
         <mark key="'" line="26" column="0" />
@@ -469,12 +489,18 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" timestamp="1493843758828">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="18" />
-        <mark key="^" line="25" column="18" />
-        <mark key="." line="25" column="18" />
+      <file name="/Enum.txt.ft" timestamp="1493844542889">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1493844585246">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" timestamp="1493844642128">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="42" column="54" />
+        <mark key="]" line="42" column="54" />
+        <mark key="^" line="42" column="54" />
+        <mark key="." line="42" column="54" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/NotInAlphabetException.java" timestamp="1493740065424">
         <mark key="[" line="5" column="35" />
@@ -488,11 +514,11 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1493843694229">
+      <file name="/fragment.java" timestamp="1493845280286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/dev/test-pycharm/test.txt" timestamp="1484945945594">
         <mark key="[" line="0" column="0" />
@@ -509,34 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="12" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="37" column="40" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
-      <jump line="15" column="30" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
-      <jump line="23" column="4" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="0" column="4" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
-      <jump line="8" column="2" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="51" column="8" filename="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
       <jump line="10" column="6" filename="$USER_HOME$/dev/syntax/src/test/java/SimpleDFATest.java" />
@@ -576,7 +574,6 @@
       <jump line="28" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="5" column="26" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
-      <jump line="11" column="24" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
       <jump line="34" column="19" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
       <jump line="39" column="19" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
@@ -609,16 +606,66 @@
       <jump line="31" column="56" filename="$USER_HOME$/dev/syntax/src/test/java/InvalidDFAConstructionsTest.java" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/InvalidDFAConstructionsTest.java" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="37" column="54" filename="$USER_HOME$/dev/syntax/src/main/java/generators/IncompleteTransitionsGenerator.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="25" column="25" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="30" column="58" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="37" column="54" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="39" column="54" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="40" column="54" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="41" column="54" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="42" column="54" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="43" column="54" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="44" column="54" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="45" column="35" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="34" column="48" filename="$USER_HOME$/dev/syntax/src/main/java/generators/TransitionToInvalidStateGenerator.java" />
+      <jump line="38" column="35" filename="$USER_HOME$/dev/syntax/src/main/java/generators/TransitionToInvalidStateGenerator.java" />
+      <jump line="37" column="33" filename="$USER_HOME$/dev/syntax/src/main/java/generators/TransitionToInvalidStateGenerator.java" />
+      <jump line="39" column="35" filename="$USER_HOME$/dev/syntax/src/main/java/generators/TransitionToInvalidStateGenerator.java" />
+      <jump line="40" column="35" filename="$USER_HOME$/dev/syntax/src/main/java/generators/TransitionToInvalidStateGenerator.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" />
+      <jump line="20" column="151" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/State.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
+      <jump line="46" column="80" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
+      <jump line="49" column="51" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
+      <jump line="52" column="37" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
+      <jump line="16" column="29" filename="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" />
+      <jump line="14" column="7" filename="$USER_HOME$/dev/syntax/src/main/java/State.java" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>rhs</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>rh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIEhhc2hTZXQ8Q2hhcmFjdGVyPiBtYWtlQWxwaGFiZXQoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBIYXNoU2V0PEludGVnZXI+IG1ha2VTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgwKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgSW50ZWdlciBtYWtlU3RhcnRTdGF0ZSgpIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBIYXNoU2V0PEludGVnZXI+IG1ha2VBY2NlcHRTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gbWFrZVRyYW5zaXRpb25zKCkgewogICAgICAgIHJldHVybiBIYXNoQmFzZWRUYWJsZS5jcmVhdGUoKTsKICAgIH0KfQo=</text>
@@ -650,7 +697,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -668,40 +715,95 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIuVE9ETzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNS0wMi4KICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICMgVE9ET0MK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNS0wMy4KICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBTdGF0ZShpbnQgaSkgewogICAgfQo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNC0yNy4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEhhc2hTZXQ8U3RhdGU+IHM7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbmRyZWkgb24gMjAxNy0wNS0wMS4KICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>rh</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>rh</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>protected</last-substitute>
       <last-dir>1</last-dir>
@@ -709,14 +811,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fun</entry>
-        <entry>List</entry>
-        <entry>Basic</entry>
-        <entry>static</entry>
-        <entry>im</entry>
-        <entry>1</entry>
-        <entry>pri</entry>
-        <entry>In</entry>
         <entry>Test</entry>
         <entry>org</entry>
         <entry>IN</entry>
@@ -729,6 +823,14 @@
         <entry>abs</entry>
         <entry>protected</entry>
         <entry>new</entry>
+        <entry>2</entry>
+        <entry>0</entry>
+        <entry>@\adi</entry>
+        <entry>\d</entry>
+        <entry>1</entry>
+        <entry>q</entry>
+        <entry>StartStat</entry>
+        <entry>rh</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
