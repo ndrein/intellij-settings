@@ -159,9 +159,9 @@
         <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/AcceptsTest.java" timestamp="1493775131233">
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidTransitionInConstructionException.java" timestamp="1493757329746">
         <mark key="[" line="6" column="11" />
@@ -348,7 +348,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493766953325">
+      <file name="/Dummy.txt" timestamp="1493775140703">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
