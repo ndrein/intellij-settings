@@ -205,12 +205,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493827267093">
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493830463238">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/AcceptStatesNotInStatesException.java" timestamp="1493757224097">
         <mark key="[" line="5" column="87" />
@@ -398,7 +398,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493827791721">
+      <file name="/Dummy.txt" timestamp="1493830475932">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -588,8 +588,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/InvalidDFAConstructionsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEhhc2hTZXQ8U3RhdGU+IHM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -627,7 +627,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgREZBIGdlbmVyYXRlKCkgdGhyb3dzIEludmFsaWRERkFDb25zdHJ1Y3Rpb24gewogICAgICAgIHJldHVybiBuZXcgREZBKG1ha2VBbHBoYWJldCgpLCBtYWtlU3RhdGVzKCksIG1ha2VTdGFydFN0YXRlKCksIG1ha2VBY2NlcHRTdGF0ZXMoKSwgbWFrZVRyYW5zaXRpb25zKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEhhc2hTZXQ8U3RhdGU+IHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,19 +645,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgREZBIGdlbmVyYXRlKCkgdGhyb3dzIEludmFsaWRERkFDb25zdHJ1Y3Rpb24gewogICAgICAgIHJldHVybiBuZXcgREZBKG1ha2VBbHBoYWJldCgpLCBtYWtlU3RhdGVzKCksIG1ha2VTdGFydFN0YXRlKCksIG1ha2VBY2NlcHRTdGF0ZXMoKSwgbWFrZVRyYW5zaXRpb25zKCkpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBERkEgZ2VuZXJhdGUoKSB0aHJvd3MgSW52YWxpZERGQUNvbnN0cnVjdGlvbiB7CiAgICAgICAgcmV0dXJuIG5ldyBERkEobWFrZUFscGhhYmV0KCksIG1ha2VTdGF0ZXMoKSwgbWFrZVN0YXJ0U3RhdGUoKSwgbWFrZUFjY2VwdFN0YXRlcygpLCBtYWtlVHJhbnNpdGlvbnMoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBIYXNoU2V0PENoYXJhY3Rlcj4gYWxwaGFiZXQgPSBtYWtlQWxwaGFiZXQoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBERkEgZ2VuZXJhdGUoKSB0aHJvd3MgSW52YWxpZERGQUNvbnN0cnVjdGlvbiB7CiAgICAgICAgcmV0dXJuIG5ldyBERkEobWFrZUFscGhhYmV0KCksIG1ha2VTdGF0ZXMoKSwgbWFrZVN0YXJ0U3RhdGUoKSwgbWFrZUFjY2VwdFN0YXRlcygpLCBtYWtlVHJhbnNpdGlvbnMoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIEhhc2hTZXQ8Q2hhcmFjdGVyPiBtYWtlQWxwaGFiZXQoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBIYXNoU2V0PEludGVnZXI+IG1ha2VTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgwKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgSW50ZWdlciBtYWtlU3RhcnRTdGF0ZSgpIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBIYXNoU2V0PEludGVnZXI+IG1ha2VBY2NlcHRTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gbWFrZVRyYW5zaXRpb25zKCkgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBIYXNoU2V0PENoYXJhY3Rlcj4gYWxwaGFiZXQgPSBtYWtlQWxwaGFiZXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIEhhc2hTZXQ8Q2hhcmFjdGVyPiBtYWtlQWxwaGFiZXQoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBIYXNoU2V0PEludGVnZXI+IG1ha2VTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgwKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgSW50ZWdlciBtYWtlU3RhcnRTdGF0ZSgpIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBIYXNoU2V0PEludGVnZXI+IG1ha2VBY2NlcHRTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFRhYmxlPEludGVnZXIsIENoYXJhY3RlciwgSW50ZWdlcj4gbWFrZVRyYW5zaXRpb25zKCkgewoKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -666,10 +666,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzKGRmYUdlbmVyYXRvci4pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/public/gc</text>
