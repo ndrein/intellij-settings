@@ -115,6 +115,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/EmptyStateSetTest.java" timestamp="1493747138351">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/TrivialDFATest.java" timestamp="1493775017556">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="23" column="4" />
@@ -238,6 +243,11 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidDFAConstruction.java" timestamp="1493766504889">
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="36" column="29" />
@@ -292,6 +302,11 @@
         <mark key="." line="24" column="64" />
         <mark key="^" line="24" column="64" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/factories/DFAFactory.java" timestamp="1493819296734">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/EmptyStateSetFactory.java" timestamp="1493747173866">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="12" column="26" />
@@ -311,6 +326,11 @@
         <mark key="]" line="1" column="9" />
         <mark key="^" line="1" column="103" />
         <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/factories/DFAGenerator.java" timestamp="1493819343616">
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/BadAcceptStatesDFAFactory.java" timestamp="1493756279680">
         <mark key="[" line="30" column="5" />
@@ -345,7 +365,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493775140703">
+      <file name="/Dummy.txt" timestamp="1493819335043">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -529,11 +549,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/AcceptsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Factory</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>Factory</text>
       </register>
       <register name="/" type="4">
         <text>void</text>
