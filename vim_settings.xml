@@ -17,11 +17,11 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/State.java" timestamp="1493827901777">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+      <file name="$USER_HOME$/dev/syntax/src/main/java/State.java" timestamp="1493829644680">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/IncompleteTransitionsException.java" timestamp="1493757276267">
         <mark key="[" line="5" column="85" />
