@@ -11,11 +11,17 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/generators/DFAGenerator.java" timestamp="1493827292329">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="20" column="0" />
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/State.java" timestamp="1493827901777">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/IncompleteTransitionsException.java" timestamp="1493757276267">
         <mark key="[" line="5" column="85" />
@@ -300,12 +306,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" timestamp="1493827034964">
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" timestamp="1493828093676">
         <mark key="'" line="42" column="4" />
-        <mark key="[" line="65" column="5" />
-        <mark key="]" line="68" column="27" />
-        <mark key="." line="68" column="27" />
-        <mark key="^" line="68" column="27" />
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1492738657827">
         <mark key="'" line="30" column="0" />
@@ -392,7 +398,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493825654002">
+      <file name="/Dummy.txt" timestamp="1493827791721">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -441,6 +447,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" timestamp="1493828036160">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/NotInAlphabetException.java" timestamp="1493740065424">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="52" />
@@ -453,7 +465,7 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1493827375445">
+      <file name="/fragment.java" timestamp="1493827969409">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -577,10 +589,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
