@@ -158,10 +158,12 @@
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/AcceptsTest.java" timestamp="1493775131233">
-        <mark key="]" line="17" column="16" />
-        <mark key="^" line="17" column="16" />
-        <mark key="." line="17" column="16" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/AcceptsTest.java" timestamp="1493776315541">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="48" column="7" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidTransitionInConstructionException.java" timestamp="1493757329746">
         <mark key="[" line="6" column="11" />
@@ -235,11 +237,6 @@
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidDFAConstruction.java" timestamp="1493766504889">
-        <mark key="]" line="5" column="36" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="5" column="36" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
         <mark key="'" line="31" column="0" />
@@ -430,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
       <jump line="25" column="11" filename="$USER_HOME$/dev/syntax/src/test/java/DFAGenerator.java" />
@@ -530,19 +526,20 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/AcceptTest.java" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/AcceptTest.java" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/AcceptTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/AcceptsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AcceptTest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>AcceptTest</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
         <text>void</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGFOb3RJbkFscGhhYmV0KCkgewogICAgICAgIGRmYSA9IG5ldyBUcml2aWFsRmFjdG9yeSgpLmdlbmVyYXRlKCk7CiAgICAgICAgYXNzZXJ0VGhyb3dzKEludmFsaWRERkFJbnB1dC5jbGFzcywgKCkgLT4gZGZhLmFjY2VwdHMoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgnYScpKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENoYXJhY3Rlcj4gaW5wdXQgPSBuZXcgTGlua2VkTGlzdDw+KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDAwOyArK2kpIHsKICAgICAgICAgICAgaW5wdXQuYWRkKCdhJyk7CiAgICAgICAgICAgIGlucHV0LmFkZCgnYicpOwogICAgICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -571,7 +568,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGFOb3RJbkFscGhhYmV0KCkgewogICAgICAgIGRmYSA9IG5ldyBUcml2aWFsRmFjdG9yeSgpLmdlbmVyYXRlKCk7CiAgICAgICAgYXNzZXJ0VGhyb3dzKEludmFsaWRERkFJbnB1dC5jbGFzcywgKCkgLT4gZGZhLmFjY2VwdHMoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgnYScpKSk7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -589,31 +586,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHRlc3RDb25zdHJ1Y3RvcigpIHsKICAgICAgICBuZXcgU2ltcGxlRmFjdG9yeSgpLmdlbmVyYXRlKCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDA7ICsraSkgewogICAgICAgICAgICBpbnB1dC5hZGQoJ2EnKTsKICAgICAgICAgICAgaW5wdXQuYWRkKCdiJyk7CiAgICAgICAgfQogICAgICAgIGlucHV0LmFkZCgnYycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZmEgPSBuZXcgU2ltcGxlRmFjdG9yeSgpLmdlbmVyYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKG5ldyBTaW1wKQo=</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGFOb3RJbkFscGhhYmV0KCkgewogICAgICAgIGRmYSA9IG5ldyBUcml2aWFsRmFjdG9yeSgpLmdlbmVyYXRlKCk7CiAgICAgICAgYXNzZXJ0VGhyb3dzKEludmFsaWRERkFJbnB1dC5jbGFzcywgKCkgLT4gZGZhLmFjY2VwdHMoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgnYScpKSk7CiAgICB9CiAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHRlc3RDb25zdHJ1Y3RvcigpIHsKICAgICAgICBuZXcgU2ltcGxlRmFjdG9yeSgpLmdlbmVyYXRlKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBEaXNhYmxlZAo=</text>
+        <text encoding="base64">ICAgICAgICBkZmEgPSBuZXcgU2ltcGxlRmFjdG9yeSgpLmdlbmVyYXRlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protected/private/gc</text>
