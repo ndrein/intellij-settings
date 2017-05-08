@@ -144,6 +144,10 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/instances/TrivialGenerator.java" timestamp="1494278356359">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/DFAInstance.java" timestamp="1494277623759">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="7" column="26" />
@@ -204,10 +208,10 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" timestamp="1494276868978">
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" timestamp="1494277912411">
         <mark key="'" line="27" column="44" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="35" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="7" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="18" column="71" />
       </file>
@@ -386,7 +390,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494276431385">
+      <file name="/Dummy.txt" timestamp="1494279400956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/elements.py" timestamp="1487698942334">
@@ -410,6 +414,11 @@
         <mark key="." line="47" column="48" />
         <mark key="^" line="47" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/instances/DFAInstanceImplementation.java" timestamp="1494279000776">
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidTransitionInConstructionException.java" timestamp="1493757329746">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="50" />
@@ -429,11 +438,11 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/ValidDFAConstructionTest.java" timestamp="1493827713658">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="37" />
-        <mark key="^" line="15" column="37" />
-        <mark key="." line="15" column="37" />
+      <file name="$USER_HOME$/dev/syntax/src/test/java/ValidDFAConstructionTest.java" timestamp="1494279161534">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/University/Winter 2017/CS 341/a2/compare.py" timestamp="1484963028621">
         <mark key="'" line="26" column="0" />
@@ -441,6 +450,13 @@
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/instances/DFAInstance.java" timestamp="1494279099350">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/dev/ls-colors/README.md" timestamp="1482439030736">
         <mark key="'" line="0" column="0" />
@@ -473,6 +489,13 @@
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/instances/TrivialInstance.java" timestamp="1494279108718">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/CharNotInAlphabet.java" timestamp="1493763659142">
         <mark key="[" line="5" column="13" />
@@ -550,15 +573,12 @@
         <mark key="." line="39" column="33" />
         <mark key="^" line="34" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/instances/DFAGenerator.java" timestamp="1494278228527">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="17" column="68" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/EmptyStateSetFactory.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/EmptyStateSetFactory.java" />
-      <jump line="3" column="59" filename="$USER_HOME$/dev/syntax/src/test/java/EmptyStateSetDFA.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/EmptyStateSetDFATest.java" />
-      <jump line="27" column="10" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/dev/syntax/src/test/java/EmptyStateSetDFAFactory.java" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="62" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
       <jump line="18" column="95" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
@@ -652,6 +672,13 @@
       <jump line="28" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFAInstance.java" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFAInstance.java" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/DFA.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/instances/DFAInstance.java" />
+      <jump line="19" column="3" filename="$USER_HOME$/dev/syntax/src/main/java/instances/DFAInstance.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/instances/DFAInstance.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/instances/TrivialInstance.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/instances/TrivialInstance.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/instances/TrivialInstance.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/syntax/src/main/java/instances/TrivialInstance.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -675,17 +702,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>DFAInstance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgYSAK</text>
       </register>
       <register name="-" type="4">
         <text>DFAInstance</text>
       </register>
       <register name="/" type="4">
-        <text>State</text>
+        <text>@Override</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIEhhc2hTZXQ8Q2hhcmFjdGVyPiBtYWtlQWxwaGFiZXQoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBIYXNoU2V0PFN0YXRlPiBtYWtlU3RhdGVzKCkgewogICAgICAgIHJldHVybiBuZXcgSGFzaFNldDxTdGF0ZT4oQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChuZXcgU3RhdGUoMCkpKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdGF0ZSBtYWtlU3RhcnRTdGF0ZSgpIHsKICAgICAgICByZXR1cm4gbmV3IFN0YXRlKDApOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIEhhc2hTZXQ8U3RhdGU+IG1ha2VBY2NlcHRTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PFN0YXRlPigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFRhYmxlPFN0YXRlLCBDaGFyYWN0ZXIsIFN0YXRlPiBtYWtlVHJhbnNpdGlvbnMoKSB7CiAgICAgICAgcmV0dXJuIEhhc2hCYXNlZFRhYmxlLmNyZWF0ZSgpOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIEhhc2hTZXQ8U3RhdGU+IG1ha2VTdGF0ZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PFN0YXRlPihDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KG5ldyBTdGF0ZSgwKSkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0YXRlIG1ha2VTdGFydFN0YXRlKCkgewogICAgICAgIHJldHVybiBuZXcgU3RhdGUoMCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgSGFzaFNldDxTdGF0ZT4gbWFrZUFjY2VwdFN0YXRlcygpIHsKICAgICAgICByZXR1cm4gbmV3IEhhc2hTZXQ8U3RhdGU+KCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgVGFibGU8U3RhdGUsIENoYXJhY3RlciwgU3RhdGU+IG1ha2VUcmFuc2l0aW9ucygpIHsKICAgICAgICByZXR1cm4gSGFzaEJhc2VkVGFibGUuY3JlYXRlKCk7CiAgICB9Cn0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -714,7 +741,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIHB1YmxpYyBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgYSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -732,10 +759,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihpKTsK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHB1Ygo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -793,43 +820,41 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIAo=</text>
+        <text encoding="base64">ICAgIGZqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIHAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFN1YmNsYXNzZXMgb2YgdGhlIERGQUdlbmVyYXRvciBjYW4gZ2VuZXJhdGUgc3BlY2lmaWMgREZBIGluc3RhbmNlcwogICAgLy8gVGhlc2Ugc3BlY2lmaWMgaW5zdGFuY2VzIGFyZSBmb3IgdXNlIGluIHRlc3RpbmcKCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSGFzaFNldDxDaGFyYWN0ZXI+IG1ha2VBbHBoYWJldCgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSW50ZWdlci5oYXNoQ29kZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/protected/public/gc</text>
+        <text>%s/@Override//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>State</last-search>
+      <last-search>@Override</last-search>
       <last-offset />
-      <last-pattern>State</last-pattern>
-      <last-replace>public</last-replace>
-      <last-substitute>protected</last-substitute>
+      <last-pattern>@Override</last-pattern>
+      <last-replace />
+      <last-substitute>@Override</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IN</entry>
-        <entry>thr</entry>
         <entry>throws</entry>
         <entry>start</entry>
         <entry>void</entry>
@@ -848,6 +873,8 @@
         <entry>rh</entry>
         <entry>ST</entry>
         <entry>State</entry>
+        <entry>abstract</entry>
+        <entry>@Override</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
@@ -856,6 +883,8 @@
         <entry>tabe snl</entry>
         <entry>%s/protected/private/gc</entry>
         <entry>%s/protected/public/gc</entry>
+        <entry>%s/abstract//gc</entry>
+        <entry>%s/@Override//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
