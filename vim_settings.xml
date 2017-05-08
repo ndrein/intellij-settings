@@ -6,6 +6,19 @@
       <file name="/File Header.txt.ft" timestamp="1493844644522">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/SimpleFactory.java" timestamp="1493766865672">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/DFA.java" timestamp="1493059160986">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="/a.dummy" timestamp="1493766688589">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,8 +43,22 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/.gitignore" timestamp="1485621914492">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="86" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="/Interface.txt.ft" timestamp="1493844584094">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/command.py" timestamp="1482346929897">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/IncompleteTransitionsException.java" timestamp="1493757276267">
         <mark key="[" line="5" column="85" />
@@ -59,6 +86,13 @@
         <mark key="." line="70" column="11" />
         <mark key="^" line="70" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" timestamp="1493852329839">
+        <mark key="'" line="16" column="29" />
+        <mark key="[" line="54" column="112" />
+        <mark key="]" line="46" column="80" />
+        <mark key="." line="54" column="120" />
+        <mark key="^" line="46" column="80" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/DFATest.java" timestamp="1493822060056">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="7" column="24" />
@@ -79,12 +113,43 @@
         <mark key="^" line="52" column="0" />
         <mark key="." line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/README.md" timestamp="1483069254250">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1493844596361">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/c/Users/ndrei/dev/test-idea/src/Test.java" timestamp="1493059417039">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" timestamp="1482447527969">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="51" />
+        <mark key="^" line="54" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/die.py" timestamp="1487800677566">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="/mnt/c/Users/ndrei/dev/test-idea/src/MainClass.java" timestamp="1493059660662">
         <mark key="'" line="13" column="0" />
@@ -113,11 +178,24 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/Main.java" timestamp="1493330720773">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/generatories/TrivialInstance.java" timestamp="1493823059162">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="39" column="19" />
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" timestamp="1493844665621">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="18" column="71" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/AcceptTest.java" timestamp="1493775128202">
         <mark key="'" line="21" column="0" />
@@ -138,12 +216,28 @@
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1492738657827">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/EmptyAlphabetException.java" timestamp="1493684796587">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/ls-colors/extension_to_color.py" timestamp="1482262501696">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="63" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1493844591788">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/test-idea/src/test.hs" timestamp="1492126427081">
         <mark key="'" line="74" column="0" />
@@ -158,6 +252,18 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/game.py" timestamp="1487803920629">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="64" />
+        <mark key="." line="24" column="64" />
+        <mark key="^" line="24" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/factories/DFAFactory.java" timestamp="1493819296734">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/dev/test-idea/src/main/java/MainClassTest.java" timestamp="1493332666996">
         <mark key="'" line="3" column="26" />
@@ -177,200 +283,6 @@
         <mark key="]" line="9" column="15" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="15" />
-      </file>
-      <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/Test.java" timestamp="1493059246783">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1493844520968">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/test-pycharm/test.py" timestamp="1484945952996">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/elements.py" timestamp="1487698942334">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/HelloWorldTest.java" timestamp="1493332679916">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/AcceptsTest.java" timestamp="1493827598023">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="47" column="48" />
-        <mark key="]" line="47" column="48" />
-        <mark key="." line="47" column="48" />
-        <mark key="^" line="47" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidTransitionInConstructionException.java" timestamp="1493757329746">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="50" />
-        <mark key="^" line="6" column="50" />
-        <mark key="." line="6" column="50" />
-      </file>
-      <file name="$USER_HOME$/dev/ls-colors/README.md" timestamp="1482439030736">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="110" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493852318572">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/AcceptStatesNotInStatesException.java" timestamp="1493757224097">
-        <mark key="[" line="5" column="87" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/exceptions/AcceptStatesNotContainedInStates.java" timestamp="1493844857193">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/snl.py" timestamp="1487803349729">
-        <mark key="'" line="16" column="41" />
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="16" column="42" />
-        <mark key="." line="16" column="42" />
-        <mark key="^" line="16" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485628046727">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/TrivialFactory.java" timestamp="1493766873441">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/SimpleFactory.java" timestamp="1493766865672">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-      </file>
-      <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/DFA.java" timestamp="1493059160986">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/.gitignore" timestamp="1485621914492">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="86" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls_colors/command.py" timestamp="1482346929897">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/DFAValidator.java" timestamp="1493852329839">
-        <mark key="'" line="16" column="29" />
-        <mark key="[" line="54" column="112" />
-        <mark key="]" line="46" column="80" />
-        <mark key="." line="54" column="120" />
-        <mark key="^" line="46" column="80" />
-      </file>
-      <file name="$USER_HOME$/dev/ls-colors/colorize_ls.py" timestamp="1482265049930">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="36" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/lib/syntax/README.md" timestamp="1483069254250">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="11" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1493844596361">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ls-colors/ls_colors/extension_to_color.py" timestamp="1482447527969">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="53" column="7" />
-        <mark key="]" line="54" column="51" />
-        <mark key="." line="54" column="51" />
-        <mark key="^" line="54" column="51" />
-      </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/die.py" timestamp="1487800677566">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/Main.java" timestamp="1493330720773">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/generators/TrivialGenerator.java" timestamp="1493844665621">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="18" column="71" />
-      </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/board.py" timestamp="1492738657827">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/main/java/EmptyAlphabetException.java" timestamp="1493684796587">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1493844591788">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/snakes_and_ladders/game.py" timestamp="1487803920629">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="24" column="64" />
-        <mark key="]" line="24" column="64" />
-        <mark key="." line="24" column="64" />
-        <mark key="^" line="24" column="64" />
-      </file>
-      <file name="$USER_HOME$/dev/syntax/src/test/java/factories/DFAFactory.java" timestamp="1493819296734">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/EmptyStateSetFactory.java" timestamp="1493747173866">
         <mark key="'" line="35" column="0" />
@@ -411,6 +323,12 @@
         <mark key="^" line="34" column="38" />
         <mark key="." line="34" column="38" />
       </file>
+      <file name="/mnt/c/Users/ndrei/dev/syntax/syntax/dfa/Test.java" timestamp="1493059246783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/test/java/InvalidDFAConstructionsTest.java" timestamp="1493827767873">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="18" column="94" />
@@ -432,6 +350,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1493844520968">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidDFAInput.java" timestamp="1493763706057">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="6" column="3" />
@@ -443,6 +364,43 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="22" column="87" />
+      </file>
+      <file name="$USER_HOME$/dev/test-pycharm/test.py" timestamp="1484945952996">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1494276431385">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/elements.py" timestamp="1487698942334">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/HelloWorldTest.java" timestamp="1493332679916">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/AcceptsTest.java" timestamp="1493827598023">
+        <mark key="'" line="34" column="18" />
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="48" />
+        <mark key="." line="47" column="48" />
+        <mark key="^" line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/InvalidTransitionInConstructionException.java" timestamp="1493757329746">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="6" column="50" />
       </file>
       <file name="$USER_HOME$/dev/snakes_and_ladders/board_tester.py" timestamp="1487798947914">
         <mark key="'" line="7" column="0" />
@@ -470,6 +428,31 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/ls-colors/README.md" timestamp="1482439030736">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="110" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/DFA.java" timestamp="1493852318572">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/AcceptStatesNotInStatesException.java" timestamp="1493757224097">
+        <mark key="[" line="5" column="87" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/main/java/exceptions/AcceptStatesNotContainedInStates.java" timestamp="1493844857193">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ls-colors/ls" timestamp="1482274878637">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="10" column="23" />
@@ -495,12 +478,32 @@
       <file name="/Class.txt.ft" timestamp="1493844585246">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/snakes_and_ladders/snl.py" timestamp="1487803349729">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/generators/SimpleGenerator.java" timestamp="1493844642128">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="42" column="54" />
         <mark key="]" line="42" column="54" />
         <mark key="^" line="42" column="54" />
         <mark key="." line="42" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/lib/syntax/syntax/dfa/dfa.py" timestamp="1485628046727">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/syntax/src/test/java/TrivialFactory.java" timestamp="1493766873441">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/dev/syntax/src/main/java/NotInAlphabetException.java" timestamp="1493740065424">
         <mark key="[" line="5" column="35" />
