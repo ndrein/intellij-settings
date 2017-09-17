@@ -41,12 +41,12 @@
         <mark key="]" line="4" column="36" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q4.py" timestamp="1505610449410">
-        <mark key="'" line="1" column="24" />
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q4.py" timestamp="1505688617508">
+        <mark key="'" line="2" column="54" />
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q1.py" timestamp="1505505177557">
         <mark key="'" line="4" column="54" />
@@ -61,12 +61,12 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/show_mistakes.py" timestamp="1505611658284">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="20" column="83" />
-        <mark key="]" line="20" column="83" />
-        <mark key="^" line="20" column="83" />
-        <mark key="." line="20" column="83" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/show_mistakes.py" timestamp="1505688777897">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="19" column="82" />
+        <mark key="]" line="19" column="82" />
+        <mark key="^" line="19" column="82" />
+        <mark key="." line="19" column="82" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.names" timestamp="1505502716122">
         <mark key="[" line="73" column="1" />
@@ -111,16 +111,17 @@
       <jump line="40" column="23" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/winnow.py" />
       <jump line="1" column="24" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q4.py" />
       <jump line="14" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/show_mistakes.py" />
+      <jump line="2" column="54" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q4.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIF9pc19jb3JyZWN0X3ByZWRpY3Rpb24oeV9pLCB4X2ksIHcsIGIpOgogICAgcmV0dXJuIHlfaSAqICh4X2kuZG90KHcpICsgYikgPiAwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnSXRlcmF0aW9uOiB7fSwgbnVtYmVyIG9mIG1pc3Rha2VzOiB7fSB8IHt9Jy5mb3JtYXQodCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50KG51bV9taXN0YWtlcyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9taXN0YWtlc190b19zdGFycyhudW1fbWlzdGFrZXMsIG1heF9taXN0YWtlcykpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+      <register name="&quot;" type="4">
+        <text>takes)))</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -147,7 +148,7 @@
         <text encoding="base64">ICAgIGFzc2VydCBuID4gMAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>takes)))</text>
       </register>
     </registers>
     <search>
