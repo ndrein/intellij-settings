@@ -3,15 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/README.md" timestamp="1505753635022">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="61" />
+        <mark key="^" line="4" column="61" />
+        <mark key="." line="4" column="61" />
+      </file>
       <file name="/Dummy.txt" timestamp="1505586140305">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/winnow.py" timestamp="1505610431306">
-        <mark key="'" line="40" column="23" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="17" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/winnow.py" timestamp="1505753722798">
+        <mark key="'" line="33" column="23" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Python Console" timestamp="1505586140161">
         <mark key="[" line="0" column="0" />
@@ -26,8 +31,15 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1505505097709">
+      <file name="/a.dummy" timestamp="1505754156289">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/2-4.py" timestamp="1505754129582">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
+        <mark key="^" line="22" column="48" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.py" timestamp="1505752327390">
         <mark key="[" line="15" column="0" />
@@ -122,43 +134,44 @@
       <jump line="3" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
       <jump line="8" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
       <jump line="2" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
+      <jump line="20" column="21" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/2-4.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnSXRlcmF0aW9uOiB7fSwgbnVtYmVyIG9mIG1pc3Rha2VzOiB7fSB8IHt9Jy5mb3JtYXQodCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50KG51bV9taXN0YWtlcyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9taXN0YWtlc190b19zdGFycyhudW1fbWlzdGFrZXMsIG1heF9taXN0YWtlcykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KGJsb2NrPUZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KGJsb2NrPUZhbHNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>mistake</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsdC5kcmF3KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsdC50aXRsZSgK</text>
+        <text encoding="base64">cHJpbnQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5wLmFwcGVuZChYLCBucC5yYW5kb20ucmFuZG9tKFguc2hhcGUpKQo=</text>
+        <text encoding="base64">IyBUT0RPOiBzdGVwX3NpemU/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9tYXhfYWJzKFgpOgogICAgcmV0dXJuIG1heChYLm1pbigpLCBYLm1heCgpLCBrZXk9YWJzKQoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9tYXhfYWJzKFgpOgogICAgcmV0dXJuIG1heChYLm1pbigpLCBYLm1heCgpLCBrZXk9YWJzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJhbmRvbV9mZWF0dXJlcygpOgogICAgbnAucmFuZG9tLnVuaWZvcm0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>mistake</text>
       </register>
     </registers>
     <search>
