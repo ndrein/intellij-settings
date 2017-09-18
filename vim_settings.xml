@@ -29,11 +29,11 @@
       <file name="/a.dummy" timestamp="1505505097709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.py" timestamp="1505585810562">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.py" timestamp="1505752327390">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="67" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/perceptron.py" timestamp="1505586381929">
         <mark key="'" line="10" column="0" />
@@ -61,12 +61,19 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/show_mistakes.py" timestamp="1505688777897">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="19" column="82" />
-        <mark key="]" line="19" column="82" />
-        <mark key="^" line="19" column="82" />
-        <mark key="." line="19" column="82" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/show_mistakes.py" timestamp="1505752712907">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="28" column="22" />
+        <mark key="^" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" timestamp="1505752747261">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="59" />
+        <mark key="^" line="12" column="59" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.names" timestamp="1505502716122">
         <mark key="[" line="73" column="1" />
@@ -112,43 +119,46 @@
       <jump line="1" column="24" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q4.py" />
       <jump line="14" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/show_mistakes.py" />
       <jump line="2" column="54" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q4.py" />
+      <jump line="3" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
+      <jump line="8" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
+      <jump line="2" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnSXRlcmF0aW9uOiB7fSwgbnVtYmVyIG9mIG1pc3Rha2VzOiB7fSB8IHt9Jy5mb3JtYXQodCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50KG51bV9taXN0YWtlcyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9taXN0YWtlc190b19zdGFycyhudW1fbWlzdGFrZXMsIG1heF9taXN0YWtlcykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgIHBsdC50aXRsZSgK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>takes)))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBsdC50aXRsZSgK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1heF9taXN0YWtlcyA9IG1heChtaXN0YWtlKQo=</text>
+        <text encoding="base64">ICAgIG5wLmFwcGVuZChYLCBucC5yYW5kb20ucmFuZG9tKFguc2hhcGUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnSScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXgoYWJzKFgubWluKCkpLCBhYnMoWC5tYXgoKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5wLmV4cCgpCg==</text>
+        <text encoding="base64">ZGVmIHJhbmRvbV9mZWF0dXJlcygpOgogICAgbnAucmFuZG9tLnVuaWZvcm0oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3IGV4cAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBuID4gMAo=</text>
+        <text encoding="base64">ICAgIG1heF9taXN0YWtlcyA9IG1heChtaXN0YWtlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>takes)))</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
