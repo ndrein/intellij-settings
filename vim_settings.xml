@@ -41,12 +41,12 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" timestamp="1505754911960">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="10" column="97" />
-        <mark key="]" line="10" column="100" />
-        <mark key="^" line="10" column="100" />
-        <mark key="." line="10" column="100" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" timestamp="1505760214499">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="8" column="100" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.py" timestamp="1505752327390">
         <mark key="[" line="15" column="0" />
@@ -143,16 +143,17 @@
       <jump line="2" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
       <jump line="20" column="21" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/2-4.py" />
       <jump line="15" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="10" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnSXRlcmF0aW9uOiB7fSwgbnVtYmVyIG9mIG1pc3Rha2VzOiB7fSB8IHt9Jy5mb3JtYXQodCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50KG51bV9taXN0YWtlcyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9taXN0YWtlc190b19zdGFycyhudW1fbWlzdGFrZXMsIG1heF9taXN0YWtlcykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBfLCBfLCBtaXN0YWtlID0gd2lubm93KFgsIHkpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>mistake</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBfLCBfLCBtaXN0YWtlID0gd2lubm93KFgsIHkpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -161,25 +162,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBUT0RPOiBzdGVwX3NpemU/Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIF9tYXhfYWJzKFgpOgogICAgcmV0dXJuIG1heChYLm1pbigpLCBYLm1heCgpLCBrZXk9YWJzKQoKCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9tYXhfYWJzKFgpOgogICAgcmV0dXJuIG1heChYLm1pbigpLCBYLm1heCgpLCBrZXk9YWJzKQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBUT0RPOiBzdGVwX3NpemU/Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIF9tYXhfYWJzKFgpOgogICAgcmV0dXJuIG1heChYLm1pbigpLCBYLm1heCgpLCBrZXk9YWJzKQoKCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIF9tYXhfYWJzKFgpOgogICAgcmV0dXJuIG1heChYLm1pbigpLCBYLm1heCgpLCBrZXk9YWJzKQo=</text>
+      </register>
       <register name="-" type="4">
-        <text>mistake</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
