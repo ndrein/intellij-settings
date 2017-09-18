@@ -41,6 +41,9 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" timestamp="1505754354297">
+        <mark key="'" line="15" column="0" />
+      </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.py" timestamp="1505752327390">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -135,6 +138,7 @@
       <jump line="8" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
       <jump line="2" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
       <jump line="20" column="21" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/2-4.py" />
+      <jump line="15" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
