@@ -15,20 +15,20 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1505586140161">
+      <file name="/Python Console" timestamp="1505930370262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1505586108344">
+      <file name="/fragment.py" timestamp="1505930086416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1505754156289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q1.py" timestamp="1505772770975">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="35" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q1.py" timestamp="1505926313796">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/perceptron.py" timestamp="1505586381929">
         <mark key="'" line="10" column="0" />
@@ -69,29 +69,31 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="64" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/show_mistakes.py" timestamp="1505775471518">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="23" column="13" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-      </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.names" timestamp="1505502716122">
-        <mark key="[" line="73" column="1" />
-        <mark key="]" line="73" column="2" />
-        <mark key="." line="73" column="1" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/show_mistakes.py" timestamp="1505926586322">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/ridge_regression.py" timestamp="1505770614414">
         <mark key="]" line="4" column="7" />
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/perceptron.py" timestamp="1505772763452">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/perceptron.py" timestamp="1505926303455">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/winnow.py" timestamp="1505924519638" />
-      <file name="/Dummy.txt" timestamp="1505586140305">
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/winnow.py" timestamp="1505930307965">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505930004278">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" timestamp="1505774029015">
@@ -108,12 +110,12 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q6.py" timestamp="1505771709673">
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q6.py" timestamp="1505926323256">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/2-4.py" timestamp="1505754129582">
         <mark key="'" line="20" column="21" />
@@ -122,12 +124,12 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" timestamp="1505776945775">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="31" column="5" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" timestamp="1505929960786">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.py" timestamp="1505752327390">
         <mark key="[" line="15" column="0" />
@@ -135,11 +137,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="67" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q2.py" timestamp="1505775307659">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="72" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q2.py" timestamp="1505926317717">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="72" />
-        <mark key="." line="5" column="72" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q1.py" timestamp="1505505177557">
         <mark key="'" line="4" column="54" />
@@ -197,7 +199,6 @@
       <jump line="8" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
       <jump line="2" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q6.py" />
       <jump line="20" column="21" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/2-4.py" />
-      <jump line="15" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
       <jump line="10" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
       <jump line="5" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
       <jump line="8" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
@@ -206,49 +207,58 @@
       <jump line="9" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
       <jump line="10" column="4" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
       <jump line="7" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
-      <jump line="26" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
       <jump line="31" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
       <jump line="1" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="18" column="4" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/winnow.py" />
+      <jump line="11" column="4" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/perceptron.py" />
+      <jump line="26" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="0" column="42" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="25" column="11" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="3" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="15" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="48" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="8" column="3" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/winnow.py" />
+      <jump line="18" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2hvd19taXMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnRXhjZXB0aW9uIGluIGFyaXRobWV0aWMnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIHRpdGxlIGlzIG5vdCBOb25lOgogICAgICAgIHBsdC50aXRsZSh0aXRsZSkK</text>
+        <text encoding="base64">X3Bsb3RfYmVzdF9zdGVwX3NpemVfdnNfbWlzdGFrZXMoc29ydGVkKHN0ZXBfc2l6ZXMsIGtleT1sYW1iZGEgczogc3RlcF9zaXplX3RvX21pc3Rha2Vbc11bLTFdKVswXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2hvd19taXMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnRXhjZXB0aW9uIGluIGFyaXRobWV0aWMnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICclcycgJSBzdGVwX3NpemUKICAgICd7fScuZm9ybWF0KHN0ZXBfc2l6ZSkKICAgICd7YX0sIHtifScuZm9ybWF0KGE9YSwgYj1iKQo=</text>
+        <text encoding="base64">ZGVmIF9ub3JtYWxpemVfYWJzX3ZhbHVlKFgpOgogICAgcmV0dXJuIDEgLyBfbWF4X2FicyhYKSAqIFgKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGYne3N0Jwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsdC5wbHQobWlzdGFrZSkK</text>
+        <text encoding="base64">ICAgIGV4Ywo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsdC5kcmF3KCkK</text>
+        <text encoding="base64">c3RlcF9zaXplcyA9IF9nZW5lcmF0ZV9zdGVwX3NpemVzKDQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdC5wbG90KG1pc3Rha2UpCiAgICBpZiB0aXRsZSBpcyBub3QgTm9uZToKICAgICAgICBwbHQudGl0bGUodGl0bGUpCiAgICBwbHQueGxhYmVsKCdJdGVyYXRpb24gIycpCiAgICBwbHQueWxhYmVsKCcjIG9mIG1pc3Rha2VzIG1hZGUnKQogICAgcGx0LnNob3coKQo=</text>
+        <text encoding="base64">IyBYLCB5ID0gZ2V0X1h5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9udW1fc3RhcnMobnVtX21pc3Rha2VzLCBtYXhfbWlzdGFrZXMpOgogICAgcmV0dXJuIGludChmbG9hdChudW1fbWlzdGFrZXMpIC8gZmxvYXQobWF4X21pc3Rha2VzKSAqIDEwKQoKCmRlZiBfbWlzdGFrZXNfdG9fc3RhcnMobnVtX21pc3Rha2VzLCBtYXhfbWlzdGFrZXMpOgogICAgcmV0dXJuICcqJyAqIF9udW1fc3RhcnMobnVtX21pc3Rha2VzLCBtYXhfbWlzdGFrZXMpCgo=</text>
+        <text encoding="base64">IyBzdGVwX3NpemVfdG9fbWlzdGFrZSA9IGRpY3QoKQojIGZvciBzdGVwX3NpemUgaW4gc3RlcF9zaXplczoKIyAgICAgc3RlcF9zaXplX3RvX21pc3Rha2Vbc3RlcF9zaXplXSA9IHdpbm5vdyhYLCB5LCBzdGVwX3NpemUpCiMgcHJpbnQoJ1N0ZXAgc2l6ZToge30sIGZpbmFsIG51bWJlciBvZiBtaXN0YWtlczoge30nLmZvcm1hdChzdGVwX3NpemUsIG1pc3Rha2VbLTFdKSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/train/test</text>
