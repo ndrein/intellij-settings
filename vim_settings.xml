@@ -75,11 +75,12 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/ridge_regression.py" timestamp="1505944392246">
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
-        <mark key="^" line="9" column="39" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/ridge_regression.py" timestamp="1505945006936">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/perceptron.py" timestamp="1505942480836">
         <mark key="'" line="29" column="0" />
@@ -218,46 +219,47 @@
       <jump line="29" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/perceptron.py" />
       <jump line="6" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
       <jump line="9" column="58" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
+      <jump line="5" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/ridge_regression.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIHJpZGdlX3JlZ3Jlc3Npb24oWCwgeSwgbGFtYik6CiAgICAiIiIKICAgIDpwYXJhbSBYOiBuIHggZAogICAgOnBhcmFtIHk6IG4KICAgIDpwYXJhbSBsYW1iOiBsYW1iZGEgPiAwCiAgICA6cmV0dXJuOiB3ZWlnaHRzIFcKICAgICIiIgogICAgbiwgZCA9IFguc2hhcGUKCiAgICByZXR1cm4gbnAubGluYWxnLnNvbHZlKFgudHJhbnNwb3NlKCkuZG90KFgpICsgbGFtYiAqIG5wLmlkZW50aXR5KGQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBYLnRyYW5zcG9zZSgpLmRvdCh5KSkKCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>lim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHlfaSAqICh4X2kuZG90KHcpICsgYikgPiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gWDogbiB4IGQKICAgICAgICA6cGFyYW0geTogbgogICAgICAgIDpwYXJhbSBsYW1iOiBsYW1iZGEgPiAwCiAgICAgICAgOnJldHVybjogd2VpZ2h0cyBXCiAgICAgICAgIiIiCiAgICAgICAgbiwgZCA9IFguc2hhcGUKCiAgICAgICAgcmV0dXJuIG5wLmxpbmFsZy5zb2x2ZShYLnRyYW5zcG9zZSgpLmRvdChYKSArIGxhbWIgKiBucC5pZGVudGl0eShkKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFgudHJhbnNwb3NlKCkuZG90KHkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEkgPQo=</text>
+        <text encoding="base64">ZGVmIHJpZGdlX3JlZ3Jlc3Npb24oWCwgeSwgbGFtYik6CiAgICAiIiIKICAgIDpwYXJhbSBYOiBuIHggZAogICAgOnBhcmFtIHk6IG4KICAgIDpwYXJhbSBsYW1iOiBsYW1iZGEgPiAwCiAgICA6cmV0dXJuOiB3ZWlnaHRzIFcKICAgICIiIgogICAgbiwgZCA9IFguc2hhcGUKCiAgICByZXR1cm4gbnAubGluYWxnLnNvbHZlKFgudHJhbnNwb3NlKCkuZG90KFgpICsgbGFtYiAqIG5wLmlkZW50aXR5KGQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBYLnRyYW5zcG9zZSgpLmRvdCh5KSkKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfcmlkZ2VfcmVncmVzc2lvbihzZWxmLCBYLCB5LCBsYW1iKToKICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gWDogbiB4IGQKICAgICAgICA6cGFyYW0geTogbgogICAgICAgIDpwYXJhbSBsYW1iOiBsYW1iZGEgPiAwCiAgICAgICAgOnJldHVybjogd2VpZ2h0cyBXCiAgICAgICAgIiIiCiAgICAgICAgbiwgZCA9IFguc2hhcGUKCiAgICAgICAgcmV0dXJuIG5wLmxpbmFsZy5zb2x2ZShYLnRyYW5zcG9zZSgpLmRvdChYKSArIGxhbWIgKiBucC5pZGVudGl0eShkKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFgudHJhbnNwb3NlKCkuZG90KHkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5wLmxpbmFsZy5zb2x2ZShYKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50X21pc3Rha2VzKG1pc3Rha2UpCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIF9zaWduKHQpOgogICAgcmV0dXJuIDEgaWYgdCA+IDAgZWxzZSAtMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIF9zaWduKHhfaS5kb3QodykgKyBiKSA9PSB5X2kK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB5X2kgKiAoeF9pLmRvdCh3KSArIGIpID4gMAo=</text>
+        <text encoding="base64">ICAgIEkgPSBucC5pZGVudGl0eShkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9zaWduCg==</text>
+        <text encoding="base64">ICAgIEkgPQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/train/test</text>
