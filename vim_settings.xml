@@ -9,9 +9,6 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505586140305">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/winnow.py" timestamp="1505753722798">
         <mark key="'" line="33" column="23" />
         <mark key="[" line="17" column="0" />
@@ -21,58 +18,17 @@
       <file name="/Python Console" timestamp="1505586140161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" timestamp="1505771122966">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-      </file>
       <file name="/fragment.py" timestamp="1505586108344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/plot_mistakes.py" timestamp="1505505082577">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="78" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1505754156289">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q6.py" timestamp="1505771709673">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-      </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/2-4.py" timestamp="1505754129582">
-        <mark key="'" line="20" column="21" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="22" column="48" />
-        <mark key="^" line="22" column="48" />
-      </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" timestamp="1505769676581">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="100" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q1.py" timestamp="1505772770975">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
-      </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.py" timestamp="1505752327390">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="67" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/perceptron.py" timestamp="1505586381929">
         <mark key="'" line="10" column="0" />
@@ -86,13 +42,6 @@
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
-      </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q1.py" timestamp="1505505177557">
-        <mark key="'" line="4" column="54" />
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="8" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="8" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q2.py" timestamp="1505505232676">
         <mark key="[" line="6" column="0" />
@@ -114,11 +63,17 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/spambase.py" timestamp="1505771520335">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="120" />
-        <mark key="." line="11" column="120" />
-        <mark key="^" line="11" column="120" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/spambase.py" timestamp="1505773902544">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="64" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/show_mistakes.py" timestamp="1505775471518">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.names" timestamp="1505502716122">
         <mark key="[" line="73" column="1" />
@@ -134,6 +89,63 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505586140305">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" timestamp="1505774029015">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/plot_mistakes.py" timestamp="1505505082577">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="78" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q6.py" timestamp="1505771709673">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/2-4.py" timestamp="1505754129582">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" timestamp="1505776945775">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="31" column="5" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/spambase.py" timestamp="1505752327390">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="67" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q2.py" timestamp="1505775307659">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="72" />
+        <mark key="^" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+      </file>
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/q1.py" timestamp="1505505177557">
+        <mark key="'" line="4" column="54" />
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="8" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/ridge_regression.py" timestamp="1505770574810">
         <mark key="[" line="3" column="26" />
@@ -189,52 +201,74 @@
       <jump line="5" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
       <jump line="8" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
       <jump line="5" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q6.py" />
+      <jump line="7" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
+      <jump line="9" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
+      <jump line="10" column="4" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
+      <jump line="7" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="26" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="31" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
+      <jump line="1" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFggPSBkYXRhWzosIDotMV0KICAgIHkgPSBucC5hcnJheShbLTEgaWYgYSA9PSAwIGVsc2UgMSBmb3IgYSBpbiBkYXRhWzosIC0xOl1dKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgne306IHt9Jy5mb3JtYXQodCwgbWlzdGFrZVt0XSkpCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>, max_pass=50000)</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzcGFtYmFzZSBpbXBvcnQgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFggPSBkYXRhWzosIF0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBfLCBfLCBtaXN0YWtlID0gd2lubm93KFgsIHkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2hvd19taXMK</text>
       </register>
       <register name="-" type="4">
-        <text>, max_pass=50000)</text>
+        <text>f</text>
+      </register>
+      <register name="/" type="4">
+        <text>train</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIHRpdGxlIGlzIG5vdCBOb25lOgogICAgICAgIHBsdC50aXRsZSh0aXRsZSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">c2hvd19taXMK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICclcycgJSBzdGVwX3NpemUKICAgICd7fScuZm9ybWF0KHN0ZXBfc2l6ZSkKICAgICd7YX0sIHtifScuZm9ybWF0KGE9YSwgYj1iKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGYne3N0Jwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBsdC5wbHQobWlzdGFrZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBsdC5kcmF3KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBsdC5wbG90KG1pc3Rha2UpCiAgICBpZiB0aXRsZSBpcyBub3QgTm9uZToKICAgICAgICBwbHQudGl0bGUodGl0bGUpCiAgICBwbHQueGxhYmVsKCdJdGVyYXRpb24gIycpCiAgICBwbHQueWxhYmVsKCcjIG9mIG1pc3Rha2VzIG1hZGUnKQogICAgcGx0LnNob3coKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIF9udW1fc3RhcnMobnVtX21pc3Rha2VzLCBtYXhfbWlzdGFrZXMpOgogICAgcmV0dXJuIGludChmbG9hdChudW1fbWlzdGFrZXMpIC8gZmxvYXQobWF4X21pc3Rha2VzKSAqIDEwKQoKCmRlZiBfbWlzdGFrZXNfdG9fc3RhcnMobnVtX21pc3Rha2VzLCBtYXhfbWlzdGFrZXMpOgogICAgcmV0dXJuICcqJyAqIF9udW1fc3RhcnMobnVtX21pc3Rha2VzLCBtYXhfbWlzdGFrZXMpCgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>s/train/test</text>
       </register>
     </registers>
     <search>
+      <last-search>train</last-search>
+      <last-pattern>train</last-pattern>
+      <last-replace>test</last-replace>
+      <last-substitute>train</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>train</entry>
+      </history-search>
+      <history-cmd>
+        <entry>S/train/test</entry>
+        <entry>s/train/test</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
