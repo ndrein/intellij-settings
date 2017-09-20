@@ -75,10 +75,11 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/ridge_regression.py" timestamp="1505770614414">
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/ridge_regression.py" timestamp="1505944392246">
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="39" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/perceptron.py" timestamp="1505942480836">
         <mark key="'" line="29" column="0" />
@@ -92,11 +93,11 @@
       <file name="/Dummy.txt" timestamp="1505930004278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" timestamp="1505774029015">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" timestamp="1505943732418">
+        <mark key="'" line="9" column="58" />
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="63" />
+        <mark key="." line="5" column="63" />
         <mark key="^" line="8" column="14" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/plot_mistakes.py" timestamp="1505505082577">
@@ -200,7 +201,6 @@
       <jump line="8" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
       <jump line="5" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q6.py" />
       <jump line="7" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
-      <jump line="9" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
       <jump line="10" column="4" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
       <jump line="7" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
       <jump line="31" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
@@ -216,62 +216,66 @@
       <jump line="8" column="3" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/winnow.py" />
       <jump line="18" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q4.py" />
       <jump line="29" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/perceptron.py" />
+      <jump line="6" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
+      <jump line="9" column="58" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50X21pc3Rha2VzKG1pc3Rha2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>train</text>
+        <text>lim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgcmV0dXJuIHlfaSAqICh4X2kuZG90KHcpICsgYikgPiAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50X21pc3Rha2VzKG1pc3Rha2UpCg==</text>
+        <text encoding="base64">ICAgIEkgPQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9zaWduKHQpOgogICAgcmV0dXJuIDEgaWYgdCA+IDAgZWxzZSAtMQo=</text>
+        <text encoding="base64">SSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIF9zaWduKHhfaS5kb3QodykgKyBiKSA9PSB5X2kK</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB5X2kgKiAoeF9pLmRvdCh3KSArIGIpID4gMAo=</text>
+        <text encoding="base64">ICAgIG5wLmxpbmFsZy5zb2x2ZShYKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIF9zaWduCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIF9zaWduKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50X21pc3Rha2VzKG1pc3Rha2UpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIF9zaWduKHQpOgogICAgcmV0dXJuIDEgaWYgdCA+IDAgZWxzZSAtMQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgcmV0dXJuIF9zaWduKHhfaS5kb3QodykgKyBiKSA9PSB5X2kK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnRXhjZXB0aW9uIGluIGFyaXRobWV0aWMnKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB5X2kgKiAoeF9pLmRvdCh3KSArIGIpID4gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9ub3JtYWxpemVfYWJzX3ZhbHVlKFgpOgogICAgcmV0dXJuIDEgLyBfbWF4X2FicyhYKSAqIFgKCgo=</text>
+        <text encoding="base64">ZGVmIF9zaWduCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/train/test</text>
       </register>
     </registers>
     <search>
-      <last-search>train</last-search>
-      <last-pattern>train</last-pattern>
+      <last-search>lim</last-search>
+      <last-offset />
+      <last-pattern>lim</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>train</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>train</entry>
+        <entry>lim</entry>
       </history-search>
       <history-cmd>
         <entry>S/train/test</entry>
