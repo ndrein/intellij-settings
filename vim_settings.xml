@@ -105,11 +105,8 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" timestamp="1506106148000">
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" timestamp="1506106677940">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="7" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q6.py" timestamp="1505926323256">
         <mark key="'" line="5" column="0" />
@@ -245,7 +242,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">ZGVmIF9tc2VfcmVzdWx0cyhYX3RyYWluLCB5X3RyYWluLCBsYW1iKToKICAgIHdfdHJhaW4gPSByaWRnZV9yZWdyZXNzaW9uKFhfdHJhaW4sIHlfdHJhaW4sIGxhbWIpCiAgICB0cmFpbl9tc2UgPSBfbXNlKHdfdHJhaW4sIFhfdHJhaW4sIHlfdHJhaW4pCiAgICB0ZXN0X21zZSA9IF9tc2Uod190cmFpbiwgWF90ZXN0LCB5X3Rlc3QpCgogICAgY3ZfbXNlID0gX2N2X21zZShYX3RyYWluLCB5X3RyYWluKQogICAgY3ZfYXZlcmFnZV9tc2UgPSBucC5tZWFuKGN2X21zZSkKICAgIGN2X21zZV9zdW0gPSBzdW0oY3ZfbXNlKQoKICAgIHJldHVybiB0cmFpbl9tc2UsIHRlc3RfbXNlLCBjdl9hdmVyYWdlX21zZSwgY3ZfbXNlX3N1bQo=</text>
       </register>
       <register name="-" type="4">
         <text>train_mse))</text>
@@ -257,31 +254,31 @@
         <text encoding="base64">ICAgIGN2X21zZSA9IFtdCiAgICBmb3IgWF9jdl90cmFpbiwgWF9jdl90ZXN0LCB5X2N2X3RyYWluLCB5X2N2X3Rlc3QgaW4gX2N2X2NodW5rcyhYX3RyYWluLCB5X3RyYWluKToKICAgICAgICB3ID0gcmlkZ2VfcmVncmVzc2lvbihYX2N2X3RyYWluLCB5X2N2X3RyYWluLCBsYW1iKQogICAgICAgIGN2X21zZS5hcHBlbmQoX21zZSh3LCBYX2N2X3Rlc3QsIHlfY3ZfdGVzdCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">ZGVmIF9tc2VfcmVzdWx0cyhYX3RyYWluLCB5X3RyYWluLCBsYW1iKToKICAgIHdfdHJhaW4gPSByaWRnZV9yZWdyZXNzaW9uKFhfdHJhaW4sIHlfdHJhaW4sIGxhbWIpCiAgICB0cmFpbl9tc2UgPSBfbXNlKHdfdHJhaW4sIFhfdHJhaW4sIHlfdHJhaW4pCiAgICB0ZXN0X21zZSA9IF9tc2Uod190cmFpbiwgWF90ZXN0LCB5X3Rlc3QpCgogICAgY3ZfbXNlID0gX2N2X21zZShYX3RyYWluLCB5X3RyYWluKQogICAgY3ZfYXZlcmFnZV9tc2UgPSBucC5tZWFuKGN2X21zZSkKICAgIGN2X21zZV9zdW0gPSBzdW0oY3ZfbXNlKQoKICAgIHJldHVybiB0cmFpbl9tc2UsIHRlc3RfbXNlLCBjdl9hdmVyYWdlX21zZSwgY3ZfbXNlX3N1bQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoJ1BlcmNlbnRhZ2UnKQo=</text>
+        <text encoding="base64">ICAgICMgdHJhaW5fbXNlLCB0ZXN0X21zZSwgY3ZfYXZlcmFnZV9tc2UsIGN2X21zZV9zdW0gPSBfbXNlX3Jlc3VsdHMoWF90cmFpbiwgeV90cmFpbiwgbGFtYikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBlcmN3X3RyYWluID0gcmlkZ2VfcmVncmVzc2lvbihYX3RyYWluLCB5X3RyYWluLCBsYW1iKQo=</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsaXN0KHJpZGdlX3JlZ3Jlc3Npb24oWF90cmFpbiwgeV90cmFpbiwgbGFtYikpLmNvdW50KDApIC8gbGVuMAo=</text>
+        <text encoding="base64">cHJpbnQoJ1BlcmNlbnRhZ2UnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTdW0gb2YgTVNFIG92ZXIgY3Jvc3MtdmFsaWRhdGlvbjoge30nLmZvcm1hdCgK</text>
+        <text encoding="base64">ICAgIHBlcmN3X3RyYWluID0gcmlkZ2VfcmVncmVzc2lvbihYX3RyYWluLCB5X3RyYWluLCBsYW1iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyYWluX21zZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBsaXN0KHJpZGdlX3JlZ3Jlc3Npb24oWF90cmFpbiwgeV90cmFpbiwgbGFtYikpLmNvdW50KDApIC8gbGVuMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGFtYmRhX3RvX3Jlc3VsdHMgPSB7bGFtYjoK</text>
+        <text encoding="base64">ICAgIHByaW50KCdTdW0gb2YgTVNFIG92ZXIgY3Jvc3MtdmFsaWRhdGlvbjoge30nLmZvcm1hdCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN2X21zZSA9IFtdCiAgICBmb3IgWF9jdl90cmFpbiwgWF9jdl90ZXN0LCB5X2N2X3RyYWluLCB5X2N2X3Rlc3QgaW4gX2N2X2NodW5rcyhYX3RyYWluLCB5X3RyYWluKToKICAgICAgICB3ID0gcmlkZ2VfcmVncmVzc2lvbihYX2N2X3RyYWluLCB5X2N2X3RyYWluLCBsYW1iKQogICAgICAgIGN2X21zZS5hcHBlbmQoX21zZSh3LCBYX2N2X3Rlc3QsIHlfY3ZfdGVzdCkpCg==</text>
+        <text encoding="base64">ICAgIHRyYWluX21zZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">bGFtYmRhX3RvX3Jlc3VsdHMgPSB7bGFtYjoK</text>
       </register>
       <register name=":" type="4">
         <text>s/train/test</text>
