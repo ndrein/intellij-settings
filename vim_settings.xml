@@ -88,7 +88,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505930004278">
+      <file name="/Dummy.txt" timestamp="1506050109019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/boston.py" timestamp="1505943732418">
@@ -105,11 +105,12 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" timestamp="1506050105197">
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="27" column="75" />
-        <mark key="^" line="27" column="75" />
-        <mark key="." line="27" column="75" />
+      <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" timestamp="1506050209219">
+        <mark key="'" line="3" column="44" />
+        <mark key="[" line="31" column="72" />
+        <mark key="]" line="32" column="55" />
+        <mark key="^" line="32" column="55" />
+        <mark key="." line="32" column="55" />
       </file>
       <file name="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise1/q6.py" timestamp="1505926323256">
         <mark key="'" line="5" column="0" />
@@ -229,7 +230,8 @@
       <jump line="6" column="7" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" />
       <jump line="12" column="3" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" />
       <jump line="24" column="3" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" />
-      <jump line="3" column="0" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" />
+      <jump line="31" column="3" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" />
+      <jump line="3" column="44" filename="/mnt/c/Users/ndrei/Fall 2017/CS 489/a1/exercise2/q1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
