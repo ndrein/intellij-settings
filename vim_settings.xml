@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa_transitions.py" timestamp="1543088787046">
         <mark key="'" line="49" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1543114475934">
+      <file name="/Python Console" timestamp="1543117195170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_two_accept_states.py" timestamp="1541260986011">
@@ -52,12 +52,9 @@
       <file name="/a.dummy" timestamp="1543115278338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" timestamp="1543115852312">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="50" column="69" />
-        <mark key="]" line="50" column="220" />
-        <mark key="^" line="50" column="220" />
-        <mark key="." line="50" column="220" />
+      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" timestamp="1543117256182">
+        <mark key="'" line="49" column="12" />
+        <mark key="^" line="55" column="67" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_accept_state.py" timestamp="1540344409984">
         <mark key="[" line="14" column="35" />
@@ -107,14 +104,10 @@
         <mark key="^" line="15" column="59" />
         <mark key="." line="15" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/dfa.py" timestamp="1543088535468">
-        <mark key="'" line="29" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/dev/python-syntax/syntax/dfa.py" timestamp="1543117427834">
+        <mark key="'" line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543114562842">
+      <file name="/Dummy.txt" timestamp="1543117456460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1543097666238">
@@ -157,12 +150,12 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1543114547400">
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1543117193445">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="16" column="58" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="63" />
-        <mark key="^" line="16" column="63" />
+        <mark key="[" line="4" column="59" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="4" column="60" />
+        <mark key="^" line="4" column="60" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_single_state.py" timestamp="1543088998255">
         <mark key="'" line="10" column="0" />
@@ -174,12 +167,12 @@
       <file name="/" timestamp="1540345438572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543115228552">
+      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543117466519">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="82" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="41" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="55" />
+        <mark key="." line="2" column="55" />
+        <mark key="^" line="2" column="55" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_single_state.py" timestamp="1540343589192">
         <mark key="'" line="0" column="62" />
@@ -218,6 +211,12 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" timestamp="1543117149412">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python-syntax/syntax/grammar.py" timestamp="1538257716179">
         <mark key="'" line="12" column="37" />
         <mark key="[" line="8" column="0" />
@@ -239,15 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="24" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="1" column="33" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="22" column="11" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="4" column="3" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
-      <jump line="24" column="11" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
@@ -337,74 +327,82 @@
       <jump line="8" column="67" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="84" column="4" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
+      <jump line="51" column="12" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
+      <jump line="0" column="1" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
+      <jump line="0" column="32" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJUcmF2ZXJzZSIiIgogICAgICAgICIiIgogICAgICAgIAogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ZnJvbSBzeW50YXgudG9rZW5pemVyIGltcG9ydCBVbmV4cGVjdGVkQ2hhcmFjdGVyRXhjZXB0aW9uCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>5</text>
+        <text>logic_dfa.transitions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0ZSA9IHNlbGYuc3RhcnRfc3RhdGUKICAgICAgICBudW1fcHJvY2Vzc2VkID0gMAogICAgICAgIGZvdW5kX2FjY2VwdF9zdGF0ZSA9IEZhbHNlCgogICAgICAgIGZvciBjIGluIHM6CiAgICAgICAgICAgIGlmIChzdGF0ZSwgYykgaW4gc2VsZi50cmFuc2l0aW9uczoKICAgICAgICAgICAgICAgIG5leHRfc3RhdGUgPSBzZWxmLnRyYW5zaXRpb25zW3N0YXRlLCBjXQoKICAgICAgICAgICAgICAgIGlmIGZvdW5kX2FjY2VwdF9zdGF0ZSBhbmQgbmV4dF9zdGF0ZSBub3QgaW4gc2VsZi5hY2NlcHRfc3RhdGVzOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICBzdGF0ZSA9IHNlbGYudHJhbnNpdGlvbnNbc3RhdGUsIGNdCiAgICAgICAgICAgICAgICBpZiBzdGF0ZSBpbiBzZWxmLmFjY2VwdF9zdGF0ZXM6CiAgICAgICAgICAgICAgICAgICAgZm91bmRfYWNjZXB0X3N0YXRlID0gVHJ1ZQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgaWYgc3RhdGUgaW4gc2VsZi5hY2NlcHRfc3RhdGVzOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCgogICAgICAgICAgICAgICAgcmFpc2UgVW5leHBlY3RlZENoYXJhY3RlckV4Y2VwdGlvbgoKICAgICAgICAgICAgbnVtX3Byb2Nlc3NlZCArPSAxCgogICAgICAgIHJldHVybiBzdGF0ZSwgbnVtX3Byb2Nlc3NlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJUcmF2ZXJzZSIiIgogICAgICAgICIiIgogICAgICAgIAogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ZnJvbSBzeW50YXgudG9rZW5pemVyIGltcG9ydCBVbmV4cGVjdGVkQ2hhcmFjdGVyRXhjZXB0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text>j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Y2xhc3MgVW5leHBlY3RlZENoYXJhY3RlckV4Y2VwdGlvbihFeGNlcHRpb24pOgogICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gczogCg==</text>
+        <text encoding="base64">ZnJvbSBzeW50YXguZGZhIGltcG9ydCBEZmEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJUcmF2ZXJzZSIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICAiIiJUcmF2ZXJzZSIiIgogICAgICAgICIiIgogICAgICAgIAogICAgICAgICIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gczogCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gczogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcHJvY2Vzc19jaGFycyhzZWxmLCBzKToKICAgICAgICBzdGF0ZSA9IHNlbGYuc3RhcnRfc3RhdGUKICAgICAgICBudW1fcHJvY2Vzc2VkID0gMAogICAgICAgIGZvdW5kX2FjY2VwdF9zdGF0ZSA9IEZhbHNlCgogICAgICAgIGZvciBjIGluIHM6CiAgICAgICAgICAgIGlmIChzdGF0ZSwgYykgaW4gc2VsZi50cmFuc2l0aW9uczoKICAgICAgICAgICAgICAgIG5leHRfc3RhdGUgPSBzZWxmLnRyYW5zaXRpb25zW3N0YXRlLCBjXQoKICAgICAgICAgICAgICAgIGlmIGZvdW5kX2FjY2VwdF9zdGF0ZSBhbmQgbmV4dF9zdGF0ZSBub3QgaW4gc2VsZi5hY2NlcHRfc3RhdGVzOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICBzdGF0ZSA9IHNlbGYudHJhbnNpdGlvbnNbc3RhdGUsIGNdCiAgICAgICAgICAgICAgICBpZiBzdGF0ZSBpbiBzZWxmLmFjY2VwdF9zdGF0ZXM6CiAgICAgICAgICAgICAgICAgICAgZm91bmRfYWNjZXB0X3N0YXRlID0gVHJ1ZQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgaWYgc3RhdGUgaW4gc2VsZi5hY2NlcHRfc3RhdGVzOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCgogICAgICAgICAgICAgICAgcmFpc2UgVW5leHBlY3RlZENoYXJhY3RlckV4Y2VwdGlvbgoKICAgICAgICAgICAgbnVtX3Byb2Nlc3NlZCArPSAxCgogICAgICAgIHJldHVybiBzdGF0ZSwgbnVtX3Byb2Nlc3NlZAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiJUcmF2ZXJzZSIiIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXJ0X3N0YXRlID0gc3RhcnRfc3RhdGUKICAgICAgICBzZWxmLmFjY2VwdF9zdGF0ZXMgPSBhY2NlcHRfc3RhdGVzCiAgICAgICAgc2VsZi50cmFuc2l0aW9ucyA9IHRyYW5zaXRpb25zCiAgICAgICAgc2VsZi5hY2NlcHRfc3RhdGVfdG9fdG9rZW5fdHlwZSA9IGFjY2VwdF9zdGF0ZV90b190b2tlbl90eXBl</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/_transitions/logic_dfa.transitions/g</text>
+        <text>%s/logic_dfa.transitions/logic_dfa['transitions']/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>5</last-search>
+      <last-search>logic_dfa.transitions</last-search>
       <last-offset />
-      <last-pattern>5</last-pattern>
-      <last-replace>logic_dfa.transitions</last-replace>
-      <last-substitute>_transitions</last-substitute>
+      <last-pattern>logic_dfa.transitions</last-pattern>
+      <last-replace>logic_dfa['transitions']</last-replace>
+      <last-substitute>logic_dfa.transitions</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>not</entry>
         <entry>NOT_1</entry>
         <entry>NOT_2</entry>
         <entry>NOT_3</entry>
@@ -424,9 +422,9 @@
         <entry>_transitions</entry>
         <entry>fun</entry>
         <entry>5</entry>
+        <entry>logic_dfa.transitions</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/AND_3/AND[2]/g</entry>
         <entry>:%s/OR_2/OR[1]/g</entry>
         <entry>:%s/OR_1/OR[0]/g</entry>
         <entry>%s/OR_1/OR[0]/g</entry>
@@ -446,6 +444,7 @@
         <entry>%s/transitions/logic_dfa.transitions</entry>
         <entry>%s/_transitions/logic_dfa.transitions</entry>
         <entry>%s/_transitions/logic_dfa.transitions/g</entry>
+        <entry>%s/logic_dfa.transitions/logic_dfa['transitions']/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
