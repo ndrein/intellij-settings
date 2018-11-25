@@ -16,24 +16,23 @@
         <mark key="." line="38" column="16" />
         <mark key="^" line="38" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/README.md" timestamp="1543098425020">
+      <file name="$USER_HOME$/dev/python-syntax/README.md" timestamp="1543118525839">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_single_state.py" timestamp="1543114157591">
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_single_state.py" timestamp="1543119929257">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="99" />
-        <mark key="]" line="4" column="128" />
-        <mark key="^" line="4" column="128" />
-        <mark key="." line="4" column="128" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa_transitions.py" timestamp="1543088787046">
         <mark key="'" line="49" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1543117195170">
+      <file name="/Python Console" timestamp="1543119182496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_two_accept_states.py" timestamp="1541260986011">
@@ -43,7 +42,7 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="58" />
       </file>
-      <file name="/fragment.py" timestamp="1543097890570">
+      <file name="/fragment.py" timestamp="1543119020432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -52,15 +51,19 @@
       <file name="/a.dummy" timestamp="1543115278338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" timestamp="1543117256182">
+      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" timestamp="1543119160992">
         <mark key="'" line="49" column="12" />
+        <mark key="[" line="50" column="54" />
+        <mark key="]" line="50" column="55" />
         <mark key="^" line="55" column="67" />
+        <mark key="." line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_accept_state.py" timestamp="1540344409984">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="37" />
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_accept_state.py" timestamp="1543120007567">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="65" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_two_accept_states.py" timestamp="1540344060321">
         <mark key="'" line="4" column="71" />
@@ -97,18 +100,25 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_munch_ends_after_accept_state.py" timestamp="1543114334478">
-        <mark key="'" line="10" column="57" />
-        <mark key="[" line="14" column="79" />
-        <mark key="]" line="15" column="59" />
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_munch_ends_after_accept_state.py" timestamp="1543119759765">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="89" />
         <mark key="^" line="15" column="59" />
-        <mark key="." line="15" column="59" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/dfa.py" timestamp="1543117427834">
-        <mark key="'" line="35" column="0" />
+      <file name="$USER_HOME$/dev/python-syntax/syntax/dfa.py" timestamp="1543120591717">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="14" column="53" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="14" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543117456460">
+      <file name="/Dummy.txt" timestamp="1543120643383">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1543097666238">
         <mark key="'" line="7" column="14" />
@@ -124,10 +134,12 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_tokenize.py" timestamp="1543114500173">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_tokenize.py" timestamp="1543120235988">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="65" column="51" />
+        <mark key="]" line="65" column="57" />
+        <mark key="." line="65" column="57" />
+        <mark key="^" line="65" column="57" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/grammar.py" timestamp="1537651160511">
         <mark key="'" line="0" column="0" />
@@ -150,12 +162,12 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1543117193445">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="4" column="60" />
-        <mark key="." line="4" column="60" />
-        <mark key="^" line="4" column="60" />
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1543119794309">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
+        <mark key="^" line="58" column="112" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_single_state.py" timestamp="1543088998255">
         <mark key="'" line="10" column="0" />
@@ -167,12 +179,12 @@
       <file name="/" timestamp="1540345438572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543117466519">
+      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543120617496">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="2" column="55" />
-        <mark key="^" line="2" column="55" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_single_state.py" timestamp="1540343589192">
         <mark key="'" line="0" column="62" />
@@ -181,12 +193,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_two_accept_states.py" timestamp="1540344417885">
-        <mark key="'" line="8" column="79" />
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="8" column="79" />
-        <mark key="^" line="8" column="79" />
-        <mark key="." line="8" column="79" />
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_two_accept_states.py" timestamp="1543120049209">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="63" />
+        <mark key="^" line="4" column="79" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_empty_grammar.py" timestamp="1541261407357">
         <mark key="'" line="10" column="0" />
@@ -194,12 +206,6 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" timestamp="1543086304116">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1543096701201">
         <mark key="'" line="51" column="4" />
@@ -211,7 +217,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" timestamp="1543117149412">
+      <file name="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" timestamp="1543119649822">
         <mark key="'" line="49" column="4" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -238,19 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="15" column="17" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="26" column="20" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
-      <jump line="56" column="23" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_dfa.py" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
@@ -332,61 +325,74 @@
       <jump line="9" column="0" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
       <jump line="0" column="1" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
-      <jump line="49" column="4" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="0" column="32" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="19" column="35" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="59" column="11" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_munch_ends_after_accept_state.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_tokenize.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_accept_state.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_accept_state.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_accept_state.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_two_accept_states.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzeW50YXgudG9rZW5pemVyIGltcG9ydCBVbmV4cGVjdGVkQ2hhcmFjdGVyRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgc2RmIHNkZgo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Token, num of characters processed</text>
       </register>
       <register name="/" type="4">
         <text>logic_dfa.transitions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IHNlbGYuc3RhcnRfc3RhdGUKICAgICAgICBudW1fcHJvY2Vzc2VkID0gMAogICAgICAgIGZvdW5kX2FjY2VwdF9zdGF0ZSA9IEZhbHNlCgogICAgICAgIGZvciBjIGluIHM6CiAgICAgICAgICAgIGlmIChzdGF0ZSwgYykgaW4gc2VsZi50cmFuc2l0aW9uczoKICAgICAgICAgICAgICAgIG5leHRfc3RhdGUgPSBzZWxmLnRyYW5zaXRpb25zW3N0YXRlLCBjXQoKICAgICAgICAgICAgICAgIGlmIGZvdW5kX2FjY2VwdF9zdGF0ZSBhbmQgbmV4dF9zdGF0ZSBub3QgaW4gc2VsZi5hY2NlcHRfc3RhdGVzOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICBzdGF0ZSA9IHNlbGYudHJhbnNpdGlvbnNbc3RhdGUsIGNdCiAgICAgICAgICAgICAgICBpZiBzdGF0ZSBpbiBzZWxmLmFjY2VwdF9zdGF0ZXM6CiAgICAgICAgICAgICAgICAgICAgZm91bmRfYWNjZXB0X3N0YXRlID0gVHJ1ZQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgaWYgc3RhdGUgaW4gc2VsZi5hY2NlcHRfc3RhdGVzOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCgogICAgICAgICAgICAgICAgcmFpc2UgVW5leHBlY3RlZENoYXJhY3RlckV4Y2VwdGlvbgoKICAgICAgICAgICAgbnVtX3Byb2Nlc3NlZCArPSAxCgogICAgICAgIHJldHVybiBzdGF0ZSwgbnVtX3Byb2Nlc3NlZAo=</text>
+        <text encoding="base64">ZGVmIHRlc3Rfc2Vjb25kX2FjY2VwdF9zdGF0ZSgpOgogICAgVG9rZW5UeXBlID0gRW51bSgnVG9rZW5UeXBlJywgWydBJywgJ0InXSkKICAgIHRva2VuaXplciA9IFRva2VuaXplcih0cmFuc2l0aW9ucz17KDAsICdhJyk6IDEsICgxLCAnYScpOiAxfSwgc3RhcnRfc3RhdGU9MCwgYWNjZXB0X3N0YXRlcz17MCwgMX0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgYWNjZXB0X3N0YXRlX3RvX3Rva2VuX3R5cGU9ezA6IFRva2VuVHlwZS5BLCAxOiBUb2tlblR5cGUuQn0pCiAgICBhc3NlcnQgW1Rva2VuKFRva2VuVHlwZS5CLCAnYScpXSA9PSB0b2tlbml6ZXIudG9rZW5pemUoJ2EnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzeW50YXgudG9rZW5pemVyIGltcG9ydCBVbmV4cGVjdGVkQ2hhcmFjdGVyRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgc2RmIHNkZgo=</text>
       </register>
       <register name="q" type="4">
         <text>j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVW5leHBlY3RlZENoYXJhY3RlckV4Y2VwdGlvbihFeGNlcHRpb24pOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzeW50YXguZGZhIGltcG9ydCBEZmEK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIGNsYXNzIERmYVByb2Nlc3NvcjoKICAgICAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSBzZWxmLnN0YXJ0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6cmV0dXJuOiBsaXN0IG9mIFRva2VucwogICAgICAgIDpyYWlzZXMgVmFsdWVFcnJvciBpZiB0aGUgaW5wdXQgY291bGQgbm90IGJlIHRva2VuaXplZAogICAgICAgICIiIgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJUcmF2ZXJzZSIiIgogICAgICAgICIiIgogICAgICAgIAogICAgICAgICIiIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IFVuZXhwZWN0ZWRDaGFyYWN0ZXJFeGNlcHRpb24gaWYgYSBjaGFyYWN0ZXIgaXMgZW5jb3VudGVyZWQgdGhhdCBsZWFkcyB0byBhbiBpbnZhbGlkIHRyYW5zaXRpb24KICAgICAgICA6cmFpc2VzIFRva2VuTm90Rm9ybWVkRXhjZXB0aW9uIGlmIGFuIGFjY2VwdCBzdGF0ZSBpcyBub3QgcmVhY2hlZA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBNdW5jaCBjaGFyYWN0ZXJzIGZyb20gcyB1bnRpbCBhbiBhY2NlcHQgc3RhdGUgaXMgcmVhY2hlZC4KICAgICAgICBUaGVuLCBjb250aW51ZSB0byBtdW5jaCB3aGlsZSB0aGUgbmV4dCBjaGFyYWN0ZXJzIHRyYW5zaXRpb24gdG8gYWNjZXB0IHN0YXRlcy4KCiAgICAgICAgOnJldHVybjogVG9rZW4sIG51bSBvZiBjaGFyYWN0ZXJzIHByb2Nlc3NlZAogICAgICAgIDpyYWlzZXMgVW5leHBlY3RlZENoYXJhY3RlckV4Y2VwdGlvbiBpZiBhIGNoYXJhY3RlciBpcyBlbmNvdW50ZXJlZCB0aGF0IGxlYWRzIHRvIGFuIGludmFsaWQgdHJhbnNpdGlvbgogICAgICAgIDpyYWlzZXMgVG9rZW5Ob3RGb3JtZWRFeGNlcHRpb24gaWYgYW4gYWNjZXB0IHN0YXRlIGlzIG5vdCByZWFjaGVkCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gczogCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBNdW5jaCBjaGFyYWN0ZXJzIGZyb20gcyB1bnRpbCBhbiBhY2NlcHQgc3RhdGUgaXMgcmVhY2hlZC4KICAgICAgICBUaGVuLCBjb250aW51ZSB0byBtdW5jaCB3aGlsZSB0aGUgbmV4dCBjaGFyYWN0ZXJzIHRyYW5zaXRpb24gdG8gYWNjZXB0IHN0YXRlcy4KCiAgICAgICAgOnJldHVybjogVG9rZW4sIG51bSBvZiBjaGFyYWN0ZXJzIHByb2Nlc3NlZAogICAgICAgIDpyYWlzZXMgVW5leHBlY3RlZENoYXJhY3RlckV4Y2VwdGlvbiBpZiBhIGNoYXJhY3RlciBpcyBlbmNvdW50ZXJlZCB0aGF0IGxlYWRzIHRvIGFuIGludmFsaWQgdHJhbnNpdGlvbgogICAgICAgIDpyYWlzZXMgVG9rZW5Ob3RGb3JtZWRFeGNlcHRpb24gaWYgYW4gYWNjZXB0IHN0YXRlIGlzIG5vdCByZWFjaGVkCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJUcmF2ZXJzZSIiIgo=</text>
+        <text encoding="base64">ZGVmIHRlc3Rfbm9uZW1wdHlfc3RyaW5nX2dpdmVzX3Rva2VuX25vdF9mb3JtZWQoKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICBUb2tlbml6ZXIoeygwLCAnYScpOiAxfSwgMCwgc2V0KCksIHt9KS50b2tlbml6ZSgnYScpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ZGVmIHRlc3RfdHdvX3Rva2VucygpOgogICAgVG9rZW5UeXBlID0gRW51bSgnVG9rZW5UeXBlJywgWydBJ10pCiAgICB0b2tlbml6ZXIgPSBUb2tlbml6ZXIoeygwLCAnYScpOiAxfSwgMCwgezF9LCB7MTogVG9rZW5UeXBlLkF9KQogICAgYXNzZXJ0IFtUb2tlbihUb2tlblR5cGUuQSwgJ2EnKSwgVG9rZW4oVG9rZW5UeXBlLkEsICdhJyldID09IHRva2VuaXplci50b2tlbml6ZSgnYWEnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/logic_dfa.transitions/logic_dfa['transitions']/gc</text>
