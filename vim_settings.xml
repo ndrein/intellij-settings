@@ -179,12 +179,12 @@
       <file name="/" timestamp="1540345438572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543120617496">
+      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543120687601">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="27" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_single_state.py" timestamp="1540343589192">
         <mark key="'" line="0" column="62" />
