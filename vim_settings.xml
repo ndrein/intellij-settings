@@ -45,12 +45,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1543698442231">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="86" column="25" />
-        <mark key="]" line="86" column="31" />
-        <mark key="." line="86" column="31" />
-        <mark key="^" line="86" column="31" />
+      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1543716613458">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="3" />
       </file>
       <file name="/a.dummy" timestamp="1543692209312">
         <mark key="[" line="0" column="0" />
@@ -62,12 +62,11 @@
         <mark key="^" line="55" column="67" />
         <mark key="." line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/general.sh" timestamp="1543698486794">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/dotfiles/startup-scripts/general.sh" timestamp="1543716421811">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_accept_state.py" timestamp="1543120007567">
         <mark key="'" line="7" column="0" />
@@ -82,6 +81,11 @@
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/startup-scripts/inspiron.sh" timestamp="1543716510853">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_open_parenthese.py" timestamp="1540341049463">
         <mark key="'" line="3" column="0" />
@@ -230,11 +234,11 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" timestamp="1543698466498">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" timestamp="1543716542698">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" timestamp="1543119649822">
         <mark key="'" line="49" column="4" />
@@ -263,18 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/dev/python-syntax/README.md" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="72" column="4" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="23" column="12" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="77" column="4" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_single_state.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
-      <jump line="49" column="14" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="80" column="8" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="62" column="4" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="108" column="4" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="8" column="67" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="84" column="4" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
@@ -363,28 +355,40 @@
       <jump line="0" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
       <jump line="26" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
       <jump line="42" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
+      <jump line="53" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
+      <jump line="86" column="31" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="4" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="80" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="10" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/inspiron.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/inspiron.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
+      <jump line="8" column="19" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
+      <jump line="7" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
+      <jump line="52" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="90" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ALIAS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgVklSVFVBTEVOVldSQVBQRVIKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKc291cmNlIC91c3IvbG9jYWwvYmluL3ZpcnR1YWxlbnZ3cmFwcGVyLnNoCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>ALIAS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TokenType</text>
+        <text>plugin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIEFMSUFTCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGhpc19kaXI9IiR7MDphOmh9Igo=</text>
+        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgVklSVFVBTEVOVldSQVBQRVIKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKc291cmNlIC91c3IvbG9jYWwvYmluL3ZpcnR1YWxlbnZ3cmFwcGVyLnNoCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -403,37 +407,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c291cmNlICR0aGlzX2Rpci9nZW5lcmFsLnNoCg==</text>
+        <text encoding="base64">Cgpzb3VyY2UgJHRoaXNfZGlyL2luc3Bpcm9uLnNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgX1Byb2Nlc3NpbmdTdGF0ZToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCgoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIFdBVEVSTE9PCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCmV4cG9ydCB3YXRlcmxvbz0ibmRyZWluaGFAdWJ1bnR1MTYwNC0wMDIuc3R1ZGVudC5jcy51d2F0ZXJsb28uY2EiCgpmdW5jdGlvbiB3YXRzc2ggeyAgIAogICAgc3NoIC1YICR3YXRlcmxvbwp9ICAgICAgICAgICAgICAgICAgIAoKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBWSVJUVUFMRU5WV1JBUFBFUgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgpzb3VyY2UgL3Vzci9sb2NhbC9iaW4vdmlydHVhbGVudndyYXBwZXIuc2gK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgenNoCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIlJlcHJlc2VudHMgdGhlIHN0YXRlICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHVzZSBpbm5lciBjbGFzcywgb3IgcmVkdWNlIG1ldGhvZCBzaXplCg==</text>
+        <text encoding="base64">dGhpc19kaXI9IiR7MDphOmh9Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRva2VuVHlwZSA9IF9tYWtlX3Rva2VuX3R5cGUoJ0EnKQo=</text>
+        <text encoding="base64">c291cmNlICR0aGlzX2Rpci9nZW5lcmFsLnNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/logic_dfa.transitions/logic_dfa['transitions']/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>TokenType</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern>TokenType</last-pattern>
+      <last-pattern>plugin</last-pattern>
       <last-replace>logic_dfa['transitions']</last-replace>
       <last-substitute>logic_dfa.transitions</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OR_1</entry>
         <entry>OR_2</entry>
         <entry>IMPLIES_1</entry>
         <entry>IMPLIES_2</entry>
@@ -461,6 +464,7 @@
         <entry>_make</entry>
         <entry encoding="base64">XDxfbWFrZV90b2tlbl90eXBlXD4=</entry>
         <entry>TokenType</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry>:%s/OR_2/OR[1]/g</entry>
