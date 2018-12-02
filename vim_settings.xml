@@ -45,8 +45,8 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1543719622373">
-        <mark key="'" line="92" column="0" />
+      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1543721976424">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="56" column="27" />
         <mark key="]" line="58" column="6" />
         <mark key="." line="58" column="6" />
@@ -62,11 +62,11 @@
         <mark key="^" line="55" column="67" />
         <mark key="." line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/general.sh" timestamp="1543719880154">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/dotfiles/startup-scripts/general.sh" timestamp="1543721955554">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
         <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/dotfiles/.vimrc" timestamp="1543718820356">
@@ -149,7 +149,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543718885605">
+      <file name="/Dummy.txt" timestamp="1543722367101">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -190,11 +190,18 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/dotfiles/README.md" timestamp="1543720005482">
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="34" column="2" />
-        <mark key="." line="34" column="2" />
-        <mark key="^" line="34" column="2" />
+      <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/README.md" timestamp="1543722389372">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+        <mark key="^" line="47" column="21" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_accept_state.py" timestamp="1540343987035">
         <mark key="'" line="9" column="37" />
@@ -287,10 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="12" filename="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
-      <jump line="0" column="1" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="0" column="32" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
@@ -387,19 +390,23 @@
       <jump line="15" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/README.md" />
       <jump line="16" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/README.md" />
       <jump line="25" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
+      <jump line="58" column="0" filename="$USER_HOME$/dotfiles/README.md" />
+      <jump line="4" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
+      <jump line="58" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="47" column="0" filename="$USER_HOME$/dotfiles/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>FUNCTIONS</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
@@ -408,7 +415,7 @@
         <text encoding="base64">IyMjIGZhc2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2QgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -427,28 +434,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAoKCkV4YW1wbGUKLS0tLS0tLQoKSG9zdDogYFlvZ2FgCgpgLnpzaHJjYCAtPiBgY3VzdG9tLXN0YXJ0dXAuc2hgIC0+IChgZ2VuZXJhbC5zaGAgKyBgeW9nYS5zaGApCgoKSG9zdDogYGxpbnV4LnN0dWRlbnQuY3MudXdhdGVybG9vLmNhYAoKYC56c2hyY2AgLT4gYGN1c3RvbS1zdGFydHVwLnNoYCAtPiAoYGdlbmVyYWwuc2hgICsgYHdhdGVybG9vLWxpbnV4LnNoYCkK</text>
+        <text encoding="base64">Y2QgJEhPTUUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqIE5vIHNvZnR3YXJlIGRlcGVuZGVuY2llcyAob3RoZXIgdGhhbiApCg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqIEdlbmVyYWwgY29uZmlndXJhdGlvbiB0aGF0IGFwcGxpZXMgdG8gYWxsIGhvc3RzLgogICogU2hvdWxkIGhhdmUgbm8gc29mdHdhcmUgZGVwZW5kZW5jaWVzLgo=</text>
+        <text encoding="base64">IyMjIEluc3RhbGxpbmcgenNoIHBsdWdpbnMKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAqIEV2ZXJ5IGJyYW5jaCBzaG91bGQgaGF2ZSBpdHMgb3duIHZlcnNpb24sIHdoaWNoIG1heSBjYWxsIGl0cyBvd24gc2NyaXB0cy4K</text>
+        <text encoding="base64">SWYgeW91IG5lZWQgdG8gY29udmVydCAKKiAgVG8gY3JlYXRlIGN1c3RvbSBzY3JpcHRzIGZvciB5b3VyIG1hY2hpbmUsIGN1c3RvbWl6ZSB0aGUgc3RhcnR1cCBzY3JpcHQgYHN0YXJ0dXAtc2NyaXB0c2AuICBZb3UgY2FuIHB1dCBhbGlhc2VzIGFuZCBvdGhlciBjdXN0b20gY29uZmlndXJhdGlvbiB0aGVyZS4gRXZlcnkgYnJhbmNoL21hY2hpbmUgc2hvdWxkIGhhdmUgaXRzIG93biB2ZXJzaW9uIG9mIHRoZSBzdGFydHVwIHNjcmlwdC4gIFNlZSB0aGUgUkVBRE1FLm1kIGluIGBzdGFydHVwLXNjcmlwdHNgIGZvciBtb3JlIGluZm9ybWF0aW9uLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">KiAgR2V0IHRoZSBzdWJtb2R1bGUgZGVwZW5kZW5jaWVzLgpgYGBzaGVsbApjZCAkSE9NRSAmJiBnaXQgc3VibW9kdWxlIGluaXQgJiYgZ2l0IHN1Ym1vZHVsZSB1cGRhdGUKYGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiAgVG8gaW5zdGFsbCB2aW0gcGx1Z2lucyAoaW5jbHVkaW5nIFZ1bmRsZSksIG9wZW4gdmltIGFuZCBydW46CmBgYHZpbQo6UGx1Z2luSW5zdGFsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiBBdXRvbWF0aWNhbGx5IHdyaXRlIHdoZW4gcnVubmluZyA6bmV4dCwgZXRjLgpzZXQgYXV0b3dyaXRlCg==</text>
+        <text encoding="base64">ICAgIAoKCkV4YW1wbGUKLS0tLS0tLQoKSG9zdDogYFlvZ2FgCgpgLnpzaHJjYCAtPiBgY3VzdG9tLXN0YXJ0dXAuc2hgIC0+IChgZ2VuZXJhbC5zaGAgKyBgeW9nYS5zaGApCgoKSG9zdDogYGxpbnV4LnN0dWRlbnQuY3MudXdhdGVybG9vLmNhYAoKYC56c2hyY2AgLT4gYGN1c3RvbS1zdGFydHVwLnNoYCAtPiAoYGdlbmVyYWwuc2hgICsgYHdhdGVybG9vLWxpbnV4LnNoYCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiBVc2VyIHNtYXJ0Y2FzZSBzZWFyY2gKc2V0IHNtYXJ0Y2FzZQo=</text>
+        <text encoding="base64">ICAqIE5vIHNvZnR3YXJlIGRlcGVuZGVuY2llcyAob3RoZXIgdGhhbiApCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/logic_dfa.transitions/logic_dfa['transitions']/gc</text>
