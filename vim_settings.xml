@@ -227,11 +227,11 @@
       <file name="/" timestamp="1540345438572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543691779321">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="28" column="15" />
+      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543792896150">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_single_state.py" timestamp="1540343589192">
         <mark key="'" line="0" column="62" />
@@ -294,9 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
-      <jump line="0" column="32" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
@@ -394,13 +391,16 @@
       <jump line="4" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
       <jump line="58" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
       <jump line="47" column="0" filename="$USER_HOME$/dotfiles/README.md" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -415,7 +415,7 @@
         <text encoding="base64">IyMjIGZhc2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -434,28 +434,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2QgJEhPTUUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjY2VwdF9zdGF0ZV90b190b2tlbl90eXBlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">Y2QgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIEluc3RhbGxpbmcgenNoIHBsdWdpbnMKCgo=</text>
+        <text encoding="base64">Y2QgJEhPTUUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SWYgeW91IG5lZWQgdG8gY29udmVydCAKKiAgVG8gY3JlYXRlIGN1c3RvbSBzY3JpcHRzIGZvciB5b3VyIG1hY2hpbmUsIGN1c3RvbWl6ZSB0aGUgc3RhcnR1cCBzY3JpcHQgYHN0YXJ0dXAtc2NyaXB0c2AuICBZb3UgY2FuIHB1dCBhbGlhc2VzIGFuZCBvdGhlciBjdXN0b20gY29uZmlndXJhdGlvbiB0aGVyZS4gRXZlcnkgYnJhbmNoL21hY2hpbmUgc2hvdWxkIGhhdmUgaXRzIG93biB2ZXJzaW9uIG9mIHRoZSBzdGFydHVwIHNjcmlwdC4gIFNlZSB0aGUgUkVBRE1FLm1kIGluIGBzdGFydHVwLXNjcmlwdHNgIGZvciBtb3JlIGluZm9ybWF0aW9uLgo=</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiAgR2V0IHRoZSBzdWJtb2R1bGUgZGVwZW5kZW5jaWVzLgpgYGBzaGVsbApjZCAkSE9NRSAmJiBnaXQgc3VibW9kdWxlIGluaXQgJiYgZ2l0IHN1Ym1vZHVsZSB1cGRhdGUKYGBgCg==</text>
+        <text encoding="base64">IyMjIEluc3RhbGxpbmcgenNoIHBsdWdpbnMKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SWYgeW91IG5lZWQgdG8gY29udmVydCAKKiAgVG8gY3JlYXRlIGN1c3RvbSBzY3JpcHRzIGZvciB5b3VyIG1hY2hpbmUsIGN1c3RvbWl6ZSB0aGUgc3RhcnR1cCBzY3JpcHQgYHN0YXJ0dXAtc2NyaXB0c2AuICBZb3UgY2FuIHB1dCBhbGlhc2VzIGFuZCBvdGhlciBjdXN0b20gY29uZmlndXJhdGlvbiB0aGVyZS4gRXZlcnkgYnJhbmNoL21hY2hpbmUgc2hvdWxkIGhhdmUgaXRzIG93biB2ZXJzaW9uIG9mIHRoZSBzdGFydHVwIHNjcmlwdC4gIFNlZSB0aGUgUkVBRE1FLm1kIGluIGBzdGFydHVwLXNjcmlwdHNgIGZvciBtb3JlIGluZm9ybWF0aW9uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAoKCkV4YW1wbGUKLS0tLS0tLQoKSG9zdDogYFlvZ2FgCgpgLnpzaHJjYCAtPiBgY3VzdG9tLXN0YXJ0dXAuc2hgIC0+IChgZ2VuZXJhbC5zaGAgKyBgeW9nYS5zaGApCgoKSG9zdDogYGxpbnV4LnN0dWRlbnQuY3MudXdhdGVybG9vLmNhYAoKYC56c2hyY2AgLT4gYGN1c3RvbS1zdGFydHVwLnNoYCAtPiAoYGdlbmVyYWwuc2hgICsgYHdhdGVybG9vLWxpbnV4LnNoYCkK</text>
+        <text encoding="base64">KiAgR2V0IHRoZSBzdWJtb2R1bGUgZGVwZW5kZW5jaWVzLgpgYGBzaGVsbApjZCAkSE9NRSAmJiBnaXQgc3VibW9kdWxlIGluaXQgJiYgZ2l0IHN1Ym1vZHVsZSB1cGRhdGUKYGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqIE5vIHNvZnR3YXJlIGRlcGVuZGVuY2llcyAob3RoZXIgdGhhbiApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/logic_dfa.transitions/logic_dfa['transitions']/gc</text>
