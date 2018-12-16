@@ -23,12 +23,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" timestamp="1544921077810">
+      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" timestamp="1544922996204">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_single_state.py" timestamp="1543119929257">
         <mark key="'" line="0" column="0" />
@@ -147,12 +147,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" timestamp="1544921485046">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="92" column="0" />
+      <file name="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" timestamp="1544923026751">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="101" column="24" />
       </file>
       <file name="$USER_HOME$/dotfiles/startup-scripts/custom-startup.sh" timestamp="1543698374356">
         <mark key="'" line="6" column="0" />
@@ -160,7 +160,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544921450749">
+      <file name="/Dummy.txt" timestamp="1544923012200">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -305,9 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="46" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_tokenize.py" />
-      <jump line="59" column="54" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_tokenize.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/dfa.py" />
       <jump line="12" column="42" filename="$USER_HOME$/dev/python-syntax/README.md" />
       <jump line="4" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/custom-startup.sh" />
       <jump line="30" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
@@ -384,9 +381,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="41" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="57" column="41" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="45" column="72" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="1" column="22" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -403,30 +398,35 @@
       <jump line="52" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="67" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="78" column="47" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="95" column="56" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="99" column="71" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="48" column="72" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="0" column="32" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfY29tYmluZV9jb25uZWN0cwo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Iterable</text>
       </register>
       <register name="/" type="4">
-        <text>chil</text>
+        <text>List</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHRlc3Rfbm90KCk6CiAgICB0cmVlID0gZ3JhbW1hci5wYXJzZSgnKE5PVCBwKScpCiAgICBub3Rfbm9kZSA9IHRyZWUuY2hpbGRyZW5bMF0KICAgIGFzc2VydCAnbm90JyA9PSBub3Rfbm9kZS5kYXRhCiAgICBhc3NlcnQgWydwJ10gPT0gbm90X25vZGUuY2hpbGRyZW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfY29tYmluZV9jb25uZWN0cwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -459,38 +459,38 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0IFsncCddCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGVmIG1hdGNoZXMoc3RhdGVtZW50OiBUcmVlLCBkOiBkaWN0KToKICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpkZWYgdGVzdF9hbmRfb3IoKToKICAgIHRyZWUgPSBncmFtbWFyLnBhcnNlKCcoJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0IGxpdGVyYWxzID09IHJ1bGVfbm9kZS5jaGlsZHJlblswXS5jaGlsZHJlbgo=</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0IFsncCddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJ1bGVfbm9kZSA9IG5vZGUuY2hpbGRyZW5bMF0K</text>
+        <text encoding="base64">CgpkZWYgdGVzdF9hbmRfb3IoKToKICAgIHRyZWUgPSBncmFtbWFyLnBhcnNlKCcoJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vZGUgPSBncmFtbWFyLnBhcnNlKHN0YXRlbWVudCkK</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0IGxpdGVyYWxzID09IHJ1bGVfbm9kZS5jaGlsZHJlblswXS5jaGlsZHJlbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJ1bGVfbm9kZSA9IG5vZGUuY2hpbGRyZW5bMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG5vZGUgPSBncmFtbWFyLnBhcnNlKHN0YXRlbWVudCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCB0cmVlLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/logic_dfa.transitions/logic_dfa['transitions']/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>chil</last-search>
+      <last-search>List</last-search>
       <last-offset />
-      <last-pattern>chil</last-pattern>
+      <last-pattern>List</last-pattern>
       <last-replace>logic_dfa['transitions']</last-replace>
       <last-substitute>logic_dfa.transitions</last-substitute>
       <last-dir>1</last-dir>
@@ -498,7 +498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IMPLIES_3</entry>
         <entry>IMPLIES_4</entry>
         <entry>IMPLIES_5</entry>
         <entry>IMPLIES_6</entry>
@@ -518,6 +517,7 @@
         <entry>rul</entry>
         <entry>node</entry>
         <entry>chil</entry>
+        <entry>List</entry>
       </history-search>
       <history-cmd>
         <entry>:%s/OR_2/OR[1]/g</entry>
