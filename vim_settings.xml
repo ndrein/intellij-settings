@@ -115,6 +115,9 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
+        <mark key="'" line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_two_state_grammar.py" timestamp="1540167680969">
         <mark key="'" line="19" column="37" />
         <mark key="[" line="13" column="0" />
@@ -308,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/inspiron.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
       <jump line="8" column="19" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
       <jump line="7" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
@@ -408,6 +410,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="101" column="12" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
+      <jump line="42" column="0" filename="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" />
     </jumps>
     <registers>
       <register name="a" type="4">
