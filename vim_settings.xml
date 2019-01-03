@@ -23,12 +23,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" timestamp="1544925078859">
+      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" timestamp="1546541972139">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="37" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_single_state.py" timestamp="1543119929257">
         <mark key="'" line="0" column="0" />
@@ -43,10 +43,7 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="58" />
       </file>
-      <file name="/Python Console" timestamp="1544924473286">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1544924429441">
+      <file name="/fragment.py" timestamp="1546541622796">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -153,8 +150,8 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" timestamp="1546540219856">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" timestamp="1546540923828">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="106" column="26" />
         <mark key="]" line="106" column="27" />
         <mark key="." line="106" column="27" />
@@ -172,12 +169,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1544917203327">
-        <mark key="'" line="14" column="8" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="17" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1546541780076">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_tokenize_logic.py" timestamp="1543098063778">
         <mark key="'" line="18" column="28" />
@@ -311,19 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
-      <jump line="8" column="19" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
-      <jump line="7" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" />
-      <jump line="52" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
-      <jump line="90" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
-      <jump line="1" column="0" filename="$USER_HOME$/dotfiles/.vimrc" />
-      <jump line="26" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
-      <jump line="15" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/README.md" />
-      <jump line="16" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/README.md" />
-      <jump line="25" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
-      <jump line="58" column="0" filename="$USER_HOME$/dotfiles/README.md" />
-      <jump line="4" column="0" filename="$USER_HOME$/dotfiles/startup-scripts/general.sh" />
       <jump line="58" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
       <jump line="47" column="0" filename="$USER_HOME$/dotfiles/README.md" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" />
@@ -333,7 +317,6 @@
       <jump line="22" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="6" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="8" column="12" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="12" column="8" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -351,7 +334,6 @@
       <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="33" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="32" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="23" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="21" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="5" column="9" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -362,8 +344,6 @@
       <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="34" column="22" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="2" column="59" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="36" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -406,33 +386,50 @@
       <jump line="87" column="64" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="95" column="8" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="101" column="12" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
       <jump line="42" column="0" filename="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="41" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="106" column="19" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
+      <jump line="35" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="47" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="52" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="59" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="54" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm90OiAiKE5PVCIgc3RhdGVtZW50ICIpIgo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>, 'iff', ('p', 'q'))</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>List</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfbm90KCk6CiAgICB0cmVlID0gZ3JhbW1hci5wYXJzZSgnKE5PVCBwKScpCiAgICBub3Rfbm9kZSA9IHRyZWUuY2hpbGRyZW5bMF0KICAgIGFzc2VydCAnbm90JyA9PSBub3Rfbm9kZS5kYXRhCiAgICBhc3NlcnQgWydwJ10gPT0gbm90X25vZGUuY2hpbGRyZW4K</text>
+      <register name="0" type="4">
+        <text>&quot;(NOT&quot; statement &quot;)&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm90OiAiKE5PVCIgc3RhdGVtZW50ICIpIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -484,28 +481,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">dHJlZS5jaGlsZHJlbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyZWUgPSBncmFtbWFyLnBhcnNlKCcoKHAgT1IgcSkgQU5EIHIpJykKICAgIGFuZF9ub2RlID0gdHJlZS5jaGlsZHJlblswXQogICAgYXNzZXJ0ICdhbmQnID09IGFuZF9ub2RlLmRhdGEKICAgIHNpbmdsZV9jb25uZWN0aXZlX3Rlc3QoYW5kX25vZGUuY2hpbGRyZW5bMF0sICdvcicsIFsncCcsICdxJ10pCiAgICBhc3NlcnQgWydyJ10gPT0gYW5kX25vZGUuY2hpbGRyZW5bMV0uY2hpbGRyZW4K</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNpbmdsZV9jb25uZWN0aXZlX3Rlc3QoZ3JhbW1hci5wYXJzZSgnKHAgQU5EIHEpJyksICdhbmQnLCBbJ3AnLCAncSddKQo=</text>
+        <text encoding="base64">UGx1c1RyYW5zZm9ybQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdHJlZSA9IGdyYW1tYXIucGFyc2UoJyhwIE9SIChOT1QgcSkpJykKICAgICMgb3Jfbm9kZSA9IHRyZWUuY2hpbGRyZW5bMF0KICAgICMgYXNzZXJ0ICdvcicgPT0gb3Jfbm9kZS5kYXRhCiAgICAjIGFzc2VydCBbJ3AnXSA9PSBvcl9ub2RlLmNoaWxkcmVuWzBdLmNoaWxkcmVuCiAgICAjIHNpbmdsZV9jb25uZWN0aXZlX3Rlc3Qob3Jfbm9kZS5jaGlsZHJlblsxXSwgJ25vdCcsIFsncSddKQo=</text>
+        <text encoding="base64">VHJhbnNmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNpbmdsZV9jb25uZWN0aXZlX3Rlc3QoZ3JhbW1hci5wYXJzZSgnKHBPUnEpJyksICdvcicsIFsncCcsICdxJ10pCg==</text>
+        <text encoding="base64">Z3JhbW1hcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdHJlZSA9IGdyYW1tYXIucGFyc2UoJyhOT1QgKE5PVCBwKSknKQogICAgIyBub3Rfbm9kZV8xID0gdHJlZS5jaGlsZHJlblswXQogICAgIyBhc3NlcnQgJ25vdCcgPT0gbm90X25vZGVfMS5kYXRhCiAgICAjIHNpbmdsZV9jb25uZWN0aXZlX3Rlc3Qobm90X25vZGVfMS5jaGlsZHJlblswXSwgJ25vdCcsIFsncCddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNpbmdsZV9jb25uZWN0aXZlX3Rlc3QoZ3JhbW1hci5wYXJzZSgnICAoTk9UIHAgKSAnKSwgJ25vdCcsIFsncCddKQo=</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc2luZ2xlX2Nvbm5lY3RpdmVfdGVzdChncmFtbWFyLnBhcnNlKCcoTk9UcCknKSwgJ25vdCcsIFsncCddKQo=</text>
+        <text encoding="base64">ICAgIHRyZWUgPSBncmFtbWFyLnBhcnNlKCcoKHAgT1IgcSkgQU5EIHIpJykKICAgIGFuZF9ub2RlID0gdHJlZS5jaGlsZHJlblswXQogICAgYXNzZXJ0ICdhbmQnID09IGFuZF9ub2RlLmRhdGEKICAgIHNpbmdsZV9jb25uZWN0aXZlX3Rlc3QoYW5kX25vZGUuY2hpbGRyZW5bMF0sICdvcicsIFsncCcsICdxJ10pCiAgICBhc3NlcnQgWydyJ10gPT0gYW5kX25vZGUuY2hpbGRyZW5bMV0uY2hpbGRyZW4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/logic_dfa.transitions/logic_dfa['transitions']/gc</text>
