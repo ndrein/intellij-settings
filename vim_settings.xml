@@ -16,20 +16,6 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_tokenize.py" timestamp="1543097480283">
-        <mark key="'" line="36" column="13" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="38" column="16" />
-        <mark key="^" line="38" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" timestamp="1546816809495">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="1" column="14" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_single_state.py" timestamp="1543119929257">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="0" />
@@ -43,15 +29,6 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="58" />
       </file>
-      <file name="/Python Console" timestamp="1548366914914">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1548366522896">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1543721976424">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="56" column="27" />
@@ -59,7 +36,7 @@
         <mark key="." line="58" column="6" />
         <mark key="^" line="58" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1546560570245">
+      <file name="/a.dummy" timestamp="1548372208780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" timestamp="1543119160992">
@@ -69,25 +46,10 @@
         <mark key="^" line="55" column="67" />
         <mark key="." line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/general.sh" timestamp="1543721955554">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="38" />
-        <mark key="." line="60" column="38" />
-        <mark key="^" line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/.vimrc" timestamp="1543718820356">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/README.md" timestamp="1543719166807">
-        <mark key="[" line="15" column="81" />
-        <mark key="]" line="15" column="81" />
-        <mark key="." line="15" column="81" />
-        <mark key="^" line="15" column="82" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/requirements.txt" timestamp="1548370447172">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_accept_state.py" timestamp="1543120007567">
         <mark key="'" line="7" column="0" />
@@ -96,43 +58,12 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_two_accept_states.py" timestamp="1540344060321">
-        <mark key="'" line="4" column="71" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="37" />
-        <mark key="." line="17" column="37" />
-        <mark key="^" line="17" column="37" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_open_parenthese.py" timestamp="1540341049463">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="15" column="28" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
-        <mark key="'" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_two_state_grammar.py" timestamp="1540167680969">
-        <mark key="'" line="19" column="37" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="29" column="63" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/setup.py" timestamp="1540942666067">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_two_characters.py" timestamp="1540167687536">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_munch_ends_after_accept_state.py" timestamp="1543119759765">
         <mark key="'" line="15" column="0" />
@@ -155,12 +86,6 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/custom-startup.sh" timestamp="1543698374356">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_tokenize_logic.py" timestamp="1543098063778">
         <mark key="'" line="18" column="28" />
         <mark key="[" line="16" column="93" />
@@ -168,7 +93,174 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548366381281">
+      <file name="$USER_HOME$/dev/python-syntax/tests/grammar.py" timestamp="1537651160511">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="61" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/README.md" timestamp="1543722389372">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+        <mark key="^" line="47" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" timestamp="1546554867449">
+        <mark key="'" line="139" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1546816891501">
+        <mark key="'" line="8" column="49" />
+        <mark key="[" line="58" column="111" />
+        <mark key="]" line="59" column="10" />
+        <mark key="." line="59" column="16" />
+        <mark key="^" line="59" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543792896150">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_two_accept_states.py" timestamp="1543120049209">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="63" />
+        <mark key="^" line="4" column="79" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/test_empty_grammar.py" timestamp="1541261407357">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" timestamp="1548373208262">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" timestamp="1548370497448">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_empty_grammar.py" timestamp="1540343336214">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" timestamp="1548370350054">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/test_tokenize.py" timestamp="1543097480283">
+        <mark key="'" line="36" column="13" />
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="38" column="16" />
+        <mark key="^" line="38" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" timestamp="1546816809495">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="1" column="14" />
+      </file>
+      <file name="/Python Console" timestamp="1548373145402">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1548372472392">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/startup-scripts/general.sh" timestamp="1543721955554">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/.vimrc" timestamp="1543718820356">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/startup-scripts/README.md" timestamp="1543719166807">
+        <mark key="[" line="15" column="81" />
+        <mark key="]" line="15" column="81" />
+        <mark key="." line="15" column="81" />
+        <mark key="^" line="15" column="82" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_two_accept_states.py" timestamp="1540344060321">
+        <mark key="'" line="4" column="71" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+      </file>
+      <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
+        <mark key="'" line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1548373180018">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/test_two_state_grammar.py" timestamp="1540167680969">
+        <mark key="'" line="19" column="37" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="29" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/setup.py" timestamp="1540942666067">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/test_two_characters.py" timestamp="1540167687536">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/startup-scripts/custom-startup.sh" timestamp="1543698374356">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548373182350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -188,35 +280,12 @@
         <mark key="." line="60" column="18" />
         <mark key="^" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/grammar.py" timestamp="1537651160511">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="20" column="61" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_accept_state.py" timestamp="1541260734214">
         <mark key="'" line="14" column="36" />
         <mark key="[" line="14" column="51" />
         <mark key="]" line="14" column="58" />
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/README.md" timestamp="1543722389372">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="47" column="21" />
-        <mark key="." line="47" column="21" />
-        <mark key="^" line="47" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" timestamp="1546554867449">
-        <mark key="'" line="139" column="11" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_accept_state.py" timestamp="1540343987035">
         <mark key="'" line="9" column="37" />
@@ -225,13 +294,6 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1546816891501">
-        <mark key="'" line="8" column="49" />
-        <mark key="[" line="58" column="111" />
-        <mark key="]" line="59" column="10" />
-        <mark key="." line="59" column="16" />
-        <mark key="^" line="59" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_single_state.py" timestamp="1543088998255">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="9" column="18" />
@@ -239,39 +301,12 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543792896150">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_two_accept_states.py" timestamp="1543120049209">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="63" />
-        <mark key="^" line="4" column="79" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_single_state.py" timestamp="1540343589192">
         <mark key="'" line="0" column="62" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_empty_grammar.py" timestamp="1541261407357">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_empty_grammar.py" timestamp="1540343336214">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" timestamp="1543716542698">
         <mark key="'" line="7" column="0" />
@@ -284,12 +319,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/syntax/grammar.py" timestamp="1538257716179">
         <mark key="'" line="12" column="37" />
@@ -304,27 +333,8 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" timestamp="1548367826533">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="7" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="46" column="36" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="4" column="20" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="49" column="29" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="50" column="23" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="63" column="8" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="54" column="50" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="78" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="48" column="72" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -407,24 +417,37 @@
       <jump line="0" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
       <jump line="4" column="7" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
       <jump line="23" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
       <jump line="17" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
       <jump line="1" column="23" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
       <jump line="5" column="10" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
+      <jump line="22" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" />
+      <jump line="38" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="13" column="30" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="14" column="49" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="5" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="16" column="25" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="63" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QVQKQUdWCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>par</text>
@@ -433,7 +456,7 @@
         <text encoding="base64">dHJlZSA9IExhcmsoTE9HSUNfR1JBTU1BUl9NSU5JTUlaRUQsIHN0YXJ0PSdzdGF0ZW1lbnQnKS5wYXJzZSgnKE5PVCAocCBBTkQgcSkpJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjZWlsKChsZW4obHN0KSAvIDIpIC0gMSkK</text>
+        <text encoding="base64">QVQKQUdWCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -454,28 +477,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtYXQgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIGxlbih0KSAvLyAyIC0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGhhbGZfaW5kZXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdDaG9zZSBvcHRpbWFsIGonLCApCg==</text>
+      <register name="4" type="4">
+        <text>TA
+G</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjb3JlXzEsIHNfYWxpZ25lZF8xLCB0X2FsaWduZWQgPSBhbGlnbihzWzptIC8vIDJdLCB0WzpqXSkKICAgIHNjb3JlXzIsIHNfYWxpZ25lZF9yaWdodCwgdF9hbGlnbmVkX3JpZ2h0ID0gYWxpZ24oc1ttIC8vIDI6XSwgdFtqICsgMTpdKQogICAgcmV0dXJuIHNjb3JlXzEgKyBzY29yZV8yLCBzX2FsaWduZWRfMSArIHNfYWxpZ25lZF9yaWdodCwgdF9hbGlnbmVkICsgdF9hbGlnbmVkX3JpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKEQuc2hhcGUpCiAgICAgICAgZm9yIGogaW4gcmFuZ2UobSArIDEpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG4gPSBsZW4odCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwLCBzLCB0Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjb3JlXzIsIHNfYWxpZ25lZAo=</text>
+        <text encoding="base64">cGtnLXJlc291cmNlcz09MC4wLjAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
