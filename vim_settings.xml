@@ -143,10 +143,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" timestamp="1548373208262">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" timestamp="1548375387484">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" timestamp="1548370497448">
         <mark key="[" line="4" column="33" />
@@ -187,7 +189,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1548373145402">
+      <file name="/Python Console" timestamp="1548374542238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548372472392">
@@ -226,12 +228,12 @@
       <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1548373180018">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1548375476268">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="37" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="47" column="7" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_two_state_grammar.py" timestamp="1540167680969">
         <mark key="'" line="19" column="37" />
@@ -335,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="78" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="48" column="72" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="96" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -435,28 +436,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="63" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QVQKQUdWCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdBbGlnbicsIHMsIHQpCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'-' * len(t)</text>
       </register>
       <register name="/" type="4">
         <text>par</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHJlZSA9IExhcmsoTE9HSUNfR1JBTU1BUl9NSU5JTUlaRUQsIHN0YXJ0PSdzdGF0ZW1lbnQnKS5wYXJzZSgnKE5PVCAocCBBTkQgcSkpJykK</text>
+        <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVQKQUdWCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdBbGlnbicsIHMsIHQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -477,29 +479,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIGxlbih0KSAvLyAyIC0gMQo=</text>
+        <text encoding="base64">QUFUQ0NDQ1RBRwpBVEMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc19pbmRleCA9IHQuaW5kZXgocykK</text>
       </register>
-      <register name="4" type="4">
-        <text>TA
-G</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzIGluIHQ6CiAgICAgICAgICAgIHNfaW5kZXggPSB0LmluZGV4KHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gLTEgKiBsZW4odCksICctJyAqIGxlbih0KSwgdAogICAgICAgIHJldHVybiBzY29yZShzLCB0KSwgcywgdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKEQuc2hhcGUpCiAgICAgICAgZm9yIGogaW4gcmFuZ2UobSArIDEpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGMgaW4gdDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgYyBpbiB0OgogICAgICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGtnLXJlc291cmNlcz09MC4wLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcyA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
