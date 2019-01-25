@@ -143,12 +143,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" timestamp="1548375387484">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="11" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" timestamp="1548428650012">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" timestamp="1548388613443">
         <mark key="'" line="9" column="0" />
@@ -190,7 +190,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1548374542238">
+      <file name="/Python Console" timestamp="1548428662044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548372472392">
@@ -229,12 +229,12 @@
       <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1548375476268">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="47" column="7" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1548428659209">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="51" column="50" />
+        <mark key="]" line="51" column="47" />
+        <mark key="." line="51" column="47" />
+        <mark key="^" line="51" column="47" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_two_state_grammar.py" timestamp="1540167680969">
         <mark key="'" line="19" column="37" />
@@ -338,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="72" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="96" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="102" column="29" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="1" column="26" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -438,28 +437,29 @@
       <jump line="46" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdBbGlnbicsIHMsIHQpCg==</text>
+        <text encoding="base64">CiAgICBsZWZ0X21hdHJpeCA9IGRwX21hdHJpeChzWzpoYWxmX21dLCB0KQogICAgcmlnaHRfbWF0cml4ID0gZHBfbWF0cml4KHNbaGFsZl9tOl1bOjotMV0sIHRbOjotMV0pCgogICAgc3VtbWVkX2NvbHVtbiA9IGxlZnRfbWF0cml4WzosIC0xOl0gKyByaWdodF9tYXRyaXhbOiwgLTE6XVs6Oi0xXQogICAgcmV0dXJuIHN1bW1lZF9jb2x1bW4uYXJnbWF4KCkgLSAxCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>'-' * len(t)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>par</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
+        <text encoding="base64">ZGVmIGZpbmRfb3B0aW1hbF9qKHMsIHQpOgogICAgaGFsZl9tID0gbGVuKHMpIC8vIDIKICAgIGxlZnRfbWF0cml4ID0gZHBfbWF0cml4KHNbOmhhbGZfbV0sIHQpCiAgICByaWdodF9tYXRyaXggPSBkcF9tYXRyaXgoc1toYWxmX206XVs6Oi0xXSwgdFs6Oi0xXSkKCiAgICBzdW1tZWRfY29sdW1uID0gbGVmdF9tYXRyaXhbOiwgLTE6XSArIHJpZ2h0X21hdHJpeFs6LCAtMTpdWzo6LTFdCiAgICByZXR1cm4gc3VtbWVkX2NvbHVtbi5hcmdtYXgoKSAtIDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdBbGlnbicsIHMsIHQpCg==</text>
+        <text encoding="base64">CiAgICBsZWZ0X21hdHJpeCA9IGRwX21hdHJpeChzWzpoYWxmX21dLCB0KQogICAgcmlnaHRfbWF0cml4ID0gZHBfbWF0cml4KHNbaGFsZl9tOl1bOjotMV0sIHRbOjotMV0pCgogICAgc3VtbWVkX2NvbHVtbiA9IGxlZnRfbWF0cml4WzosIC0xOl0gKyByaWdodF9tYXRyaXhbOiwgLTE6XVs6Oi0xXQogICAgcmV0dXJuIHN1bW1lZF9jb2x1bW4uYXJnbWF4KCkgLSAxCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -480,28 +480,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUFUQ0NDQ1RBRwpBVEMK</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc19pbmRleCA9IHQuaW5kZXgocykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzIGluIHQ6CiAgICAgICAgICAgIHNfaW5kZXggPSB0LmluZGV4KHMpCg==</text>
+        <text encoding="base64">CiAgICBEID0gbnAuemVyb3MoKGxlbih0KSArIDEsIGxlbihzKSArIDEpKQogICAgaGVpZ2h0LCB3aWR0aCA9IEQuc2hhcGUKICAgIGZvciBqIGluIHJhbmdlKHdpZHRoKToKICAgICAgICBEWzAsIGpdID0gLWoKICAgIGZvciBpIGluIHJhbmdlKGhlaWdodCk6CiAgICAgICAgRFtpLCAwXSA9IC1pCgogICAgZm9yIGkgaW4gcmFuZ2UoMSwgaGVpZ2h0KToKICAgICAgICBmb3IgaiBpbiByYW5nZSgxLCB3aWR0aCk6CiAgICAgICAgICAgIERbaSwgal0gPSBtYXgoRFtpIC0gMSwgaiAtIDFdICsgc2NvcmUodFtpIC0gMV0sIHNbaiAtIDFdKSwKICAgICAgICAgICAgICAgICAgICAgICAgICBEW2kgLSAxLCBqXSAtIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgRFtpLCBqIC0gMV0gLSAxKQoKICAgIHJldHVybiBECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gLTEgKiBsZW4odCksICctJyAqIGxlbih0KSwgdAogICAgICAgIHJldHVybiBzY29yZShzLCB0KSwgcywgdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGMgaW4gdDoK</text>
+        <text encoding="base64">ICAgIHByaW50KCdBbGlnbicsIHMsIHQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUFUQ0NDQ1RBRwpBVEMK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgYyBpbiB0OgogICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc19pbmRleCA9IHQuaW5kZXgocykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzIGluIHQ6CiAgICAgICAgICAgIHNfaW5kZXggPSB0LmluZGV4KHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
