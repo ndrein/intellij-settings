@@ -148,12 +148,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" timestamp="1548388613443">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" timestamp="1548452464336">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_empty_grammar.py" timestamp="1540343336214">
         <mark key="'" line="9" column="0" />
@@ -336,7 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="29" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="1" column="26" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="104" column="3" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="105" column="3" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -436,13 +435,21 @@
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q0NDQwpDQ0NDCg==</text>
+      <register name="&quot;" type="4">
+        <text>## Installation
+
+`pip install -r requirements.txt`
+
+
+## Usage
+
+`python3 main.py`</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -456,8 +463,15 @@
       <register name="0" type="2">
         <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Q0NDQwpDQ0NDCg==</text>
+      <register name="1" type="4">
+        <text>## Installation
+
+`pip install -r requirements.txt`
+
+
+## Usage
+
+`python3 main.py`</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -478,10 +492,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW4gPSBbMCBmb3IgXyBpbiByYW5nZShsZW4odCkgKyAxKV0K</text>
+        <text encoding="base64">Q0NDQwpDQ0NDCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUcKR0dUCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2x1bW4gPSBbMCBmb3IgXyBpbiByYW5nZShsZW4odCkgKyAxKV0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">QUcKR0dUCg==</text>
@@ -490,17 +504,16 @@
         <text encoding="base64">QUcKR0dUCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFsaWduCg==</text>
+        <text encoding="base64">QUcKR0dUCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFsaWduCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VEMKQ0MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>AA
-A</text>
+      <register name="9" type="2">
+        <text encoding="base64">VEMKQ0MK</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
