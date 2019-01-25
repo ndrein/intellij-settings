@@ -227,11 +227,11 @@
       <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1548453695749">
-        <mark key="'" line="57" column="4" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1548454771883">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="30" column="69" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_two_state_grammar.py" timestamp="1540167680969">
@@ -442,7 +442,7 @@
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgOnBhcmFtIHM6IAogICAgOnBhcmFtIHQ6IAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdBbGlnbjonLCBzLCB0KQo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -457,7 +457,7 @@
         <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgOnBhcmFtIHM6IAogICAgOnBhcmFtIHQ6IAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdBbGlnbjonLCBzLCB0KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -478,35 +478,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ICAgIAogICAgOnBhcmFtIHM6IAogICAgOnBhcmFtIHQ6IAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YHB5dGhvbjMgbWFpbi5weSA8IGlucHV0LnR4dGAKCg==</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YHB5dGhvbjMgbWFpbi5weSA8IGlucHV0LnR4dGAKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TmFtZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgTG9naXN0aWNzCg==</text>
+        <text encoding="base64">TmFtZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgcHJldgo=</text>
+        <text encoding="base64">IyMgTG9naXN0aWNzCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>## Installation
-
-`pip install -r requirements.txt`
-
-
-## Usage
-
-`python3 main.py`</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZWwgcHJldgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
