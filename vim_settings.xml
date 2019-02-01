@@ -148,12 +148,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" timestamp="1548453608954">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" timestamp="1549044055263">
         <mark key="'" line="12" column="2" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="9" column="68" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_empty_grammar.py" timestamp="1540343336214">
         <mark key="'" line="9" column="0" />
@@ -224,12 +224,12 @@
       <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1548454771883">
-        <mark key="'" line="56" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="30" column="69" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1549043944656">
+        <mark key="'" line="0" column="19" />
+        <mark key="[" line="63" column="40" />
+        <mark key="]" line="63" column="43" />
+        <mark key="." line="63" column="43" />
+        <mark key="^" line="63" column="43" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_two_state_grammar.py" timestamp="1540167680969">
         <mark key="'" line="19" column="37" />
@@ -333,8 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="87" column="64" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="101" column="12" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
@@ -416,7 +414,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="65" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="63" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" />
@@ -433,19 +430,22 @@
       <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="21" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="52" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="0" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdBbGlnbjonLCBzLCB0KQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>par</text>
@@ -454,7 +454,7 @@
         <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdBbGlnbjonLCBzLCB0KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -475,28 +475,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgOnBhcmFtIHM6IAogICAgOnBhcmFtIHQ6IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdBbGlnbjonLCBzLCB0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ICAgIAogICAgOnBhcmFtIHM6IAogICAgOnBhcmFtIHQ6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YHB5dGhvbjMgbWFpbi5weSA8IGlucHV0LnR4dGAKCg==</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TmFtZToK</text>
+        <text encoding="base64">YHB5dGhvbjMgbWFpbi5weSA8IGlucHV0LnR4dGAKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgTG9naXN0aWNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgcHJldgo=</text>
+        <text encoding="base64">TmFtZToK</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
