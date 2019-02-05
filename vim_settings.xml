@@ -65,6 +65,13 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" timestamp="1549407242310">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="8" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_munch_ends_after_accept_state.py" timestamp="1543119759765">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="12" column="0" />
@@ -85,6 +92,9 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="10" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" timestamp="1549407826566">
+        <mark key="'" line="19781" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_tokenize_logic.py" timestamp="1543098063778">
         <mark key="'" line="18" column="28" />
@@ -154,6 +164,12 @@
         <mark key="]" line="11" column="16" />
         <mark key="^" line="9" column="68" />
         <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" timestamp="1549407949944">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_empty_grammar.py" timestamp="1540343336214">
         <mark key="'" line="9" column="0" />
@@ -333,9 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="101" column="12" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
       <jump line="42" column="0" filename="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
       <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -433,19 +446,22 @@
       <jump line="32" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="66" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="0" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
+      <jump line="8" column="11" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
+      <jump line="93" column="47" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" />
+      <jump line="19781" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sequence</text>
       </register>
       <register name="/" type="4">
         <text>par</text>
@@ -454,7 +470,7 @@
         <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -475,28 +491,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpZCwgc2VxdWVuY2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdBbGlnbjonLCBzLCB0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgOnBhcmFtIHM6IAogICAgOnBhcmFtIHQ6IAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ZGVmIHNjb3JlMShzZXF1ZW5jZSk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lLnNwbGl0KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YHB5dGhvbjMgbWFpbi5weSA8IGlucHV0LnR4dGAKCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lLnN0cmlwKCkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>for line in open(argv[1]).readlines():
+    print(line)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TmFtZToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
