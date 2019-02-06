@@ -16,11 +16,11 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_single_state.py" timestamp="1543119929257">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_aa_frequencies.py" timestamp="1549477215762">
+        <mark key="[" line="14" column="80" />
+        <mark key="]" line="14" column="80" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="14" column="80" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_two_accept_states.py" timestamp="1541260986011">
         <mark key="'" line="11" column="35" />
@@ -36,7 +36,7 @@
         <mark key="." line="58" column="6" />
         <mark key="^" line="58" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1548372208780">
+      <file name="/a.dummy" timestamp="1549474456980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/syntax/logic_dfa.py" timestamp="1543119160992">
@@ -65,12 +65,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" timestamp="1549407242310">
-        <mark key="'" line="8" column="11" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="8" column="11" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" timestamp="1549477114972">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="68" />
+        <mark key="." line="20" column="68" />
+        <mark key="^" line="20" column="68" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_munch_ends_after_accept_state.py" timestamp="1543119759765">
         <mark key="'" line="15" column="0" />
@@ -133,12 +133,6 @@
         <mark key="." line="59" column="16" />
         <mark key="^" line="59" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/syntax/tokenizer.py" timestamp="1543792896150">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_two_accept_states.py" timestamp="1543120049209">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="5" column="0" />
@@ -158,6 +152,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" timestamp="1549474429673">
+        <mark key="'" line="1" column="20" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" timestamp="1549044055263">
         <mark key="'" line="12" column="2" />
         <mark key="[" line="11" column="16" />
@@ -165,11 +166,12 @@
         <mark key="^" line="9" column="68" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" timestamp="1549407949944">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" timestamp="1549473339585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="50" />
+        <mark key="." line="3" column="50" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/dfa/test_empty_grammar.py" timestamp="1540343336214">
         <mark key="'" line="9" column="0" />
@@ -183,12 +185,6 @@
         <mark key="]" line="14" column="58" />
         <mark key="." line="14" column="58" />
         <mark key="^" line="14" column="58" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/a1.py" timestamp="1548370350054">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_tokenize.py" timestamp="1543097480283">
         <mark key="'" line="36" column="13" />
@@ -204,11 +200,14 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="/fragment.py" timestamp="1548451539164">
+      <file name="/Python Console" timestamp="1549477076776">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
+      </file>
+      <file name="/fragment.py" timestamp="1549477119535">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="50" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/startup-scripts/general.sh" timestamp="1543721955554">
         <mark key="'" line="4" column="0" />
@@ -268,13 +267,13 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/custom-startup.sh" timestamp="1543698374356">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1549477031747">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+        <mark key="^" line="2" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548373182350">
+      <file name="/Dummy.txt" timestamp="1549477745029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -287,12 +286,25 @@
         <mark key="." line="63" column="9" />
         <mark key="^" line="63" column="9" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" timestamp="1549477526426">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="19" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_tokenize.py" timestamp="1543692190053">
         <mark key="'" line="59" column="54" />
         <mark key="[" line="60" column="18" />
         <mark key="]" line="60" column="18" />
         <mark key="." line="60" column="18" />
         <mark key="^" line="60" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/bio.py" timestamp="1549473299333">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_accept_state.py" timestamp="1541260734214">
         <mark key="'" line="14" column="36" />
@@ -322,18 +334,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/machine_specific.sh" timestamp="1543716542698">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/logic_dfa/test_logic_dfa_transitions.py" timestamp="1543119649822">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/syntax/grammar.py" timestamp="1538257716179">
         <mark key="'" line="12" column="37" />
         <mark key="[" line="8" column="0" />
@@ -349,22 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="106" column="19" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="35" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="47" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="59" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="41" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
-      <jump line="64" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="74" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="69" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="67" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="66" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -446,31 +430,47 @@
       <jump line="32" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="66" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="0" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="8" column="11" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
       <jump line="93" column="47" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" />
       <jump line="19781" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" />
+      <jump line="7" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
+      <jump line="14" column="24" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
+      <jump line="3" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/bio.py" />
+      <jump line="4" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/bio.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/bio.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
+      <jump line="8" column="24" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" />
+      <jump line="12" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" />
+      <jump line="1" column="20" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
+      <jump line="8" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">a21lcl90b19jb3VudCA9IHtrOiBrbWVyX3RvX2NvdW50W2tdIGZvciBrIGluIGttZXJfdG9fY291bnQgaWYgaXNfdmFsaWRfa21lcihrKX0K</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>sequence</text>
+        <text encoding="base64">IGlmIGlzX3ZhbGlkX2ttZXIoayk=</text>
       </register>
       <register name="/" type="4">
-        <text>par</text>
+        <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUFUQ0NDQ1RBRwpBVENDQ0NHR1RDRwo=</text>
+        <text encoding="base64">ZnJvbSBCaW8uU2VxSU8gaW1wb3J0IHBhcnNlCgoKZm9yIHJlY29yZCBpbiBwYXJzZSgndW5pcHJvdF9zcHJvdC5mYXN0YScsICdmYXN0YScpOgogICAgcHJpbnQocmVjb3JkLnNlcSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">a21lcl90b19jb3VudCA9IHtrOiBrbWVyX3RvX2NvdW50W2tdIGZvciBrIGluIGttZXJfdG9fY291bnQgaWYgaXNfdmFsaWRfa21lcihrKX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -491,38 +491,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpZCwgc2VxdWVuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KDApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHNjb3JlMShzZXF1ZW5jZSk6Cg==</text>
+        <text encoding="base64">ZmFrZSBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQCmZha2UgSEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5lLnNwbGl0KCkpCg==</text>
+        <text encoding="base64">ICAgIGlmIGkgPT0gMTAwOiBicmVhawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5lLnN0cmlwKCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGttZXJfdG9fY291bnQpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>for line in open(argv[1]).readlines():
-    print(line)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBhbGwoW2MgaW4gdmFsaWRfYWFzIGZvciBjIGluIGttZXJdKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
       </register>
     </registers>
     <search>
-      <last-search>par</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern>par</last-pattern>
+      <last-pattern>if</last-pattern>
       <last-replace>statement</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -530,7 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_transitions</entry>
         <entry>fun</entry>
         <entry>5</entry>
         <entry>logic_dfa.transitions</entry>
@@ -550,6 +548,7 @@
         <entry>statement</entry>
         <entry>start</entry>
         <entry>par</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
         <entry>for i in [1,2,3,4,5,6,7]</entry>
@@ -618,6 +617,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
