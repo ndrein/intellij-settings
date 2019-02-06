@@ -16,9 +16,9 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_aa_frequencies.py" timestamp="1549477215762">
-        <mark key="[" line="14" column="80" />
-        <mark key="]" line="14" column="80" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_aa_frequencies.py" timestamp="1549480101224">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="32" />
         <mark key="^" line="12" column="53" />
         <mark key="." line="14" column="80" />
       </file>
@@ -93,8 +93,10 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" timestamp="1549407826566">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" timestamp="1549480068884">
         <mark key="'" line="19781" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_tokenize_logic.py" timestamp="1543098063778">
         <mark key="'" line="18" column="28" />
@@ -122,9 +124,6 @@
         <mark key="]" line="47" column="21" />
         <mark key="." line="47" column="21" />
         <mark key="^" line="47" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" timestamp="1546554867449">
-        <mark key="'" line="139" column="11" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1546816891501">
         <mark key="'" line="8" column="49" />
@@ -236,9 +235,6 @@
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
-        <mark key="'" line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" timestamp="1549043944656">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="63" column="40" />
@@ -267,11 +263,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1549477031747">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="53" />
-        <mark key="." line="2" column="53" />
-        <mark key="^" line="2" column="53" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1549480122947">
+        <mark key="'" line="3" column="24" />
+        <mark key="[" line="6" column="265" />
+        <mark key="]" line="6" column="260" />
+        <mark key="." line="6" column="260" />
+        <mark key="^" line="6" column="260" />
       </file>
       <file name="/Dummy.txt" timestamp="1549477745029">
         <mark key="[" line="0" column="0" />
@@ -349,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="66" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" />
@@ -449,25 +445,26 @@
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
+      <jump line="3" column="24" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">a21lcl90b19jb3VudCA9IHtrOiBrbWVyX3RvX2NvdW50W2tdIGZvciBrIGluIGttZXJfdG9fY291bnQgaWYgaXNfdmFsaWRfa21lcihrKX0K</text>
+      <register name="&quot;" type="4">
+        <text>ARNDCQEGHILKMFPSTWYV</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIGlzX3ZhbGlkX2ttZXIoayk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>if</text>
+        <text>J</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBCaW8uU2VxSU8gaW1wb3J0IHBhcnNlCgoKZm9yIHJlY29yZCBpbiBwYXJzZSgndW5pcHJvdF9zcHJvdC5mYXN0YScsICdmYXN0YScpOgogICAgcHJpbnQocmVjb3JkLnNlcSkK</text>
+      <register name="0" type="4">
+        <text>ARNDCQEGHILKMFPSTWYV</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">a21lcl90b19jb3VudCA9IHtrOiBrbWVyX3RvX2NvdW50W2tdIGZvciBrIGluIGttZXJfdG9fY291bnQgaWYgaXNfdmFsaWRfa21lcihrKX0K</text>
@@ -519,9 +516,9 @@
       </register>
     </registers>
     <search>
-      <last-search>if</last-search>
+      <last-search>J</last-search>
       <last-offset />
-      <last-pattern>if</last-pattern>
+      <last-pattern>J</last-pattern>
       <last-replace>statement</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -529,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fun</entry>
         <entry>5</entry>
         <entry>logic_dfa.transitions</entry>
         <entry>tokenizer.tokenize</entry>
@@ -549,6 +545,7 @@
         <entry>start</entry>
         <entry>par</entry>
         <entry>if</entry>
+        <entry>J</entry>
       </history-search>
       <history-cmd>
         <entry>for i in [1,2,3,4,5,6,7]</entry>
