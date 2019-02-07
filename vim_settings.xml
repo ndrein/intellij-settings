@@ -9,74 +9,17 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1549477745029">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_aa_frequencies.py" timestamp="1549502941312">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="49" />
         <mark key="^" line="12" column="53" />
         <mark key="." line="14" column="80" />
-      </file>
-      <file name="/a.dummy" timestamp="1549503908174">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" timestamp="1549477114972">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="20" column="66" />
-        <mark key="]" line="20" column="68" />
-        <mark key="." line="20" column="68" />
-        <mark key="^" line="20" column="68" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_to_csv.py" timestamp="1549503462907">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" timestamp="1549480068884">
-        <mark key="'" line="19781" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" timestamp="1549505176780">
-        <mark key="'" line="31" column="117" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" timestamp="1546554867449">
-        <mark key="'" line="139" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1549509540171">
-        <mark key="[" line="4" column="69" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" timestamp="1549474429673">
-        <mark key="'" line="1" column="20" />
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" timestamp="1549473339585">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-      </file>
-      <file name="/Python Console" timestamp="1549477076776">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/create _csv.py" timestamp="1549503883011">
         <mark key="'" line="1" column="30" />
@@ -98,27 +41,8 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/README.md" timestamp="1543719166807">
-        <mark key="[" line="15" column="81" />
-        <mark key="]" line="15" column="81" />
-        <mark key="." line="15" column="81" />
-        <mark key="^" line="15" column="82" />
-      </file>
-      <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
-        <mark key="'" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1549480122947">
-        <mark key="'" line="3" column="24" />
-        <mark key="[" line="6" column="265" />
-        <mark key="]" line="6" column="260" />
-        <mark key="." line="6" column="260" />
-        <mark key="^" line="6" column="260" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1549477745029">
+      <file name="/a.dummy" timestamp="1549503908174">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" timestamp="1549477526426">
         <mark key="[" line="23" column="0" />
@@ -133,6 +57,79 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" timestamp="1549510034182">
+        <mark key="'" line="3927" column="74" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" timestamp="1546554867449">
+        <mark key="'" line="139" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1549510252695">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/startup-scripts/README.md" timestamp="1543719166807">
+        <mark key="[" line="15" column="81" />
+        <mark key="]" line="15" column="81" />
+        <mark key="." line="15" column="81" />
+        <mark key="^" line="15" column="82" />
+      </file>
+      <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
+        <mark key="'" line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" timestamp="1549474429673">
+        <mark key="'" line="1" column="20" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" timestamp="1549477114972">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="68" />
+        <mark key="." line="20" column="68" />
+        <mark key="^" line="20" column="68" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" timestamp="1549473339585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_to_csv.py" timestamp="1549503462907">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1549480122947">
+        <mark key="'" line="3" column="24" />
+        <mark key="[" line="6" column="265" />
+        <mark key="]" line="6" column="260" />
+        <mark key="." line="6" column="260" />
+        <mark key="^" line="6" column="260" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" timestamp="1549480068884">
+        <mark key="'" line="19781" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_tokenizer.py" timestamp="1540340612485">
         <mark key="[" line="3" column="51" />
         <mark key="]" line="3" column="52" />
@@ -141,10 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
-      <jump line="6" column="9" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
       <jump line="1" column="1" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -241,19 +234,23 @@
       <jump line="10" column="86" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="9" column="104" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="31" column="117" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" />
+      <jump line="1" column="20" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="3927" column="74" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" />
+      <jump line="17" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcgo=</text>
+        <text encoding="base64">ZGF0YVs6MV1bOjFdCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>J</text>
@@ -262,7 +259,7 @@
         <text encoding="base64">ICAgIGxlbmd0aHMgPSBbaW50KGxlbmd0aCkgZm9yIGxlbmd0aCBpbiBzb3J0ZWQoZ2F1c3NpYW5fa2RlKFtsZW4ocykgZm9yIHMgaW4gc2VxdWVuY2VzXSkucmVzYW1wbGUobGVuKHNlcXVlbmNlcykpWzBdKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcgo=</text>
+        <text encoding="base64">ZGF0YVs6MV1bOjFdCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -283,28 +280,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW5ndGgpCg==</text>
+        <text encoding="base64">ZGF0YSA9IG5wLmdlbmZyb210eHQoJ3VuaXByb3Rfc3Byb3QuY3N2JywgZGVsaW1pdGVyPScsJykKcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnByaW50KGdlbmVyYXRlX3JhbmRvbV9wZXB0aWRlKDIwKSkK</text>
+        <text encoding="base64">ZnJvbSBudQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbmd0aHMpCg==</text>
+        <text encoding="base64">TW9kZWxDaGVja3BvaW50Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChsaXN0KGFhX3RvX2ZyZXEua2V5cygpKSkK</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgbnAucmFuZG9tLmNob2ljZShucC5hcnJheShbJ2EnLCAnYiddKSwgcD1bMC4yLCAwLjhdKQpwcmludChucC5yYW5kb20uY2hvaWNlKGxpc3QocmFuZ2UoMjApKSwgMTAsICBwPWxpc3QoYWFfdG9fZnJlcS52YWx1ZXMoKSkpKQoKcHJpbnQobGVuKGFhX3RvX2ZyZXEua2V5cygpKSwgbGVuKGFhX3RvX2ZyZXEudmFsdWVzKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW5ndGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnJy5qb2luKG5wLnJhbmRvbS5jaG9pY2UoYT1bJ2EnLCAnYicsICdjJ10sIHNpemU9bGVuZ3RoLCBwPWxpc3QoYWFfdG9fZnJlcS52YWx1ZXMoKSkpKQo=</text>
+        <text encoding="base64">CnByaW50KGdlbmVyYXRlX3JhbmRvbV9wZXB0aWRlKDIwKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bnAuYXJyYXkocmFuZ2UoMTAwKSwgcmFuZ2UoMTApKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbmd0aHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwcmludChsaXN0KGFhX3RvX2ZyZXEua2V5cygpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
