@@ -28,12 +28,12 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" timestamp="1549505052822">
-        <mark key="'" line="9" column="104" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="32" column="21" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" timestamp="1549554840532">
+        <mark key="'" line="21" column="28" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="/fragment.py" timestamp="1549477119535">
         <mark key="[" line="0" column="0" />
@@ -56,9 +56,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" timestamp="1549510034182">
-        <mark key="'" line="3927" column="74" />
       </file>
       <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
         <mark key="[" line="0" column="0" />
@@ -138,11 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
-      <jump line="1" column="1" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
-      <jump line="19" column="4" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
-      <jump line="5" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="27" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="83" column="19" filename="$USER_HOME$/dev/python-syntax/tests/test_logic_grammar.py" />
@@ -222,15 +214,12 @@
       <jump line="17" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create _csv.py" />
       <jump line="19" column="18" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create _csv.py" />
       <jump line="1" column="30" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create _csv.py" />
-      <jump line="15" column="24" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="16" column="6" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="13" column="38" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="8" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
-      <jump line="30" column="31" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="34" column="62" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="10" column="86" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="9" column="104" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="31" column="117" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" />
@@ -238,28 +227,36 @@
       <jump line="3927" column="74" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" />
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="30" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
+      <jump line="33" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
+      <jump line="27" column="48" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
+      <jump line="21" column="28" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGF0YVs6MV1bOjFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVuZ3RoID0K</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>uniprot_sprot</text>
       </register>
       <register name="/" type="4">
-        <text>J</text>
+        <text>500</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxlbmd0aHMgPSBbaW50KGxlbmd0aCkgZm9yIGxlbmd0aCBpbiBzb3J0ZWQoZ2F1c3NpYW5fa2RlKFtsZW4ocykgZm9yIHMgaW4gc2VxdWVuY2VzXSkucmVzYW1wbGUobGVuKHNlcXVlbmNlcykpWzBdKV0K</text>
+        <text encoding="base64">Q1NWID0gJ3VuaXByb3Rfc3Byb3QuY3N2Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0YVs6MV1bOjFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVuZ3RoID0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -280,37 +277,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YSA9IG5wLmdlbmZyb210eHQoJ3VuaXByb3Rfc3Byb3QuY3N2JywgZGVsaW1pdGVyPScsJykKcHJpbnQoZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW5ndGggPj0gMToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBudQo=</text>
+        <text encoding="base64">ICAgIGxlbmd0aHMgPSBbaW50KGxlbmd0aCkgZm9yIGxlbmd0aCBpbiBzb3J0ZWQoZ2F1c3NpYW5fa2RlKFtsZW4ocykgZm9yIHMgaW4gc2VxdWVuY2VzXSkucmVzYW1wbGUobGVuKHNlcXVlbmNlcykpWzBdKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TW9kZWxDaGVja3BvaW50Lgo=</text>
+        <text encoding="base64">ZnJvbSBmb3IgIGluIHQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcgo=</text>
+        <text encoding="base64">ZnJvbSBmb3IgIDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW5ndGgpCg==</text>
+        <text encoding="base64">ZGVmIGdlbmVyYXRlX2luZGV4KCk6CiAgICBmb3IgaSBpbiByYW5nZSgpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnByaW50KGdlbmVyYXRlX3JhbmRvbV9wZXB0aWRlKDIwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbmd0aHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwcmludChsaXN0KGFhX3RvX2ZyZXEua2V5cygpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/start/statement/g</text>
       </register>
     </registers>
     <search>
-      <last-search>J</last-search>
+      <last-search>500</last-search>
       <last-offset />
-      <last-pattern>J</last-pattern>
+      <last-pattern>500</last-pattern>
       <last-replace>statement</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -318,7 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>5</entry>
         <entry>logic_dfa.transitions</entry>
         <entry>tokenizer.tokenize</entry>
         <entry>tokenize</entry>
@@ -338,6 +334,7 @@
         <entry>par</entry>
         <entry>if</entry>
         <entry>J</entry>
+        <entry>500</entry>
       </history-search>
       <history-cmd>
         <entry>for i in [1,2,3,4,5,6,7]</entry>
