@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_to_freq.json" timestamp="1549988862484">
         <mark key="'" line="0" column="231788" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1549994997889">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="6" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550004089680">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/.gitignore" timestamp="1549989200301">
         <mark key="'" line="9" column="21" />
@@ -176,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="19" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="21" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -276,6 +275,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="42" column="33" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="29" column="44" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/imdb.py" />
+      <jump line="16" column="9" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
