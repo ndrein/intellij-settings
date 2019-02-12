@@ -30,9 +30,6 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1549991196820">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1549477119535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -131,12 +128,12 @@
       <file name="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" timestamp="1546554867449">
         <mark key="'" line="139" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1549991070157">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="29" column="42" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1549992202772">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" timestamp="1549474429673">
         <mark key="'" line="1" column="20" />
@@ -171,9 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="30" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="14" column="49" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="16" column="25" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
@@ -234,7 +228,6 @@
       <jump line="34" column="62" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="9" column="104" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="31" column="117" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" />
-      <jump line="1" column="20" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="3927" column="74" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.csv" />
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="30" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
@@ -271,28 +264,32 @@
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/get_kmers.py" />
       <jump line="54" column="42" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="10" column="37" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="5" column="38" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">NAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>keras</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAyMCA8PSBsZW4ocykgPD0gNDAgYW5kIHNldChzLnNlcSkgPD0gdmFsaWRfYWFzCg==</text>
+        <text encoding="base64">ICAgIGFyciA9IG5wLm9uZXMoKGxlbihzZXF1ZW5jZXMsICkgKiAyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkK</text>
+        <text encoding="base64">YXJyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -313,28 +310,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoYXZnX3JlYWxfc2NvcmUpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBucC5hcnJheShzZXF1ZW5jZXMpICsgbnAub25lcyhsZW4oc2VxdWVuY2VzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVuKGdldF9zZXF1ZW5jZXMoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAyMCA8PSBsZW4ocykgPD0gNDAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGkgCg==</text>
+        <text encoding="base64">NAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIDIwIDw9IGxlbihzKSA8PSA0MCBhbmQgc2V0KHMuc2VxKSA8PSB2YWxpZF9hYXMK</text>
+        <text encoding="base64">cHJpbnQoYXZnX3JlYWxfc2NvcmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">bGVuKGdldF9zZXF1ZW5jZXMoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHIK</text>
+        <text encoding="base64">ICAgIHJldHVybiAyMCA8PSBsZW4ocykgPD0gNDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGkgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/keras/tensorflow.keras/gc</text>
