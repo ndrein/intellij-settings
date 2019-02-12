@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_to_freq.json" timestamp="1549988862484">
         <mark key="'" line="0" column="231788" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1549990738331">
-        <mark key="'" line="11" column="22" />
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-        <mark key="^" line="11" column="21" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1549994997889">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/.gitignore" timestamp="1549989200301">
         <mark key="'" line="9" column="21" />
@@ -128,12 +128,12 @@
       <file name="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" timestamp="1546554867449">
         <mark key="'" line="139" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1549992202772">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1549996435535">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="53" />
+        <mark key="." line="26" column="53" />
+        <mark key="^" line="29" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" timestamp="1549474429673">
         <mark key="'" line="1" column="20" />
@@ -142,11 +142,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" timestamp="1549990467028">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" timestamp="1549994839670">
+        <mark key="'" line="5" column="27" />
+        <mark key="[" line="19" column="90" />
+        <mark key="]" line="19" column="90" />
+        <mark key="." line="19" column="90" />
+        <mark key="^" line="19" column="90" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/scores.py" timestamp="1549989491258">
         <mark key="'" line="0" column="0" />
@@ -168,19 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="25" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="65" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/test.txt" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" />
-      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" />
       <jump line="12" column="2" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/README.md" />
       <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a1/main.py" />
@@ -251,45 +239,58 @@
       <jump line="103" column="5" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/.gitignore" />
       <jump line="9" column="21" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/.gitignore" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/scores.py" />
       <jump line="6" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="11" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/get_kmers.py" />
       <jump line="54" column="42" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="10" column="37" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="5" column="38" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="4" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
+      <jump line="16" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
+      <jump line="17" column="30" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
+      <jump line="3" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="14" column="33" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
+      <jump line="5" column="27" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
+      <jump line="15" column="1" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="38" column="71" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
+      <jump line="5" column="11" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>, value='X'</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, value='X'</text>
       </register>
       <register name="/" type="4">
-        <text>keras</text>
+        <text>batch_size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFyciA9IG5wLm9uZXMoKGxlbihzZXF1ZW5jZXMsICkgKiAyKSkK</text>
+        <text encoding="base64">bW9kZWwuZml0KFhfdHJhaW4sIHlfdHJhaW4sIGVwb2Nocz0zLCBiYXRjaF9zaXplPTY0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXJyCg==</text>
+        <text encoding="base64">WF90cmFpbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -310,37 +311,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBucC5hcnJheShzZXF1ZW5jZXMpICsgbnAub25lcyhsZW4oc2VxdWVuY2VzKSkK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkK</text>
+        <text encoding="base64">IyBMU1RNIHdpdGggRHJvcG91dCBmb3Igc2VxdWVuY2UgY2xhc3NpZmljYXRpb24gaW4gdGhlIElNREIgZGF0YXNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoYXZnX3JlYWxfc2NvcmUpCg==</text>
+        <text encoding="base64">WF8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGVuKGdldF9zZXF1ZW5jZXMoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAyMCA8PSBsZW4ocykgPD0gNDAK</text>
+        <text encoding="base64">bnAucmFuZG9tLnNlZWQoNykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGkgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/keras/tensorflow.keras/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>keras</last-search>
+      <last-search>batch_size</last-search>
       <last-offset />
-      <last-pattern>keras</last-pattern>
+      <last-pattern>batch_size</last-pattern>
       <last-replace>tensorflow.keras</last-replace>
       <last-substitute>keras</last-substitute>
       <last-dir>1</last-dir>
@@ -348,7 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Enum</entry>
         <entry>_make</entry>
         <entry encoding="base64">XDxfbWFrZV90b2tlbl90eXBlXD4=</entry>
         <entry>TokenType</entry>
@@ -368,6 +368,7 @@
         <entry>an</entry>
         <entry>.idea</entry>
         <entry>keras</entry>
+        <entry>batch_size</entry>
       </history-search>
       <history-cmd>
         <entry>for i in [1,2,3]</entry>
