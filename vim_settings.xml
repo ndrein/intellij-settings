@@ -55,12 +55,12 @@
         <mark key="." line="15" column="81" />
         <mark key="^" line="15" column="82" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" timestamp="1550194371259">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" timestamp="1550195371883">
         <mark key="'" line="7" column="38" />
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
         <mark key="'" line="42" column="0" />
@@ -71,6 +71,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent2.py" timestamp="1550195981445">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="17" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="39" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" timestamp="1549989518372">
         <mark key="[" line="1" column="0" />
@@ -154,6 +160,13 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" timestamp="1550196273700">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="102" column="43" />
+        <mark key="]" line="102" column="45" />
+        <mark key="." line="102" column="45" />
+        <mark key="^" line="102" column="45" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" timestamp="1549474429673">
         <mark key="'" line="1" column="20" />
         <mark key="[" line="14" column="39" />
@@ -188,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
       <jump line="78" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" />
@@ -288,19 +299,21 @@
       <jump line="13" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="7" column="38" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW9kZWwuYWRkKERyb3BvdXQoMC41KSkK</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -309,7 +322,7 @@
         <text encoding="base64">bW9kZWwuYWRkKERyb3BvdXQoMC41KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bW9kZWwuYWRkKERlbnNlKDMyLCBhY3RpdmF0aW9uPSdzaWdtb2lkJykpCm1vZGVsLmFkZChEZW5zZSgzMiwgYWN0aXZhdGlvbj0nc2lnbW9pZCcpKQptb2RlbC5hZGQoRGVuc2UoMzIsIGFjdGl2YXRpb249J3NpZ21vaWQnKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -329,29 +342,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="2" type="4">
+        <text>64, activation='sigmoid'))
+model</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bW9kZWwuYWRkKERlbnNlKDEyOCwgYWN0aXZhdGlvbj0nc2lnbW9pZCcpKQptb2RlbC5hZGQoRGVuc2UoMTI4LCBhY3RpdmF0aW9uPSdzaWdtb2lkJykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQobmV4dChnKSkK</text>
+        <text encoding="base64">bW9kZWwuYWRkKERlbnNlKDEwMCwgYWN0aXZhdGlvbj0nc2lnbW9pZCcpKQptb2RlbC5hZGQoRGVuc2UoMTAwLCBhY3RpdmF0aW9uPSdzaWdtb2lkJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWFfdG9faW50ID0ge2FhOiBpIGZvciBpLCBhYSBpbiBlbnVtZXJhdGUoc29ydGVkKGxpc3QodmFsaWRfYWFzKSkpfQo=</text>
+        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMTI4KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihjaHVuaykpCg==</text>
+        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMTI4LCByZXR1cm5fc2VxdWVuY2VzPVRydWUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNodW5rKQo=</text>
+        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIHJldHVybl9zZXF1ZW5jZXM9VHJ1ZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGYgPSBwZC5yZWFkX2NzdignMjBtZXJzLXNob3J0LmNzdicpCmRmLnRvX251bXB5KCkuc2hhcGUK</text>
+        <text encoding="base64">bW9kZWwuYWRkKERyb3BvdXQoMC41KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kZWwuYWRkKERyb3BvdXQoMC41KSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/keras/tensorflow.keras/gc</text>
