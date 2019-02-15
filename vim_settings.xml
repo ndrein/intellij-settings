@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_to_freq.json" timestamp="1549988862484">
         <mark key="'" line="0" column="231788" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550187675945">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="18" column="25" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550191804301">
+        <mark key="'" line="23" column="34" />
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+        <mark key="^" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/dotfiles/startup-scripts/README.md" timestamp="1543719166807">
         <mark key="[" line="15" column="81" />
@@ -55,12 +55,12 @@
         <mark key="." line="15" column="81" />
         <mark key="^" line="15" column="82" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" timestamp="1550187848228">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="62" />
-        <mark key="]" line="41" column="62" />
-        <mark key="." line="41" column="62" />
-        <mark key="^" line="44" column="26" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" timestamp="1550194371259">
+        <mark key="'" line="7" column="38" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
         <mark key="'" line="42" column="0" />
@@ -188,12 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/venv/lib/python3.6/site-packages/SimpleHOHMM/builder.py" />
-      <jump line="124" column="56" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/venv/lib/python3.6/site-packages/SimpleHOHMM/builder.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
-      <jump line="3" column="30" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
       <jump line="28" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
@@ -236,7 +230,6 @@
       <jump line="7" column="38" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="23" column="40" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="18" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="19" column="68" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
@@ -258,7 +251,6 @@
       <jump line="24" column="16" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="23" column="18" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="1" column="44" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="25" column="18" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="17" column="6" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
@@ -288,25 +280,33 @@
       <jump line="16" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
+      <jump line="5" column="65" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="21" column="34" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
+      <jump line="13" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
+      <jump line="7" column="38" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>u</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kZWwuZml0KHgsIHksIGVwb2Nocz0zLCBiYXRjaF9zaXplPUJBVENIX1NJWkUsIGNhbGxiYWNrcz1bTW9kZWxDaGVja3BvaW50KCdtb2RlbC5oNScsIG1vbml0b3I9J2xvc3MnKV0pCg==</text>
+        <text encoding="base64">bW9kZWwuYWRkKERyb3BvdXQoMC41KSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
