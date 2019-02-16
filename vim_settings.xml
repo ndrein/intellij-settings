@@ -181,12 +181,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" timestamp="1550273413261">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" timestamp="1550276218934">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-        <mark key="^" line="11" column="21" />
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="56" />
+        <mark key="." line="19" column="56" />
+        <mark key="^" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" timestamp="1550184130882">
         <mark key="'" line="5" column="42" />
@@ -321,13 +321,13 @@
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text>5</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
