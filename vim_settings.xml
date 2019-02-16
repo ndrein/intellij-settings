@@ -46,10 +46,10 @@
       <file name="/a.dummy" timestamp="1550281378282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550191804301">
-        <mark key="'" line="23" column="34" />
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="21" column="10" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550288485963">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="42" />
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
@@ -80,12 +80,9 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" timestamp="1550286442683">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" timestamp="1550288389061">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="22" />
+        <mark key="^" line="6" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/imdb.py" timestamp="1549998590864">
         <mark key="'" line="33" column="44" />
@@ -112,6 +109,11 @@
         <mark key="]" line="8" column="7" />
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1549989022887">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549990624340">
         <mark key="[" line="0" column="0" />
@@ -140,6 +142,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/get_distance_triples.py" timestamp="1550288382419">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/bio.py" timestamp="1549473299333">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -147,13 +154,26 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" timestamp="1550288535078">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+        <mark key="^" line="15" column="61" />
+      </file>
       <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" timestamp="1550286231684" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" timestamp="1550288461198">
+        <mark key="'" line="2" column="52" />
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="67" />
+        <mark key="^" line="8" column="67" />
+        <mark key="." line="8" column="67" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1550179838430">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="21" column="1" />
@@ -216,11 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="29" column="59" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="5" column="42" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="1" column="18" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
@@ -316,28 +331,33 @@
       <jump line="1" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
+      <jump line="1" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
+      <jump line="2" column="52" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBkdW1wCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>kmer_frequency_score</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YSBpbXBvcnQgcGFyc2Vfa21lcnMKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwYW5kYXMgYXMgcGQKZnJvbSBtYXRoIGltcG9ydCBsb2cKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgoKCmRlZiBnZXRfZGlzdGFuY2VfdHJpcGxlcyhzKToKICAgIGZvciBpIGluIHJhbmdlKDIwKToKICAgICAgICBmb3IgZGlzdGFuY2UgaW4gcmFuZ2UoMSwgMjAgLSBpKToKICAgICAgICAgICAgeWllbGQgc1tpXSwgZGlzdGFuY2UsIHNbaSArIGRpc3RhbmNlXQoKCmNvdW50ZXIgPSBDb3VudGVyKCkKZm9yIHMgaW4gcGFyc2Vfa21lcnMoMjAsIDEwMCk6CiAgICBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpOgogICAgICAgIGNvdW50ZXJbdHJpcGxlXSArPSAxCmZyZXF1ZW5jaWVzID0ge2s6IGNvdW50ZXJba10gLyBzdW0oY291bnRlci52YWx1ZXMoKSkgZm9yIGsgaW4gY291bnRlcn0KCgpkZWYgcHJvZmlsZShzKToKICAgIHJldHVybiBzdW0oKGxvZyhmcmVxdWVuY2llc1t0cmlwbGVdKSBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkKCgpkYXRhID0gcGQucmVhZF9jc3YoJzIwbWVycy1zaG9ydC1zaHVmZmxlZC5jc3YnKS50b19udW1weSgpWzoxMDAwMF0KeSA9IGRhdGFbOiwgLTFdCnRydWUgPSBkYXRhWzosIDotMV1beSA9PSAxXQpmYWtlID0gZGF0YVs6LCA6LTFdW3kgPT0gMF0K</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwYW5kYXMgYXMgcGQKZnJvbSBrZXJhcy5tb2RlbHMgaW1wb3J0IGxvYWRfbW9kZWwKZnJvbSByYW5kb20gaW1wb3J0IHNhbXBsZQpmcm9tIGttZXJfZnJlcXVlbmN5X3Njb3JlIGltcG9ydCBrbWVyX2ZyZXF1ZW5jeV9zY29yZQpmcm9tIGZhc3RhIGltcG9ydCBfZ2V0X3BlcHRpZGVzLCB2YWxpZF9hYXMsIHBhcnNlX2ttZXJzLCBhYV90b19pbnQKCiMgU0FNUExFX1NJWkUgPSAxMDAwMDAwCiMKIyBhdmdfcmVhbF9zY29yZSA9IG5wLm1lYW4oW2ttZXJfZnJlcXVlbmN5X3Njb3JlKHMpIGZvciBzIGluIHBhcnNlX2ttZXJzKDMwLCBTQU1QTEVfU0laRSldKQojIHByaW50KCdhdmcgcmVhbCBzY29yZTonLCBhdmdfcmVhbF9zY29yZSkKIyAjCiMgZmFrZV9wZXB0aWRlcyA9IFsnJy5qb2luKHNhbXBsZShzLCBsZW4ocykpKSBmb3IgcyBpbiBwYXJzZV9rbWVycygzMCwgU0FNUExFX1NJWkUpXQojIGF2Z19mYWtlX3Njb3JlID0gbnAubWVhbihba21lcl9mcmVxdWVuY3lfc2NvcmUocykgZm9yIHMgaW4gZmFrZV9wZXB0aWRlc10pCiMgIwojIHByaW50KCdhdmcgZmFrZSBzY29yZTonLCBhdmdfZmFrZV9zY29yZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBkdW1wCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,28 +378,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZnJlcXVlbmNpZXMpCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpkZWYgcHJvZmlsZShzKToKICAgIHJldHVybiBzdW0oKGxvZyhmcmVxdWVuY2llc1t0cmlwbGVdKSBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkKCgpkYXRhID0gcGQucmVhZF9jc3YoJzIwbWVycy1zaG9ydC1zaHVmZmxlZC5jc3YnKS50b19udW1weSgpWzoxMDAwMF0KeSA9IGRhdGFbOiwgLTFdCnRydWUgPSBkYXRhWzosIDotMV1beSA9PSAxXQpmYWtlID0gZGF0YVs6LCA6LTFdW3kgPT0gMF0K</text>
+        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KCcyMG1lcnMtc2hvcnQtc2h1ZmZsZWQuY3N2JykudG9fbnVtcHkoKVs6MTAwMDBdCnkgPSBkYXRhWzosIC0xXQp0cnVlID0gZGF0YVs6LCA6LTFdW3kgPT0gMV0KZmFrZSA9IGRhdGFbOiwgOi0xXVt5ID09IDBdCg==</text>
+        <text encoding="base64">ZGVmIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpOgogICAgZm9yIGkgaW4gcmFuZ2UoMjApOgogICAgICAgIGZvciBkaXN0YW5jZSBpbiByYW5nZSgxLCAyMCAtIGkpOgogICAgICAgICAgICB5aWVsZCBzW2ldLCBkaXN0YW5jZSwgc1tpICsgZGlzdGFuY2VdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cm5wLmF2ZXJhZ2UoW3Byb2ZpbGUocykgZm9yIHMgaW4gXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJvZmlsZShuZXh0KHBhcnNlX2ttZXJzKDIwKSkpCg==</text>
+        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBkdW1wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIAo=</text>
+        <text encoding="base64">cHJpbnQoZnJlcXVlbmNpZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdW0oKGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkK</text>
+        <text encoding="base64">CgpkZWYgcHJvZmlsZShzKToKICAgIHJldHVybiBzdW0oKGxvZyhmcmVxdWVuY2llc1t0cmlwbGVdKSBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkKCgpkYXRhID0gcGQucmVhZF9jc3YoJzIwbWVycy1zaG9ydC1zaHVmZmxlZC5jc3YnKS50b19udW1weSgpWzoxMDAwMF0KeSA9IGRhdGFbOiwgLTFdCnRydWUgPSBkYXRhWzosIDotMV1beSA9PSAxXQpmYWtlID0gZGF0YVs6LCA6LTFdW3kgPT0gMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJlcXVlbmNpZXMK</text>
+        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KCcyMG1lcnMtc2hvcnQtc2h1ZmZsZWQuY3N2JykudG9fbnVtcHkoKVs6MTAwMDBdCnkgPSBkYXRhWzosIC0xXQp0cnVlID0gZGF0YVs6LCA6LTFdW3kgPT0gMV0KZmFrZSA9IGRhdGFbOiwgOi0xXVt5ID09IDBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/keras/tensorflow.keras/gc</text>
