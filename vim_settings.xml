@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" timestamp="1550283954578">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" timestamp="1550286158369">
         <mark key="'" line="24" column="13" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="27" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="9" />
       </file>
@@ -46,9 +46,6 @@
       <file name="/a.dummy" timestamp="1550281378282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_to_freq.json" timestamp="1549988862484">
-        <mark key="'" line="0" column="231788" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550191804301">
         <mark key="'" line="23" column="34" />
         <mark key="[" line="20" column="63" />
@@ -76,8 +73,19 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/run/user/1000/gvfs/smb-share:server=192.168.1.125,share=volume_1/Noah/Code projects/Racket/RSA.rkt" timestamp="1546134002341">
-        <mark key="'" line="42" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" timestamp="1550286260838">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" timestamp="1550286442683">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/imdb.py" timestamp="1549998590864">
         <mark key="'" line="33" column="44" />
@@ -105,17 +113,6 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1549989022887">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_sprot.fasta" timestamp="1550171831346">
-        <mark key="'" line="35" column="33" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/aa_to_freq.json" timestamp="1549990592552">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1549990624340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -128,9 +125,6 @@
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/venv/lib/python3.6/site-packages/SimpleHOHMM/builder.py" timestamp="1550005069920">
-        <mark key="'" line="124" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" timestamp="1550268985863">
         <mark key="'" line="10" column="37" />
@@ -159,14 +153,7 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" timestamp="1550170797855">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/venv/lib/python3.6/site-packages/lark/tree.py" timestamp="1546554867449">
-        <mark key="'" line="139" column="11" />
-      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" timestamp="1550286231684" />
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1550179838430">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="21" column="1" />
@@ -229,28 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="24" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="39" column="16" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="12" column="6" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="28" column="42" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="24" column="16" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="23" column="18" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="1" column="44" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="17" column="6" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="14" column="33" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="10" column="1" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="28" column="36" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="20" column="12" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="26" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
-      <jump line="17" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
       <jump line="32" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
       <jump line="29" column="59" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" />
@@ -329,28 +294,50 @@
       <jump line="15" column="7" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
       <jump line="24" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="7" column="12" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="9" column="10" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="10" column="11" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="17" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="18" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="1" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="19" column="39" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="2" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
+      <jump line="17" column="69" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
+      <jump line="11" column="48" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
+      <jump line="1" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dHJ1ZS5zaGFwZQo=</text>
+        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBkdW1wCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bnAuYXZlcmFnZShbbW9kZWwuc2NvcmUocm93W25wLm5ld2F4aXMsIC4uLl0pIGZvciByb3cgaW4gWF0pCg==</text>
+        <text encoding="base64">ZnJvbSBmYXN0YSBpbXBvcnQgcGFyc2Vfa21lcnMKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwYW5kYXMgYXMgcGQKZnJvbSBtYXRoIGltcG9ydCBsb2cKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgoKCmRlZiBnZXRfZGlzdGFuY2VfdHJpcGxlcyhzKToKICAgIGZvciBpIGluIHJhbmdlKDIwKToKICAgICAgICBmb3IgZGlzdGFuY2UgaW4gcmFuZ2UoMSwgMjAgLSBpKToKICAgICAgICAgICAgeWllbGQgc1tpXSwgZGlzdGFuY2UsIHNbaSArIGRpc3RhbmNlXQoKCmNvdW50ZXIgPSBDb3VudGVyKCkKZm9yIHMgaW4gcGFyc2Vfa21lcnMoMjAsIDEwMCk6CiAgICBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpOgogICAgICAgIGNvdW50ZXJbdHJpcGxlXSArPSAxCmZyZXF1ZW5jaWVzID0ge2s6IGNvdW50ZXJba10gLyBzdW0oY291bnRlci52YWx1ZXMoKSkgZm9yIGsgaW4gY291bnRlcn0KCgpkZWYgcHJvZmlsZShzKToKICAgIHJldHVybiBzdW0oKGxvZyhmcmVxdWVuY2llc1t0cmlwbGVdKSBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkKCgpkYXRhID0gcGQucmVhZF9jc3YoJzIwbWVycy1zaG9ydC1zaHVmZmxlZC5jc3YnKS50b19udW1weSgpWzoxMDAwMF0KeSA9IGRhdGFbOiwgLTFdCnRydWUgPSBkYXRhWzosIDotMV1beSA9PSAxXQpmYWtlID0gZGF0YVs6LCA6LTFdW3kgPT0gMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHJ1ZS5zaGFwZQo=</text>
+        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBkdW1wCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -371,28 +358,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJ1ZS5zaGFwZQo=</text>
+        <text encoding="base64">cHJpbnQoZnJlcXVlbmNpZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnggPSBkYXRhWzosIDotMV1beSA9PSAxXQo=</text>
+        <text encoding="base64">CgpkZWYgcHJvZmlsZShzKToKICAgIHJldHVybiBzdW0oKGxvZyhmcmVxdWVuY2llc1t0cmlwbGVdKSBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkKCgpkYXRhID0gcGQucmVhZF9jc3YoJzIwbWVycy1zaG9ydC1zaHVmZmxlZC5jc3YnKS50b19udW1weSgpWzoxMDAwMF0KeSA9IGRhdGFbOiwgLTFdCnRydWUgPSBkYXRhWzosIDotMV1beSA9PSAxXQpmYWtlID0gZGF0YVs6LCA6LTFdW3kgPT0gMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJ1ZSA9IFhbeSA9PSAxXQpmYWxzZSA9IFhbeSA9PSAwXQpmYWxzZS5zaGFwZQo=</text>
+        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KCcyMG1lcnMtc2hvcnQtc2h1ZmZsZWQuY3N2JykudG9fbnVtcHkoKVs6MTAwMDBdCnkgPSBkYXRhWzosIC0xXQp0cnVlID0gZGF0YVs6LCA6LTFdW3kgPT0gMV0KZmFrZSA9IGRhdGFbOiwgOi0xXVt5ID09IDBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eSA9IGRhdGFbOiwgLTFdCg==</text>
+        <text encoding="base64">Cm5wLmF2ZXJhZ2UoW3Byb2ZpbGUocykgZm9yIHMgaW4gXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9kZWwucGFydGlhbF9maXQK</text>
+        <text encoding="base64">cHJvZmlsZShuZXh0KHBhcnNlX2ttZXJzKDIwKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kZWwuc2NvcmUoZmFsc2UpCg==</text>
+        <text encoding="base64">Zm9yIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WC5zaGFwZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdW0oKGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kZWwuc2NvcmUoKQo=</text>
+        <text encoding="base64">ZnJlcXVlbmNpZXMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/keras/tensorflow.keras/gc</text>
