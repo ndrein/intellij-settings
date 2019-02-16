@@ -37,13 +37,16 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/fragment.py" timestamp="1550174464464">
+      <file name="/Python Console" timestamp="1550331509935">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1550331516189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550281378282">
+      <file name="/a.dummy" timestamp="1550331766043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550288485963">
@@ -131,19 +134,19 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" timestamp="1550268985863">
-        <mark key="'" line="10" column="37" />
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" timestamp="1550331853528">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/get_kmers.py" timestamp="1549990987188">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/get_kmers.py" timestamp="1550331608629">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/get_distance_triples.py" timestamp="1550288382419">
         <mark key="[" line="0" column="0" />
@@ -157,12 +160,12 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" timestamp="1550326700151">
-        <mark key="'" line="11" column="8" />
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" timestamp="1550331473591">
+        <mark key="'" line="12" column="70" />
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
         <mark key="[" line="0" column="0" />
@@ -170,12 +173,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" timestamp="1550288461198">
-        <mark key="'" line="2" column="52" />
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="8" column="67" />
-        <mark key="^" line="8" column="67" />
-        <mark key="." line="8" column="67" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" timestamp="1550331508613">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="14" column="72" />
+        <mark key="]" line="14" column="71" />
+        <mark key="^" line="14" column="71" />
+        <mark key="." line="14" column="71" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" timestamp="1550179838430">
         <mark key="'" line="12" column="0" />
@@ -239,12 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="15" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="16" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
@@ -333,34 +330,40 @@
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
-      <jump line="1" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
       <jump line="2" column="52" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
       <jump line="13" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
       <jump line="9" column="40" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
+      <jump line="12" column="70" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
+      <jump line="3" column="30" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
+      <jump line="9" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
+      <jump line="1" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
+      <jump line="10" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, 100</text>
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>, 100</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text>30</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwYW5kYXMgYXMgcGQKZnJvbSBrZXJhcy5tb2RlbHMgaW1wb3J0IGxvYWRfbW9kZWwKZnJvbSByYW5kb20gaW1wb3J0IHNhbXBsZQpmcm9tIGttZXJfZnJlcXVlbmN5X3Njb3JlIGltcG9ydCBrbWVyX2ZyZXF1ZW5jeV9zY29yZQpmcm9tIGZhc3RhIGltcG9ydCBfZ2V0X3BlcHRpZGVzLCB2YWxpZF9hYXMsIHBhcnNlX2ttZXJzLCBhYV90b19pbnQKCiMgU0FNUExFX1NJWkUgPSAxMDAwMDAwCiMKIyBhdmdfcmVhbF9zY29yZSA9IG5wLm1lYW4oW2ttZXJfZnJlcXVlbmN5X3Njb3JlKHMpIGZvciBzIGluIHBhcnNlX2ttZXJzKDMwLCBTQU1QTEVfU0laRSldKQojIHByaW50KCdhdmcgcmVhbCBzY29yZTonLCBhdmdfcmVhbF9zY29yZSkKIyAjCiMgZmFrZV9wZXB0aWRlcyA9IFsnJy5qb2luKHNhbXBsZShzLCBsZW4ocykpKSBmb3IgcyBpbiBwYXJzZV9rbWVycygzMCwgU0FNUExFX1NJWkUpXQojIGF2Z19mYWtlX3Njb3JlID0gbnAubWVhbihba21lcl9mcmVxdWVuY3lfc2NvcmUocykgZm9yIHMgaW4gZmFrZV9wZXB0aWRlc10pCiMgIwojIHByaW50KCdhdmcgZmFrZSBzY29yZTonLCBhdmdfZmFrZV9zY29yZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdW0obG9nKGZyZXF1ZW5jaWVzW3RdKSBmb3IgdCBpbiBnZXRfZGlzdGFuY2VfdHJpcGxlcyhzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">CiAgICAjIFRPRE86IEFWRVJBR0UgT1ZFUkEgTEwgMjAwUwogICAgcmV0dXJuIHN1bShsb2coZnJlcXVlbmNpZXNbdF0pIGZvciB0IGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -384,34 +387,34 @@
         <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpOgogICAgZm9yIGkgaW4gcmFuZ2UoMjApOgogICAgICAgIGZvciBkaXN0YW5jZSBpbiByYW5nZSgxLCAyMCAtIGkpOgogICAgICAgICAgICB5aWVsZCBzW2ldLCBkaXN0YW5jZSwgc1tpICsgZGlzdGFuY2VdCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">ZGVmIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpOgogICAgZm9yIGkgaW4gcmFuZ2UoMjApOgogICAgICAgIGZvciBkaXN0YW5jZSBpbiByYW5nZSgxLCAyMCAtIGkpOgogICAgICAgICAgICB5aWVsZCBzW2ldLCBkaXN0YW5jZSwgc1tpICsgZGlzdGFuY2VdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBkdW1wCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZnJlcXVlbmNpZXMpCg==</text>
+        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBkdW1wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpkZWYgcHJvZmlsZShzKToKICAgIHJldHVybiBzdW0oKGxvZyhmcmVxdWVuY2llc1t0cmlwbGVdKSBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkKCgpkYXRhID0gcGQucmVhZF9jc3YoJzIwbWVycy1zaG9ydC1zaHVmZmxlZC5jc3YnKS50b19udW1weSgpWzoxMDAwMF0KeSA9IGRhdGFbOiwgLTFdCnRydWUgPSBkYXRhWzosIDotMV1beSA9PSAxXQpmYWtlID0gZGF0YVs6LCA6LTFdW3kgPT0gMF0K</text>
+        <text encoding="base64">cHJpbnQoZnJlcXVlbmNpZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KCcyMG1lcnMtc2hvcnQtc2h1ZmZsZWQuY3N2JykudG9fbnVtcHkoKVs6MTAwMDBdCnkgPSBkYXRhWzosIC0xXQp0cnVlID0gZGF0YVs6LCA6LTFdW3kgPT0gMV0KZmFrZSA9IGRhdGFbOiwgOi0xXVt5ID09IDBdCg==</text>
+        <text encoding="base64">CgpkZWYgcHJvZmlsZShzKToKICAgIHJldHVybiBzdW0oKGxvZyhmcmVxdWVuY2llc1t0cmlwbGVdKSBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkKCgpkYXRhID0gcGQucmVhZF9jc3YoJzIwbWVycy1zaG9ydC1zaHVmZmxlZC5jc3YnKS50b19udW1weSgpWzoxMDAwMF0KeSA9IGRhdGFbOiwgLTFdCnRydWUgPSBkYXRhWzosIDotMV1beSA9PSAxXQpmYWtlID0gZGF0YVs6LCA6LTFdW3kgPT0gMF0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/keras/tensorflow.keras/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search>30</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
+      <last-pattern>30</last-pattern>
       <last-replace>tensorflow.keras</last-replace>
       <last-substitute>keras</last-substitute>
       <last-dir>1</last-dir>
@@ -419,7 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>par</entry>
         <entry>if</entry>
         <entry>J</entry>
@@ -439,6 +441,7 @@
         <entry>mse</entry>
         <entry>test</entry>
         <entry>3</entry>
+        <entry>30</entry>
       </history-search>
       <history-cmd>
         <entry>for i in [1,2,3]</entry>
