@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" timestamp="1550283954578">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_empty_grammar.py" timestamp="1543114067511">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -36,7 +43,7 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550181318542">
+      <file name="/a.dummy" timestamp="1550281378282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_to_freq.json" timestamp="1549988862484">
@@ -188,12 +195,12 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmmlearn.py" timestamp="1550278628693">
-        <mark key="'" line="0" column="35" />
-        <mark key="[" line="4" column="70" />
-        <mark key="]" line="4" column="68" />
-        <mark key="^" line="4" column="68" />
-        <mark key="." line="4" column="68" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmmlearn.py" timestamp="1550281338191">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_imdb.py" timestamp="1550184130882">
         <mark key="'" line="5" column="42" />
@@ -222,21 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="38" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="23" column="40" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="18" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="19" column="68" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="44" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="78" column="20" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="22" column="40" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
-      <jump line="27" column="7" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
-      <jump line="3" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
-      <jump line="7" column="47" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="1" column="24" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/create_csv.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train.py" />
       <jump line="39" column="16" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
@@ -322,13 +314,28 @@
       <jump line="15" column="40" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
       <jump line="0" column="35" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmmlearn.py" />
+      <jump line="2" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmmlearn.py" />
+      <jump line="5" column="33" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmmlearn.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmmlearn.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="6" column="66" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="5" column="31" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="0" column="29" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="15" column="7" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
+      <jump line="24" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHJ1ZS5zaGFwZQo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -340,10 +347,10 @@
         <text>3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KCcyMG1lcnMtc2hvcnQtc2h1ZmZsZWQuY3N2JykudG9fbnVtcHkoKQo=</text>
+        <text encoding="base64">bnAuYXZlcmFnZShbbW9kZWwuc2NvcmUocm93W25wLm5ld2F4aXMsIC4uLl0pIGZvciByb3cgaW4gWF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">dHJ1ZS5zaGFwZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -364,30 +371,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dF90b19wcmVjaXNpb24gPSBkaWN0KCkKdF90b19yZWNhbGwgPSBkaWN0KCkK</text>
+        <text encoding="base64">dHJ1ZS5zaGFwZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHJlYWxfcHJlZCA9CiAgICBrbWVyX2ZyZXF1ZW5jeV9zY29yZSgp</text>
+      <register name="3" type="2">
+        <text encoding="base64">CnggPSBkYXRhWzosIDotMV1beSA9PSAxXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVhbF9wZXB0aWRlcwo=</text>
+        <text encoding="base64">dHJ1ZSA9IFhbeSA9PSAxXQpmYWxzZSA9IFhbeSA9PSAwXQpmYWxzZS5zaGFwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVhbF9wZXB0aWRlcwo=</text>
+        <text encoding="base64">eSA9IGRhdGFbOiwgLTFdCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>data = pd.read_csv('1000.csv').to_numpy()
-real = data[data[:, -1] == 1][:, :-1]
-random = data[data[:, -1] == 0][:, :-1]</text>
+      <register name="6" type="2">
+        <text encoding="base64">bW9kZWwucGFydGlhbF9maXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlYWxfc2NvcmVzID0gCg==</text>
+        <text encoding="base64">bW9kZWwuc2NvcmUoZmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
+        <text encoding="base64">WC5zaGFwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVhbC5zaGFwZQo=</text>
+        <text encoding="base64">bW9kZWwuc2NvcmUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/keras/tensorflow.keras/gc</text>
