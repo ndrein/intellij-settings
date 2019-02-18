@@ -37,7 +37,7 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1550331509935">
+      <file name="/Python Console" timestamp="1550449495809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550331516189">
@@ -48,6 +48,13 @@
       </file>
       <file name="/a.dummy" timestamp="1550331766043">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550454923268">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550288485963">
         <mark key="'" line="22" column="0" />
@@ -116,10 +123,15 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1549989022887">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" timestamp="1550449154418">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/assignment2.py" timestamp="1550449512927">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549990624340">
         <mark key="[" line="0" column="0" />
@@ -192,6 +204,9 @@
         <mark key="." line="102" column="45" />
         <mark key="^" line="102" column="45" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
+        <mark key="'" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" timestamp="1549474429673">
         <mark key="'" line="1" column="20" />
         <mark key="[" line="14" column="39" />
@@ -199,8 +214,8 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" timestamp="1550276218934">
-        <mark key="'" line="38" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" timestamp="1550454851373">
+        <mark key="'" line="35" column="0" />
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="56" />
         <mark key="." line="19" column="56" />
@@ -220,11 +235,8 @@
         <mark key="^" line="32" column="100" />
         <mark key="." line="32" column="100" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" timestamp="1550187238052">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="53" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_frequency_score.py" timestamp="1550449516078">
+        <mark key="'" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
         <mark key="[" line="14" column="35" />
@@ -240,18 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="5" column="65" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="21" column="34" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="13" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="7" column="38" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
@@ -340,19 +340,31 @@
       <jump line="1" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
       <jump line="10" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/input.txt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/assignment2.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_frequency_score.py" />
+      <jump line="14" column="47" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" />
+      <jump line="0" column="5" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" />
+      <jump line="6" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
+      <jump line="45" column="20" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
+      <jump line="28" column="83" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
+      <jump line="35" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
+      <jump line="16" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>direted</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>direted</text>
       </register>
       <register name="/" type="4">
         <text>30</text>
@@ -361,7 +373,7 @@
         <text encoding="base64">ICAgIHJldHVybiBzdW0obG9nKGZyZXF1ZW5jaWVzW3RdKSBmb3IgdCBpbiBnZXRfZGlzdGFuY2VfdHJpcGxlcyhzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAjIFRPRE86IEFWRVJBR0UgT1ZFUkEgTEwgMjAwUwogICAgcmV0dXJuIHN1bShsb2coZnJlcXVlbmNpZXNbdF0pIGZvciB0IGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKQo=</text>
+        <text encoding="base64">VG8gb2J0YWluIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -382,28 +394,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">a21lciBmcmVxdWVuYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
+        <text encoding="base64">ICAgIEF2ZXJhZ2UgYWxsIDIwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpOgogICAgZm9yIGkgaW4gcmFuZ2UoMjApOgogICAgICAgIGZvciBkaXN0YW5jZSBpbiByYW5nZSgxLCAyMCAtIGkpOgogICAgICAgICAgICB5aWVsZCBzW2ldLCBkaXN0YW5jZSwgc1tpICsgZGlzdGFuY2VdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBkdW1wCg==</text>
+        <text encoding="base64">Zm9yIGVhY2ggMjAtbWVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZnJlcXVlbmNpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250cmkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpkZWYgcHJvZmlsZShzKToKICAgIHJldHVybiBzdW0oKGxvZyhmcmVxdWVuY2llc1t0cmlwbGVdKSBmb3IgdHJpcGxlIGluIGdldF9kaXN0YW5jZV90cmlwbGVzKHMpKSkKCgpkYXRhID0gcGQucmVhZF9jc3YoJzIwbWVycy1zaG9ydC1zaHVmZmxlZC5jc3YnKS50b19udW1weSgpWzoxMDAwMF0KeSA9IGRhdGFbOiwgLTFdCnRydWUgPSBkYXRhWzosIDotMV1beSA9PSAxXQpmYWtlID0gZGF0YVs6LCA6LTFdW3kgPT0gMF0K</text>
+        <text encoding="base64">ICAgICAgICBTdG9yZSAoQSwgZCwgQikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/keras/tensorflow.keras/gc</text>
@@ -511,6 +523,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
