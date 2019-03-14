@@ -130,8 +130,8 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1552423164617">
-        <mark key="'" line="234" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1552586299825">
+        <mark key="'" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/assignment2.py" timestamp="1550963975619">
         <mark key="'" line="7" column="0" />
@@ -269,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
       <jump line="24" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" />
       <jump line="7" column="12" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
       <jump line="9" column="10" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
@@ -369,6 +368,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_frequency_score.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_frequency_score.py" />
       <jump line="234" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" />
+      <jump line="4" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" />
     </jumps>
     <registers>
       <register name="a" type="4">
