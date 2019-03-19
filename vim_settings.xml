@@ -73,12 +73,12 @@
         <mark key="." line="33" column="115" />
         <mark key="^" line="33" column="115" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" timestamp="1553002412986">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" timestamp="1553026402126">
+        <mark key="'" line="19" column="28" />
+        <mark key="[" line="23" column="98" />
+        <mark key="]" line="25" column="6" />
+        <mark key="^" line="25" column="6" />
+        <mark key="." line="25" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" timestamp="1550269886982">
         <mark key="'" line="7" column="38" />
@@ -134,12 +134,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553012377736">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="94" />
-        <mark key="^" line="29" column="94" />
-        <mark key="." line="29" column="94" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553025267847">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1553001744836">
         <mark key="'" line="2" column="0" />
@@ -280,15 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
-      <jump line="17" column="69" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
-      <jump line="11" column="48" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
-      <jump line="1" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
-      <jump line="2" column="52" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
       <jump line="13" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
@@ -376,32 +367,41 @@
       <jump line="0" column="29" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="11" column="20" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="1" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="24" column="24" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="10" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="1" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="13" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="15" column="18" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="1" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="16" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="2" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="21" column="28" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>'RAAAKBBBRP'</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>findall</text>
       </register>
       <register name="/" type="4">
         <text>and</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bmV4dChyZWFkKCd0ZXN0Lm1nZicpKVsnaW50ZW5zaXR5IGFycmF5J10K</text>
+      <register name="0" type="4">
+        <text>'RAAAKBBBRP'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlaW4gPSAncHJvdGVpblRPRE8nCg==</text>
+        <text encoding="base64">c3RyKHByb3RlaW4uc2VxKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -422,28 +422,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBlcHRpZGUgPSAncGVwdGlkZVRPRE8nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGlzdChwYXJzZSgndXBzLmZhc3RhJywgJ2Zhc3RhJykpWzBdLl9fZGljdF9fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByb3RlaW4gPSAncHJvdGVpblRPRE8nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHBlcHRpZGUgPSAncGVwdGlkZVRPRE8nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNwZWN0cnVtWydwYXJhbXMnXVsndGl0bGUnXSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/load/json.load/gc</text>
