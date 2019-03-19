@@ -140,12 +140,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553028467519">
-        <mark key="'" line="36" column="86" />
-        <mark key="[" line="36" column="116" />
-        <mark key="]" line="36" column="134" />
-        <mark key="." line="36" column="134" />
-        <mark key="^" line="36" column="134" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553032607662">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1553001744836">
         <mark key="'" line="2" column="0" />
@@ -286,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
       <jump line="16" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
@@ -379,26 +378,27 @@
       <jump line="65" column="23" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="0" column="9" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/Pipfile" />
-      <jump line="13" column="11" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="24" column="12" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="36" column="86" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>best_peptide</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>best_peptide</text>
+        <text>get_tryptic_records(argv[2])</text>
       </register>
       <register name="/" type="4">
         <text>protein</text>
@@ -407,7 +407,7 @@
         <text encoding="base64">ZGVmIGdldF9wZXB0aWRlcyhmYXN0YSk6CiAgICBmb3IgcHJvdGVpbiwgbmFtZSBpbiAoKHIuc2VxLCByLm5hbWVbOjEwXSkgZm9yIHIgaW4gcGFyc2UoZmFzdGEsICdmYXN0YScpKToKICAgICAgICBzdGFydF9pbmRleCA9IDAKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4ocHJvdGVpbikpOgogICAgICAgICAgICBpZiAoaSA+IDAgYW5kIHByb3RlaW5baSAtIDFdIGluICgnSycsICdSJykpIGFuZCBwcm90ZWluW2ldICE9ICdQJzogCiAgICAgICAgICAgICAgICB5aWVsZCBwcm90ZWluW3N0YXJ0X2luZGV4OmldLCBuYW1lCiAgICAgICAgICAgICAgICBzdGFydF9pbmRleCA9IGkKICAgICAgICBpZiBwcm90ZWluW3N0YXJ0X2luZGV4Ol0gIT0gJyc6CiAgICAgICAgICAgIHlpZWxkIHByb3RlaW5bc3RhcnRfaW5kZXg6XSwgbmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBlcHRpZGVzLCBwZXB0aWRlCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -428,28 +428,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdG9kbwo=</text>
+        <text encoding="base64">cmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAncGVwdGlkZVRPRE8nLCAncHJvdGVpbm5hbWVUT0RPJwo=</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIG5wLmFyZ21heChyZWNvcmRzLCApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXgoemlwKHBlcHRpKSkK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIG5leHQocmVjb3JkcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXgK</text>
+        <text encoding="base64">ICAgIHJlY29yZHMgPSBsaXN0KHJlY29yZHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBlcHRpZGVzLCBwZXB0aWRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbJyddCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICMgdG9kbwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAncGVwdGlkZVRPRE8nLCAncHJvdGVpbm5hbWVUT0RPJwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQobGlzdChnZXRfcGVwdGlkZXMoJ3Vwcy5mYXN0YScpKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXgoemlwKHBlcHRpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
