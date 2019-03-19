@@ -261,6 +261,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/run.sh" timestamp="1552953485892">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="58" />
@@ -275,8 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
-      <jump line="17" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
       <jump line="18" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
       <jump line="1" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
       <jump line="19" column="39" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
@@ -375,19 +380,21 @@
       <jump line="3" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="4" column="7" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="6" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="3" column="27" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/run.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/run.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBweXRlb21pY3MgaW1wb3J0IG1nZgo=</text>
+      <register name="&quot;" type="4">
+        <text>assignment3</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>assignment3</text>
       </register>
       <register name="/" type="4">
         <text>and</text>
@@ -396,7 +403,7 @@
         <text encoding="base64">Zm91cl9tZXJfdG9fZnJlcSA9IGxvYWQob3BlbignNG1lcnMuanNvbicpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweXRlb21pY3MgaW1wb3J0IG1nZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -417,32 +424,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVvbWljcy5tZ2YgYXMgbWdmCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBweXRlb21pY3MubWdmIGltcG9ydCByZWFkCg==</text>
+        <text encoding="base64">ZnJvbSBweXRlb21pY3MgaW1wb3J0IG1nZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVvbWljcy5tZ2YgYXMgbWdmCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBweXRlb21pY3MubWdmIGltcG9ydCByZWFkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZGVmIHNjb3JlMSgpOgogICAgcmV0dXJuIDAKCgpkZWYgc2NvcmUyKCk6CiAgICByZXR1cm4gMAoKCgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>from Bio.SeqIO import parse
 
 
 for record in parse('uniprot_sprot.fasta', 'fasta'):
     print(record.seq)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Zm9yIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB6aXBmaWxlIGltcG9ydCBaaXBGaWxlCg==</text>
+        <text encoding="base64">Zm9yIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/load/json.load/gc</text>
