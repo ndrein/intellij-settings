@@ -37,9 +37,6 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1552870943297">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1550331516189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -76,12 +73,12 @@
         <mark key="." line="33" column="115" />
         <mark key="^" line="33" column="115" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" timestamp="1552870975390">
-        <mark key="'" line="6" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" timestamp="1553002412986">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" timestamp="1550269886982">
         <mark key="'" line="7" column="38" />
@@ -137,14 +134,15 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1552869057873">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553002677309">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="59" />
+        <mark key="." line="19" column="59" />
+        <mark key="^" line="19" column="59" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1552586299825">
-        <mark key="'" line="4" column="8" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1553001744836">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/assignment2.py" timestamp="1550963975619">
         <mark key="'" line="7" column="0" />
@@ -282,12 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
-      <jump line="1" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
-      <jump line="19" column="39" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
-      <jump line="28" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
-      <jump line="2" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" />
@@ -376,34 +368,40 @@
       <jump line="4" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/bio.py" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/bio.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="3" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="4" column="7" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="6" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="3" column="27" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/run.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/run.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" />
+      <jump line="9" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="0" column="29" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="13" column="39" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>assignment3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>assignment3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>and</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm91cl9tZXJfdG9fZnJlcSA9IGxvYWQob3BlbignNG1lcnMuanNvbicpKQo=</text>
+        <text encoding="base64">bmV4dChyZWFkKCd0ZXN0Lm1nZicpKVsnaW50ZW5zaXR5IGFycmF5J10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNwZWN0cnVtWydwYXJhbXMnXVsndGl0bGUnXSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -424,32 +422,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBweXRlb21pY3MgaW1wb3J0IG1nZgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVvbWljcy5tZ2YgYXMgbWdmCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBweXRlb21pY3MubWdmIGltcG9ydCByZWFkCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNjb3JlMSgpOgogICAgcmV0dXJuIDAKCgpkZWYgc2NvcmUyKCk6CiAgICByZXR1cm4gMAoKCgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>from Bio.SeqIO import parse
-
-
-for record in parse('uniprot_sprot.fasta', 'fasta'):
-    print(record.seq)</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBweXRlb21pY3MgaW1wb3J0IG1nZgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGVvbWljcy5tZ2YgYXMgbWdmCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBweXRlb21pY3MubWdmIGltcG9ydCByZWFkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/load/json.load/gc</text>
@@ -488,8 +482,6 @@ for record in parse('uniprot_sprot.fasta', 'fasta'):
         <entry>and</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/IMPLIES_1/IMPLIES[0]/g</entry>
-        <entry>%s/IMPLIES_2/IMPLIES[1]/g</entry>
         <entry>%s/IMPLIES_3/IMPLIES[2]/g</entry>
         <entry>%s/IMPLIES_5/IMPLIES[5]/g</entry>
         <entry>%s/IMPLIES_4/IMPLIES[3]/g</entry>
@@ -508,6 +500,8 @@ for record in parse('uniprot_sprot.fasta', 'fasta'):
         <entry>%s/keras/tensorflow.keras/gc</entry>
         <entry>%s/load/json/load/gc</entry>
         <entry>%s/load/json.load/gc</entry>
+        <entry>%s/TITLE//gn</entry>
+        <entry>%s/TITLE//n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
