@@ -140,12 +140,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553271296798">
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553271766782">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="29" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1553001744836">
         <mark key="'" line="2" column="0" />
@@ -391,8 +391,8 @@
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgcmV0dXJuIHNvcnRlZCh6aXAoc2VxdWVuY2VzLCBuYW1lcyksIGtleT1sYW1iZGEgcCwgbjogc2NvcmUxKHAsIHNwZWN0cnVtKSlbMF0KICAgICMgcmV0dXJuIG1heCh6aXAoc2VxdWVuY2VzLCBuYW1lcyksIGtleT1sYW1iZGEgcGVwdGlkZSwgbmFtZTogc2NvcmUxKHBlcHRpZGUsIHNwZWN0cnVtKSkK</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -407,7 +407,7 @@
         <text encoding="base64">bnAud2hlcmUoKDAuMyA8PSBkKSAmIChkIDw9IDAuNykp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHNvcnRlZCh6aXAoc2VxdWVuY2VzLCBuYW1lcyksIGtleT1sYW1iZGEgcCwgbjogc2NvcmUxKHAsIHNwZWN0cnVtKSlbMF0KICAgICMgcmV0dXJuIG1heCh6aXAoc2VxdWVuY2VzLCBuYW1lcyksIGtleT1sYW1iZGEgcGVwdGlkZSwgbmFtZTogc2NvcmUxKHBlcHRpZGUsIHNwZWN0cnVtKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -428,28 +428,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWxzZToKICAgIF9tYWluKCd0ZXN0Lm1nZicsICd1cHMuZmFzdGEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgeWllbGQgcmVjb3JkW3N0YXJ0X2luZGV4OmldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkZWYgZmluZF9uZWFyZXN0X2lkeChhcnJheSwgdmFsdWUpOgojICAgICBpZHggPSBucC5zZWFyY2hzb3J0ZWQoYXJyYXksIHZhbHVlLCBzaWRlPSJsZWZ0IikKIyAgICAgaWYgaWR4ID4gMCBhbmQgKGlkeCA9PSBsZW4oYXJyYXkpIG9yIGZhYnModmFsdWUgLSBhcnJheVtpZHggLSAxXSkgPCBmYWJzKHZhbHVlIC0gYXJyYXlbaWR4XSkpOgojICAgICAgICAgcmV0dXJuIGlkeCAtIDEKIyAgICAgICAgICMgcmV0dXJuIGFycmF5W2lkeCAtIDFdCiMgICAgIGVsc2U6CiMgICAgICAgICByZXR1cm4gaWR4CiMgICAgICAgICAjIHJldHVybiBhcnJheVtpZHhdCgoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIDAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgIyAgICAgdG9kbwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZWxzZToKICAgIF9tYWluKCd0ZXN0Lm1nZicsICd1cHMuZmFzdGEnKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBkZWYgZmluZF9uZWFyZXN0X2lkeChhcnJheSwgdmFsdWUpOgojICAgICBpZHggPSBucC5zZWFyY2hzb3J0ZWQoYXJyYXksIHZhbHVlLCBzaWRlPSJsZWZ0IikKIyAgICAgaWYgaWR4ID4gMCBhbmQgKGlkeCA9PSBsZW4oYXJyYXkpIG9yIGZhYnModmFsdWUgLSBhcnJheVtpZHggLSAxXSkgPCBmYWJzKHZhbHVlIC0gYXJyYXlbaWR4XSkpOgojICAgICAgICAgcmV0dXJuIGlkeCAtIDEKIyAgICAgICAgICMgcmV0dXJuIGFycmF5W2lkeCAtIDFdCiMgICAgIGVsc2U6CiMgICAgICAgICByZXR1cm4gaWR4CiMgICAgICAgICAjIHJldHVybiBhcnJheVtpZHhdCgoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgcmV0dXJuIDAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgICMgIyAgICAgdG9kbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
