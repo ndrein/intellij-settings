@@ -37,7 +37,7 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1553266707516">
+      <file name="/Python Console" timestamp="1553270531713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1553266024213">
@@ -76,12 +76,12 @@
         <mark key="." line="33" column="115" />
         <mark key="^" line="33" column="115" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" timestamp="1553266541288">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-        <mark key="^" line="13" column="2" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" timestamp="1553270583940">
+        <mark key="'" line="23" column="52" />
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent.py" timestamp="1550269886982">
         <mark key="'" line="7" column="38" />
@@ -112,7 +112,7 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/Pipfile" timestamp="1553027523640">
-        <mark key="'" line="14" column="0" />
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent2.py" timestamp="1550195981445">
         <mark key="[" line="39" column="17" />
@@ -140,12 +140,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553268251248">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="25" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553271296798">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1553001744836">
         <mark key="'" line="2" column="0" />
@@ -286,13 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="2" column="12" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="8" column="19" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_frequency_score.py" />
-      <jump line="4" column="10" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_frequency_score.py" />
-      <jump line="7" column="13" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_frequency_score.py" />
-      <jump line="33" column="36" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
@@ -350,12 +343,10 @@
       <jump line="36" column="86" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="42" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="104" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
@@ -363,7 +354,6 @@
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="44" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="101" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
@@ -383,31 +373,41 @@
       <jump line="49" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="1" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="22" column="35" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="24" column="41" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="19" column="52" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
+      <jump line="145" column="23" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="18" column="62" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="22" column="27" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>nearest_peak_index</text>
+        <text>=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>nearest_peak_index</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>np</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YWJzKF9jYWxjX3ByZWN1cnNvcl9tYXNzKG16LCB6KSAtIF9jYWxjX3BlcHRpZGVfbWFzcyhyKSkgPD0gMC4x</text>
+        <text encoding="base64">bnAud2hlcmUoKDAuMyA8PSBkKSAmIChkIDw9IDAuNykp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhYnMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -428,37 +428,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlc3Rfc2VxdWVuY2UK</text>
+        <text encoding="base64">ZWxzZToKICAgIF9tYWluKCd0ZXN0Lm1nZicsICd1cHMuZmFzdGEnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">IyBkZWYgZmluZF9uZWFyZXN0X2lkeChhcnJheSwgdmFsdWUpOgojICAgICBpZHggPSBucC5zZWFyY2hzb3J0ZWQoYXJyYXksIHZhbHVlLCBzaWRlPSJsZWZ0IikKIyAgICAgaWYgaWR4ID4gMCBhbmQgKGlkeCA9PSBsZW4oYXJyYXkpIG9yIGZhYnModmFsdWUgLSBhcnJheVtpZHggLSAxXSkgPCBmYWJzKHZhbHVlIC0gYXJyYXlbaWR4XSkpOgojICAgICAgICAgcmV0dXJuIGlkeCAtIDEKIyAgICAgICAgICMgcmV0dXJuIGFycmF5W2lkeCAtIDFdCiMgICAgIGVsc2U6CiMgICAgICAgICByZXR1cm4gaWR4CiMgICAgICAgICAjIHJldHVybiBhcnJheVtpZHhdCgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjYW5kaWRhdGVfcmVjb3JkcyA9IFtyIGZvciByIGluIHRyeXB0aWNfcmVjb3JkcyBpZgogICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgIGFicyhfY2FsY19wcmVjdXJzb3JfbWFzcyhteiwgeikgLSBfY2FsY19wZXB0aWRlX21hc3MocikpIDw9IDAuMV0K</text>
+        <text encoding="base64">ICAgICMgIyAgICAgdG9kbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjYW5kaWRhdGVfc2VxdWVuY2VzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjYW5kaWRhdGVfc2VxdWVuY2VzX25hbWVzOgogICAgICAgICAgICBjYW5kaWRhdGVfc2VxdWVuY2VzLCBjYW5kaWRhdGVfbmFtZXMgPSB6aXAoKikK</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>np</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>np</last-pattern>
       <last-replace>record</last-replace>
       <last-substitute>protein</last-substitute>
       <last-dir>1</last-dir>
@@ -466,8 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VSFK</entry>
-        <entry>107</entry>
         <entry>str</entry>
         <entry>parse</entry>
         <entry>mse</entry>
@@ -476,7 +474,6 @@
         <entry>kmer</entry>
         <entry>3</entry>
         <entry>load</entry>
-        <entry>and</entry>
         <entry>true</entry>
         <entry>for</entry>
         <entry>protein</entry>
@@ -486,6 +483,9 @@
         <entry>zip</entry>
         <entry>math</entry>
         <entry>get</entry>
+        <entry>and</entry>
+        <entry>0.5</entry>
+        <entry>np</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IMPLIES_4/IMPLIES[3]/g</entry>
