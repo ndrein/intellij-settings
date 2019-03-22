@@ -140,12 +140,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553195043425">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="35" column="49" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="27" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553216630865">
+        <mark key="'" line="1" column="30" />
+        <mark key="[" line="67" column="11" />
+        <mark key="]" line="67" column="12" />
+        <mark key="." line="67" column="12" />
+        <mark key="^" line="67" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1553001744836">
         <mark key="'" line="2" column="0" />
@@ -286,13 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
-      <jump line="16" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
-      <jump line="13" column="6" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
-      <jump line="14" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
-      <jump line="39" column="34" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
-      <jump line="13" column="69" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
       <jump line="15" column="35" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
       <jump line="18" column="63" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
@@ -350,7 +343,6 @@
       <jump line="3" column="27" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/run.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/run.sh" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" />
-      <jump line="9" column="15" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="11" column="20" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
@@ -359,7 +351,6 @@
       <jump line="1" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="13" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="15" column="18" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="1" column="26" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="16" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="2" column="8" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="21" column="28" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
@@ -376,7 +367,6 @@
       <jump line="62" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="64" column="3" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
       <jump line="65" column="23" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.py" />
-      <jump line="0" column="9" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/Pipfile" />
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="24" column="12" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
@@ -386,28 +376,38 @@
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="44" column="29" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="1" column="30" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      <register name="&quot;" type="4">
+        <text>1.0073</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>get_tryptic_records(argv[2])</text>
+        <text>1.0073</text>
       </register>
       <register name="/" type="4">
-        <text>protein</text>
+        <text>or</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9wZXB0aWRlcyhmYXN0YSk6CiAgICBmb3IgcHJvdGVpbiwgbmFtZSBpbiAoKHIuc2VxLCByLm5hbWVbOjEwXSkgZm9yIHIgaW4gcGFyc2UoZmFzdGEsICdmYXN0YScpKToKICAgICAgICBzdGFydF9pbmRleCA9IDAKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4ocHJvdGVpbikpOgogICAgICAgICAgICBpZiAoaSA+IDAgYW5kIHByb3RlaW5baSAtIDFdIGluICgnSycsICdSJykpIGFuZCBwcm90ZWluW2ldICE9ICdQJzogCiAgICAgICAgICAgICAgICB5aWVsZCBwcm90ZWluW3N0YXJ0X2luZGV4OmldLCBuYW1lCiAgICAgICAgICAgICAgICBzdGFydF9pbmRleCA9IGkKICAgICAgICBpZiBwcm90ZWluW3N0YXJ0X2luZGV4Ol0gIT0gJyc6CiAgICAgICAgICAgIHlpZWxkIHByb3RlaW5bc3RhcnRfaW5kZXg6XSwgbmFtZQo=</text>
+        <text encoding="base64">ICAgIG16ID0gaW50KHNwZWN0cnVtWydwYXJhbXMnXVsncGVwbWFzcyddWzBdKQogICAgeiA9IGludChzdHIoc3BlY3RydW1bJ3BhcmFtcyddWydjaGFyZ2UnXVswXSlbOi0xXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVuKGNhbmRpZGF0ZV9yZWNvcmRzKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -428,37 +428,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIG5wLmFyZ21heChyZWNvcmRzLCApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2FuZGlkYXRlX3JlY29yZHMpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIG5leHQocmVjb3JkcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMgPSBsaXN0KHJlY29yZHMpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjb250YWluc192YWxpZF9hYXMocmVjb3JkKToKICAgICAgICByZXR1cm4gYWxsKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBlcHRpZGVzLCBwZXB0aWRlCg==</text>
+        <text encoding="base64">ZGVmIGlzX2RpZ2VzdGlvbl9zaXRlKGksIHJlY29yZCk6CiAgICByZXR1cm4gKGkgPiAwIGFuZCByZWNvcmRbaSAtIDFdIGluICgnSycsICdSJykpIGFuZCByZWNvcmRbaV0gIT0gJ1AnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdG9kbwo=</text>
+        <text encoding="base64">ZGVmIGlzX2xhc3RfaW5lZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAncGVwdGlkZVRPRE8nLCAncHJvdGVpbm5hbWVUT0RPJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXgoemlwKHBlcHRpKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdHIocmVjb3JkW3N0YXJ0X2luZGV4Ol0uc2VxKSAhPSAnJzoKICAgICAgICAgICAgeWllbGQgcmVjb3JkW3N0YXJ0X2luZGV4Ol0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>protein</last-search>
+      <last-search>or</last-search>
       <last-offset />
-      <last-pattern>protein</last-pattern>
+      <last-pattern>or</last-pattern>
       <last-replace>record</last-replace>
       <last-substitute>protein</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry>keras</entry>
         <entry>batch_size</entry>
         <entry>set_single_states</entry>
         <entry>LSRG</entry>
@@ -486,6 +485,7 @@
         <entry>true</entry>
         <entry>for</entry>
         <entry>protein</entry>
+        <entry>or</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IMPLIES_4/IMPLIES[3]/g</entry>
