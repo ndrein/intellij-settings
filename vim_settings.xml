@@ -37,16 +37,10 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1553270531713">
+      <file name="/Python Console" timestamp="1553363464232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1553266024213">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1550964192929">
+      <file name="/a.dummy" timestamp="1553363181294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
@@ -140,12 +134,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553271766782">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="57" column="15" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553363536390">
+        <mark key="'" line="111" column="33" />
+        <mark key="[" line="103" column="33" />
+        <mark key="]" line="103" column="33" />
+        <mark key="." line="103" column="33" />
+        <mark key="^" line="103" column="83" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/test.mgf" timestamp="1553001744836">
         <mark key="'" line="2" column="0" />
@@ -157,7 +151,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553028429928">
+      <file name="/Dummy.txt" timestamp="1553361967960">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -286,12 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/fasta.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" />
-      <jump line="16" column="34" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
       <jump line="0" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" />
       <jump line="31" column="11" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
@@ -386,28 +374,34 @@
       <jump line="138" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="0" column="5" filename="/fragment.py" />
+      <jump line="88" column="35" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="100" column="68" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="122" column="12" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="116" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="110" column="33" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHNvcnRlZCh6aXAoc2VxdWVuY2VzLCBuYW1lcyksIGtleT1sYW1iZGEgcCwgbjogc2NvcmUxKHAsIHNwZWN0cnVtKSlbMF0KICAgICMgcmV0dXJuIG1heCh6aXAoc2VxdWVuY2VzLCBuYW1lcyksIGtleT1sYW1iZGEgcGVwdGlkZSwgbmFtZTogc2NvcmUxKHBlcHRpZGUsIHNwZWN0cnVtKSkK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>np</text>
+        <text>0.1</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bnAud2hlcmUoKDAuMyA8PSBkKSAmIChkIDw9IDAuNykp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHNvcnRlZCh6aXAoc2VxdWVuY2VzLCBuYW1lcyksIGtleT1sYW1iZGEgcCwgbjogc2NvcmUxKHAsIHNwZWN0cnVtKSlbMF0KICAgICMgcmV0dXJuIG1heCh6aXAoc2VxdWVuY2VzLCBuYW1lcyksIGtleT1sYW1iZGEgcGVwdGlkZSwgbmFtZTogc2NvcmUxKHBlcHRpZGUsIHNwZWN0cnVtKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmVjdXJzb3JfbWF4eAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -428,37 +422,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgeWllbGQgcmVjb3JkW3N0YXJ0X2luZGV4OmldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KF9jYWxjX3ByZWN1cnNvcl9tYXNzKG16LCB6KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxzZToKICAgIF9tYWluKCd0ZXN0Lm1nZicsICd1cHMuZmFzdGEnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYW5kaWRhdGVfc2VxdWVuY2VzLCBjYW5kaWRhdGVfbmFtZXMgPSBfdGFrZShzZXF1ZW5jZXMsIGNhbmRpZGF0ZV9pbmRpY2VzKSwgX3Rha2UobmFtZXMsIGNhbmRpZGF0ZV9pbmRpY2VzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkZWYgZmluZF9uZWFyZXN0X2lkeChhcnJheSwgdmFsdWUpOgojICAgICBpZHggPSBucC5zZWFyY2hzb3J0ZWQoYXJyYXksIHZhbHVlLCBzaWRlPSJsZWZ0IikKIyAgICAgaWYgaWR4ID4gMCBhbmQgKGlkeCA9PSBsZW4oYXJyYXkpIG9yIGZhYnModmFsdWUgLSBhcnJheVtpZHggLSAxXSkgPCBmYWJzKHZhbHVlIC0gYXJyYXlbaWR4XSkpOgojICAgICAgICAgcmV0dXJuIGlkeCAtIDEKIyAgICAgICAgICMgcmV0dXJuIGFycmF5W2lkeCAtIDFdCiMgICAgIGVsc2U6CiMgICAgICAgICByZXR1cm4gaWR4CiMgICAgICAgICAjIHJldHVybiBhcnJheVtpZHhdCgoK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yOiAgIyBObyBjYW5kaWRhdGVzIGZvdW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgIyAgICAgdG9kbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FuZGlkYXRlX3NlcXVlbmNlcywgY2FuZGlkYXRlX25hbWVzID0gW3MgZm9yIGksIHMgaW4gZW51bWVyYXRlKHNlcXVlbmNlcykgaWYgaSBpbiBjYW5kaWRhdGVfaW5kaWNlc10KICAgICAgICAgICAgY2FuZGlkYXRlX3NlcXVlbmNlcywgY2FuZGlkYXRlX25hbWVzID0gemlwKCpbKHMsIG4pIGZvciBzLCBuIGluIHppcChzZXF1ZW5jZXMsIG5hbWVzKSBpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhYnMoX2NhbGNfcHJlY3Vyc29yX21hc3MobXosIHopIC0gX2NhbGNfcGVwdGlkZV9tYXNzKHMpKSA8PQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQUkVDVVJTT1JfVE9MRVJBTkNFXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>np</last-search>
+      <last-search>0.1</last-search>
       <last-offset />
-      <last-pattern>np</last-pattern>
+      <last-pattern>0.1</last-pattern>
       <last-replace>record</last-replace>
       <last-substitute>protein</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>str</entry>
         <entry>parse</entry>
         <entry>mse</entry>
         <entry>test</entry>
@@ -486,6 +479,7 @@
         <entry>and</entry>
         <entry>0.5</entry>
         <entry>np</entry>
+        <entry>0.1</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IMPLIES_4/IMPLIES[3]/g</entry>
