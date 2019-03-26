@@ -134,8 +134,8 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553567668666">
-        <mark key="'" line="121" column="22" />
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" timestamp="1553604522160">
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
@@ -280,9 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
-      <jump line="34" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
       <jump line="8" column="28" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
@@ -377,9 +374,12 @@
       <jump line="116" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="110" column="33" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="24" column="69" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="40" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="121" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="94" column="21" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
