@@ -164,6 +164,13 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a3/README.md" timestamp="1553605852264">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" timestamp="1550964221348">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="36" />
@@ -280,8 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
       <jump line="8" column="28" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
       <jump line="37" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" />
       <jump line="25" column="104" filename="$USER_HOME$/Desktop/Winter2019/cs482/a2/kmer_frequency_score.py" />
@@ -380,13 +385,15 @@
       <jump line="60" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/README.md" />
+      <jump line="23" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -395,13 +402,13 @@
         <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>0.1</text>
+        <text>bion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UFJFQ1VSU09SX1RPTEVSQU5DRSA9IDAuMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdG9kbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -422,37 +429,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Ugo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgdG9kbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzY29yZSh5aW9uKToKICAgICAgICByZXR1cm4gCgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtel9hcnJheSA9IHNwZWN0cnVtWydtL3ogYXJyYXknXQogICAgICAgIHBlYWtfaW5kaWNlcyA9IG5wLndoZXJlKCh5aW9uX21hc3MgLSBNWl9UT0xFUkFOQ0UgPD0gbXpfYXJyYXkpICYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobXpfYXJyYXkgPD0geWlvbl9tYXNzICsgTVpfVE9MRVJBTkNFKSlbMF0KCiAgICAgICAgaWYgcGVha19pbmRpY2VzLnNpemUgPiAwOgogICAgICAgICAgICB0YWxsZXN0X3BlYWtfaW5kZXggPSBtYXgocGVha19pbmRpY2VzLCBrZXk9bGFtYmRhIGlkeDogbXpfYXJyYXlbaWR4XSkKICAgICAgICAgICAgeCA9IHNwZWN0cnVtWydpbnRlbnNpdHkgYXJyYXknXVt0YWxsZXN0X3BlYWtfaW5kZXhdIC8gbnAuYXZlcmFnZShzcGVjdHJ1bVsnaW50ZW5zaXR5IGFycmF5J10pCiAgICAgICAgICAgIHJldHVybiBtYXgoWzAsIGxvZygxMDAgKiB4LCAxMCldKQoKICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgIGRlZiBzY29yZSh5aW9uKToKICAgICAgICByZXR1cm4gCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXQK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9yZWxhdGl2ZV9pbnRlbnNpdHkoaW50ZW5zaXR5LCBzcGVjdHJ1bSk6CiAgICByZXR1cm4gaW50ZW5zaXR5IC8K</text>
+        <text encoding="base64">ICAgICAgICBtel9hcnJheSA9IHNwZWN0cnVtWydtL3ogYXJyYXknXQogICAgICAgIHBlYWtfaW5kaWNlcyA9IG5wLndoZXJlKCh5aW9uX21hc3MgLSBNWl9UT0xFUkFOQ0UgPD0gbXpfYXJyYXkpICYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobXpfYXJyYXkgPD0geWlvbl9tYXNzICsgTVpfVE9MRVJBTkNFKSlbMF0KCiAgICAgICAgaWYgcGVha19pbmRpY2VzLnNpemUgPiAwOgogICAgICAgICAgICB0YWxsZXN0X3BlYWtfaW5kZXggPSBtYXgocGVha19pbmRpY2VzLCBrZXk9bGFtYmRhIGlkeDogbXpfYXJyYXlbaWR4XSkKICAgICAgICAgICAgeCA9IHNwZWN0cnVtWydpbnRlbnNpdHkgYXJyYXknXVt0YWxsZXN0X3BlYWtfaW5kZXhdIC8gbnAuYXZlcmFnZShzcGVjdHJ1bVsnaW50ZW5zaXR5IGFycmF5J10pCiAgICAgICAgICAgIHJldHVybiBtYXgoWzAsIGxvZygxMDAgKiB4LCAxMCldKQoKICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9hZ2dyZWdhdGVfaW50ZW5zaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>0.1</last-search>
+      <last-search>bion</last-search>
       <last-offset />
-      <last-pattern>0.1</last-pattern>
+      <last-pattern>bion</last-pattern>
       <last-replace>record</last-replace>
       <last-substitute>protein</last-substitute>
       <last-dir>1</last-dir>
@@ -460,8 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parse</entry>
-        <entry>mse</entry>
         <entry>test</entry>
         <entry>30</entry>
         <entry>kmer</entry>
@@ -480,6 +485,8 @@
         <entry>0.5</entry>
         <entry>np</entry>
         <entry>0.1</entry>
+        <entry>yion</entry>
+        <entry>bion</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IMPLIES_4/IMPLIES[3]/g</entry>
