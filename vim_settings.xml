@@ -277,12 +277,11 @@
         <mark key="'" line="0" column="0" />
         <mark key="]" line="0" column="204" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" timestamp="1553861179172">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="10" column="48" />
-        <mark key="^" line="10" column="48" />
-        <mark key="." line="10" column="48" />
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" timestamp="1553883904330">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
         <mark key="'" line="0" column="5" />
@@ -429,7 +428,7 @@
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGZ1bigpOgogICAgcGFzcwoKY2xhc3MgQToKICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -444,7 +443,7 @@
         <text encoding="base64">cHJpbnQobGVuKE1EUyhuX2NvbXBvbmVudHM9NSwgZGlzc2ltaWxhcml0eT0ncHJlY29tcHV0ZWQnKS5maXRfdHJhbnNmb3JtKEQpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGZ1bigpOgogICAgcGFzcwoKY2xhc3MgQToKICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -465,28 +464,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIoZW1iZWRkaW5nWzosIDBdLCBlbWJlZGRpbmdbOiwgMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoZW1iZWRkaW5nWzosIDBdLCBlbWJlZGRpbmdbOiwgMV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwcmludChsZW4oYWFzKSkK</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZW1iZWRkaW5nKQo=</text>
+        <text encoding="base64">IyBwcmludChsZW4oYWFzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwcmludChibG9zdW02MlsnWicsICdBJ10pCiMgcHJpbnQoRCkKCiMgZm9yIGEgaW4gYWFzOgojICAgICBmb3IgYiBpbiBhYXM6CiMgICAgICAgICB0cnk6CiMgICAgICAgICAgICAgcHJpbnQoYSwgYiwgYmxvc3VtNjJbYSwgYl0pCiMgICAgICAgICBleGNlcHQ6CiMgICAgICAgICAgICAgcGFzcwoKIyBwcmludChzb3J0ZWQoYWFzKSkKIyBwcmludChsZW4oYWFzKSkKIyBibG9zdW02MgoKCiMgcHJpbnQobGVuKE1EUyhuX2NvbXBvbmVudHM9NSwgZGlzc2ltaWxhcml0eT0ncHJlY29tcHV0ZWQnKS5maXRfdHJhbnNmb3JtKEQpKSkK</text>
+        <text encoding="base64">cHJpbnQoZW1iZWRkaW5nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoc29ydGVkKGFhcykpCiMgcHJpbnQobGVuKGFhcykpCiMgcHJpbnQoWycnLmpvaW4ocCkgZm9yIHAgaW4gcHJvZHVjdChhYXMsIHJlcGVhdD0zKV0pCiMgcHJpbnQobGVuKFsnJy5qb2luKHApIGZvciBwIGluIHByb2R1Y3QoYWFzLCByZXBlYXQ9MyldKSkKIyBwcmludChkWzosIDBdKQoKCg==</text>
+        <text encoding="base64">IyBwcmludChibG9zdW02MlsnWicsICdBJ10pCiMgcHJpbnQoRCkKCiMgZm9yIGEgaW4gYWFzOgojICAgICBmb3IgYiBpbiBhYXM6CiMgICAgICAgICB0cnk6CiMgICAgICAgICAgICAgcHJpbnQoYSwgYiwgYmxvc3VtNjJbYSwgYl0pCiMgICAgICAgICBleGNlcHQ6CiMgICAgICAgICAgICAgcGFzcwoKIyBwcmludChzb3J0ZWQoYWFzKSkKIyBwcmludChsZW4oYWFzKSkKIyBibG9zdW02MgoKCiMgcHJpbnQobGVuKE1EUyhuX2NvbXBvbmVudHM9NSwgZGlzc2ltaWxhcml0eT0ncHJlY29tcHV0ZWQnKS5maXRfdHJhbnNmb3JtKEQpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWFzID0ge2FhIGZvciBzIGluIGRbOiwgMF0gZm9yIGFhIGluIHN9Cg==</text>
+        <text encoding="base64">cHJpbnQoc29ydGVkKGFhcykpCiMgcHJpbnQobGVuKGFhcykpCiMgcHJpbnQoWycnLmpvaW4ocCkgZm9yIHAgaW4gcHJvZHVjdChhYXMsIHJlcGVhdD0zKV0pCiMgcHJpbnQobGVuKFsnJy5qb2luKHApIGZvciBwIGluIHByb2R1Y3QoYWFzLCByZXBlYXQ9MyldKSkKIyBwcmludChkWzosIDBdKQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWFzID0ge2FhIGZvciBzIGluIGRbOiwgMF0gZm9yIGFhIGluIHN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
