@@ -111,12 +111,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" timestamp="1553965160298">
-        <mark key="'" line="46" column="110" />
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="45" column="33" />
-        <mark key="." line="45" column="33" />
-        <mark key="^" line="45" column="33" />
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" timestamp="1553967438957">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="49" />
+        <mark key="." line="60" column="49" />
+        <mark key="^" line="60" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" timestamp="1553961445157">
         <mark key="'" line="15" column="0" />
@@ -168,11 +168,11 @@
       <file name="/Python Console" timestamp="1553963501896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" timestamp="1553965190846">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" timestamp="1553967383410">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
         <mark key="'" line="6" column="0" />
@@ -336,17 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="33" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="24" column="69" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="40" column="14" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="121" column="22" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="94" column="21" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/README.md" />
-      <jump line="23" column="17" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/README.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/data.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/data.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/data.py" />
       <jump line="17" column="30" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/data.py" />
@@ -387,7 +376,6 @@
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="12" column="5" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="22" column="21" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" />
       <jump line="1182" column="36" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" />
       <jump line="1306" column="103" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" />
@@ -424,7 +412,6 @@
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="11" column="9" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="2" column="35" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
@@ -436,28 +423,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
       <jump line="116" column="43" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
       <jump line="45" column="110" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
+      <jump line="34" column="27" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="44" column="36" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWFzID0gc29ydGVkKHt0WzBdIGZvciB0IGluIHNvcnRlZChibG9zdW02Mi5rZXlzKCkpfSkK</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>embedded</text>
+        <text>x_train</text>
       </register>
       <register name="/" type="4">
         <text>sor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eF90cmFpbiwgeV90cmFpbiA9IG5wLmhzcGxpdChwZC5yZWFkX2NzdigndHJhaW4uY3N2JywgZGVsaW1pdGVyPScsJywgaGVhZGVyPU5vbmUpLnRvX251bXB5KCksIDIpCiMgeF90cmFpbiwgeV90cmFpbiA9IHhfdHJhaW5bOjEwMDAsIDBdLCB5X3RyYWluWzoxMDAwLCAwXQp4X3RyYWluLCB5X3RyYWluID0geF90cmFpbls6LCAwXSwgeV90cmFpbls6LCAwXQp4X3RyYWluID0gZW1iZWQoeF90cmFpbiwgeV90cmFpbikK</text>
+        <text encoding="base64">YWFzID0gc29ydGVkKHt0WzBdIGZvciB0IGluIHNvcnRlZChibG9zdW02Mi5rZXlzKCkpfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -478,28 +478,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHhfdHJhaW4uc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvY2Vzc2VkID0gbnAuemVyb3MoKGxlbih4X3RyYWluKSwgbWF4X2xlbikpCmZvciBpLCBzIGluIGVudW1lcmF0ZSh4X3RyYWluKToKICAgIGZvciBqLCBjIGluIGVudW1lcmF0ZShzKToKICAgICAgICBwcm9jZXNzZWRbaSwgal0gPSBhYV90b19lbWJlZGRpbmdbY10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bnAucl9bZCxkXS5zaGFwZQoKbnAuemVyb3MoMTAsKQo=</text>
+        <text encoding="base64">YWFzID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHByb2Nlc3NlZC5zaGFwZSkKICAgICAgICAjIHByaW50KHlfdHJhaW4uc2hhcGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
+        <text encoding="base64">IyB4X3RyYWluLCB5X3RyYWluID0gbnAuaHNwbGl0KHBkLnJlYWRfY3N2KCd0cmFpbi5jc3YnLCBkZWxpbWl0ZXI9JywnLCBoZWFkZXI9Tm9uZSkudG9fbnVtcHkoKSwgMikKIyB4X3RyYWluLCB5X3RyYWluID0geF90cmFpbls6MTAsIDBdLCB5X3RyYWluWzoxMCwgMF0KIyBtYXhfbGVuID0gbWF4KFtsZW4ocykgZm9yIHMgaW4geF90cmFpbl0pCiMgcHJpbnQoJ21heCBsZW5ndGgnLCBtYXhfbGVuKQojIHByaW50KHhfdHJhaW4uc2hhcGUpCiMgcHJpbnQoeV90cmFpbi5zaGFwZSkKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
+        <text encoding="base64">IyBwcmludCh4X3RyYWluKQojIHByaW50KHlfdHJhaW4pCiMgcHJpbnQoZC5zaGFwZSkKIyBwcmludChkWzBdKQoKIyBwcmludChsaXN0KHBlcm11dGF0aW9ucyhbMSwgMiwgM10pKSkKCgojIGFhcyA9IHNvcnRlZCh7dFswXSBmb3IgdCBpbiBzb3J0ZWQoYmxvc3VtNjIua2V5cygpKX0pCiMgRCA9IGdldF9kaXN0YW5jZV9tYXRyaXgoKQoKIyBwcmludChibG9zdW02MlsnWicsICdBJ10pCiMgcHJpbnQoRCkKCiMgZm9yIGEgaW4gYWFzOgojICAgICBmb3IgYiBpbiBhYXM6CiMgICAgICAgICB0cnk6CiMgICAgICAgICAgICAgcHJpbnQoYSwgYiwgYmxvc3VtNjJbYSwgYl0pCiMgICAgICAgICBleGNlcHQ6CiMgICAgICAgICAgICAgcGFzcwoKIyBwcmludChzb3J0ZWQoYWFzKSkKIyBwcmludChsZW4oYWFzKSkKIyBibG9zdW02MgoKCiMgcHJpbnQobGVuKE1EUyhuX2NvbXBvbmVudHM9NSwgZGlzc2ltaWxhcml0eT0ncHJlY29tcHV0ZWQnKS5maXRfdHJhbnNmb3JtKEQpKSkKIyBhYV90b19lbWJlZGRpbmcgPSB7YWE6IGVtYmVkZGluZ1swXSBmb3IgYWEsIGVtYmVkZGluZyBpbgojICAgICAgICAgICAgICAgICAgICB6aXAoYWFzLCBNRFMobl9jb21wb25lbnRzPTEsIGRpc3NpbWlsYXJpdHk9J3ByZWNvbXB1dGVkJykuZml0X3RyYW5zZm9ybShEKSl9CiMgcHJpbnQoYWFfdG9fZW1iZWRkaW5nKQojCiMgIyBwcmludCh4X3RyYWluWzBdKQojICMgeF90cmFpbiA9IG5wLm5kYXJyYXkoW1thYV90b19lbWJlZGRpbmdbY10gZm9yIGMgaW4gc10gKyBbMF0gKiAobWF4X2xlbiAtIGxlbihzKSkgZm9yIHMgaW4geF90cmFpbl0pCiMgcHJvY2Vzc2VkID0gbnAuemVyb3MoKGxlbih4X3RyYWluKSwgbWF4X2xlbikpCiMgZm9yIGksIHMgaW4gZW51bWVyYXRlKHhfdHJhaW4pOgojICAgICBmb3IgaiwgYyBpbiBlbnVtZXJhdGUocyk6CiMgICAgICAgICBwcm9jZXNzZWRbaSwgal0gPSBhYV90b19lbWJlZGRpbmdbY10KIyBwcmludChwcm9jZXNzZWQpCiMgcHJpbnQocHJvY2Vzc2VkLnNoYXBlKQojIHhfdHJhaW4gPSBucC5hcnJheShbbnAuYXJyYXkoW2FhX3RvX2VtYmVkZGluZ1tjXSBmb3IgYyBpbiBzXSArIFswXSAqIChtYXhfbGVuIC0gbGVuKHMpKSkgZm9yIHMgaW4geF90cmFpbl0pCiMgcHJpbnQoeF90cmFpbi5zaGFwZSkKIyBwcmludChsZW4oeF90cmFpblswXSkpCiMgcHJpbnQobGVuKHhfdHJhaW5bMV0pKQojIHByaW50KHhfdHJhaW5bMF0pCgojIHhfdHJhaW4gPSBucC5hcnJheShsaXN0KG1hcChsYW1iZGEgczogbnAuYXJyYXkoW2FhX3RvX2VtYmVkZGluZ1tjXSBmb3IgYyBpbiBzXSksIHhfdHJhaW4pKSkKIyBwcmludCh4X3RyYWluKQojIHByaW50KHhfdHJhaW4uc2hhcGUpCiMgcHJpbnQoeF90cmFpblswXSkKIyBwcmludChkYXRhLnNoYXBlKQoKIyBwcmludChucC5yYW5kb20ucmFuZG9tKCgxMDAwLCAxMDAsIDUpKS5zaGFwZSkKIyBkZWYgdHJhaW5fZ2VuZXJhdG9yKCk6CiMgICAgIHdoaWxlIFRydWU6CiMgICAgICAgICBzZXF1ZW5jZV9sZW5ndGggPSBucC5yYW5kb20ucmFuZGludCgxMCwgMTAwKQojICAgICAgICAgeF90cmFpbiA9IG5wLnJhbmRvbS5yYW5kb20oKDEwMDAsIHNlcXVlbmNlX2xlbmd0aCwgNSkpCiMgICAgICAgICAjIHlfdHJhaW4gd2lsbCBkZXBlbmQgb24gcGFzdCA1IHRpbWVzdGVwcyBvZiB4CiMgICAgICAgICB5X3RyYWluID0geF90cmFpbls6LCA6LCAwXQojICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMSwgNSk6CiMgICAgICAgICAgICAgeV90cmFpbls6LCBpOl0gKz0geF90cmFpbls6LCA6LWksIGldCiMgICAgICAgICB5X3RyYWluID0gdG9fY2F0ZWdvcmljYWwoeV90cmFpbiA+IDIuNSkKIyAgICAgICAgIHlpZWxkIHhfdHJhaW4sIHlfdHJhaW4KIyBwcmludChuZXh0KHRyYWluX2dlbmVyYXRvcigpKVsxXS5zaGFwZSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93Ll9hcGkudjEua2VyYXMubW9kZWxzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHhfdHJhaW4uc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
