@@ -111,13 +111,15 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" timestamp="1553958751079">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="53" />
-        <mark key="^" line="43" column="19" />
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" timestamp="1553963603372">
+        <mark key="'" line="45" column="47" />
+        <mark key="[" line="110" column="41" />
+        <mark key="]" line="113" column="3" />
+        <mark key="^" line="113" column="3" />
+        <mark key="." line="113" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" timestamp="1553806791831">
-        <mark key="'" line="35" column="75" />
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" timestamp="1553961445157">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="100" />
         <mark key="]" line="15" column="116" />
         <mark key="." line="15" column="116" />
@@ -163,15 +165,15 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1553909886434">
+      <file name="/Python Console" timestamp="1553963501896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" timestamp="1553961328716">
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" timestamp="1553961540841">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="19" column="56" />
-        <mark key="]" line="19" column="75" />
-        <mark key="^" line="19" column="75" />
-        <mark key="." line="19" column="75" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
         <mark key="'" line="6" column="0" />
@@ -279,11 +281,11 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/bio.py" timestamp="1553627670443">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/bio.py" timestamp="1553963557088">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" timestamp="1553639474559">
         <mark key="'" line="0" column="0" />
@@ -335,10 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
-      <jump line="0" column="5" filename="/fragment.py" />
       <jump line="88" column="35" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="100" column="68" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
       <jump line="122" column="12" filename="$USER_HOME$/Desktop/Winter2019/cs482/a3/main.py" />
@@ -372,7 +370,6 @@
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/length_filter.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="23" column="13" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
@@ -435,28 +432,33 @@
       <jump line="11" column="9" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="2" column="35" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
+      <jump line="44" column="10" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
+      <jump line="45" column="47" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>405</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>405</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwcm9jZXNzZWQuc2hhcGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
+        <text encoding="base64">bnAucl9bZCxkXS5zaGFwZQoKbnAuemVyb3MoMTAsKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -477,28 +479,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93Ll9hcGkudjEua2VyYXMubW9kZWxzCg==</text>
+        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnZXRfZGlzdGFuY2VfbWF0cml4IGltcG9ydCBnZXRfZGlzdGFuY2VfbWF0cml4Cg==</text>
+        <text encoding="base64">bW9kZWwuYWRkKExTVE0oMzIsIGFjdGl2YXRpb249J3JlbHUnKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBnZXRfZGlzdGFuY2VfbWF0cml4IGltcG9ydCBnZXRfZGlzdGFuY2VfbWF0cml4Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93Ll9hcGkudjEua2VyYXMubW9kZWxzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBnZXRfZGlzdGFuY2VfbWF0cml4IGltcG9ydCBnZXRfZGlzdGFuY2VfbWF0cml4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkYXRhID0gbnAuaHN0YWNrKG1hcChsYW1iZGEgczogW2FhX3RvX2VtYmVkZGluZ1tucC5hcnJheShbYWFfdG9fZW1iZWRkaW5nW2FhXSBmb3IgYWEgaW4gZFtpLCAwXV0pIGZvciBpIGluIHJhbmdlKGxlbihkKSldKQo=</text>
+        <text encoding="base64">ZnJvbSBnZXRfZGlzdGFuY2VfbWF0cml4IGltcG9ydCBnZXRfZGlzdGFuY2VfbWF0cml4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eV90cmFpbiA9IHlfdHJhaW5bOiwgMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
