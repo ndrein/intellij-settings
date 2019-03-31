@@ -70,12 +70,12 @@
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" timestamp="1553806880576">
         <mark key="'" line="657" column="145" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" timestamp="1554051228741">
-        <mark key="'" line="41" column="18" />
-        <mark key="[" line="43" column="56" />
-        <mark key="]" line="43" column="62" />
-        <mark key="." line="43" column="62" />
-        <mark key="^" line="43" column="62" />
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" timestamp="1554069807501">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="46" />
+        <mark key="^" line="45" column="46" />
+        <mark key="." line="45" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test_score_difference.py" timestamp="1550964107710">
         <mark key="'" line="17" column="0" />
@@ -344,8 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="55" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
-      <jump line="4651" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
       <jump line="126" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
       <jump line="2142" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
@@ -444,28 +442,30 @@
       <jump line="13" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="41" column="18" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
+      <jump line="14" column="35" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>24</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRmLmtlcmFzLmxheWVycy5CaWRpcmVjdGlvbmFsKHRmLmtlcmFzLmxheWVycy5MU1RNKDMyKSksCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>24</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>sor</text>
       </register>
-      <register name="0" type="4">
-        <text>s[i:i + k]</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyB4X3RyYWluLCB5X3RyYWluID0geF90cmFpblsuLi4sIG5wLm5ld2F4aXNdLCB5X3RyYWluWy4uLiwgbnAubmV3YXhpc10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbih4X3RyYWluKSkK</text>
+        <text encoding="base64">ICAgIHRmLmtlcmFzLmxheWVycy5CaWRpcmVjdGlvbmFsKHRmLmtlcmFzLmxheWVycy5MU1RNKDMyKSksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -486,28 +486,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZFs6LTFdID0geV90cmFpbgo=</text>
+        <text encoding="base64">ICAgIHRmLmtlcmFzLmxheWVycy5CaWRpcmVjdGlvbmFsKHRmLmtlcmFzLmxheWVycy5MU1RNKDMyKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZFs6LTFdID0geV90cmFpbgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbih4X3RyYWluKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NlZFs6LTFdID0geV90cmFpbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc1tpOmkgKyBrXSkK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NlZFs6LTFdID0geV90cmFpbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGttZXJfdG9faW5kZXgpCg==</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGttZXJfdG9faW5kZXhbJ0ZTSCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc1tpOmkgKyBrXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRmLmtlcmFzLmxheWVycy5Db252MUQoNjQsIDMsIHBhZGRpbmc9J3NhbWUnLCBhY3RpdmF0aW9uPSdyZWx1JyksCiAgICB0Zi5rZXJhcy5sYXllcnMuQ29udjFEKDY0LCAzLCBwYWRkaW5nPSdzYW1lJywgYWN0aXZhdGlvbj0ncmVsdScpLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGttZXJfdG9faW5kZXgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRmLmtlcmFzLmxheWVycy5Db252MUQoNjQsIDMsIHBhZGRpbmc9J3NhbWUnLCBhY3RpdmF0aW9uPSdyZWx1JyksCiAgICB0Zi5rZXJhcy5sYXllcnMuQ29udjFEKDY0LCAzLCBwYWRkaW5nPSdzYW1lJywgYWN0aXZhdGlvbj0ncmVsdScpLAogICAgdGYua2VyYXMubGF5ZXJzLkNvbnYxRCg2NCwgMywgcGFkZGluZz0nc2FtZScsIGFjdGl2YXRpb249J3JlbHUnKSwK</text>
+        <text encoding="base64">ICAgIHByaW50KGttZXJfdG9faW5kZXhbJ0ZTSCddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
