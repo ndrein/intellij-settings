@@ -47,6 +47,13 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/plot_sequence_lengths.py" timestamp="1554130274263">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="38" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="38" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_pairwise_distances.py" timestamp="1550326597113">
         <mark key="'" line="9" column="40" />
         <mark key="[" line="10" column="23" />
@@ -131,10 +138,10 @@
         <mark key="." line="66" column="58" />
         <mark key="^" line="66" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" timestamp="1553961445157">
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" timestamp="1554129544115">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="100" />
-        <mark key="]" line="15" column="116" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="29" />
         <mark key="." line="15" column="116" />
         <mark key="^" line="15" column="116" />
       </file>
@@ -350,9 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
-      <jump line="31" column="16" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
-      <jump line="8" column="15" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="22" column="39" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
@@ -450,25 +454,28 @@
       <jump line="49" column="57" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="57" column="54" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/plot_sequence_lengths.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/plot_sequence_lengths.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/plot_sequence_lengths.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, tf.keras.metrics.precision, tf.keras.metrics.recall</text>
+        <text>Swiss</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>, tf.keras.metrics.precision, tf.keras.metrics.recall</text>
+        <text>Swiss</text>
       </register>
       <register name="/" type="4">
-        <text>sor</text>
+        <text>fro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRmLmtlcmFzLmxheWVycy5FbWJlZGRpbmcobnVtX2ttZXJzICsgMSwgNjQsIGlucHV0X2xlbmd0aD00MTcpLCAjIEFkZCAxIGZvciAwCg==</text>
+        <text encoding="base64">cGx0LnhsYWJlbCgnU2VxdWVuY2UgbGVuZ3RoJykKcGx0LnlsYWJlbCgnIyBvZiBzZXF1ZW5jZXMnKQpwbHQudGl0bGUoJ1N3aXNzLVByb3QgbGVuZ3RoIGRpc3RyaWJ1dGlvbicpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSAK</text>
@@ -520,9 +527,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sor</last-search>
+      <last-search>fro</last-search>
       <last-offset />
-      <last-pattern>sor</last-pattern>
+      <last-pattern>fro</last-pattern>
       <last-replace>record</last-replace>
       <last-substitute>protein</last-substitute>
       <last-dir>1</last-dir>
@@ -530,7 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
         <entry>load</entry>
         <entry>true</entry>
         <entry>protein</entry>
@@ -550,6 +556,7 @@
         <entry>d</entry>
         <entry>U</entry>
         <entry>sor</entry>
+        <entry>fro</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IMPLIES_4/IMPLIES[3]/g</entry>
