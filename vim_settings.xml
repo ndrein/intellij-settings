@@ -77,12 +77,12 @@
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" timestamp="1553806880576">
         <mark key="'" line="657" column="145" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" timestamp="1554122344199">
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" timestamp="1554161889806">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
-        <mark key="^" line="57" column="85" />
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="54" />
+        <mark key="." line="49" column="54" />
+        <mark key="^" line="49" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/predict.py" timestamp="1554071457681">
         <mark key="[" line="8" column="38" />
