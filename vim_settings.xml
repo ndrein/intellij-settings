@@ -70,12 +70,12 @@
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" timestamp="1553806880576">
         <mark key="'" line="657" column="145" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" timestamp="1554077632777">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="63" column="47" />
-        <mark key="]" line="63" column="47" />
-        <mark key="^" line="63" column="47" />
-        <mark key="." line="63" column="47" />
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" timestamp="1554079020671">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="63" column="72" />
+        <mark key="]" line="63" column="73" />
+        <mark key="^" line="63" column="62" />
+        <mark key="." line="63" column="73" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/predict.py" timestamp="1554071457681">
         <mark key="[" line="8" column="38" />
@@ -350,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="24" column="84" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
@@ -444,25 +443,26 @@
       <jump line="45" column="64" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="52" column="29" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="62" column="49" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
+      <jump line="12" column="79" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train_kmer_embedding.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>32</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>32</text>
       </register>
       <register name="/" type="4">
         <text>sor</text>
