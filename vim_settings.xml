@@ -188,7 +188,7 @@
       <file name="/Python Console" timestamp="1553963501896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" timestamp="1554165525108">
+      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" timestamp="1554165594673">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="5099" />
@@ -362,8 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
-      <jump line="40" column="74" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="2704" column="154" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
@@ -460,6 +458,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/plot_sequence_lengths.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/plot_sequence_lengths.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/plot_sequence_lengths.py" />
+      <jump line="49" column="92" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" />
+      <jump line="104" column="69" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" />
       <jump line="122" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" />
     </jumps>
