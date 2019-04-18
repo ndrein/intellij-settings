@@ -117,6 +117,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1555556915218">
+        <mark key="'" line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" timestamp="1550243403300">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="102" column="43" />
@@ -293,6 +296,12 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/bio.py" timestamp="1553963557088">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" timestamp="1550964221348">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="36" />
@@ -305,12 +314,6 @@
         <mark key="]" line="1" column="32" />
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/bio.py" timestamp="1553963557088">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" timestamp="1553639474559">
         <mark key="'" line="0" column="0" />
@@ -362,8 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="2704" column="154" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
       <jump line="5259" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
       <jump line="28" column="75" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
@@ -462,6 +463,8 @@
       <jump line="104" column="69" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" />
       <jump line="122" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" />
+      <jump line="8" column="72" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
