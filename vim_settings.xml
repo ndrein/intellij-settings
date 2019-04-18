@@ -9,6 +9,13 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python-syntax/README.md" timestamp="1555611979271">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_aa_frequencies.py" timestamp="1550174942093">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="3" column="29" />
@@ -90,6 +97,13 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" timestamp="1555611670154">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1555610076305">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -122,8 +136,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1555556915218">
-        <mark key="'" line="59" column="0" />
+      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1555611267793">
+        <mark key="'" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" timestamp="1550243403300">
         <mark key="'" line="102" column="0" />
@@ -131,6 +145,9 @@
         <mark key="]" line="102" column="45" />
         <mark key="." line="102" column="45" />
         <mark key="^" line="102" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/effloresce/syntax/scanning/logic_scanner.py" timestamp="1555611331346">
+        <mark key="'" line="117" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_frequencies.py" timestamp="1549474429673">
         <mark key="'" line="1" column="20" />
@@ -166,18 +183,15 @@
         <mark key="." line="14" column="58" />
         <mark key="^" line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/length_filter.py" timestamp="1553626204343">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" timestamp="1550286158369">
         <mark key="'" line="24" column="13" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="19" column="27" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" timestamp="1555611341603">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/create _csv.py" timestamp="1549503883011">
         <mark key="'" line="1" column="30" />
@@ -281,7 +295,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555610079274">
+      <file name="/Dummy.txt" timestamp="1555611634775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -320,10 +334,6 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" timestamp="1553639474559">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="0" column="204" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" timestamp="1553958682352">
         <mark key="'" line="9" column="31" />
         <mark key="[" line="0" column="18" />
@@ -340,6 +350,12 @@
         <mark key="]" line="2" column="54" />
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/tests/syntax/test_logic_scanner.py" timestamp="1555610952252">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmmlearn.py" timestamp="1550281338191">
         <mark key="'" line="6" column="0" />
@@ -370,15 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5259" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/out.csv" />
-      <jump line="28" column="75" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="5" column="11" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="12" column="5" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" />
-      <jump line="1182" column="36" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" />
       <jump line="1306" column="103" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" />
       <jump line="4236" column="47" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" />
       <jump line="657" column="145" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.csv" />
@@ -470,6 +477,15 @@
       <jump line="8" column="72" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
+      <jump line="117" column="29" filename="$USER_HOME$/dev/effloresce/effloresce/syntax/scanning/logic_scanner.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="11" column="22" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/python-syntax/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
