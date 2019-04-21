@@ -23,9 +23,6 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1553958372989">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="8" column="29" />
@@ -97,12 +94,9 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" timestamp="1555888690204">
-        <mark key="'" line="91" column="90" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" timestamp="1555890386775">
+        <mark key="'" line="91" column="19" />
         <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1555889311621">
         <mark key="'" line="11" column="0" />
@@ -215,9 +209,6 @@
         <mark key="]" line="4" column="53" />
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
-      </file>
-      <file name="/Python Console" timestamp="1553963501896">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/kmer_embedded.csv" timestamp="1554165594673">
         <mark key="'" line="122" column="0" />
@@ -395,7 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" />
@@ -489,12 +479,13 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/python-syntax/README.md" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
-      <jump line="91" column="90" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="16" column="38" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="91" column="19" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="91" column="19" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
