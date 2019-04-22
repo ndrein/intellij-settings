@@ -23,12 +23,22 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/effloresce/Pipfile.lock" timestamp="1555896950305">
+        <mark key="'" line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="28" />
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/logic.py" timestamp="1555897986470">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/bayes.py" timestamp="1550270539776">
         <mark key="'" line="5" column="0" />
@@ -94,16 +104,16 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" timestamp="1555890386775">
-        <mark key="'" line="12" column="19" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" timestamp="1555897428662">
+        <mark key="'" line="8" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1555889311621">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="14" />
-        <mark key="." line="29" column="14" />
-        <mark key="^" line="29" column="14" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1555897922649">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1555612124716">
         <mark key="'" line="5" column="0" />
@@ -158,6 +168,9 @@
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/Pipfile" timestamp="1555896930231">
+        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" timestamp="1554051236290">
         <mark key="'" line="44" column="0" />
@@ -228,6 +241,11 @@
         <mark key="]" line="32" column="48" />
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/effloresce/syntax/logic_grammar.py" timestamp="1555897975964">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/dotfiles/startup-scripts/README.md" timestamp="1543719166807">
         <mark key="[" line="15" column="81" />
@@ -386,31 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="9" column="24" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/get_distance_matrix.py" />
-      <jump line="14" column="31" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" />
-      <jump line="17" column="25" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="53" column="20" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/create_csv.py" />
       <jump line="113" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
@@ -478,36 +471,61 @@
       <jump line="11" column="22" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/python-syntax/README.md" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="16" column="38" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="91" column="19" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="91" column="19" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/effloresce/Pipfile" />
+      <jump line="67" column="0" filename="$USER_HOME$/dev/effloresce/Pipfile.lock" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="48" column="13" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/syntax/logic_grammar.py" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X2FuZF9vcl9ub3RfaW1wbGllc19pZmYoKToKICAgIGFzc2VydF9tYXRjaGVzKCgnYW5kJywgJ2EnLCAoJ29yJywgKCdub3QnLCAnYicpLCAoJ2ltcGxpZXMnLCAoJ2lmZicsICdjJywgJ2QnKSwgJ2UnKSkpLAogICAgICAgICAgICAgICAgICAgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKGEgQU5EICgoTk9UIGIpIE9SICgoYyBJRkYgZCkgSU1QTElFUyBlKSkpJykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>Swiss</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>fro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnhsYWJlbCgnU2VxdWVuY2UgbGVuZ3RoJykKcGx0LnlsYWJlbCgnIyBvZiBzZXF1ZW5jZXMnKQpwbHQudGl0bGUoJ1N3aXNzLVByb3QgbGVuZ3RoIGRpc3RyaWJ1dGlvbicpCg==</text>
+        <text encoding="base64">TE9HSUNfR1JBTU1BUiA9ICIiIgo/c3RhcnQ6IExJVEVSQUwKICAgICAgICAgfCAiKE5PVCIgc3RhcnQgIikiIC0+IG5vdAogICAgICAgICB8ICIoIiBzdGFydCAiT1IiIHN0YXJ0ICIpIiAtPiBvcgogICAgICAgICB8ICIoIiBzdGFydCAiQU5EIiBzdGFydCAiKSIgLT4gYW5kCiAgICAgICAgIHwgIigiIHN0YXJ0ICJJTVBMSUVTIiBzdGFydCAiKSIgLT4gaW1wbGllcwogICAgICAgICB8ICIoIiBzdGFydCAiSUZGIiBzdGFydCAiKSIgLT4gaWZmCkxJVEVSQUw6IC9bYS16XSsvCgolaW1wb3J0IGNvbW1vbi5XUwolaWdub3JlIFdTCiIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X2FuZF9vcl9ub3RfaW1wbGllc19pZmYoKToKICAgIGFzc2VydF9tYXRjaGVzKCgnYW5kJywgJ2EnLCAoJ29yJywgKCdub3QnLCAnYicpLCAoJ2ltcGxpZXMnLCAoJ2lmZicsICdjJywgJ2QnKSwgJ2UnKSkpLAogICAgICAgICAgICAgICAgICAgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKGEgQU5EICgoTk9UIGIpIE9SICgoYyBJRkYgZCkgSU1QTElFUyBlKSkpJykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -528,28 +546,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcGFyc2VfbGl0ZXJhbCgpOgogICAgYXNzZXJ0X21hdGNoZXMoJ3AnLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCdwJykpCgoKZGVmIHRlc3RfbG9uZ19saXRlcmFsKCk6CiAgICBzID0gJ2F3ZW9yaXF1d3Blb2l1YXNkZm54Y3ZuJwogICAgYXNzZXJ0X21hdGNoZXMocywgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZShzKSkKCgpkZWYgdGVzdF91bmV4cGVjdGVkX2NoYXJhY3RlcnMoKToKICAgIGZvciBjIGluICgnQScsICctJywgJzEnKToKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVW5leHBlY3RlZENoYXJhY3RlcnMpOgogICAgICAgICAgICBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKGMpCgoKZGVmIHRlc3Rfc3BhY2VfZ2l2ZXNfcGFyc2VfZXJyb3IoKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhQYXJzZUVycm9yKToKICAgICAgICBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcgJykKCgpkZWYgdGVzdF9saXRlcmFsX3dpdGhfd2hpdGVzcGFjZSgpOgogICAgYXNzZXJ0X21hdGNoZXMoJ3AnLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcgIHAgJykpCgoKZGVmIHRlc3Rfbm90X3dpdGhvdXRfd2hpdGVzcGFjZSgpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdub3QnLCAncCcpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcoTk9UcCknKSkKCgpkZWYgdGVzdF9ub3Rfd2l0aF93aGl0ZXNwYWNlKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ25vdCcsICdwJyksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyAgKE5PVCBwICkgJykpCgoKZGVmIHRlc3RfZG91YmxlX25lZ2F0aW9uKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ25vdCcsICgnbm90JywgJ3AnKSksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyhOT1QgKE5PVCBwKSknKSkKCgpkZWYgdGVzdF9vcigpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdvcicsICdwJywgJ3EnKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKHAgT1IgcSknKSkKCgpkZWYgdGVzdF9vcl9hbmRfbm90KCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ29yJywgJ3AnLCAoJ25vdCcsICdxJykpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcocCBPUiAoTk9UIHEpKScpKQoKCmRlZiB0ZXN0X2FuZCgpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdhbmQnLCAncCcsICdxJyksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyhwIEFORCBxKScpKQoKCmRlZiB0ZXN0X2FuZF9vcigpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdhbmQnLCAoJ29yJywgJ3AnLCAncScpLCAncicpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcoKHAgT1IgcSkgQU5EIHIpJykpCgoKZGVmIHRlc3RfaW1wbGllcygpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdpbXBsaWVzJywgJ3AnLCAncScpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcocCBJTVBMSUVTIHEpJykpCgoKZGVmIHRlc3RfaWZmKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ2lmZicsICdwJywgJ3EnKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKHAgSUZGIHEpJykpCgoK</text>
+        <text encoding="base64">CnRyZWUgPSBMYXJrKExPR0lDX0dSQU1NQVJfTUlOSU1JWkVELCBzdGFydD0nc3RhdGVtZW50JykucGFyc2UoJyhOT1QgKHAgQU5EIHEpKScpCnByaW50KHRyZWUpCgoncCcgPT0gdHJlZS5jaGlsZHJlblswXS5jaGlsZHJlblswXQp0cmVlLmRhdGEKCiMgdHJlZSA9IExhcmsoTE9HSUNfR1JBTU1BUiwgc3RhcnQ9J3N0YXRlbWVudCcpLnBhcnNlKCcoTk9UIChwIEFORCBxKSknKQojIHByaW50KHRyZWUpCgp0cmVlID0gTGFyayhMT0dJQ19HUkFNTUFSX01JTklNSVpFRCwgc3RhcnQ9J3N0YXRlbWVudCcpLnBhcnNlKCdwJykKCiMgdHJlZS5kYXRhCgoKdHJlZSA9IExhcmsoJycnCj9zdGFydDogIisiIHN0YXJ0IC0+IHBsdXMKICAgICAgfCBOVU1CRVIKTlVNQkVSOiAvWzAtOV0vCicnJykucGFyc2UoJzUnKQp0cmVlCgoKY2xhc3MgUGx1c1RyYW5zZm9ybWVyKFRyYW5zZm9ybWVyKToKICAgIGRlZiBwbHVzKHNlbGYsIGNoaWxkcmVuKToKICAgICAgICByZXR1cm4gMSArIGNoaWxkcmVuWzBdCgogICAgZGVmIG51bWJlcihzZWxmLCBjaGlsZHJlbik6CiAgICAgICAgcmV0dXJuIGludChjaGlsZHJlblswXSkKCgpQbHVzVHJhbnNmb3JtZXIoKS50cmFuc2Zvcm0odHJlZSkKCgoKZGVmIGZ1bjIoaSk6CiAgICBpZiBpID09IDA6CiAgICAgICAgcmV0dXJuIGkKCiAgICBwcmludCgncmVjdXJzaW5nJywgaSkKICAgIHJldHVybiBmdW4yKGkgLSAxKQoKZGVmIGZ1bigpOgogICAgd2hpbGUgVHJ1ZToKICAgICAgICB5aWVsZCBmdW4yKDEwMCkKCm5leHQoZnVuKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpkZWYgdGVzdF9wYXJzZV9saXRlcmFsKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygncCcsIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJ3AnKSkKCgpkZWYgdGVzdF9sb25nX2xpdGVyYWwoKToKICAgIHMgPSAnYXdlb3JpcXV3cGVvaXVhc2Rmbnhjdm4nCiAgICBhc3NlcnRfbWF0Y2hlcyhzLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKHMpKQoKCmRlZiB0ZXN0X3VuZXhwZWN0ZWRfY2hhcmFjdGVycygpOgogICAgZm9yIGMgaW4gKCdBJywgJy0nLCAnMScpOgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhVbmV4cGVjdGVkQ2hhcmFjdGVycyk6CiAgICAgICAgICAgIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoYykKCgpkZWYgdGVzdF9zcGFjZV9naXZlc19wYXJzZV9lcnJvcigpOgogICAgd2l0aCBweXRlc3QucmFpc2VzKFBhcnNlRXJyb3IpOgogICAgICAgIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyAnKQoKCmRlZiB0ZXN0X2xpdGVyYWxfd2l0aF93aGl0ZXNwYWNlKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygncCcsIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyAgcCAnKSkKCgpkZWYgdGVzdF9ub3Rfd2l0aG91dF93aGl0ZXNwYWNlKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ25vdCcsICdwJyksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyhOT1RwKScpKQoKCmRlZiB0ZXN0X25vdF93aXRoX3doaXRlc3BhY2UoKToKICAgIGFzc2VydF9tYXRjaGVzKCgnbm90JywgJ3AnKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnICAoTk9UIHAgKSAnKSkKCgpkZWYgdGVzdF9kb3VibGVfbmVnYXRpb24oKToKICAgIGFzc2VydF9tYXRjaGVzKCgnbm90JywgKCdub3QnLCAncCcpKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKE5PVCAoTk9UIHApKScpKQoKCmRlZiB0ZXN0X29yKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ29yJywgJ3AnLCAncScpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcocCBPUiBxKScpKQoKCmRlZiB0ZXN0X29yX2FuZF9ub3QoKToKICAgIGFzc2VydF9tYXRjaGVzKCgnb3InLCAncCcsICgnbm90JywgJ3EnKSksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyhwIE9SIChOT1QgcSkpJykpCgoKZGVmIHRlc3RfYW5kKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ2FuZCcsICdwJywgJ3EnKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKHAgQU5EIHEpJykpCgoKZGVmIHRlc3RfYW5kX29yKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ2FuZCcsICgnb3InLCAncCcsICdxJyksICdyJyksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJygocCBPUiBxKSBBTkQgciknKSkKCgpkZWYgdGVzdF9pbXBsaWVzKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ2ltcGxpZXMnLCAncCcsICdxJyksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyhwIElNUExJRVMgcSknKSkKCgpkZWYgdGVzdF9pZmYoKToKICAgIGFzc2VydF9tYXRjaGVzKCgnaWZmJywgJ3AnLCAncScpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcocCBJRkYgcSknKSkKCgpkZWYgYXNzZXJ0X21hdGNoZXModGFyZ2V0OiBVbmlvbltzdHIsIFNlcXVlbmNlXSwgdHJlZTogVHJlZSk6CiAgICBpZiBpc2luc3RhbmNlKHRhcmdldCwgc3RyKToKICAgICAgICBhc3NlcnQgdGFyZ2V0ID09IHRyZWUKICAgIGVsc2U6CiAgICAgICAgYXNzZXJ0IHRhcmdldFswXSA9PSB0cmVlLmRhdGEKCiAgICAgICAgZm9yIHN1YnRhcmdldCwgY2hpbGQgaW4gemlwKHRhcmdldFsxOl0sIHRyZWUuY2hpbGRyZW4pOgogICAgICAgICAgICBhc3NlcnRfbWF0Y2hlcyhzdWJ0YXJnZXQsIGNoaWxkKQoKCmRlZiB0ZXN0X2FuZF9vcl9ub3RfaW1wbGllc19pZmYoKToKICAgIGFzc2VydF9tYXRjaGVzKCgnYW5kJywgJ2EnLCAoJ29yJywgKCdub3QnLCAnYicpLCAoJ2ltcGxpZXMnLCAoJ2lmZicsICdjJywgJ2QnKSwgJ2UnKSkpLAogICAgICAgICAgICAgICAgICAgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKGEgQU5EICgoTk9UIGIpIE9SICgoYyBJRkYgZCkgSU1QTElFUyBlKSkpJykpCg==</text>
+        <text encoding="base64">TE9HSUNfR1JBTU1BUl9NSU5JTUlaRUQgPSAnJycKP3N0YXRlbWVudDogTElURVJBTAogICAgICAgICB8ICIoTk9UIiBzdGF0ZW1lbnQgIikiIC0+IG5vdAogICAgICAgICB8ICIoIiBzdGF0ZW1lbnQgIk9SIiBzdGF0ZW1lbnQgIikiIC0+IG9yCiAgICAgICAgIHwgIigiIHN0YXRlbWVudCAiQU5EIiBzdGF0ZW1lbnQgIikiIC0+IGFuZAogICAgICAgICB8ICIoIiBzdGF0ZW1lbnQgIklNUExJRVMiIHN0YXRlbWVudCAiKSIgLT4gaW1wbGllcwogICAgICAgICB8ICIoIiBzdGF0ZW1lbnQgIklGRiIgc3RhdGVtZW50ICIpIiAtPiBpZmYKTElURVJBTDogL1thLXpdKy8KCiVpbXBvcnQgY29tbW9uLldTCiVpZ25vcmUgV1MKJycnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgR29hbAoKVGhpcyBpcyBhbiBleHBlcmltZW50IHdpdGggbG9naWNhbCBmb3JtdWxhcyBpbiBpdHMgZWFybHkgc3RhZ2VzLgoKSG9wZWZ1bGx5LCB3ZSdsbCBlbmQgdXAgaGF2aW5nIHRoZSBhYmlsaXR5IHRvIGNvbXB1dGUgdHJ1dGggZ2l2ZW4gYSBsb2dpY2FsIG1vZGVsLgoKCiMjIEltcGxlbWVudGF0aW9uCgoKUmlnaHQgbm93LCB3ZSdyZSB3b3JraW5nIG9uIHBhcnNpbmcgbG9naWNhbCBmb3JtdWxhcyBpbnRvIHBhcnNlIHRyZWVzLgoKVGhpcyBwcm9qZWN0IHVzZXMgYG5kcmVpbi9zeW50YXhgIGFzIGEgcGFyc2luZyBpbXBsZW1lbnRhdGlvbiBmb3IgdGhlIHRpbWUgYmVpbmcuCgpTZWUgYGVmZmxvcmVzY2Uvc3ludGF4L3NjYW5uaW5nL2xvZ2ljX3NjYW5uZXIucHlgIGFuZCBgZWZmbG9yZXNjZS9zeW50YXgvcGFyc2luZy9sb2dpYy5jZmdgLgo=</text>
+        <text encoding="base64">ZnJvbSBsYXJrLnRyZWUgaW1wb3J0IHB5ZG90X190cmVlX3RvX3BuZyAgIyBKdXN0IGEgbmVhdCB1dGlsaXR5IGZ1bmN0aW9uCmZyb20gc3ludGF4LmxvZ2ljX2dyYW1tYXIgaW1wb3J0IExPR0lDX0dSQU1NQVIKZnJvbSBsYXJrLmV4Y2VwdGlvbnMgaW1wb3J0IFVuZXhwZWN0ZWRDaGFyYWN0ZXJzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NS45MDQwMDAwMDAwMDAwMDAwMDBlKzAzLDEuOTIzMDAwMDAwMDAwMDAwMDAwZSswMyw3LjY5NjAwMDAwMDAwMDAwMDAwMGUrMDMsNi42NDIwMDAwMDAwMDAwMDAwMDBlKzAzLDYuNzI4MDAwMDAwMDAwMDAwMDAwZSswMyw4LjcwOTAwMDAwMDAwMDAwMDAwMGUrMDMsNS42MDQwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMTk5MDAwMDAwMDAwMDAwMDAwZSswMyw3LjM2MjAwMDAwMDAwMDAwMDAwMGUrMDMsMS4xMTI1MDAwMDAwMDAwMDAwMDBlKzA0LDMuMzAwMDAwMDAwMDAwMDAwMDAwZSswMiw3LjU1NjAwMDAwMDAwMDAwMDAwMGUrMDMsMy40MDYwMDAwMDAwMDAwMDAwMDBlKzAzLDUuMzA4MDAwMDAwMDAwMDAwMDAwZSswMywzLjgzMDAwMDAwMDAwMDAwMDAwMGUrMDIsOC43NzkwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMjA3MDAwMDAwMDAwMDAwMDAwZSswMyw3LjU0NjAwMDAwMDAwMDAwMDAwMGUrMDMsMy4xODcwMDAwMDAwMDAwMDAwMDBlKzAzLDIuNzIwMDAwMDAwMDAwMDAwMDAwZSswMiw2LjIyNTAwMDAwMDAwMDAwMDAwMGUrMDMsOS4zMDAwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMDI1MDAwMDAwMDAwMDAwMDAwZSswMywzLjM3MzAwMDAwMDAwMDAwMDAwMGUrMDMsNC41NDEwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMDY4MDAwMDAwMDAwMDAwMDAwZSswMyw0LjM2NTAwMDAwMDAwMDAwMDAwMGUrMDMsMy4wMjgwMDAwMDAwMDAwMDAwMDBlKzAzLDguNzc2MDAwMDAwMDAwMDAwMDAwZSswMyw3LjE0MzAwMDAwMDAwMDAwMDAwMGUrMDMsNi4wODcwMDAwMDAwMDAwMDAwMDBlKzAzLDYuMTQxMDAwMDAwMDAwMDAwMDAwZSswMyw3LjM2ODAwMDAwMDAwMDAwMDAwMGUrMDMsMS4xMjY2MDAwMDAwMDAwMDAwMDBlKzA0LDMuNTczMDAwMDAwMDAwMDAwMDAwZSswMyw5LjE0MzAwMDAwMDAwMDAwMDAwMGUrMDMsMy40MjMwMDAwMDAwMDAwMDAwMDBlKzAzLDUuNjk2MDAwMDAwMDAwMDAwMDAwZSswMyw5LjMwODAwMDAwMDAwMDAwMDAwMGUrMDMsNy4yMTQwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzE1MDAwMDAwMDAwMDAwMDAwZSswMyw3LjA3NzAwMDAwMDAwMDAwMDAwMGUrMDMsNC41NjgwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzAxMDAwMDAwMDAwMDAwMDAwZSswMyw2Ljc1MzAwMDAwMDAwMDAwMDAwMGUrMDMsOS4yODcwMDAwMDAwMDAwMDAwMDBlKzAzLDYuNzI4MDAwMDAwMDAwMDAwMDAwZSswMyw4LjcxMjAwMDAwMDAwMDAwMDAwMGUrMDMsNS42NjgwMDAwMDAwMDAwMDAwMDBlKzAzLDguNjYwMDAwMDAwMDAwMDAwMDAwZSswMyw0LjQ2ODAwMDAwMDAwMDAwMDAwMGUrMDMsNS4zODgwMDAwMDAwMDAwMDAwMDBlKzAzLDIuMjI0MDAwMDAwMDAwMDAwMDAwZSswMywyLjQ1NDAwMDAwMDAwMDAwMDAwMGUrMDMsNy43NDUwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzY3MDAwMDAwMDAwMDAwMDAwZSswMyw4LjI3MzAwMDAwMDAwMDAwMDAwMGUrMDMsNy43NDQwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzQ0MDAwMDAwMDAwMDAwMDAwZSswMyw3Ljc0NDAwMDAwMDAwMDAwMDAwMGUrMDMsNy43NDQwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzQ0MDAwMDAwMDAwMDAwMDAwZSswMyw3Ljc0NDAwMDAwMDAwMDAwMDAwMGUrMDMsNy43NDQwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzQ0MDAwMDAwMDAwMDAwMDAwZSswMyw3Ljc0NDAwMDAwMDAwMDAwMDAwMGUrMDMsNy43NDQwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzQ0MDAwMDAwMDAwMDAwMDAwZSswMyw3Ljc0NDAwMDAwMDAwMDAwMDAwMGUrMDMsNy43NDQwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzQ0MDAwMDAwMDAwMDAwMDAwZSswMyw3Ljc0NDAwMDAwMDAwMDAwMDAwMGUrMDMsNy43NDQwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzQ0MDAwMDAwMDAwMDAwMDAwZSswMyw3LjczMDAwMDAwMDAwMDAwMDAwMGUrMDMsNy40MDgwMDAwMDAwMDAwMDAwMDBlKzAzLDIuMDAwMDAwMDAwMDAwMDAwMDAwZSswMSw0LjE2MDAwMDAwMDAwMDAwMDAwMGUrMDIsOS41MjQwMDAwMDAwMDAwMDAwMDBlKzAzLDIuMDAwMDAwMDAwMDAwMDAwMDAwZSswMSw0LjMwMDAwMDAwMDAwMDAwMDAwMGUrMDIsOS44NjAwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNzQ2MDAwMDAwMDAwMDAwMDAwZSswMyw3Ljc5MzAwMDAwMDAwMDAwMDAwMGUrMDMsOC44NzMwMDAwMDAwMDAwMDAwMDBlKzAzLDkuMzc3MDAwMDAwMDAwMDAwMDAwZSswMyw4LjgwMjAwMDAwMDAwMDAwMDAwMGUrMDMsNy43MzAwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNDI1MDAwMDAwMDAwMDAwMDAwZSswMyw0LjA3MDAwMDAwMDAwMDAwMDAwMGUrMDIsOS4zMjMwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNTU5MDAwMDAwMDAwMDAwMDAwZSswMywzLjQ5MTAwMDAwMDAwMDAwMDAwMGUrMDMsNy4yNTMwMDAwMDAwMDAwMDAwMDBlKzAzLDguNjE4MDAwMDAwMDAwMDAwMDAwZSswMywzLjUxNTAwMDAwMDAwMDAwMDAwMGUrMDMsNy44MTIwMDAwMDAwMDAwMDAwMDBlKzAzLDkuMzA4MDAwMDAwMDAwMDAwMDAwZSswMyw3LjIxMTAwMDAwMDAwMDAwMDAwMGUrMDMsNy42NDMwMDAwMDAwMDAwMDAwMDBlKzAzLDUuNDE0MDAwMDAwMDAwMDAwMDAwZSswMywyLjgyNDAwMDAwMDAwMDAwMDAwMGUrMDMsNC4wODcwMDAwMDAwMDAwMDAwMDBlKzAzLDguODA1MDAwMDAwMDAwMDAwMDAwZSswMyw3LjgwOTAwMDAwMDAwMDAwMDAwMGUrMDMsOS4yNDIwMDAwMDAwMDAwMDAwMDBlKzAzLDUuNzAwMDAwMDAwMDAwMDAwMDAwZSswMyw5LjM4NjAwMDAwMDAwMDAwMDAwMGUrMDMsOS4wMDgwMDAwMDAwMDAwMDAwMDBlKzAzLDMuMTEwMDAwMDAwMDAwMDAwMDAwZSswMiw3LjEyMjAwMDAwMDAwMDAwMDAwMGUrMDMsNS41OTcwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMDM0MDAwMDAwMDAwMDAwMDAwZSswMywzLjU4NDAwMDAwMDAwMDAwMDAwMGUrMDMsOS4zOTkwMDAwMDAwMDAwMDAwMDBlKzAzLDkuMzA0MDAwMDAwMDAwMDAwMDAwZSswMyw3LjEzMDAwMDAwMDAwMDAwMDAwMGUrMDMsNS43ODgwMDAwMDAwMDAwMDAwMDBlKzAzLDEuMTQyNjAwMDAwMDAwMDAwMDAwZSswNCw3LjI2MDAwMDAwMDAwMDAwMDAwMGUrMDMsOC43NzYwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMTQ5MDAwMDAwMDAwMDAwMDAwZSswMyw2LjIyNTAwMDAwMDAwMDAwMDAwMGUrMDMsOS4zMDUwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMTQ5MDAwMDAwMDAwMDAwMDAwZSswMyw2LjIyNTAwMDAwMDAwMDAwMDAwMGUrMDMsOS4zMDIwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMDgwMDAwMDAwMDAwMDAwMDAwZSswMyw0LjYzODAwMDAwMDAwMDAwMDAwMGUrMDMsOS4yOTQwMDAwMDAwMDAwMDAwMDBlKzAzLDYuODk2MDAwMDAwMDAwMDAwMDAwZSswMyw0LjA2MDAwMDAwMDAwMDAwMDAwMGUrMDIsOS4yOTQwMDAwMDAwMDAwMDAwMDBlKzAzLDYuODk1MDAwMDAwMDAwMDAwMDAwZSswMywzLjc0MDAwMDAwMDAwMDAwMDAwMGUrMDIsOC41NzQwMDAwMDAwMDAwMDAwMDBlKzAzLDIuNTAyMDAwMDAwMDAwMDAwMDAwZSswMyw4Ljg0MDAwMDAwMDAwMDAwMDAwMGUrMDMsOC42MTIwMDAwMDAwMDAwMDAwMDBlKzAzLDMuMzc4MDAwMDAwMDAwMDAwMDAwZSswMyw0LjY2MTAwMDAwMDAwMDAwMDAwMGUrMDMsOS44MzcwMDAwMDAwMDAwMDAwMDBlKzAzLDcuMjExMDAwMDAwMDAwMDAwMDAwZSswMyw3LjY1MjAwMDAwMDAwMDAwMDAwMGUrMDMsNS42MjYwMDAwMDAwMDAwMDAwMDBlKzAzLDcuNjkyMDAwMDAwMDAwMDAwMDAwZSswMyw2LjU1MjAwMDAwMDAwMDAwMDAwMGUrMDMsNC42NjQwMDAwMDAwMDAwMDAwMDBlKzAzLDkuOTA5MDAwMDAwMDAwMDAwMDAwZSswMyw4Ljg3NTAwMDAwMDAwMDAwMDAwMGUrMDMsOS40MjEwMDAwMDAwMDAwMDAwMDBlKzAzLDkuODEwMDAwMDAwMDAwMDAwMDAwZSswMyw2LjU4NjAwMDAwMDAwMDAwMDAwMGUrMDMsNS40MzIwMDAwMDAwMDAwMDAwMDBlKzAzLDMuMjMxMDAwMDAwMDAwMDAwMDAwZSswMywxLjI3NzAwMDAwMDAwMDAwMDAwMGUrMDMsNC45OTYwMDAwMDAwMDAwMDAwMDBlKzAzLDUuMzcxMDAwMDAwMDAwMDAwMDAwZSswMywxLjgyODAwMDAwMDAwMDAwMDAwMGUrMDMsNS41MTYwMDAwMDAwMDAwMDAwMDBlKzAzLDUuMTYyMDAwMDAwMDAwMDAwMDAwZSswMyw5LjE3OTAwMDAwMDAwMDAwMDAwMGUrMDMsNC4yNDQwMDAwMDAwMDAwMDAwMDBlKzAzLDIuNDcwMDAwMDAwMDAwMDAwMDAwZSswMiw1LjYzNzAwMDAwMDAwMDAwMDAwMGUrMDMsNy45NTIwMDAwMDAwMDAwMDAwMDBlKzAzLDMuNTkwMDAwMDAwMDAwMDAwMDAwZSswMiw4LjIxMzAwMDAwMDAwMDAwMDAwMGUrMDMsNi4zNTQwMDAwMDAwMDAwMDAwMDBlKzAzLDEuMTUwMDAwMDAwMDAwMDAwMDAwZSswMiwyLjYxMzAwMDAwMDAwMDAwMDAwMGUrMDMsMS4xNDAwMDAwMDAwMDAwMDAwMDBlKzA0LDYuNjU4MDAwMDAwMDAwMDAwMDAwZSswMyw3LjEwMTAwMDAwMDAwMDAwMDAwMGUrMDMsNS4xMTMwMDAwMDAwMDAwMDAwMDBlKzAzLDguMDUyMDAwMDAwMDAwMDAwMDAwZSswMywyLjY0NzAwMDAwMDAwMDAwMDAwMGUrMDMsMi4wMDAwMDAwMDAwMDAwMDAwMDBlKzAxLDQuMjQwMDAwMDAwMDAwMDAwMDAwZSswMiw5LjcxOTAwMDAwMDAwMDAwMDAwMGUrMDMsNC41MDIwMDAwMDAwMDAwMDAwMDBlKzAzLDYuMTc0MDAwMDAwMDAwMDAwMDAwZSswMyw4LjEzNjAwMDAwMDAwMDAwMDAwMGUrMDMsNC41ODMwMDAwMDAwMDAwMDAwMDBlKzAzLDguMDQyMDAwMDAwMDAwMDAwMDAwZSswMywyLjQzMjAwMDAwMDAwMDAwMDAwMGUrMDMsNy4yNDEwMDAwMDAwMDAwMDAwMDBlKzAzLDguMzQ1MDAwMDAwMDAwMDAwMDAwZSswMyw5LjM4NjAwMDAwMDAwMDAwMDAwMGUrMDMsOS4wMDUwMDAwMDAwMDAwMDAwMDBlKzAzLDIuNDAwMDAwMDAwMDAwMDAwMDAwZSswMiw1LjQ4MTAwMDAwMDAwMDAwMDAwMGUrMDMsNC4zNjUwMDAwMDAwMDAwMDAwMDBlKzAzLDMuMDMxMDAwMDAwMDAwMDAwMDAwZSswMyw4Ljg0MDAwMDAwMDAwMDAwMDAwMGUrMDMsOC42MTMwMDAwMDAwMDAwMDAwMDBlKzAzLDMuMzk0MDAwMDAwMDAwMDAwMDAwZSswMyw1LjAzNDAwMDAwMDAwMDAwMDAwMGUrMDMsNi4yMzcwMDAwMDAwMDAwMDAwMDBlKzAzLDkuNTg3MDAwMDAwMDAwMDAwMDAwZSswMywxLjQ1NzAwMDAwMDAwMDAwMDAwMGUrMDMsOS4xMzMwMDAwMDAwMDAwMDAwMDBlKzAzLDMuMTg1MDAwMDAwMDAwMDAwMDAwZSswMywyLjI1MDAwMDAwMDAwMDAwMDAwMGUrMDIsCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">CgpkZWYgdGVzdF9sb25nX2xpdGVyYWwoKToKICAgIHMgPSAiYXdlb3JpcXV3cGVvaXVhc2Rmbnhjdm4iCiAgICBhc3NlcnRfbWF0Y2hlcyhzLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKHMpKQoKCmRlZiB0ZXN0X3VuZXhwZWN0ZWRfY2hhcmFjdGVycygpOgogICAgZm9yIGMgaW4gKCJBIiwgIi0iLCAiMSIpOgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhVbmV4cGVjdGVkQ2hhcmFjdGVycyk6CiAgICAgICAgICAgIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoYykKCgpkZWYgdGVzdF9zcGFjZV9naXZlc19wYXJzZV9lcnJvcigpOgogICAgd2l0aCBweXRlc3QucmFpc2VzKFBhcnNlRXJyb3IpOgogICAgICAgIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoIiAiKQoKCmRlZiB0ZXN0X2xpdGVyYWxfd2l0aF93aGl0ZXNwYWNlKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygicCIsIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoIiAgcCAiKSkKCgpkZWYgdGVzdF9ub3Rfd2l0aG91dF93aGl0ZXNwYWNlKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoIm5vdCIsICJwIiksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoIihOT1RwKSIpKQoKCmRlZiB0ZXN0X25vdF93aXRoX3doaXRlc3BhY2UoKToKICAgIGFzc2VydF9tYXRjaGVzKCgibm90IiwgInAiKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgiICAoTk9UIHAgKSAiKSkKCgpkZWYgdGVzdF9kb3VibGVfbmVnYXRpb24oKToKICAgIGFzc2VydF9tYXRjaGVzKCgibm90IiwgKCJub3QiLCAicCIpKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgiKE5PVCAoTk9UIHApKSIpKQoKCmRlZiB0ZXN0X29yKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoIm9yIiwgInAiLCAicSIpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCIocCBPUiBxKSIpKQoKCmRlZiB0ZXN0X29yX2FuZF9ub3QoKToKICAgIGFzc2VydF9tYXRjaGVzKAogICAgICAgICgib3IiLCAicCIsICgibm90IiwgInEiKSksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoIihwIE9SIChOT1QgcSkpIikKICAgICkKCgpkZWYgdGVzdF9hbmQoKToKICAgIGFzc2VydF9tYXRjaGVzKCgiYW5kIiwgInAiLCAicSIpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCIocCBBTkQgcSkiKSkKCgpkZWYgdGVzdF9hbmRfb3IoKToKICAgIGFzc2VydF9tYXRjaGVzKAogICAgICAgICgiYW5kIiwgKCJvciIsICJwIiwgInEiKSwgInIiKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgiKChwIE9SIHEpIEFORCByKSIpCiAgICApCgoKZGVmIHRlc3RfaW1wbGllcygpOgogICAgYXNzZXJ0X21hdGNoZXMoKCJpbXBsaWVzIiwgInAiLCAicSIpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCIocCBJTVBMSUVTIHEpIikpCgoKZGVmIHRlc3RfaWZmKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoImlmZiIsICJwIiwgInEiKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgiKHAgSUZGIHEpIikpCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bnVtX2ttZXJzID0gMjMgKiogMwo=</text>
+        <text encoding="base64">CgpkZWYgdGVzdF9hbmRfb3Jfbm90X2ltcGxpZXNfaWZmKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygKICAgICAgICAoImFuZCIsICJhIiwgKCJvciIsICgibm90IiwgImIiKSwgKCJpbXBsaWVzIiwgKCJpZmYiLCAiYyIsICJkIiksICJlIikpKSwKICAgICAgICBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCIoYSBBTkQgKChOT1QgYikgT1IgKChjIElGRiBkKSBJTVBMSUVTIGUpKSkiKSwKICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRmLmtlcmFzLmxheWVycy5CaWRpcmVjdGlvbmFsKHRmLmtlcmFzLmxheWVycy5MU1RNKDMyKSksCg==</text>
+        <text encoding="base64">CmRlZiB0ZXN0X2FuZF9vcl9ub3RfaW1wbGllc19pZmYoKToKICAgIGFzc2VydF9tYXRjaGVzKCgnYW5kJywgJ2EnLCAoJ29yJywgKCdub3QnLCAnYicpLCAoJ2ltcGxpZXMnLCAoJ2lmZicsICdjJywgJ2QnKSwgJ2UnKSkpLAogICAgICAgICAgICAgICAgICAgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKGEgQU5EICgoTk9UIGIpIE9SICgoYyBJRkYgZCkgSU1QTElFUyBlKSkpJykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRmLmtlcmFzLmxheWVycy5CaWRpcmVjdGlvbmFsKHRmLmtlcmFzLmxheWVycy5MU1RNKDMyKSksCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfcGFyc2VfbGl0ZXJhbCgpOgogICAgYXNzZXJ0X21hdGNoZXMoJ3AnLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCdwJykpCgoKZGVmIHRlc3RfbG9uZ19saXRlcmFsKCk6CiAgICBzID0gJ2F3ZW9yaXF1d3Blb2l1YXNkZm54Y3ZuJwogICAgYXNzZXJ0X21hdGNoZXMocywgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZShzKSkKCgpkZWYgdGVzdF91bmV4cGVjdGVkX2NoYXJhY3RlcnMoKToKICAgIGZvciBjIGluICgnQScsICctJywgJzEnKToKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVW5leHBlY3RlZENoYXJhY3RlcnMpOgogICAgICAgICAgICBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKGMpCgoKZGVmIHRlc3Rfc3BhY2VfZ2l2ZXNfcGFyc2VfZXJyb3IoKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhQYXJzZUVycm9yKToKICAgICAgICBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcgJykKCgpkZWYgdGVzdF9saXRlcmFsX3dpdGhfd2hpdGVzcGFjZSgpOgogICAgYXNzZXJ0X21hdGNoZXMoJ3AnLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcgIHAgJykpCgoKZGVmIHRlc3Rfbm90X3dpdGhvdXRfd2hpdGVzcGFjZSgpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdub3QnLCAncCcpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcoTk9UcCknKSkKCgpkZWYgdGVzdF9ub3Rfd2l0aF93aGl0ZXNwYWNlKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ25vdCcsICdwJyksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyAgKE5PVCBwICkgJykpCgoKZGVmIHRlc3RfZG91YmxlX25lZ2F0aW9uKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ25vdCcsICgnbm90JywgJ3AnKSksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyhOT1QgKE5PVCBwKSknKSkKCgpkZWYgdGVzdF9vcigpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdvcicsICdwJywgJ3EnKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKHAgT1IgcSknKSkKCgpkZWYgdGVzdF9vcl9hbmRfbm90KCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ29yJywgJ3AnLCAoJ25vdCcsICdxJykpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcocCBPUiAoTk9UIHEpKScpKQoKCmRlZiB0ZXN0X2FuZCgpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdhbmQnLCAncCcsICdxJyksIExhcmsoTE9HSUNfR1JBTU1BUikucGFyc2UoJyhwIEFORCBxKScpKQoKCmRlZiB0ZXN0X2FuZF9vcigpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdhbmQnLCAoJ29yJywgJ3AnLCAncScpLCAncicpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcoKHAgT1IgcSkgQU5EIHIpJykpCgoKZGVmIHRlc3RfaW1wbGllcygpOgogICAgYXNzZXJ0X21hdGNoZXMoKCdpbXBsaWVzJywgJ3AnLCAncScpLCBMYXJrKExPR0lDX0dSQU1NQVIpLnBhcnNlKCcocCBJTVBMSUVTIHEpJykpCgoKZGVmIHRlc3RfaWZmKCk6CiAgICBhc3NlcnRfbWF0Y2hlcygoJ2lmZicsICdwJywgJ3EnKSwgTGFyayhMT0dJQ19HUkFNTUFSKS5wYXJzZSgnKHAgSUZGIHEpJykpCgoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
