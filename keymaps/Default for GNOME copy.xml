@@ -1,0 +1,7 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ReformatCode" />
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>
