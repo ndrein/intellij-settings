@@ -111,8 +111,8 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" timestamp="1555897428662">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" timestamp="1556558413561">
+        <mark key="'" line="17" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1556035169064">
@@ -122,8 +122,8 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556206703034">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556558405857">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="2" column="117" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
@@ -177,7 +177,7 @@
         <mark key="^" line="14" column="43" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/Pipfile" timestamp="1555896930231">
-        <mark key="'" line="11" column="0" />
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" timestamp="1554051236290">
         <mark key="'" line="44" column="0" />
@@ -429,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/embed.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
       <jump line="52" column="40" filename="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" />
@@ -527,8 +526,9 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="8" column="21" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
