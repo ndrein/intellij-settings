@@ -121,12 +121,11 @@
         <mark key="'" line="93" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1556652248530">
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1556657712636">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="60" column="3" />
-        <mark key="." line="60" column="3" />
-        <mark key="^" line="60" column="3" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
@@ -347,7 +346,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556648551488">
+      <file name="/Dummy.txt" timestamp="1556657714220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -550,8 +549,8 @@
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>assert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgojIGRlZiB0ZXN0X2V2YWx1YXRlX25vdCgpOgojICAgICBhc3NlcnQgbm90IEZvcm11bGEoIihOT1QgcCkiKS5ldmFsdWF0ZSh7InAiOiBUcnVlfSkK</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -566,7 +565,7 @@
         <text encoding="base64">ICAgICAgICBGb3JtdWxhKCJwIHAiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfCg==</text>
+        <text encoding="base64">CgojIGRlZiB0ZXN0X2V2YWx1YXRlX25vdCgpOgojICAgICBhc3NlcnQgbm90IEZvcm11bGEoIihOT1QgcCkiKS5ldmFsdWF0ZSh7InAiOiBUcnVlfSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -587,28 +586,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZXZhbHVhdGVfCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGFyayhHUkFNTUFSKS5wYXJzZShzKQo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfZXZhbHVhdGVfCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zID0gcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGFyayhHUkFNTUFSKS5wYXJzZShzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zID0gcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZXZhbHVhdGVfZmFsc2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcwo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfZXZhbHVhdGVfZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHdpdGggcHl0ZXN0LnJhaXNlcwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgcGFzcw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
