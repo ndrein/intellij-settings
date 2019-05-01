@@ -121,12 +121,12 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1556743592269">
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1556747830779">
         <mark key="'" line="59" column="8" />
         <mark key="[" line="64" column="57" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="7" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
+        <mark key="^" line="64" column="57" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
@@ -361,7 +361,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556737700005">
+      <file name="/Dummy.txt" timestamp="1556747832080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
