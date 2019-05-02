@@ -121,12 +121,12 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1556747905762">
-        <mark key="'" line="59" column="8" />
-        <mark key="[" line="68" column="54" />
-        <mark key="]" line="68" column="53" />
-        <mark key="." line="68" column="53" />
-        <mark key="^" line="68" column="53" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1556821982749">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="98" column="70" />
+        <mark key="]" line="98" column="75" />
+        <mark key="." line="98" column="75" />
+        <mark key="^" line="98" column="75" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
@@ -361,7 +361,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556821168473">
+      <file name="/Dummy.txt" timestamp="1556822546456">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -407,12 +407,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1556821139466">
-        <mark key="'" line="24" column="38" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="23" column="46" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1556822534508">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="55" />
+        <mark key="." line="17" column="55" />
+        <mark key="^" line="17" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
         <mark key="'" line="0" column="5" />
@@ -459,10 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" />
-      <jump line="117" column="29" filename="$USER_HOME$/dev/effloresce/effloresce/syntax/scanning/logic_scanner.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/python-syntax/syntax/logic_grammar.py" />
-      <jump line="11" column="22" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/python-syntax/README.md" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="91" column="19" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -475,7 +471,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -528,7 +523,6 @@
       <jump line="9" column="14" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="56" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="39" column="33" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="60" column="6" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -555,32 +549,38 @@
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="14" column="36" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="59" column="8" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
-      <jump line="24" column="38" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="20" column="35" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="21" column="30" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="22" column="19" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="23" column="31" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGRhdGFfdG9fZnVuYyhjbHMsIHRyZWUsIGludGVycHJldGF0aW9uKToKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAib3IiOiBsYW1iZGEgdHJlZTogbGFtYmRhIGludGVycHJldGF0aW9uOiBGb3JtdWxhLl9ldmFsdWF0ZSgKICAgICAgICAgICAgICAgIHRyZWUuY2hpbGRyZW5bMF0sIGludGVycHJldGF0aW9uCiAgICAgICAgICAgICkKICAgICAgICAgICAgb3IgRm9ybXVsYS5fZXZhbHVhdGUodHJlZS5jaGlsZHJlblsxXSwgaW50ZXJwcmV0YXRpb24pLAogICAgICAgICAgICAibm90IjogbGFtYmRhIHRyZWU6IGxhbWJkYSBpbnRlcnByZXRhdGlvbjogbm90IEZvcm11bGEuX2V2YWx1YXRlKAogICAgICAgICAgICAgICAgdHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24KICAgICAgICAgICAgKSwKICAgICAgICB9W3RyZWUuX19kaWN0X18uZ2V0KCJkYXRhIiwgImxpdGVyYWwiKV0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh0cmVlLCBUb2tlbik6CiAgICAgICAgICAgICAgICByZXR1cm4gaW50ZXJwcmV0YXRpb25bdHJlZV0KCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>tree.__dict__.get(&quot;data&quot;, &quot;literal&quot;)</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>self</text>
+        <text>cls</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoZ3JhbW1hci5wYXJzZSgiKE5PVCBwKSIpLl9fZGljdF9fKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGRhdGFfdG9fZnVuYyhjbHMsIHRyZWUsIGludGVycHJldGF0aW9uKToKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAib3IiOiBsYW1iZGEgdHJlZTogbGFtYmRhIGludGVycHJldGF0aW9uOiBGb3JtdWxhLl9ldmFsdWF0ZSgKICAgICAgICAgICAgICAgIHRyZWUuY2hpbGRyZW5bMF0sIGludGVycHJldGF0aW9uCiAgICAgICAgICAgICkKICAgICAgICAgICAgb3IgRm9ybXVsYS5fZXZhbHVhdGUodHJlZS5jaGlsZHJlblsxXSwgaW50ZXJwcmV0YXRpb24pLAogICAgICAgICAgICAibm90IjogbGFtYmRhIHRyZWU6IGxhbWJkYSBpbnRlcnByZXRhdGlvbjogbm90IEZvcm11bGEuX2V2YWx1YXRlKAogICAgICAgICAgICAgICAgdHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24KICAgICAgICAgICAgKSwKICAgICAgICB9W3RyZWUuX19kaWN0X18uZ2V0KCJkYXRhIiwgImxpdGVyYWwiKV0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh0cmVlLCBUb2tlbik6CiAgICAgICAgICAgICAgICByZXR1cm4gaW50ZXJwcmV0YXRpb25bdHJlZV0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -600,38 +600,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbm90Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgIiIiIFJlY3Vyc2l2ZSBpbXBsZW1lbnRhdGlvbgogICAgICAgICAgICAKICAgICAgICAgICAgOnBhcmFtIHRyZWU6CiAgICAgICAgICAgIDpyZXR1cm46CiAgICAgICAgICAgICIiIg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGFfdG9fZnVuYyA9IHsKICAgICAgICAiIgogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZXZhbHVhdGUoY2xzLCB0cmVlLCBpbnRlcnByZXRhdGlvbik6CiAgICAgICAgaWYgaXNpbnN0YW5jZSh0cmVlLCBUb2tlbik6CiAgICAgICAgICAgIHJldHVybiBpbnRlcnByZXRhdGlvblt0cmVlXQoKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAibm90IjogbGFtYmRhOiBub3QgY2xzLl9ldmFsdWF0ZSh0cmVlLmNoaWxkcmVuWzBdLCBpbnRlcnByZXRhdGlvbiksCiAgICAgICAgICAgICJvciI6IGxhbWJkYTogY2xzLl9ldmFsdWF0ZSh0cmVlLmNoaWxkcmVuWzBdLCBpbnRlcnByZXRhdGlvbikKICAgICAgICAgICAgb3IgY2xzLl9ldmFsdWF0ZSh0cmVlLmNoaWxkcmVuWzFdLCBpbnRlcnByZXRhdGlvbiksCiAgICAgICAgICAgICJhbmQiOiBsYW1iZGE6IGNscy5fZXZhbHVhdGUodHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24pCiAgICAgICAgICAgIGFuZCBjbHMuX2V2YWx1YXRlKHRyZWUuY2hpbGRyZW5bMV0sIGludGVycHJldGF0aW9uKSwKICAgICAgICB9W3RyZWUuZGF0YV0oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGVsaWYgdHJlZS5kYXRhID09ICJvciI6CiAgICAgICAgIyAgICAgcmV0dXJuIGNscy5fZXZhbHVhdGUodHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24pIG9yIGNscy5fZXZhbHVhdGUoCiAgICAgICAgIyAgICAgICAgIHRyZWUuY2hpbGRyZW5bMV0sIGludGVycHJldGF0aW9uCiAgICAgICAgIyAgICAgKQogICAgICAgICMgZWxpZiB0cmVlLmRhdGEgPT0gImFuZCI6CiAgICAgICAgIyAgICAgcmV0dXJuIGNscy5fZXZhbHVhdGUodHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24pIGFuZCBjbHMuX2V2YWx1YXRlKAogICAgICAgICMgICAgICAgICB0cmVlLmNoaWxkcmVuWzFdLCBpbnRlcnByZXRhdGlvbgogICAgICAgICMgICAgICkKICAgICAgICAjIHJldHVybiBub3QgY2xzLl9ldmFsdWF0ZSh0cmVlLmNoaWxkcmVuWzBdLCBpbnRlcnByZXRhdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0cmVlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZXR1cm4gY2xzLl9ldmFsdWF0ZSh0cmVlLmNoaWxkcmVuWzBdLCBpbnRlcnByZXRhdGlvbikgb3IgY2xzLl9ldmFsdWF0ZSgKICAgICAgICAgICAgIyAgICAgdHJlZS5jaGlsZHJlblsxXSwgaW50ZXJwcmV0YXRpb24KICAgICAgICAgICAgIyApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfaXNfbGl0ZXJhbChzZWxmLCB0cmVlKToKICAgICAgICByZXR1cm4gaXNpbnN0YW5jZSh0cmVlLCBUb2tlbikKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>self</last-search>
+      <last-search>cls</last-search>
       <last-offset />
-      <last-pattern>self</last-pattern>
+      <last-pattern>cls</last-pattern>
       <last-replace>record</last-replace>
       <last-substitute>protein</last-substitute>
       <last-dir>1</last-dir>
@@ -639,7 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seq</entry>
         <entry>argv</entry>
         <entry>zip</entry>
         <entry>math</entry>
@@ -659,6 +658,7 @@
         <entry>Exc</entry>
         <entry>InvalidIn</entry>
         <entry>self</entry>
+        <entry>cls</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IMPLIES_4/IMPLIES[3]/g</entry>
