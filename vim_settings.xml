@@ -361,7 +361,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556747832080">
+      <file name="/Dummy.txt" timestamp="1556821168473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -407,11 +407,11 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1556749553139">
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1556821139466">
         <mark key="'" line="24" column="38" />
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="46" />
-        <mark key="." line="23" column="46" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="23" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
@@ -564,8 +564,8 @@
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>tree.__dict__.get(&quot;data&quot;, &quot;literal&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGRhdGFfdG9fZnVuYyhjbHMsIHRyZWUsIGludGVycHJldGF0aW9uKToKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAib3IiOiBsYW1iZGEgdHJlZTogbGFtYmRhIGludGVycHJldGF0aW9uOiBGb3JtdWxhLl9ldmFsdWF0ZSgKICAgICAgICAgICAgICAgIHRyZWUuY2hpbGRyZW5bMF0sIGludGVycHJldGF0aW9uCiAgICAgICAgICAgICkKICAgICAgICAgICAgb3IgRm9ybXVsYS5fZXZhbHVhdGUodHJlZS5jaGlsZHJlblsxXSwgaW50ZXJwcmV0YXRpb24pLAogICAgICAgICAgICAibm90IjogbGFtYmRhIHRyZWU6IGxhbWJkYSBpbnRlcnByZXRhdGlvbjogbm90IEZvcm11bGEuX2V2YWx1YXRlKAogICAgICAgICAgICAgICAgdHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24KICAgICAgICAgICAgKSwKICAgICAgICB9W3RyZWUuX19kaWN0X18uZ2V0KCJkYXRhIiwgImxpdGVyYWwiKV0KCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -580,7 +580,7 @@
         <text encoding="base64">cHJpbnQoZ3JhbW1hci5wYXJzZSgiKE5PVCBwKSIpLl9fZGljdF9fKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbm90Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGRhdGFfdG9fZnVuYyhjbHMsIHRyZWUsIGludGVycHJldGF0aW9uKToKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAib3IiOiBsYW1iZGEgdHJlZTogbGFtYmRhIGludGVycHJldGF0aW9uOiBGb3JtdWxhLl9ldmFsdWF0ZSgKICAgICAgICAgICAgICAgIHRyZWUuY2hpbGRyZW5bMF0sIGludGVycHJldGF0aW9uCiAgICAgICAgICAgICkKICAgICAgICAgICAgb3IgRm9ybXVsYS5fZXZhbHVhdGUodHJlZS5jaGlsZHJlblsxXSwgaW50ZXJwcmV0YXRpb24pLAogICAgICAgICAgICAibm90IjogbGFtYmRhIHRyZWU6IGxhbWJkYSBpbnRlcnByZXRhdGlvbjogbm90IEZvcm11bGEuX2V2YWx1YXRlKAogICAgICAgICAgICAgICAgdHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24KICAgICAgICAgICAgKSwKICAgICAgICB9W3RyZWUuX19kaWN0X18uZ2V0KCJkYXRhIiwgImxpdGVyYWwiKV0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -601,28 +601,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGFfdG9fZnVuYyA9IHsKICAgICAgICAiIgogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbm90Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFfdG9fZnVuYyA9IHsKICAgICAgICAiIgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0cmVlLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICBpZiB0cmVlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfaXNfbGl0ZXJhbChzZWxmLCB0cmVlKToKICAgICAgICByZXR1cm4gaXNpbnN0YW5jZSh0cmVlLCBUb2tlbikKCg==</text>
+        <text encoding="base64">ZGVmIHRlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZ3JhbW1hci5wYXJzZSgicCIpLnRpdGxlKCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfaXNfbGl0ZXJhbChzZWxmLCB0cmVlKToKICAgICAgICByZXR1cm4gaXNpbnN0YW5jZSh0cmVlLCBUb2tlbikKCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
