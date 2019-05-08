@@ -121,11 +121,11 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557196718487">
-        <mark key="[" line="2" column="54" />
-        <mark key="]" line="2" column="72" />
-        <mark key="^" line="2" column="72" />
-        <mark key="." line="2" column="72" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557275462314">
+        <mark key="[" line="115" column="42" />
+        <mark key="]" line="119" column="44" />
+        <mark key="^" line="119" column="44" />
+        <mark key="." line="119" column="44" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
@@ -405,12 +405,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557197556044">
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557275476478">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="33" />
-        <mark key="^" line="39" column="33" />
-        <mark key="." line="39" column="33" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="17" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
         <mark key="'" line="0" column="5" />
@@ -562,8 +562,8 @@
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBmb3JtdWxhCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -578,7 +578,7 @@
         <text encoding="base64">cHJpbnQoZ3JhbW1hci5wYXJzZSgiKE5PVCBwKSIpLl9fZGljdF9fKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBlbnRhaWxzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBmb3JtdWxhCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -599,28 +599,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBlbnRhaWxzKHNlbGYpOgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTWlzbWF0Y2hlZCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Y2xhc3MgTWlzbWF0Y2hlZCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZvcm11bGEoInAiKS5lbnRhaWxzKEZvcm11bGEuZW50YWlscygicCIsICJxIikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEZvcm11bGEoInAiKS5lbnRhaWxzKEZvcm11bGEuZW50YWlscygicCIsICJxIikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZW50YWlscwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
