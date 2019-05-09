@@ -121,9 +121,7 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557438107776">
-        <mark key="'" line="126" column="45" />
-      </file>
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557439438742" />
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="0" />
@@ -357,7 +355,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557436787406">
+      <file name="/Dummy.txt" timestamp="1557439471609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -403,12 +401,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557438053808">
-        <mark key="'" line="5" column="44" />
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="54" column="18" />
-        <mark key="^" line="54" column="18" />
-        <mark key="." line="54" column="18" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557439462004">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="39" column="65" />
+        <mark key="]" line="39" column="65" />
+        <mark key="^" line="39" column="72" />
+        <mark key="." line="39" column="65" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
         <mark key="'" line="0" column="5" />
@@ -456,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/syntax/logic_grammar.py" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -543,41 +540,44 @@
       <jump line="115" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="36" column="51" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="119" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="122" column="53" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="128" column="45" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="2" column="12" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="39" column="40" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="5" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="40" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="41" column="23" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IwojCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0+IGJvb2w=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>formula.</text>
+        <text encoding="base64">IC0+IGJvb2w=</text>
       </register>
       <register name="/" type="4">
-        <text>cls</text>
+        <text>formula</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRyZWUgaW4gc2VsZi50cmVlLmNoaWxkcmVuCg==</text>
+      <register name="0" type="4">
+        <text>(isinstance(formula.tree, Token) and formula.tree != self.tree) or (
+            isinstance(formula.tree, Tree) and self.tree not in formula.tree.children
+        )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IwojCg==</text>
+        <text encoding="base64">ICAgICMgZGVmIGVudGFpbHMoc2VsZiwgZm9ybXVsYTogIkZvcm11bGEiKSAtPiBib29sOgogICAgIyAgICAgaWYgbm90IHNlbGYuX2FsbF9saXRlcmFsc19rbm93bihmb3JtdWxhKToKICAgICMgICAgICAgICByYWlzZSBOb01hdGNoaW5nTGl0ZXJhbAogICAgIwogICAgIyAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -598,37 +598,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXR1cm4gdHJlZSBpbiBzZWxmLnRyZWUuY2hpbGRyZW4K</text>
+        <text encoding="base64">CgojIGRlZiB0ZXN0X2VudGFpbHNfY29tcGxleF9mb3JtdWxhX3dpdGhfdW5rbm93bl9saXRlcmFsKCk6CiMgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhOb01hdGNoaW5nTGl0ZXJhbCk6CiMgICAgICAgICBGb3JtdWxhKCIocCBPUiBwKSIpLmVudGFpbHMoRm9ybXVsYSgicSIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZXQoZm9ybXVsYS50cmVlLmNoaWxkcmVuKSA8PSBzZXQoc2VsZi50cmVlLmNoaWxkcmVuKQo=</text>
+        <text encoding="base64">ICAgIAogICAgCmRlZiB0ZXN0X2VudGFpbHNfYmluYXJ5X2Zvcm11bGFfZG9lc19ub3RfdGhyb3coKToKICAgIEZvcm11bGEoInAiKS5lbnRhaWxzKEZvcm0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudHJlZSBub3QgaW4gdHJlZS5jaGlsZHJlbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGlzaW5zdGFuY2UodHJlZSwgVG9rZW4pIGFuZCB0cmVlICE9IHNlbGYudHJlZSkgb3IgKAogICAgICAgICAgICBpc2luc3RhbmNlKHRyZWUsIFRyZWUpIGFuZCBzZWxmLnRyZWUgbm90IGluIHRyZWUuY2hpbGRyZW4KICAgICAgICApCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKCg==</text>
+      <register name="6" type="4">
+        <text>(isinstance(formula.tree, Token) and formula.tree != self.tree) or (
+            isinstance(formula.tree, Tree) and self.tree not in formula.tree.children
+        )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZvcm11bGEoIihwIE9SIikK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYudHJlZSwgVG9rZW4pOgogICAgICAgICAgICByZXR1cm4gZm9ybXVsYS50cmVlID09IHNlbGYudHJlZQoKICAgICAgICByZXR1cm4gZm9ybXVsYS50cmVlIGluIHNlbGYudHJlZS5jaGlsZHJlbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGZvcm11bGEudHJlZSwgVHJlZSkgYW5kIHNlbGYudHJlZSBub3QgaW4gZm9ybXVsYS50cmVlLmNoaWxkcmVuOgogICAgICAgICAgICByYWlzZSBOb01hdGNoaW5nTGl0ZXJhbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpkZWYgdGVzdF9lbnRhaWxzX3dpdGhfY29tcGxleF9hcmd1bWVudF9kb2VzX25vdF90aHJvdygpOgogICAgRm9ybXVsYSgiKHAgT1IgcCkiKS5lbnRhaWxzKEZvcm11bGEoIihwIE9SIHApIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRyZWUgIT0gZm9ybXVsYS50cmVlOgogICAgICAgICAgICByYWlzZSBOb01hdGNoaW5nTGl0ZXJhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>cls</last-search>
+      <last-search>formula</last-search>
       <last-offset />
-      <last-pattern>cls</last-pattern>
+      <last-pattern>formula</last-pattern>
       <last-replace>record</last-replace>
       <last-substitute>protein</last-substitute>
       <last-dir>1</last-dir>
@@ -636,7 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>argv</entry>
         <entry>zip</entry>
         <entry>math</entry>
         <entry>get</entry>
@@ -656,6 +657,7 @@
         <entry>InvalidIn</entry>
         <entry>self</entry>
         <entry>cls</entry>
+        <entry>formula</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IMPLIES_4/IMPLIES[3]/g</entry>
