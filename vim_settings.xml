@@ -121,7 +121,12 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557439438742" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557441307187">
+        <mark key="[" line="136" column="44" />
+        <mark key="]" line="140" column="46" />
+        <mark key="." line="140" column="46" />
+        <mark key="^" line="140" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="0" />
@@ -355,7 +360,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557439471609">
+      <file name="/Dummy.txt" timestamp="1557440994477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -401,12 +406,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557439462004">
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557441271531">
         <mark key="'" line="41" column="23" />
-        <mark key="[" line="39" column="65" />
-        <mark key="]" line="39" column="65" />
-        <mark key="^" line="39" column="72" />
-        <mark key="." line="39" column="65" />
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="44" column="48" />
+        <mark key="^" line="44" column="48" />
+        <mark key="." line="44" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
         <mark key="'" line="0" column="5" />
@@ -560,13 +565,13 @@
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0+IGJvb2w=</text>
+        <text encoding="base64">YXNzZXJ0IA==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0+IGJvb2w=</text>
+        <text encoding="base64">YXNzZXJ0IA==</text>
       </register>
       <register name="/" type="4">
         <text>formula</text>
@@ -577,7 +582,7 @@
         )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGVudGFpbHMoc2VsZiwgZm9ybXVsYTogIkZvcm11bGEiKSAtPiBib29sOgogICAgIyAgICAgaWYgbm90IHNlbGYuX2FsbF9saXRlcmFsc19rbm93bihmb3JtdWxhKToKICAgICMgICAgICAgICByYWlzZSBOb01hdGNoaW5nTGl0ZXJhbAogICAgIwogICAgIyAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ZGVmIHRlc3RfZW50YWlsc18K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -598,30 +603,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgojIGRlZiB0ZXN0X2VudGFpbHNfY29tcGxleF9mb3JtdWxhX3dpdGhfdW5rbm93bl9saXRlcmFsKCk6CiMgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhOb01hdGNoaW5nTGl0ZXJhbCk6CiMgICAgICAgICBGb3JtdWxhKCIocCBPUiBwKSIpLmVudGFpbHMoRm9ybXVsYSgicSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2NvbnRhaW5zX3Vua25vd25fbGl0ZXJhbCh0cmVlLmNoaWxkcmVuWzBdKSBvciBzZWxmLl9jb250YWluc191bmtub3duX2xpdGVyYWwodHJlZS5jaGlsZHJlblsxXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCmRlZiB0ZXN0X2VudGFpbHNfYmluYXJ5X2Zvcm11bGFfZG9lc19ub3RfdGhyb3coKToKICAgIEZvcm11bGEoInAiKS5lbnRhaWxzKEZvcm0pCg==</text>
+        <text encoding="base64">ICAgICMgZGVmIGVudGFpbHMoc2VsZiwgZm9ybXVsYTogIkZvcm11bGEiKSAtPiBib29sOgogICAgIyAgICAgaWYgbm90IHNlbGYuX2FsbF9saXRlcmFsc19rbm93bihmb3JtdWxhKToKICAgICMgICAgICAgICByYWlzZSBOb01hdGNoaW5nTGl0ZXJhbAogICAgIwogICAgIyAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudHJlZSBub3QgaW4gdHJlZS5jaGlsZHJlbgo=</text>
+        <text encoding="base64">CgojIGRlZiB0ZXN0X2VudGFpbHNfY29tcGxleF9mb3JtdWxhX3dpdGhfdW5rbm93bl9saXRlcmFsKCk6CiMgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhOb01hdGNoaW5nTGl0ZXJhbCk6CiMgICAgICAgICBGb3JtdWxhKCIocCBPUiBwKSIpLmVudGFpbHMoRm9ybXVsYSgicSIpKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIAogICAgCmRlZiB0ZXN0X2VudGFpbHNfYmluYXJ5X2Zvcm11bGFfZG9lc19ub3RfdGhyb3coKToKICAgIEZvcm11bGEoInAiKS5lbnRhaWxzKEZvcm0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudHJlZSBub3QgaW4gdHJlZS5jaGlsZHJlbgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gKGlzaW5zdGFuY2UodHJlZSwgVG9rZW4pIGFuZCB0cmVlICE9IHNlbGYudHJlZSkgb3IgKAogICAgICAgICAgICBpc2luc3RhbmNlKHRyZWUsIFRyZWUpIGFuZCBzZWxmLnRyZWUgbm90IGluIHRyZWUuY2hpbGRyZW4KICAgICAgICApCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>(isinstance(formula.tree, Token) and formula.tree != self.tree) or (
             isinstance(formula.tree, Tree) and self.tree not in formula.tree.children
         )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYudHJlZSwgVG9rZW4pOgogICAgICAgICAgICByZXR1cm4gZm9ybXVsYS50cmVlID09IHNlbGYudHJlZQoKICAgICAgICByZXR1cm4gZm9ybXVsYS50cmVlIGluIHNlbGYudHJlZS5jaGlsZHJlbgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGZvcm11bGEudHJlZSwgVHJlZSkgYW5kIHNlbGYudHJlZSBub3QgaW4gZm9ybXVsYS50cmVlLmNoaWxkcmVuOgogICAgICAgICAgICByYWlzZSBOb01hdGNoaW5nTGl0ZXJhbAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRyZWUgIT0gZm9ybXVsYS50cmVlOgogICAgICAgICAgICByYWlzZSBOb01hdGNoaW5nTGl0ZXJhbAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYudHJlZSwgVG9rZW4pOgogICAgICAgICAgICByZXR1cm4gZm9ybXVsYS50cmVlID09IHNlbGYudHJlZQoKICAgICAgICByZXR1cm4gZm9ybXVsYS50cmVlIGluIHNlbGYudHJlZS5jaGlsZHJlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
