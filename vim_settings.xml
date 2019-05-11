@@ -121,11 +121,12 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557610342442">
-        <mark key="[" line="129" column="32" />
-        <mark key="]" line="129" column="48" />
-        <mark key="^" line="129" column="48" />
-        <mark key="." line="129" column="48" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557610990899">
+        <mark key="'" line="129" column="48" />
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="134" column="45" />
+        <mark key="^" line="134" column="55" />
+        <mark key="." line="134" column="45" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
@@ -211,11 +212,11 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/.travis.yml" timestamp="1556840622274">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
+      <file name="$USER_HOME$/dev/effloresce/.travis.yml" timestamp="1557611388793">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
         <mark key="[" line="14" column="35" />
@@ -360,7 +361,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557610344682">
+      <file name="/Dummy.txt" timestamp="1557611398402">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -406,12 +407,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557587889577">
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557611094775">
         <mark key="'" line="41" column="23" />
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="53" />
-        <mark key="^" line="40" column="53" />
-        <mark key="." line="40" column="53" />
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="18" />
+        <mark key="^" line="43" column="18" />
+        <mark key="." line="43" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
         <mark key="'" line="0" column="5" />
@@ -459,7 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/syntax/logic_grammar.py" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="32" column="56" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -474,7 +474,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="8" column="21" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/Pipfile" />
@@ -559,28 +558,30 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="40" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="41" column="23" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="129" column="48" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZXRuYWlscwo=</text>
+        <text encoding="base64">ICAjIFJ1biBibGFjayBhbmQgcmVwb3J0CiMgIC0gQ01EPSJibGFjayAtLWNoZWNrIC0tdmVyYm9zZSAuIgo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>formula</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShzZWxmLnRyZWUsIFRva2VuKToKICAgICAgICAgICAgICAgIHJldHVybiB0cmVlICE9IHNlbGYudHJlZQoKICAgICAgICAgICAgcmV0dXJuIHRyZWUgbm90IGluIHNlbGYudHJlZS5jaGlsZHJlbgo=</text>
+      <register name="0" type="4">
+        <text>&quot;black --check --verbose .&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZXRuYWlscwo=</text>
+        <text encoding="base64">ICAjIFJ1biBibGFjayBhbmQgcmVwb3J0CiMgIC0gQ01EPSJibGFjayAtLWNoZWNrIC0tdmVyYm9zZSAuIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -601,28 +602,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZW50YWlscwo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfZXRuYWlscwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLnRyZWUgPT0gZm9ybXVsYS50cmVlCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfZW50YWlscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybXVsYS50cmVlIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLnRyZWUgPT0gZm9ybXVsYS50cmVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybXVsYS50cmVlIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9jb250YWluc191bmtub3duX2xpdGVyYWwoZm9ybXVsYS50cmVlKToKICAgICAgICAgICAgcmFpc2UgTm9NYXRjaGluZ0xpdGVyYWwKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIF9jb250YWlucyhjbHMsIHRyZWUsIHRva2VuKToKICAgICAgICBpZiBpc2luc3RhbmNlKHRyZWUsIFRva2VuKToKICAgICAgICAgICAgcmV0dXJuIHRva2VuID09IHRyZWUKCiAgICAgICAgcmV0dXJuIGFueShbY2xzLl9jb250YWlucyh0LCB0b2tlbikgZm9yIHQgaW4gdHJlZS5jaGlsZHJlbl0pCgogICAgZGVmIF9jb250YWluc191bmtub3duX2xpdGVyYWwoc2VsZiwgdHJlZTogVW5pb25bVHJlZSwgVG9rZW5dKToKICAgICAgICBpZiBpc2luc3RhbmNlKHRyZWUsIFRva2VuKToKICAgICAgICAgICAgcmV0dXJuIG5vdCBzZWxmLl9jb250YWlucyhzZWxmLnRyZWUsIHRyZWUpCgogICAgICAgIGlmIGlzaW5zdGFuY2UodHJlZSwgVHJlZSk6CiAgICAgICAgICAgIHJldHVybiBhbnkoW3NlbGYuX2NvbnRhaW5zX3Vua25vd25fbGl0ZXJhbCh0KSBmb3IgdCBpbiB0cmVlLmNoaWxkcmVuXSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9jb250YWluc191bmtub3duX2xpdGVyYWwoZm9ybXVsYS50cmVlKToKICAgICAgICAgICAgcmFpc2UgTm9NYXRjaGluZ0xpdGVyYWwKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9lbnRhaWxzX2RpZmZlcmVudF9saXRlcmFscygpOgojICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoTm9NYXRjaGluZ0xpdGVyYWwpOgojICAgICAgICAgRm9ybXVsYSgicCIpLmVudGFpbHMoRm9ybXVsYSgicSIpKQoKCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIF9jb250YWlucyhjbHMsIHRyZWUsIHRva2VuKToKICAgICAgICBpZiBpc2luc3RhbmNlKHRyZWUsIFRva2VuKToKICAgICAgICAgICAgcmV0dXJuIHRva2VuID09IHRyZWUKCiAgICAgICAgcmV0dXJuIGFueShbY2xzLl9jb250YWlucyh0LCB0b2tlbikgZm9yIHQgaW4gdHJlZS5jaGlsZHJlbl0pCgogICAgZGVmIF9jb250YWluc191bmtub3duX2xpdGVyYWwoc2VsZiwgdHJlZTogVW5pb25bVHJlZSwgVG9rZW5dKToKICAgICAgICBpZiBpc2luc3RhbmNlKHRyZWUsIFRva2VuKToKICAgICAgICAgICAgcmV0dXJuIG5vdCBzZWxmLl9jb250YWlucyhzZWxmLnRyZWUsIHRyZWUpCgogICAgICAgIGlmIGlzaW5zdGFuY2UodHJlZSwgVHJlZSk6CiAgICAgICAgICAgIHJldHVybiBhbnkoW3NlbGYuX2NvbnRhaW5zX3Vua25vd25fbGl0ZXJhbCh0KSBmb3IgdCBpbiB0cmVlLmNoaWxkcmVuXSkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMgZGVmIHRlc3RfZW50YWlsc19jb21wbGV4X2Zvcm11bGEoKToKIyAgICAgd2l0aCBweXRlc3QucmFpc2VzKE5vTWF0Y2hpbmdMaXRlcmFsKToKIyAgICAgICAgIEZvcm11bGEoInAiKS5lbnRhaWxzKEZvcm11bGEoIihOT1QgKE5PVCBxKSkiKSkKCgojIGRlZiB0ZXN0X2VudGFpbHNfY29tcGxleF9mb3JtdWxhX2RvZXNfbm90X3Rocm93KCk6CiMgICAgIEZvcm11bGEoInAiKS5lbnRhaWxzKEZvcm11bGEoIihOT1QgKE5PVCBwKSkiKSkKCgojIGRlZiB0ZXN0X25vdF9lbnRhaWxzX2xpdGVyYWxfZG9lc19ub3RfdGhyb3coKToKIyAgICAgRm9ybXVsYSgiKE5PVCBwKSIpLmVudGFpbHMoRm9ybXVsYSgicCIpKQoKCiMgZGVmIHRlc3RfY29tcGxleF9mb3JtdWxhX2VudGFpbHNfbGl0ZXJhbF9kb2VzX25vdF90aHJvdygpOgojICAgICBGb3JtdWxhKCIoTk9UIChOT1QgcCkpIikuZW50YWlscyhGb3JtdWxhKCJwIikpCgoKIyBkZWYgdGVzdF9jb21wbGV4X2Zvcm11bGFfZW50YWlsc19jb21wbGV4X2Zvcm11bGFfdGhyb3dzKCk6CiMgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhOb01hdGNoaW5nTGl0ZXJhbCk6CiMgICAgICAgICBGb3JtdWxhKCIoTk9UIChwIE9SIHEpKSIpLmVudGFpbHMoRm9ybXVsYSgiKHEgSUZGIChyIElNUExJRVMgKE5PVCBwKSkpIikpCg==</text>
+        <text encoding="base64">IyBkZWYgdGVzdF9lbnRhaWxzX2RpZmZlcmVudF9saXRlcmFscygpOgojICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoTm9NYXRjaGluZ0xpdGVyYWwpOgojICAgICAgICAgRm9ybXVsYSgicCIpLmVudGFpbHMoRm9ybXVsYSgicSIpKQoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
