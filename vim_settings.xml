@@ -121,7 +121,12 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557513563010" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557587867287">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="126" column="41" />
+        <mark key="^" line="126" column="41" />
+        <mark key="." line="126" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="0" />
@@ -401,12 +406,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557513550555">
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557587889577">
         <mark key="'" line="41" column="23" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="40" column="41" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
         <mark key="'" line="0" column="5" />
