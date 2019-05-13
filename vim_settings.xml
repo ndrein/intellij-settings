@@ -253,7 +253,7 @@
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="5099" />
       </file>
-      <file name="/Python Console" timestamp="1557435818649">
+      <file name="/Python Console" timestamp="1557782344588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/train.py" timestamp="1554073600850">
@@ -400,6 +400,13 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/recursive-ai/main.py" timestamp="1557783559795">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" timestamp="1553958682352">
         <mark key="'" line="9" column="31" />
         <mark key="[" line="0" column="18" />
@@ -465,12 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="13" filename="$USER_HOME$/dev/effloresce/tests/.travis.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/python-syntax/setup.py" />
-      <jump line="6" column="64" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
-      <jump line="32" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
-      <jump line="38" column="21" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
@@ -565,28 +566,34 @@
       <jump line="124" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="110" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/recursive-ai/Pipfile" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="1" column="30" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGVuc29yZmxvdyA9ICI9PTIuMC4wLWFscGhhMCIK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>(True|False)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGb3JtdWxhKCIocCBJTVBMSUVTIHEpIikuZXZhbHVhdGUoeyJwIjogVHJ1ZSwgInEiOiBUcnVlfSkK</text>
+        <text encoding="base64">cHJpbnQobmV0d29yay5wcmVkaWN0KGlucHV0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVuc29yZmxvdyA9ICI9PTIuMC4wLWFscGhhMCIK</text>
+        <text encoding="base64">IyBwcmludChpbnB1dCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -607,28 +614,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGlwID0gIioiCnNpeCA9ICIqIgpudW1weSA9ICIqIgp3aGVlbCA9ICIqIgpzZXR1cHRvb2xzID0gIioiCm1vY2sgPSAiKiIKa2VyYXMtYXBwbGljYXRpb25zID0gIj09MS4wLjYiCmtlcmFzLXByZXByb2Nlc3NpbmcgPSAiPT0xLjAuNSIK</text>
+        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVuc29yZmxvdyA9ICI9PTIuMC4wYTAiCg==</text>
+        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGb3JtdWxhKCIocCBJTVBMSUVTIHEpIikuZXZhbHVhdGUoeyJwIjogVHJ1ZSwgInEiOiBUcnVlfSkK</text>
+        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfCg==</text>
+        <text encoding="base64">cHJpbnQoa2VyYXMuU2VxdWVudGlhbChba2VyYXMubGF5ZXJzLkRlbnNlKDEpXSkucHJlZGljdChpbnB1dCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoKZGVmIHRlc3RfaW1wbGllc180X2Nhc2VzKCk6CiAgICBhCg==</text>
+        <text encoding="base64">cHJpbnQoa2VyYXMuU2VxdWVudGlhbChba2VyYXMubGF5ZXJzLkRlbnNlKDEpXSkucHJlZGljdChpbnB1dCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCmRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
+        <text encoding="base64">a2VyYXMubGF5ZXJzLmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
+        <text encoding="base64">dGYua2VyYXMubGF5ZXJzLkRlbnNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
