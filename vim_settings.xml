@@ -445,7 +445,8 @@
         <mark key="." line="32" column="100" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/effloresce-v1eqdOe8/lib/python3.7/site-packages/lark/utils.py" timestamp="1557435771791" />
-      <file name="$USER_HOME$/dev/recursive-ai/Pipfile" timestamp="1557776248896">
+      <file name="$USER_HOME$/dev/recursive-ai/Pipfile" timestamp="1557780282006">
+        <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -465,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="52" column="13" filename="$USER_HOME$/dev/effloresce/tests/.travis.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/python-syntax/setup.py" />
       <jump line="6" column="64" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
@@ -565,13 +565,14 @@
       <jump line="134" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="124" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="110" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/recursive-ai/Pipfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGVuc29yZmxvdyA9ICI9PTIuMC4wYTAiCg==</text>
+        <text encoding="base64">cGlwID0gIioiCnNpeCA9ICIqIgpudW1weSA9ICIqIgp3aGVlbCA9ICIqIgpzZXR1cHRvb2xzID0gIioiCm1vY2sgPSAiKiIKa2VyYXMtYXBwbGljYXRpb25zID0gIj09MS4wLjYiCmtlcmFzLXByZXByb2Nlc3NpbmcgPSAiPT0xLjAuNSIK</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -586,7 +587,7 @@
         <text encoding="base64">ICAgIGFzc2VydCBGb3JtdWxhKCIocCBJTVBMSUVTIHEpIikuZXZhbHVhdGUoeyJwIjogVHJ1ZSwgInEiOiBUcnVlfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVuc29yZmxvdyA9ICI9PTIuMC4wYTAiCg==</text>
+        <text encoding="base64">cGlwID0gIioiCnNpeCA9ICIqIgpudW1weSA9ICIqIgp3aGVlbCA9ICIqIgpzZXR1cHRvb2xzID0gIioiCm1vY2sgPSAiKiIKa2VyYXMtYXBwbGljYXRpb25zID0gIj09MS4wLjYiCmtlcmFzLXByZXByb2Nlc3NpbmcgPSAiPT0xLjAuNSIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -607,19 +608,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGb3JtdWxhKCIocCBJTVBMSUVTIHEpIikuZXZhbHVhdGUoeyJwIjogVHJ1ZSwgInEiOiBUcnVlfSkK</text>
+        <text encoding="base64">dGVuc29yZmxvdyA9ICI9PTIuMC4wYTAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBGb3JtdWxhKCIocCBJTVBMSUVTIHEpIikuZXZhbHVhdGUoeyJwIjogVHJ1ZSwgInEiOiBUcnVlfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAoKZGVmIHRlc3RfaW1wbGllc180X2Nhc2VzKCk6CiAgICBhCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCmRlCg==</text>
+        <text encoding="base64">ICAgIAoKZGVmIHRlc3RfaW1wbGllc180X2Nhc2VzKCk6CiAgICBhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
+        <text encoding="base64">ICAgIAogICAgCmRlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
@@ -628,7 +629,7 @@
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWZ0ZXJfc2NyaXB0OiAiYmxhY2sgLS1jaGVjayAtLXZlcmJvc2UgLiIK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
