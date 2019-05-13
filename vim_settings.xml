@@ -407,6 +407,12 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/annie.py" timestamp="1557790169544">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" timestamp="1553958682352">
         <mark key="'" line="9" column="31" />
         <mark key="[" line="0" column="18" />
@@ -578,13 +584,13 @@
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>100000</text>
+        <text>3</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>100000</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>(True|False)</text>
@@ -593,7 +599,7 @@
         <text encoding="base64">cHJpbnQobmV0d29yay5wcmVkaWN0KGlucHV0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwcmludChpbnB1dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -614,7 +620,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
+        <text encoding="base64">IyBwcmludChpbnB1dCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
@@ -623,19 +629,19 @@
         <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoa2VyYXMuU2VxdWVudGlhbChba2VyYXMubGF5ZXJzLkRlbnNlKDEpXSkucHJlZGljdChpbnB1dCkpCg==</text>
+        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">cHJpbnQoa2VyYXMuU2VxdWVudGlhbChba2VyYXMubGF5ZXJzLkRlbnNlKDEpXSkucHJlZGljdChpbnB1dCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoa2VyYXMuU2VxdWVudGlhbChba2VyYXMubGF5ZXJzLkRlbnNlKDEpXSkucHJlZGljdChpbnB1dCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a2VyYXMubGF5ZXJzLmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGYua2VyYXMubGF5ZXJzLkRlbnNlKCkK</text>
+        <text encoding="base64">a2VyYXMubGF5ZXJzLmQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
