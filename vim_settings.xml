@@ -400,12 +400,12 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/recursive-ai/main.py" timestamp="1557783559795">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="11" column="31" />
+      <file name="$USER_HOME$/dev/recursive-ai/main.py" timestamp="1557783659449">
+        <mark key="'" line="14" column="47" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" timestamp="1553958682352">
         <mark key="'" line="9" column="31" />
@@ -472,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="8" column="21" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
@@ -572,6 +571,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="14" column="47" filename="$USER_HOME$/dev/recursive-ai/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
