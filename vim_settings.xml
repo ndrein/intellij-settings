@@ -400,11 +400,11 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/recursive-ai/main.py" timestamp="1557846776756">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="32" />
+      <file name="$USER_HOME$/dev/recursive-ai/main.py" timestamp="1557849835775">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/annie.py" timestamp="1557790694395">
         <mark key="[" line="1" column="0" />
@@ -476,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="8" column="21" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/Pipfile" />
@@ -576,19 +574,21 @@
       <jump line="10" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
       <jump line="14" column="47" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGx0Lmhpc3QoKQo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>hstack</text>
       </register>
       <register name="/" type="4">
         <text>(True|False)</text>
@@ -597,7 +597,7 @@
         <text encoding="base64">cHJpbnQobmV0d29yay5wcmVkaWN0KGlucHV0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtlcmFzLmxheWVycy5EZW5zZSgxMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXJhcy5sYXllcnMuRGVuc2UoMSldKQo=</text>
+        <text encoding="base64">cGx0Lmhpc3QoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -618,28 +618,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eWVhciA9ICIyMCIgKyBmaWxlbmFtZVsxOjNdCm1vbnRoID0gZmlsZW5hbWVbXQo=</text>
+        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoeCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eWVhciA9ICIiCg==</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoeVswXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtlcmFzLmxheWVycy5EZW5zZSgxMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXJhcy5sYXllcnMuRGVuc2UoMSldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
+        <text encoding="base64">eWVhciA9ICIyMCIgKyBmaWxlbmFtZVsxOjNdCm1vbnRoID0gZmlsZW5hbWVbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
+        <text encoding="base64">eWVhciA9ICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwcmludChuZXR3b3JrLnByZWRpY3QoaW5wdXQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoa2VyYXMuU2VxdWVudGlhbChba2VyYXMubGF5ZXJzLkRlbnNlKDEpXSkucHJlZGljdChpbnB1dCkpCg==</text>
+        <text encoding="base64">IyBwcmludChpbnB1dCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
