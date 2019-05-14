@@ -400,12 +400,12 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/recursive-ai/main.py" timestamp="1557853621013">
+      <file name="$USER_HOME$/dev/recursive-ai/main.py" timestamp="1557854274184">
         <mark key="'" line="15" column="17" />
-        <mark key="[" line="52" column="70" />
-        <mark key="]" line="52" column="72" />
-        <mark key="." line="52" column="72" />
-        <mark key="^" line="52" column="72" />
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+        <mark key="^" line="56" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/annie.py" timestamp="1557790694395">
         <mark key="[" line="1" column="0" />
@@ -583,13 +583,13 @@
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>64</text>
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Dense</text>
