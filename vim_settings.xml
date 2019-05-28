@@ -122,11 +122,7 @@
         <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1557621126429">
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="141" column="55" />
-        <mark key="]" line="145" column="53" />
-        <mark key="." line="145" column="53" />
-        <mark key="^" line="145" column="53" />
+        <mark key="[" line="2" column="55" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
@@ -419,8 +415,8 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1557619196149">
-        <mark key="'" line="40" column="37" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1559071579403">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
@@ -456,7 +452,6 @@
         <mark key="^" line="32" column="100" />
         <mark key="." line="32" column="100" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/effloresce-v1eqdOe8/lib/python3.7/site-packages/lark/utils.py" timestamp="1557435771791" />
       <file name="$USER_HOME$/dev/recursive-ai/Pipfile" timestamp="1557781188037">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -477,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="14" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="91" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_logic_grammar.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
@@ -547,7 +541,6 @@
       <jump line="41" column="23" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="129" column="48" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="10" column="8" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
-      <jump line="37" column="48" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="39" column="37" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="133" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -577,6 +570,8 @@
       <jump line="53" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
