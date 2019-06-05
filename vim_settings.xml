@@ -121,8 +121,8 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1559758541011">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1559765502669">
+        <mark key="'" line="118" column="0" />
         <mark key="[" line="2" column="73" />
         <mark key="]" line="2" column="53" />
         <mark key="^" line="2" column="53" />
@@ -480,7 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="55" column="17" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="62" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_grammar.py" />
@@ -580,6 +579,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
