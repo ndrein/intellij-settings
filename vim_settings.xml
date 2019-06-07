@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/dev/effloresce/Pipfile.lock" timestamp="1555896950305">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1559866802890">
+      <file name="/a.dummy" timestamp="1557282856730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
@@ -43,10 +43,12 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/logic.py" timestamp="1559866261150">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/logic.py" timestamp="1556749506697">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="34" column="49" />
+        <mark key="^" line="34" column="49" />
+        <mark key="." line="34" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/bayes.py" timestamp="1550270539776">
         <mark key="'" line="5" column="0" />
@@ -119,12 +121,12 @@
         <mark key="'" line="91" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1559844022953">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="2" column="73" />
-        <mark key="]" line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-        <mark key="." line="2" column="53" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1559754229243">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="149" column="85" />
+        <mark key="]" line="149" column="95" />
+        <mark key="^" line="149" column="95" />
+        <mark key="." line="149" column="95" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
         <mark key="'" line="3" column="0" />
@@ -169,12 +171,6 @@
       <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_logic_formulas.py" timestamp="1555611267793">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/evaluator.py" timestamp="1559843871648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" timestamp="1550243403300">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="102" column="43" />
@@ -216,17 +212,11 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof.py" timestamp="1559866817078">
-        <mark key="'" line="4" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/effloresce/.travis.yml" timestamp="1557619082934">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" timestamp="1559863344411">
-        <mark key="'" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
         <mark key="[" line="14" column="35" />
@@ -279,13 +269,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_checker.py" timestamp="1559867356649">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
         <mark key="'" line="6" column="0" />
@@ -375,7 +358,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559866313424">
+      <file name="/Dummy.txt" timestamp="1559185242286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -433,12 +416,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1559863353478">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="67" column="27" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1559755903866">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distance_score.py" timestamp="1550449555933">
         <mark key="'" line="0" column="5" />
@@ -497,14 +480,36 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="45" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="34" column="23" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="52" column="23" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="2" column="53" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="55" column="17" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_grammar.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_grammar.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/grammar.py" />
+      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="23" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="59" column="8" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="21" column="30" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="22" column="19" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="25" column="43" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="32" column="22" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="108" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="23" column="36" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="10" column="45" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="109" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="14" column="37" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
@@ -518,8 +523,12 @@
       <jump line="19" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="122" column="53" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="128" column="45" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="2" column="12" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="5" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="40" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="10" column="8" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="39" column="37" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="133" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -550,7 +559,9 @@
       <jump line="58" column="0" filename="$USER_HOME$/dev/recursive-ai/main.py" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="46" column="38" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
+      <jump line="140" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="9" column="15" filename="$USER_HOME$/dev/concurrency-decorator/main.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/concurrency-decorator/main.py" />
       <jump line="125" column="54" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -558,67 +569,39 @@
       <jump line="115" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="149" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="38" column="1" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="41" column="34" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="49" column="7" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="3" column="28" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="56" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="64" column="4" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="47" column="31" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="3" column="35" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="140" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="52" column="59" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="8" column="83" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="40" column="52" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" />
-      <jump line="13" column="11" filename="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="8" column="10" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="0" column="6" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="4" column="6" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="4" column="22" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>single_inference</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>single_inference</text>
+        <text>Tree</text>
       </register>
       <register name="/" type="4">
         <text>Dense</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGV2YWx1YXRlKHRyZWU6IFRyZWUsIGludGVycHJldGF0aW9uOiBEaWN0W3N0ciwgYm9vbF0pIC0+IGJvb2w6CiAgICAiIiJSZWN1cnNlcyBvbiBzbWFsbGVyIHRyZWVzIiIiCgogICAgZGVmIF9tYWtlX251bGxhcnlfb3AoYmluX29wOiBDYWxsYWJsZVtbQW55LCBBbnldLCBib29sXSkgLT4gQ2FsbGFibGVbW10sIGJvb2xdOgogICAgICAgIHJldHVybiBsYW1iZGE6IGJpbl9vcCgKICAgICAgICAgICAgZXZhbHVhdGUodHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24pLAogICAgICAgICAgICBldmFsdWF0ZSh0cmVlLmNoaWxkcmVuWzFdLCBpbnRlcnByZXRhdGlvbiksCiAgICAgICAgKQoKICAgIGlmIGlzaW5zdGFuY2UodHJlZSwgVG9rZW4pOgogICAgICAgIHJldHVybiBpbnRlcnByZXRhdGlvblt0cmVlXQoKICAgIHJldHVybiB7CiAgICAgICAgIm5vdCI6IGxhbWJkYTogbm90IGV2YWx1YXRlKHRyZWUuY2hpbGRyZW5bMF0sIGludGVycHJldGF0aW9uKSwKICAgICAgICAib3IiOiBfbWFrZV9udWxsYXJ5X29wKG9yXyksCiAgICAgICAgImFuZCI6IF9tYWtlX251bGxhcnlfb3AoYW5kXyksCiAgICAgICAgImltcGxpZXMiOiBfbWFrZV9udWxsYXJ5X29wKGxhbWJkYSBwLCBxOiBub3QgcCBvciBxKSwKICAgICAgICAiaWZmIjogX21ha2VfbnVsbGFyeV9vcChlcSksCiAgICB9W3RyZWUuZGF0YV0oKQo=</text>
+      <register name="0" type="4">
+        <text>dict(zip(literals, booleans))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -638,29 +621,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGRlZiBfX2NhbGxfXyhzZWxmLCBhc3N1bXB0aW9ucz1Ob25lLCBpbmZlcmVuY2VzPU5vbmUpOgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fZXZhbHVhdGUoc2VsZi50cmVlLCApIGlmIG5vdCBzZWxmLl9ldmFsdWF0ZShmb3JtdWxhLnRyZWUsIGRpY3QoemlwKGxpdGVyYWxzLCBib29sZWFucykpKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ZnJvbSBmb3IgIGluIDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBDaGVja2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">CiAgICAgICAgIyByZXR1cm4gVHJ1ZSBJRkYgZm9yIGV2ZXJ5IGludGVycHJldGF0aW9uIHRoYXQgc2F0aXNmaWVzIHNlbGYsIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJzZGZzCiAgICAgICAgIiIiCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAiIiJzZGYKICAgICAgICAiIiIKICAgICAgICAiIiIgCiAgICAgICAgOnBhcmFtIGZvcm11bGE6IAogICAgICAgIDpyZXR1cm46IAogICAgICAgICIiIg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
