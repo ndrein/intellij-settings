@@ -43,12 +43,12 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/logic.py" timestamp="1556749506697">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="34" column="43" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-        <mark key="^" line="34" column="49" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/logic.py" timestamp="1560198720624">
+        <mark key="'" line="1" column="33" />
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/bayes.py" timestamp="1550270539776">
         <mark key="'" line="5" column="0" />
@@ -219,12 +219,12 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" timestamp="1560197210741">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" timestamp="1560199705405">
+        <mark key="'" line="8" column="12" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="18" column="45" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/tests/test_proof.py" timestamp="1559866817078">
         <mark key="'" line="4" column="6" />
@@ -289,8 +289,8 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_checker.py" timestamp="1560197190976">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_checker.py" timestamp="1560199711262">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -497,13 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_grammar.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_grammar.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/grammar.py" />
-      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
-      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
-      <jump line="23" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
-      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
       <jump line="59" column="8" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
@@ -597,28 +590,35 @@
       <jump line="13" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
+      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="1" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/logic.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
+      <jump line="8" column="12" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">SW5mZXJlbmNlID0gTmFtZWRUdXBsZSgiSW5mZXJlbmNlIiwgWyhhLCBGb3JtdWxhKSBmb3IgYSBpbiAiYWJjIl0pCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>= None</text>
+        <text>&quot;a b c d e&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Dense</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGb3JtdWxhKCIocCBOQU5EIHEpIikuZXZhbHVhdGUoeyJwIjogRmFsc2UsICJxIjogRmFsc2V9KQo=</text>
+        <text encoding="base64">SW5mZXJlbmNlID0gTmFtZWRUdXBsZSgiSW5mZXJlbmNlIiwgWygiYSIsIEZvcm11bGEpLCAoImIiLCBGb3JtdWxhKSwgKCJjIiwgRm9ybXVsYSldKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">SW5mZXJlbmNlID0gTmFtZWRUdXBsZSgiSW5mZXJlbmNlIiwgWyhhLCBGb3JtdWxhKSBmb3IgYSBpbiAiYWJjIl0pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -639,28 +639,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfY2hlY2tlcl9tdWx0aXBsZV9hc3N1bXB0aW9ucygpOgogICAgYXNzZXJ0IGNoZWNrKFtGb3JtdWxhKCJwIiksIEZvcm11bGEoInEiKV0sIFtdKQo=</text>
+        <text encoding="base64">SW5mZXJlbmNlKDAsIDEsIDIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrKGFzc3VtcHRpb25zOiBVbmlvbltGb3JtdWxhLCBMaXN0W0Zvcm11bGFdXSwgaW5mZXJlbmNlczogTGlzdCk6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">SW5mZXJlbmNlKDApCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQ2hlY2tlcjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBmb3JtdWxhOiBVbmlvbltGb3JtdWxhLCBMaXN0W0Zvcm11bGFdXSA9IE5vbmUpOgogICAgICAgIHBhc3MKCiAgICBkZWYgcHJvdmVzKHNlbGYsIGluZmVyZW5jZXM6IExpc3QpOgogICAgICAgIHJldHVybiBUcnVlCg==</text>
+      <register name="4" type="4">
+        <text>class Inference(object):
+    pass</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBDaGVja2VyKEZvcm11bGEoInAiKSkucHJvdmVzKFtdKQo=</text>
+        <text encoding="base64">ICAgIHJhbms6IHN0cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZXZhbHVhdGVfcG9zaXRpdmVfbmFuZCgpOgogICAgYXNzZXJ0IEZvcm11bGEoIihwIE5BTkQgcSkiKS5ldmFsdWF0ZSh7InAiOiBUcnVlLCAicSI6IEZhbHNlfSkKCgpkZWYgdGVzdF9ldmFsdWF0ZV9uZWdhdGl2ZV9uYW5kKCk6CiAgICBhc3NlcnQgbm90IEZvcm11bGEoIihwIE5BTkQgcSkiKS5ldmFsdWF0ZSh7InAiOiBUcnVlLCAicSI6IFRydWV9KQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZXZhbHVhdGVfY29tcGxleF9uYW5kKCk6CiAgICBhc3NlcnQgRm9ybXVsYSgiKChwIE5BTkQgcSIpCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfY2hlY2tlcl9tdWx0aXBsZV9hc3N1bXB0aW9ucygpOgogICAgYXNzZXJ0IGNoZWNrKFtGb3JtdWxhKCJwIiksIEZvcm11bGEoInEiKV0sIFtdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9jaGVja2VyX3RhdXRvbG9neSgpOgojICAgICBhc3NlcnQgQ2hlY2tlcigpLnByb3ZlcyhbRm9ybXVsYSgiKHAgT1IgKE5PVCBwKSkiKV0pCgoKIyBkZWYgdGVzdF9mYWlsZWRfY2hlY2soKToKIyAgICAgYXNzZXJ0IG5vdCBDaGVja2VyKCkucHJvdmVzKFtGb3JtdWxhKCJwIildKQo=</text>
+        <text encoding="base64">ZGVmIGNoZWNrKGFzc3VtcHRpb25zOiBVbmlvbltGb3JtdWxhLCBMaXN0W0Zvcm11bGFdXSwgaW5mZXJlbmNlczogTGlzdCk6CiAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoMCkK</text>
+        <text encoding="base64">Y2xhc3MgQ2hlY2tlcjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBmb3JtdWxhOiBVbmlvbltGb3JtdWxhLCBMaXN0W0Zvcm11bGFdXSA9IE5vbmUpOgogICAgICAgIHBhc3MKCiAgICBkZWYgcHJvdmVzKHNlbGYsIGluZmVyZW5jZXM6IExpc3QpOgogICAgICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/protein/record/gc</text>
