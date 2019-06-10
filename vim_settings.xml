@@ -128,12 +128,12 @@
         <mark key="^" line="124" column="14" />
         <mark key="." line="124" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1556583038987">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="157" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1560190845740">
+        <mark key="'" line="2" column="37" />
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/tests/test_grammar.py" timestamp="1559868556732">
         <mark key="'" line="80" column="4" />
@@ -489,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="2" column="53" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -589,19 +588,20 @@
       <jump line="64" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_grammar.py" />
       <jump line="80" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_grammar.py" />
       <jump line="7" column="4" filename="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" />
+      <jump line="2" column="37" filename="$USER_HOME$/dev/effloresce/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>root</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>Dense</text>
