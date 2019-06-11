@@ -54,11 +54,12 @@
         <mark key="." line="18" column="50" />
         <mark key="^" line="18" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/proof.py" timestamp="1560294459999">
+      <file name="$USER_HOME$/dev/effloresce/effloresce/proof.py" timestamp="1560295187812">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="87" column="8" />
+        <mark key="]" line="87" column="22" />
+        <mark key="." line="87" column="22" />
+        <mark key="^" line="87" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/bayes.py" timestamp="1550270539776">
         <mark key="'" line="5" column="0" />
@@ -220,11 +221,11 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof.py" timestamp="1560294466037">
+      <file name="$USER_HOME$/dev/effloresce/tests/test_proof.py" timestamp="1560294935980">
         <mark key="'" line="120" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="113" column="16" />
-        <mark key="." line="113" column="16" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
         <mark key="^" line="113" column="16" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/.travis.yml" timestamp="1557619082934">
@@ -581,7 +582,7 @@
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -596,34 +597,34 @@
         <text>chain(*(tree.children for tree in self.tree.iter_subtrees()))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text>ldf(df.lxf{</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmluZmVyZW5jZXM6CiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">IyBAcHl0ZXN0Lm1hcmsuc2tpcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmluZmVyZW5jZXM6CiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIF9jcmVhdGVfYXhpb20oc3RyaW5nczogU2VxdWVuY2Vbc3RyXSkgLT4gQXhpb206CiAgICAiIiJDb252ZXJ0IHRoZSBnaXZlbiBzdHJpbmdzIGludG8gRm9ybXVsYXMgYW5kIGNyZWF0ZSBhbiBBeGlvbSIiIgogICAgcmV0dXJuIEF4aW9tKAogICAgICAgICooCiAgICAgICAgICAgIFtGb3JtdWxhKHN0cmluZ3NbMF0pXSAqIChsZW4oQXhpb20uX2ZpZWxkcykgLSBsZW4oc3RyaW5ncykgKyAxKQogICAgICAgICAgICArIFtGb3JtdWxhKHMpIGZvciBzIGluIHN0cmluZ3NbMTpdXQogICAgICAgICkKICAgICkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFuZCA9ICJuYW5kIgo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVE9PRDogQUxMT1cgVFVQTEUK</text>
+        <text encoding="base64">ZGVmIF9jcmVhdGVfYXhpb20oc3RyaW5nczogU2VxdWVuY2Vbc3RyXSkgLT4gQXhpb206CiAgICAiIiJDb252ZXJ0IHRoZSBnaXZlbiBzdHJpbmdzIGludG8gRm9ybXVsYXMgYW5kIGNyZWF0ZSBhbiBBeGlvbSIiIgogICAgcmV0dXJuIEF4aW9tKAogICAgICAgICooCiAgICAgICAgICAgIFtGb3JtdWxhKHN0cmluZ3NbMF0pXSAqIChsZW4oQXhpb20uX2ZpZWxkcykgLSBsZW4oc3RyaW5ncykgKyAxKQogICAgICAgICAgICArIFtGb3JtdWxhKHMpIGZvciBzIGluIHN0cmluZ3NbMTpdXQogICAgICAgICkKICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIigocCBOQU5EIChwIE5BTkQgcCkpIE5BTkQgKChwIE5BTkQgKHAgTkFORCBwKSkgTkFORCAoKHAgTkFORCBwKSBOQU5EICgocCBOQU5EIHApIE5BTkQgKHAgTkFORCBwKSkpKSkiCg==</text>
+        <text encoding="base64">bmFuZCA9ICJuYW5kIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICMgVE9PRDogQUxMT1cgVFVQTEUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/self.d.tree/d/gc</text>
