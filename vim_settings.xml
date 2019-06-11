@@ -36,11 +36,12 @@
       <file name="/a.dummy" timestamp="1560266781148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1560269620612">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="83" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1560269982992">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+        <mark key="^" line="33" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
         <mark key="'" line="37" column="0" />
@@ -294,12 +295,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_checker.py" timestamp="1560269840125">
-        <mark key="'" line="70" column="16" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="75" column="44" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_checker.py" timestamp="1560270739021">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="73" column="51" />
+        <mark key="]" line="73" column="51" />
+        <mark key="." line="73" column="51" />
+        <mark key="^" line="73" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
         <mark key="'" line="6" column="0" />
@@ -381,7 +382,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560269854267">
+      <file name="/Dummy.txt" timestamp="1560270745792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -503,7 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
       <jump line="23" column="36" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="10" column="45" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="109" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_formula.py" />
@@ -587,7 +587,6 @@
       <jump line="18" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
       <jump line="8" column="12" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
       <jump line="4" column="14" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_check.py" />
@@ -603,19 +602,21 @@
       <jump line="40" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
       <jump line="65" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
       <jump line="71" column="16" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBAcHl0ZXN0Lm1hcmsuc2tpcAo=</text>
+      <register name="&quot;" type="4">
+        <text>Exception</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>Dense</text>
