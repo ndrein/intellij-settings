@@ -54,12 +54,12 @@
         <mark key="." line="18" column="50" />
         <mark key="^" line="18" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/proof.py" timestamp="1560301001092">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="31" />
-        <mark key="." line="78" column="31" />
-        <mark key="^" line="78" column="31" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/proof.py" timestamp="1560372000351">
+        <mark key="'" line="111" column="6" />
+        <mark key="[" line="79" column="53" />
+        <mark key="]" line="79" column="53" />
+        <mark key="." line="79" column="53" />
+        <mark key="^" line="79" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/bayes.py" timestamp="1550270539776">
         <mark key="'" line="5" column="0" />
@@ -221,12 +221,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof.py" timestamp="1560368554909">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="81" column="23" />
-        <mark key="]" line="81" column="47" />
-        <mark key="." line="81" column="47" />
-        <mark key="^" line="81" column="47" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_proof.py" timestamp="1560372073487">
+        <mark key="'" line="3" column="30" />
+        <mark key="[" line="128" column="1" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/.travis.yml" timestamp="1557619082934">
         <mark key="[" line="14" column="0" />
@@ -268,7 +268,7 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1560292574623">
+      <file name="/Python Console" timestamp="1560371454907">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -279,9 +279,9 @@
         <mark key="^" line="35" column="53" />
         <mark key="." line="35" column="53" />
       </file>
-      <file name="/fragment.py" timestamp="1560292594447">
+      <file name="/fragment.py" timestamp="1560371459036">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="28" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/tests/setup.py" timestamp="1556036398271">
         <mark key="[" line="4" column="0" />
@@ -370,7 +370,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560300527932">
+      <file name="/Dummy.txt" timestamp="1560371480331">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
@@ -476,17 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="9" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="49" column="12" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="53" column="15" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="57" column="15" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="52" column="9" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="47" column="9" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="73" column="8" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="65" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="75" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
       <jump line="3" column="22" filename="$USER_HOME$/dev/effloresce/tests/test_checker.py" />
@@ -502,7 +491,6 @@
       <jump line="85" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="88" column="26" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="95" column="13" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="93" column="16" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="57" column="40" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="62" column="39" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="67" column="65" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
@@ -542,7 +530,6 @@
       <jump line="66" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="114" column="68" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="120" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="20" column="19" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="37" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
@@ -568,7 +555,6 @@
       <jump line="60" column="74" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="66" column="35" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="57" column="65" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="44" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
@@ -576,73 +562,85 @@
       <jump line="30" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
+      <jump line="105" column="6" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="133" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="10" column="9" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="93" column="22" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="86" column="21" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="103" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
+      <jump line="3" column="30" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgaW5mIGluIHNlbGYuaW5mZXJlbmNlczoKICAgICAgICAgICAgaWYgX2dldF8=</text>
+        <text>pytest.</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>inference</text>
+        <text>pytest.</text>
       </register>
       <register name="/" type="4">
-        <text>Inference</text>
+        <text>pytest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludmFsaWRfaW5kZXggPSA0Mgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgaW5mIGluIHNlbGYuaW5mZXJlbmNlczoKICAgICAgICAgICAgaWYgX2dldF8=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="q" type="4">
         <text>ldf(df.lxf{</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnNraXAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmluZmVyZW5jZXM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgojICAgICB0b2RvCg==</text>
+        <text encoding="base64">IyBAcHl0ZXN0Lm1hcmsuc2tpcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuX2dldF9zdGF0ZW1lbnQoaW5mZXJlbmNlWzBdKSA9PSBzZWxmLl9nZXRfc3RhdGVtZW50KGluZmVyZW5jZVsxXSk6CiAgICAgICAgIyAgICAgcmFpc2UgSW52YWxpZEluZmVyZW5jZSgKICAgICAgICAjICAgICAgICAgZiJUaGUgZm9ybXVsYXMgdGhhdCBtYWtlIHVwIHtpbmZfaW5kZXh9IGFyZSBvZiB0aGUgd3JvbmcgZnJvbSIKICAgICAgICAjICAgICApCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpbmZlcmVuY2VzIGFuZCBpbmZlcmVuY2VzWzBdCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBzIGluICgiMCIsIHN0cihpbnZhbGlkX2luZGV4KSk6CiAgICAgICAgYXNzZXJ0IHMgaW4gc3RyKGUudmFsdWUpCiAgICAgICAgICAgICAgYXNzZXJ0Cg==</text>
+        <text encoding="base64">ICAgIEludmFsaWRJbmZlcmVuY2VTdHJ1Y3R1cmUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhc3NlcnQKICAgIGFzc2VydCAiMCIgaW4gc3RyKGUudmFsdWUpCiAgICBhc3NlcnQgc3RyKGludmFsaWRfaW5kZXgpIGluIHN0cihlLnZhbHVlKQo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfaW52YWxpZF9pbmZlcmVuY2UoKToKICAgIGludmFsaWRfaW5kZXggPSA0MgogICAgd2l0aCBweXRlc3QucmFpc2VzKEludmFsaWRJbmZlcmVuY2VJbmRleCkgYXMgZToKICAgICAgICBQcm9vZihtb2R1c19wb25lbnMsIGluZmVyZW5jZXM9W0luZmVyZW5jZSgwLCBpbnZhbGlkX2luZGV4KV0pCiAgICBhc3NlcnQgIjAiIGluIHN0cihlLnZhbHVlKQogICAgYXNzZXJ0IHN0cihpbnZhbGlkX2luZGV4KSBpbiBzdHIoZS52YWx1ZSkKCgpkZWYgdGVzdF9hbGxfaW52YWxpZF9pbmZlcmVuY2VfaW5kaWNlcygpOgogICAgZm9yIGluZGljZXMgaW4gKCgwLCAyKSwgKDMsIDApKToKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoSW52YWxpZEluZmVyZW5jZUluZGV4KToKICAgICAgICAgICAgUHJvb2YobW9kdXNfcG9uZW5zLCBpbmZlcmVuY2VzPVtJbmZlcmVuY2UoKmluZGljZXMpXSkKCgpkZWYgdGVzdF9hbGxfaW5mZXJlbmNlc19mb3JfdmFsaWRpdHkoKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhJbnZhbGlkSW5mZXJlbmNlSW5kZXgpOgogICAgICAgIFByb29mKG1vZHVzX3BvbmVucywgaW5mZXJlbmNlcz1bSW5mZXJlbmNlKDAsIDEpLCBJbmZlcmVuY2UoMCwgMyldKQoKCmRlZiB0ZXN0X2ludmFsaWRfaW5mZXJlbmNlX3dpdGhfbmVnYXRpdmVfaW5kZXgoKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhJbnZhbGlkSW5mZXJlbmNlSW5kZXgpOgogICAgICAgIFByb29mKG1vZHVzX3BvbmVucywgaW5mZXJlbmNlcz1bSW5mZXJlbmNlKC0xLCAwKV0pCgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfaW52YWxpZF9pbmZlcmVuY2VfdmFsdWUoKToKICAgIGludmFsaWRfaW5kZXggPSA0MgogICAgd2l0aCBweXRlc3QucmFpc2VzKEludmFsaWRJbmZlcmVuY2UpIGFzIGU6CiAgICAgICAgUHJvb2YoaW5mZXJlbmNlcz1bSW5mZXJlbmNlKGludmFsaWRfaW5kZXgsIDApXSkKCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfY29tcGxleF92YWxpZF9pbmZlcmVuY2UoKToKICAgIGFzc3VtcHRpb25zID0gKEZvcm11bGEoIihhIE5BTkQgKGIgTkFORCBjKSkiKSwgRm9ybXVsYSgiKGQgTkFORCBiKSIpKQogICAgYXhpb21zID0gX2NyZWF0ZV9heGlvbSgiYWJjZGUiKQogICAgdmFsaWRfaW5mZXJlbmNlcyA9IFtJbmZlcmVuY2UoMCwgMiksIEluZmVyZW5jZSgxLCAzKV0KCiAgICBQcm9vZihhc3N1bXB0aW9ucywgYXhpb21zLCB2YWxpZF9pbmZlcmVuY2VzKQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAiMCIgaW4gc3RyKGUudmFsdWUpICAjIEluZGV4IG9mIGluZmVyZW5jZQogICAgYXNzZXJ0IHN0cihpbnZhbGlkX2luZGV4KSBpbiBzdHIoZS52YWx1ZSkK</text>
+        <text encoding="base64">ZGVmIHRlc3RfaW5mZXJlbmNlX2Zyb21fYXhpb20oKToKICAgIGF4aW9tMSA9IF9jcmVhdGVfYXhpb20oInAiKQogICAgdHJlZTEgPSBheGlvbTEudG9fZm9ybXVsYSgpLnRyZWUKICAgIGF4aW9tMiA9IEZvcm11bGEoVHJlZSgibmFuZCIsICh0cmVlMSwgVHJlZSgibmFuZCIsICh0cmVlMSwgdHJlZTEpKSkpKQogICAgUHJvb2YoYXhpb21zPVtheGlvbTEsIGF4aW9tMl0sIGluZmVyZW5jZXM9W0luZmVyZW5jZSgwLCAxKV0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/self.d.tree/d/gc</text>
+        <text>%s/pytest.raises/raises/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Inference</last-search>
+      <last-search>pytest</last-search>
       <last-offset />
-      <last-pattern>Inference</last-pattern>
-      <last-replace>d</last-replace>
-      <last-substitute>self.d.tree</last-substitute>
+      <last-pattern>pytest</last-pattern>
+      <last-replace>raises</last-replace>
+      <last-substitute>pytest.raises</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>(True|False)</entry>
-        <entry>Dense</entry>
         <entry>assert</entry>
         <entry>check</entry>
         <entry>construct_</entry>
@@ -661,9 +659,10 @@
         <entry>self.c.tree</entry>
         <entry>self.d.tree</entry>
         <entry>Inference</entry>
+        <entry>pytest.raises</entry>
+        <entry>pytest</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/start/statement/g</entry>
         <entry>%s/keras/tensorflow.keras/gc</entry>
         <entry>%s/load/json/load/gc</entry>
         <entry>%s/load/json.load/gc</entry>
@@ -683,6 +682,7 @@
         <entry>%s/self.b.tree/b/gc</entry>
         <entry>%s/self.c.tree/c/gc</entry>
         <entry>%s/self.d.tree/d/gc</entry>
+        <entry>%s/pytest.raises/raises/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
