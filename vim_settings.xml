@@ -33,12 +33,12 @@
       <file name="/a.dummy" timestamp="1560377492962">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1560377649093">
+      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1560380405231">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="7" column="62" />
-        <mark key="]" line="7" column="84" />
-        <mark key="." line="7" column="84" />
-        <mark key="^" line="7" column="84" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="7" column="63" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
         <mark key="'" line="37" column="0" />
@@ -296,11 +296,11 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1560377635422">
+      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1560380282249">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
         <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
@@ -588,14 +588,14 @@
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfY2hlY2tfCg==</text>
+      <register name="&quot;" type="4">
+        <text>List</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>check_</text>
