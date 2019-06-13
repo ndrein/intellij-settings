@@ -34,10 +34,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1560435194483">
-        <mark key="'" line="1" column="0" />
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="0" />
-        <mark key="." line="5" column="84" />
         <mark key="^" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
@@ -271,7 +269,7 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1560447503348">
+      <file name="/Python Console" timestamp="1560451321952">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="14" />
       </file>
@@ -282,7 +280,7 @@
         <mark key="^" line="35" column="53" />
         <mark key="." line="35" column="53" />
       </file>
-      <file name="/fragment.py" timestamp="1560447511328">
+      <file name="/fragment.py" timestamp="1560449943573">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
@@ -299,12 +297,12 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1560447690408">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="29" column="75" />
-        <mark key="]" line="29" column="76" />
-        <mark key="." line="29" column="76" />
-        <mark key="^" line="8" column="55" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1560451527594">
+        <mark key="'" line="1" column="5" />
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="31" />
+        <mark key="^" line="70" column="31" />
+        <mark key="." line="70" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
         <mark key="'" line="6" column="0" />
@@ -380,7 +378,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560447492635">
+      <file name="/Dummy.txt" timestamp="1560451495588">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
@@ -486,23 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="59" column="4" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="22" column="33" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="38" column="39" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="38" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="88" column="4" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="97" column="25" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="59" column="56" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="64" column="55" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="73" column="20" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="109" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="74" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
@@ -578,72 +559,89 @@
       <jump line="19" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="1156" column="13" filename="/usr/lib/python3.7/typing.py" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="1" column="14" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="5" column="81" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="12" column="1" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="9" column="19" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="27" column="75" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="45" column="63" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="58" column="16" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="8" column="21" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="11" column="26" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="64" column="9" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="69" column="31" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="1" column="5" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGZvciBpbmYgaW4gaW5mZXJlbmNlczoKICAgICAgICBpZiBpbmYgbm90IGluIGFzc3VtcHRpb25zOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgIHJldHVybiBUcnVl</text>
+        <text>inferences_with_no_assumptions</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>Formula(&quot;p&quot;), Formula(&quot;q&quot;)</text>
+        <text>inferences_with_no_assumptions</text>
       </register>
       <register name="/" type="4">
-        <text>check_</text>
+        <text>Set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIF9jcmVhdGVfYXhpb20oc3RyaW5nczogU2VxdWVuY2Vbc3RyXSkgLT4gQXhpb206CiAgICAiIiJDb252ZXJ0IHRoZSBnaXZlbiBzdHJpbmdzIGludG8gRm9ybXVsYXMgYW5kIGNyZWF0ZSBhbiBBeGlvbSIiIgogICAgcmV0dXJuIEF4aW9tKAogICAgICAgICooCiAgICAgICAgICAgIFtGb3JtdWxhKHN0cmluZ3NbMF0pXSAqIChsZW4oQXhpb20uX2ZpZWxkcykgLSBsZW4oc3RyaW5ncykgKyAxKQogICAgICAgICAgICArIFtGb3JtdWxhKHMpIGZvciBzIGluIHN0cmluZ3NbMTpdXQogICAgICAgICkKICAgICkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocCBOQU5EIChwIE5BTkQgcCkpIildLCBbRm9ybXVsYSgicCIpXSkKICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocCBOQU5EIChwIE5BTkQgcSkpIildLCBbRm9ybXVsYSgicCIpXSkKICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocSBOQU5EIChwIE5BTkQgcCkpIildLCBbRm9ybXVsYSgicCIpXSkKICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocSBOQU5EIChwIE5BTkQgcSkpIildLCBbRm9ybXVsYSgicCIpXSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGZvciBpbmYgaW4gaW5mZXJlbmNlczoKICAgICAgICBpZiBpbmYgbm90IGluIGFzc3VtcHRpb25zOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgIHJldHVybiBUcnVl</text>
+      <register name="1" type="2">
+        <text encoding="base64">QG1hcmsuc2tpcAo=</text>
       </register>
       <register name="q" type="4">
         <text>ldf(df.lxf{</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGluZmVyZW5jZXMgYW5kIGluZmVyZW5jZXNbMF0gbm90IGluIGFzc3VtcHRpb25zOgogICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">QG1hcmsuc2tpcApkZWYgdGVzdF9jaGVja19lbXB0eSgpOgogICAgYXNzZXJ0IGNoZWNrKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYTIgaW4gYXNzdW1wdGlvbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGFzc3VtcHRpb25zID0gYXNzdW1wdGlvbnMgb3IgW10KICAgIGluZmVyZW5jZXMgPSBpbmZlcmVuY2VzIG9yIFtdCgogICAgZm9yIGluZmVyZW5jZSBpbiBpbmZlcmVuY2VzOgogICAgICAgIGlmIGluZmVyZW5jZSBub3QgaW4gYXNzdW1wdGlvbnM6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgIHJldHVybiBUcnVl</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbnkoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfaW5mZXJlbmNlX2ZvbGxvd3NfZnJvbV9zZWNvbmRfYXNzdW1wdGlvbigpOgogICAgYXNzZXJ0IGNoZWNrKFtGb3JtdWxhKCJwIiksIEZvcm11bGEoInEiKV0sIFtGb3JtdWxhKCJxIildKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocSBOQU5EIChwIE5BTkQgcCkpIildLCBbRm9ybXVsYSgicCIpXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfY2hlY2tfCg==</text>
+        <text encoding="base64">aGFzaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBtb2R1c19wb25lbnMgPSAoRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocCBOQU5EIChxIE5BTkQgcikpIikpCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfaW5mZXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgojIGRlZiB0ZXN0X3ZhbGlkX2luZmVyZW5jZV9mcm9tX290aGVyX2luZmVyZW5jZSgpOgojICAgICBjaGVjaygKIyAgICAgICAgIChGb3JtdWxhKCJwIiksIEZvcm11bGEoIihwIE5BTkQgKHEgTkFORCAocCBOQU5EIChxIE5BTkQgcikpKSkiKSksCiMgICAgICAgICAoRm9ybXVsYSgiciIpLCksCiMgICAgICkKIwojCiMgZGVmIHRlc3RfaW5mZXJlbmNlX2Zyb21fYXhpb20oKToKIyAgICAgYXhpb20xID0gX2NyZWF0ZV9heGlvbV9mb3JtdWxhKCJwIikKIyAgICAgdHJlZTEgPSBheGlvbTEudHJlZQojICAgICBheGlvbTIgPSBGb3JtdWxhKFRyZWUoIm5hbmQiLCAodHJlZTEsIFRyZWUoIm5hbmQiLCAodHJlZTEsIHRyZWUxKSkpKSkKIyAgICAgY2hlY2soW2F4aW9tMSwgYXhpb20yXSwgW2F4aW9tMV0pCiMKIwojIGRlZiB0ZXN0X2NvbXBsZXhfdmFsaWRfaW5mZXJlbmNlKCk6CiMgICAgIGFzc3VtcHRpb25zID0gKEZvcm11bGEoIihhIE5BTkQgKGIgTkFORCBjKSkiKSwgRm9ybXVsYSgiKGQgTkFORCBiKSIpKQojICAgICBheGlvbXMgPSAoX2NyZWF0ZV9heGlvbSgiYWJjZGUiKSwpCiMgICAgIHZhbGlkX2luZmVyZW5jZXMgPSBbSW5mZXJlbmNlKDAsIDIpLCBJbmZlcmVuY2UoMSwgMyldCiMKIyAgICAgY2hlY2soYXNzdW1wdGlvbnMsIGF4aW9tcywgdmFsaWRfaW5mZXJlbmNlcykKIwojCiMgZGVmIHRlc3RfaW52YWxpZF9pbmZlcmVuY2Vfc3RydWN0dXJlKCk6CiMgICAgIHdpdGggcmFpc2VzKEludmFsaWRJbmZlcmVuY2VTdHJ1Y3R1cmUpIGFzIGU6CiMgICAgICAgICBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCJxIildLCBpbmZlcmVuY2VzPVtJbmZlcmVuY2UoMCwgMSldKQojCiMgICAgIGFzc2VydCAiMCIgaW4gc3RyKGUudmFsdWUpCiMKIwojIGRlZiB0ZXN0X2ludmFsaWRfc3RydWN0dXJlX2luX3NlY29uZF9pbmZlcmVuY2UoKToKIyAgICAgd2l0aCByYWlzZXMoSW52YWxpZEluZmVyZW5jZVN0cnVjdHVyZSkgYXMgZToKIyAgICAgICAgIGNoZWNrKAojICAgICAgICAgICAgIG1vZHVzX3BvbmVucyArIChGb3JtdWxhKCJyIiksKSwKIyAgICAgICAgICAgICBpbmZlcmVuY2VzPVtJbmZlcmVuY2UoMCwgMSksIEluZmVyZW5jZSgwLCAyKV0sCiMgICAgICAgICApCiMKIyAgICAgYXNzZXJ0ICIxIiBpbiBzdHIoZS52YWx1ZSkKIwojCiMgQG1hcmsuc2tpcAojIGRlZiB0ZXN0X2ludmFsaWRfaW5mZXJlbmNlX3JlZmVyZW5jZXNfaW5mZXJlbmNlKCk6CiMgICAgIHdpdGggcmFpc2VzKEludmFsaWRJbmZlcmVuY2VTdHJ1Y3R1cmUpOgojICAgICAgICAgY2hlY2sobW9kdXNfcG9uZW5zLCBpbmZlcmVuY2VzPVtJbmZlcmVuY2UoMCwgMSksIEluZmVyZW5jZSgwLCAyKV0pCiMKIwojIGRlZiB0ZXN0X2NvbmNsdWRlc193aXRoX2VtcHR5X3Byb29mX3JhaXNlcygpOgojICAgICB3aXRoIHJhaXNlcyhFeGNlcHRpb24pOgojICAgICAgICAgY2hlY2soKS5jb25jbHVkZXMoRm9ybXVsYSgicCIpKQojCiMKIyBkZWYgdGVzdF9hc3N1bXB0aW9uX2NvbmNsdWRlcygpOgojICAgICBhc3NlcnQgY2hlY2soW0Zvcm11bGEoInAiKV0pLmNvbmNsdWRlcyhGb3JtdWxhKCJwIikpCiMKIwojIGRlZiB0ZXN0X2ludmFsaWRfY29uY2x1c2lvbigpOgojICAgICBhc3NlcnQgbm90IGNoZWNrKFtGb3JtdWxhKCJwIildKS5jb25jbHVkZXMoRm9ybXVsYSgicSIpKQojCiMKIyBkZWYgdGVzdF9sYXN0X2Fzc3VtcHRpb25fY29uY2x1ZGVzKCk6CiMgICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCJxIildKS5jb25jbHVkZXMoRm9ybXVsYSgicSIpKQojCiMKIyBkZWYgdGVzdF9heGlvbV9jb25jbHVzaW9uKCk6CiMgICAgIGFzc2VydCBjaGVjayhheGlvbXM9W19jcmVhdGVfYXhpb20oInAiKV0pLmNvbmNsdWRlcyhfY3JlYXRlX2F4aW9tKCJwIikudG9fZm9ybXVsYSgpKQojCiMKIyBkZWYgdGVzdF9sYXN0X2F4aW9tX2NvbmNsdWRlcygpOgojICAgICBheGlvbXMgPSAoX2NyZWF0ZV9heGlvbSgicCIpLCBfY3JlYXRlX2F4aW9tKCJxIikpCiMgICAgIGFzc2VydCBjaGVjayhheGlvbXM9YXhpb21zKS5jb25jbHVkZXMoYXhpb21zWy0xXS50b19mb3JtdWxhKCkpCiMKIwojIEBtYXJrLnNraXAKIyBkZWYgdGVzdF9wcm9vZl9jb25jbHVkZXNfaW5mZXJlbmNlKCk6CiMgICAgIGFzc2VydCBjaGVjaygKIyAgICAgICAgIFtGb3JtdWxhKCJwIiksIEZvcm11bGEoInEiKV0sIGluZmVyZW5jZXM9W0luZmVyZW5jZSgwLCAwLCAwKV0KIyAgICAgKS5jb25jbHVkZXMoRm9ybXVsYSgicCIpKQojCiMKIyBkZWYgX2NyZWF0ZV9heGlvbShzdHJpbmdzOiBTZXF1ZW5jZVtzdHJdKSAtPiBBeGlvbToKIyAgICAgIiIiQ29udmVydCB0aGUgZ2l2ZW4gc3RyaW5ncyBpbnRvIEZvcm11bGFzIGFuZCBjcmVhdGUgYW4gQXhpb20iIiIKIyAgICAgcmV0dXJuIEF4aW9tKAojICAgICAgICAgKigKIyAgICAgICAgICAgICBbRm9ybXVsYShzdHJpbmdzWzBdKV0gKiAobGVuKEF4aW9tLl9maWVsZHMpIC0gbGVuKHN0cmluZ3MpICsgMSkKIyAgICAgICAgICAgICArIFtGb3JtdWxhKHMpIGZvciBzIGluIHN0cmluZ3NbMTpdXQojICAgICAgICAgKQojICAgICApCiMKIwojIGRlZiBfY3JlYXRlX2F4aW9tX2Zvcm11bGEoc3RyaW5nczogU2VxdWVuY2Vbc3RyXSkgLT4gRm9ybXVsYToKIyAgICAgIiIiQ29udmVydCB0aGUgZ2l2ZW4gc3RyaW5ncyBpbnRvIEZvcm11bGFzIGFuZCBjcmVhdGUgYW4gQXhpb20iIiIKIyAgICAgcmV0dXJuIEF4aW9tKAojICAgICAgICAgKigKIyAgICAgICAgICAgICBbRm9ybXVsYShzdHJpbmdzWzBdKV0gKiAobGVuKEF4aW9tLl9maWVsZHMpIC0gbGVuKHN0cmluZ3MpICsgMSkKIyAgICAgICAgICAgICArIFtGb3JtdWxhKHMpIGZvciBzIGluIHN0cmluZ3NbMTpdXQojICAgICAgICAgKQojICAgICApLnRvX2Zvcm11bGEoKQo=</text>
+        <text encoding="base64">ICAgICMgICAgIGFzc2VydCBub3QgY2hlY2soW0Zvcm11bGEoInAiKSwgRm9ybXVsYSgiKHEgTkFORCAocCBOQU5EIHIpKSIpXSwgW0Zvcm11bGEoInIiKV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/check_//g</text>
       </register>
     </registers>
     <search>
-      <last-search>check_</last-search>
+      <last-search>Set</last-search>
       <last-offset />
-      <last-pattern>check_</last-pattern>
+      <last-pattern>Set</last-pattern>
       <last-replace />
       <last-substitute>check_</last-substitute>
       <last-dir>1</last-dir>
@@ -651,8 +649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check</entry>
-        <entry>construct_</entry>
         <entry>proof_</entry>
         <entry>proves</entry>
         <entry>5</entry>
@@ -671,6 +667,8 @@
         <entry>pytest.raises</entry>
         <entry>pytest</entry>
         <entry>check_</entry>
+        <entry>and</entry>
+        <entry>Set</entry>
       </history-search>
       <history-cmd>
         <entry>%s/load/json/load/gc</entry>
