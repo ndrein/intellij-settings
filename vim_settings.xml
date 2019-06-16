@@ -10,12 +10,6 @@
         <mark key="^" line="52" column="13" />
         <mark key="." line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_empty_grammar.py" timestamp="1543114067511">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="37" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python-syntax/README.md" timestamp="1555611979271">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="2" column="33" />
@@ -33,12 +27,11 @@
       <file name="/a.dummy" timestamp="1560377492962">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1560646522402">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="35" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1560649653447">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
         <mark key="'" line="37" column="0" />
@@ -96,12 +89,6 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/main.py" timestamp="1549989518372">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="46" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/uniprot_to_csv.py" timestamp="1549503462907">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="6" column="15" />
@@ -119,12 +106,6 @@
         <mark key="." line="49" column="54" />
         <mark key="^" line="49" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/predict.py" timestamp="1554071457681">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-      </file>
       <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1560289409950">
         <mark key="'" line="157" column="0" />
         <mark key="[" line="137" column="17" />
@@ -132,12 +113,12 @@
         <mark key="^" line="137" column="3" />
         <mark key="." line="137" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1560190845740">
-        <mark key="'" line="2" column="37" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
+      <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1560649742063">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/tests/test_grammar.py" timestamp="1559868556732">
         <mark key="'" line="80" column="4" />
@@ -153,12 +134,6 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/dotfiles/.gitignore" timestamp="1543722012925">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/score2.py" timestamp="1550331508613">
         <mark key="'" line="10" column="3" />
         <mark key="[" line="14" column="72" />
@@ -172,12 +147,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/evaluator.py" timestamp="1559843871648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_dense.py" timestamp="1550243403300">
         <mark key="'" line="102" column="0" />
@@ -231,24 +200,17 @@
         <mark key="^" line="20" column="14" />
         <mark key="." line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/.travis.yml" timestamp="1557619082934">
+      <file name="$USER_HOME$/dev/effloresce/.travis.yml" timestamp="1560648472794">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" timestamp="1559868915812">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="24" column="59" />
-        <mark key="]" line="24" column="59" />
-        <mark key="^" line="24" column="59" />
-        <mark key="." line="24" column="59" />
-      </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/test_munch_ends_after_accept_state.py" timestamp="1541265376377">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="14" column="58" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" timestamp="1560649148667">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmm.py" timestamp="1550286158369">
         <mark key="'" line="24" column="13" />
@@ -286,12 +248,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/setup.py" timestamp="1556036398271">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/effloresce/tests/test_checker.py" timestamp="1560274215406">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="75" column="30" />
@@ -313,18 +269,12 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
       </file>
-      <file name="$USER_HOME$/dotfiles/startup-scripts/README.md" timestamp="1543719166807">
-        <mark key="[" line="15" column="81" />
-        <mark key="]" line="15" column="81" />
-        <mark key="." line="15" column="81" />
-        <mark key="^" line="15" column="82" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/grammar.py" timestamp="1559868438748">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="7" column="44" />
-        <mark key="^" line="7" column="44" />
-        <mark key="." line="7" column="44" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/grammar.py" timestamp="1560649385432">
+        <mark key="'" line="11" column="44" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/pairwise_distances.py" timestamp="1550286260838">
         <mark key="'" line="0" column="0" />
@@ -333,24 +283,12 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/data.py" timestamp="1553619881382">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/imdb.py" timestamp="1549998590864">
         <mark key="'" line="33" column="44" />
         <mark key="[" line="19" column="13" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/train_recurrent2.py" timestamp="1550195981445">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="17" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="39" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/data.py" timestamp="1553625706413">
         <mark key="'" line="17" column="30" />
@@ -380,7 +318,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560451495588">
+      <file name="/Dummy.txt" timestamp="1560649656808">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
@@ -397,18 +335,6 @@
         <mark key="]" line="24" column="26" />
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/bio.py" timestamp="1553963557088">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/compute_kmer_frequencies.py" timestamp="1550964221348">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="36" />
-        <mark key="." line="19" column="36" />
-        <mark key="^" line="19" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/get_kmers.py" timestamp="1550331608629">
         <mark key="'" line="3" column="0" />
@@ -431,11 +357,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1560447571214">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="14" column="68" />
-        <mark key="." line="14" column="68" />
-        <mark key="^" line="14" column="68" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1560649349095">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="76" column="24" />
+        <mark key="." line="76" column="24" />
+        <mark key="^" line="76" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/precision_recall_curve.py" timestamp="1550964901341">
         <mark key="'" line="34" column="0" />
@@ -443,12 +370,6 @@
         <mark key="]" line="2" column="54" />
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
-      </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/syntax/test_logic_scanner.py" timestamp="1555610952252">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/hmmlearn.py" timestamp="1550281338191">
         <mark key="'" line="6" column="0" />
@@ -478,25 +399,8 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/python-syntax/tests/tokenizer/test_tokenizer.py" timestamp="1540340612485">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="52" />
-        <mark key="." line="3" column="52" />
-        <mark key="^" line="3" column="52" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="116" column="35" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="64" column="4" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="0" column="10" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="105" column="42" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="106" column="25" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="114" column="68" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="120" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="20" column="19" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
@@ -586,64 +490,75 @@
       <jump line="1" column="5" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/.travis.yml" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" />
+      <jump line="7" column="6" filename="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="7" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/grammar.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>inferences_with_no_assumptions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>inferences_with_no_assumptions</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Set</text>
+        <text>acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocCBOQU5EIChwIE5BTkQgcCkpIildLCBbRm9ybXVsYSgicCIpXSkKICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocCBOQU5EIChwIE5BTkQgcSkpIildLCBbRm9ybXVsYSgicCIpXSkKICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocSBOQU5EIChwIE5BTkQgcCkpIildLCBbRm9ybXVsYSgicCIpXSkKICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocSBOQU5EIChwIE5BTkQgcSkpIildLCBbRm9ybXVsYSgicCIpXSkK</text>
+        <text encoding="base64">ICAgICAgICAiIiJFdmFsdWF0ZSB0aGUgdHJlZSBhY2NvcmRpbmcgdG8gdGhlIGdpdmVuIGludGVycHJldGF0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QG1hcmsuc2tpcAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>ldf(df.lxf{</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QG1hcmsuc2tpcApkZWYgdGVzdF9jaGVja19lbXB0eSgpOgogICAgYXNzZXJ0IGNoZWNrKCkK</text>
+        <text encoding="base64">ICAgICIiIkRldGVybWluZSBpZiAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYTIgaW4gYXNzdW1wdGlvbnMK</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbnkoCg==</text>
+        <text encoding="base64">ZnJvbSBlZmZsb3Jlc2NlLmV2YWx1YXRlIGltcG9ydCBldmFsdWF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjaGVjayhbRm9ybXVsYSgicCIpLCBGb3JtdWxhKCIocSBOQU5EIChwIE5BTkQgcCkpIildLCBbRm9ybXVsYSgicCIpXSkK</text>
+        <text encoding="base64">ZGVmIGV2YWx1YXRlKHRyZWU6IFRyZWUsIGludGVycHJldGF0aW9uOiBEaWN0W3N0ciwgYm9vbF0pIC0+IGJvb2w6CiAgICBkZWYgX21ha2VfbnVsbGFyeV9vcChiaW5fb3A6IENhbGxhYmxlW1tBbnksIEFueV0sIGJvb2xdKSAtPiBDYWxsYWJsZVtbXSwgYm9vbF06CiAgICAgICAgcmV0dXJuIGxhbWJkYTogYmluX29wKAogICAgICAgICAgICBldmFsdWF0ZSh0cmVlLmNoaWxkcmVuWzBdLCBpbnRlcnByZXRhdGlvbiksCiAgICAgICAgICAgIGV2YWx1YXRlKHRyZWUuY2hpbGRyZW5bMV0sIGludGVycHJldGF0aW9uKSwKICAgICAgICApCgogICAgaWYgaXNpbnN0YW5jZSh0cmVlLCBUb2tlbik6CiAgICAgICAgcmV0dXJuIGludGVycHJldGF0aW9uW3RyZWVdCgogICAgcmV0dXJuIHsKICAgICAgICAibm90IjogbGFtYmRhOiBub3QgZXZhbHVhdGUodHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24pLAogICAgICAgICJvciI6IF9tYWtlX251bGxhcnlfb3Aob3JfKSwKICAgICAgICAiYW5kIjogX21ha2VfbnVsbGFyeV9vcChhbmRfKSwKICAgICAgICAiaW1wbGllcyI6IF9tYWtlX251bGxhcnlfb3AobGFtYmRhIHAsIHE6IG5vdCBwIG9yIHEpLAogICAgICAgICJpZmYiOiBfbWFrZV9udWxsYXJ5X29wKGVxKSwKICAgICAgICAibmFuZCI6IF9tYWtlX251bGxhcnlfb3AobGFtYmRhIHAsIHE6IG5vdCAocCBhbmQgcSkpLAogICAgfVt0cmVlLmRhdGFdKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGFzaAo=</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfaW5mZXJlCg==</text>
+        <text encoding="base64">ICAgICIiIlJlY3Vyc2VzIG9uIHNtYWxsZXIgdHJlZXMiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgICAgIGFzc2VydCBub3QgY2hlY2soW0Zvcm11bGEoInAiKSwgRm9ybXVsYSgiKHEgTkFORCAocCBOQU5EIHIpKSIpXSwgW0Zvcm11bGEoInIiKV0pCg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/check_//g</text>
       </register>
     </registers>
     <search>
-      <last-search>Set</last-search>
+      <last-search>acc</last-search>
       <last-offset />
-      <last-pattern>Set</last-pattern>
+      <last-pattern>acc</last-pattern>
       <last-replace />
       <last-substitute>check_</last-substitute>
       <last-dir>1</last-dir>
@@ -651,7 +566,6 @@
     </search>
     <history>
       <history-search>
-        <entry>proof_</entry>
         <entry>proves</entry>
         <entry>5</entry>
         <entry>or</entry>
@@ -671,6 +585,7 @@
         <entry>check_</entry>
         <entry>and</entry>
         <entry>Set</entry>
+        <entry>acc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/load/json/load/gc</entry>
