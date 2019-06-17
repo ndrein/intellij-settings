@@ -255,12 +255,12 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1560646459314">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="70" column="21" />
-        <mark key="]" line="70" column="31" />
-        <mark key="^" line="70" column="31" />
-        <mark key="." line="70" column="31" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1560686422392">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="46" column="50" />
+        <mark key="^" line="46" column="50" />
+        <mark key="." line="46" column="50" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
         <mark key="'" line="6" column="0" />
@@ -401,7 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="20" column="19" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="37" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
@@ -501,19 +500,20 @@
       <jump line="7" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/grammar.py" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>q</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>acc</text>
