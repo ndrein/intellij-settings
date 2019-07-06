@@ -27,11 +27,12 @@
       <file name="/a.dummy" timestamp="1560377492962">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1562435145921">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1562438191410">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="24" column="75" />
+        <mark key="]" line="24" column="88" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="24" column="88" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
         <mark key="'" line="37" column="0" />
@@ -255,12 +256,11 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1562435137737">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="5" column="35" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1562438213119">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
         <mark key="'" line="6" column="0" />
@@ -403,9 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="38" column="46" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="42" column="30" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="52" column="54" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="56" column="67" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
@@ -443,7 +440,6 @@
       <jump line="48" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="124" column="6" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
@@ -457,14 +453,12 @@
       <jump line="45" column="63" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="41" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="58" column="16" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="11" column="26" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="64" column="9" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="69" column="31" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
@@ -482,7 +476,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
       <jump line="37" column="77" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="25" column="7" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="27" column="55" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
@@ -494,7 +487,6 @@
       <jump line="25" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="8" column="45" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="60" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
@@ -503,76 +495,79 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>assumption</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>a</text>
+        <text>|</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrKGFzc3VtcHRpb25zOiBMaXN0W0Zvcm11bGFdID0gTm9uZSwgaW5mZXJlbmNlczogTGlzdFtGb3JtdWxhXSA9IE5vbmUpIC0+IGJvb2w6Cg==</text>
+        <text encoding="base64">ICAgICAgICByaWdodCA9IHRyZWUuY2hpbGRyZW5bMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="q" type="4">
         <text>ldf(df.lxf{</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfY2hlY2tfZW1wdHlfbGlzdHMoKToKICAgIGFzc2VydCBjaGVjayhbXSwgW10pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfaW52YWxpZF9hc3N1bXB0aW9uKCk6Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBub3QgY2hlY2soKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjaGVjawo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBub3QgY2hlY2soW10sIFtGb3JtdWxhKCIoKHAgTkFORCAocCBOQU5EIHApKSBOQU5EICIpXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfY2hlY2tfbm9fcHJvcG9zaXRpb25zKCk6CiAgICBhc3NlcnQgY2hlY2soW10pCgoKZGVmIHRlc3RfY2hlY2tfbm9fYXNzdW1wdGlvbnMoKToKICAgIGFzc2VydCBjaGVjayhwcm9wb3NpdGlvbnM9W10pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZGVmIHRlc3RfY2hlY2sK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGlzaW5zdGFuY2UodCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfY2hlY2tfaW52YWxpZF9wCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIDAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGxlZnQuZGF0YSA9PSAibmFuZCIK</text>
       </register>
       <register name=":" type="4">
-        <text>s/a/p/gc</text>
+        <text>%s/|/NAND/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>a</last-search>
+      <last-search>|</last-search>
       <last-offset />
-      <last-pattern>a</last-pattern>
-      <last-replace>p</last-replace>
-      <last-substitute>a</last-substitute>
+      <last-pattern>|</last-pattern>
+      <last-replace>NAND</last-replace>
+      <last-substitute>|</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>5</entry>
-        <entry>or</entry>
-        <entry>tree.d</entry>
-        <entry>tree.a</entry>
-        <entry>4</entry>
         <entry>List</entry>
         <entry>_create_ax</entry>
         <entry>self.a</entry>
@@ -588,11 +583,13 @@
         <entry>Set</entry>
         <entry>acc</entry>
         <entry>a</entry>
+        <entry>a|b</entry>
+        <entry>a\|b</entry>
+        <entry>a|b|c|d</entry>
+        <entry>a\|b\|c\|d\|</entry>
+        <entry>|</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/TITLE//gn</entry>
-        <entry>%s/TITLE//n</entry>
-        <entry>%s/protein/record</entry>
         <entry>%s/protein/record/gc</entry>
         <entry>%s/check/construct_proof/gc</entry>
         <entry>%s/construct_//gc</entry>
@@ -610,6 +607,9 @@
         <entry>%s/check_//g</entry>
         <entry>s/a/p/g</entry>
         <entry>s/a/p/gc</entry>
+        <entry>s/a|b|c|d/p/gc</entry>
+        <entry>s/a\|b\|c\|d\|/p/gc</entry>
+        <entry>%s/|/NAND/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
