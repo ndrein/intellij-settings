@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="BLACKReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl windows" second-keystroke="l" />
+  </action>
+</keymap>
