@@ -27,11 +27,12 @@
       <file name="/a.dummy" timestamp="1560377492962">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1560649653447">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1562432474553">
+        <mark key="'" line="27" column="55" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
         <mark key="'" line="37" column="0" />
@@ -313,7 +314,7 @@
         <mark key="." line="6" column="79" />
         <mark key="^" line="6" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560649656808">
+      <file name="/Dummy.txt" timestamp="1562432563523">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
@@ -344,6 +345,12 @@
         <mark key="]" line="56" column="36" />
         <mark key="." line="56" column="36" />
         <mark key="^" line="56" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/effloresce/test.py" timestamp="1562432562750">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/BIOL 465/project/code/aa_scatter.py" timestamp="1553958682352">
         <mark key="'" line="9" column="31" />
@@ -396,8 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
-      <jump line="32" column="36" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="24" column="20" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="111" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="113" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
@@ -496,13 +501,15 @@
       <jump line="37" column="77" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="25" column="7" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="27" column="55" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfaW5mZXJlbmNlX2Zyb21faW5mZXJlbmNlKCk6CiAgICBhc3NlcnQgY2hlY2soCiAgICAgICAgW0Zvcm11bGEoInAiKSwgRm9ybXVsYSgiKHAgTkFORCAocCBOQU5EIChwIE5BTkQgKHAgTkFORCBxKSkpKSIpXSwKICAgICAgICBbRm9ybXVsYSgiKHAgTkFORCAocCBOQU5EIHEpKSIpLCBGb3JtdWxhKCJxIildLAogICAgKQoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -517,34 +524,34 @@
         <text encoding="base64">ICAgICAgICAiIiJFdmFsdWF0ZSB0aGUgdHJlZSBhY2NvcmRpbmcgdG8gdGhlIGdpdmVuIGludGVycHJldGF0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfaW5mZXJlbmNlX2Zyb21faW5mZXJlbmNlKCk6CiAgICBhc3NlcnQgY2hlY2soCiAgICAgICAgW0Zvcm11bGEoInAiKSwgRm9ybXVsYSgiKHAgTkFORCAocCBOQU5EIChwIE5BTkQgKHAgTkFORCBxKSkpKSIpXSwKICAgICAgICBbRm9ybXVsYSgiKHAgTkFORCAocCBOQU5EIHEpKSIpLCBGb3JtdWxhKCJxIildLAogICAgKQoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ldf(df.lxf{</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ImEiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIkRldGVybWluZSBpZiAiIiIK</text>
+        <text encoding="base64">J2EnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfaW5mZXJlbmNlX2Zyb21faW5mZXJlbmNlKCk6CiAgICBhc3NlcnQgY2hlY2soCiAgICAgICAgW0Zvcm11bGEoInAiKSwgRm9ybXVsYSgiKHAgTkFORCAocCBOQU5EIChwIE5BTkQgKHAgTkFORCBxKSkpKSIpXSwKICAgICAgICBbRm9ybXVsYSgiKHAgTkFORCAocCBOQU5EIHEpKSIpLCBGb3JtdWxhKCJxIildLAogICAgKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlZmZsb3Jlc2NlLmV2YWx1YXRlIGltcG9ydCBldmFsdWF0ZQo=</text>
+        <text encoding="base64">ICAgICIiIkRldGVybWluZSBpZiAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGV2YWx1YXRlKHRyZWU6IFRyZWUsIGludGVycHJldGF0aW9uOiBEaWN0W3N0ciwgYm9vbF0pIC0+IGJvb2w6CiAgICBkZWYgX21ha2VfbnVsbGFyeV9vcChiaW5fb3A6IENhbGxhYmxlW1tBbnksIEFueV0sIGJvb2xdKSAtPiBDYWxsYWJsZVtbXSwgYm9vbF06CiAgICAgICAgcmV0dXJuIGxhbWJkYTogYmluX29wKAogICAgICAgICAgICBldmFsdWF0ZSh0cmVlLmNoaWxkcmVuWzBdLCBpbnRlcnByZXRhdGlvbiksCiAgICAgICAgICAgIGV2YWx1YXRlKHRyZWUuY2hpbGRyZW5bMV0sIGludGVycHJldGF0aW9uKSwKICAgICAgICApCgogICAgaWYgaXNpbnN0YW5jZSh0cmVlLCBUb2tlbik6CiAgICAgICAgcmV0dXJuIGludGVycHJldGF0aW9uW3RyZWVdCgogICAgcmV0dXJuIHsKICAgICAgICAibm90IjogbGFtYmRhOiBub3QgZXZhbHVhdGUodHJlZS5jaGlsZHJlblswXSwgaW50ZXJwcmV0YXRpb24pLAogICAgICAgICJvciI6IF9tYWtlX251bGxhcnlfb3Aob3JfKSwKICAgICAgICAiYW5kIjogX21ha2VfbnVsbGFyeV9vcChhbmRfKSwKICAgICAgICAiaW1wbGllcyI6IF9tYWtlX251bGxhcnlfb3AobGFtYmRhIHAsIHE6IG5vdCBwIG9yIHEpLAogICAgICAgICJpZmYiOiBfbWFrZV9udWxsYXJ5X29wKGVxKSwKICAgICAgICAibmFuZCI6IF9tYWtlX251bGxhcnlfb3AobGFtYmRhIHAsIHE6IG5vdCAocCBhbmQgcSkpLAogICAgfVt0cmVlLmRhdGFdKCkK</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIlJlY3Vyc2VzIG9uIHNtYWxsZXIgdHJlZXMiIiIK</text>
+        <text encoding="base64">ZnJvbSBlZmZsb3Jlc2NlLmV2YWx1YXRlIGltcG9ydCBldmFsdWF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/check_//g</text>
