@@ -256,8 +256,8 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1562538695879">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1563737075188">
+        <mark key="'" line="85" column="0" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -359,8 +359,8 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1562031288943">
-        <mark key="'" line="37" column="77" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/formula.py" timestamp="1563737067472">
+        <mark key="'" line="82" column="0" />
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
@@ -403,8 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="74" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof.py" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
       <jump line="44" column="4" filename="$USER_HOME$/dev/effloresce/tests/test_proof.py" />
@@ -466,7 +464,6 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" />
       <jump line="7" column="6" filename="$USER_HOME$/dev/effloresce/effloresce/evaluate.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
       <jump line="7" column="44" filename="$USER_HOME$/dev/effloresce/effloresce/grammar.py" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/README.md" />
@@ -496,13 +493,16 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="37" column="32" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/formula.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
