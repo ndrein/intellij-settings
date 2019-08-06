@@ -29,10 +29,6 @@
       </file>
       <file name="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" timestamp="1564535050502">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="75" />
-        <mark key="]" line="24" column="88" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="24" column="88" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/README.md" timestamp="1550965131023">
         <mark key="'" line="37" column="0" />
@@ -256,11 +252,8 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1563737075188">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" timestamp="1565053247432">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Winter2019/cs482/a2/test.py" timestamp="1550963630790">
         <mark key="'" line="6" column="0" />
@@ -493,7 +486,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="37" column="32" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
@@ -503,6 +495,7 @@
       <jump line="85" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
