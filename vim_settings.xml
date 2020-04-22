@@ -116,11 +116,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1587517153666">
+      <file name="$USER_HOME$/dev/effloresce/tests/test_formula.py" timestamp="1587519302041">
         <mark key="'" line="137" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/dev/effloresce/README.md" timestamp="1560649742063">
         <mark key="'" line="0" column="0" />
@@ -332,7 +332,7 @@
         <text>j</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Lgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
       </register>
       <register name="j" type="4">
         <text>j</text>
@@ -344,37 +344,37 @@
         <text>duplicate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bnAuY3Vtc3VtKG5wLnJhbmRvbS5ub3JtYWwoMCwgMSwgMTAwMCkpICsgMTAwMAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBGb3JtdWxhKCJsb25nbGl0ZXJhbCIpLmV2YWx1YXRlKHsibG9uZ2xpdGVyYWwiOiBUcnVlfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Lgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
       </register>
       <register name="q" type="4">
         <text>ldf(df.lxf{</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dW5pdHMK</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0IEZvcm11bGEoImxvbmdsaXRlcmFsIikuZXZhbHVhdGUoeyJsb25nbGl0ZXJhbCI6IFRydWV9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnAubWVhbihwcmljZXMpCg==</text>
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQocHJpY2VzKQpucC5tZWFuKHByaWNlcykKbnAuYXJnbWF4KHByaWNlcyA8PSAwKQo=</text>
+        <text encoding="base64">dW5pdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnAuY3Vtc3VtKG5wLnJhbmRvbS5ub3JtYWwoMCwgMSwgMTAwMCkpICsgMTAwMAo=</text>
+        <text encoding="base64">bnAubWVhbihwcmljZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bnAudGFrCg==</text>
+        <text encoding="base64">cHJpbnQocHJpY2VzKQpucC5tZWFuKHByaWNlcykKbnAuYXJnbWF4KHByaWNlcyA8PSAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cm5wLmN1bXN1bShbMSwyLDNdKQo=</text>
+        <text encoding="base64">bnAuY3Vtc3VtKG5wLnJhbmRvbS5ub3JtYWwoMCwgMSwgMTAwMCkpICsgMTAwMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bnAuY3Vtc3VtCg==</text>
+        <text encoding="base64">bnAudGFrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpY2VzID0gCg==</text>
+        <text encoding="base64">Cm5wLmN1bXN1bShbMSwyLDNdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/|/NAND/gc</text>
