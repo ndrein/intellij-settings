@@ -174,8 +174,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/effloresce/effloresce/grammar.py" timestamp="1560649385432">
-        <mark key="'" line="11" column="44" />
+      <file name="$USER_HOME$/dev/effloresce/effloresce/grammar.py" timestamp="1587516447005">
+        <mark key="'" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/dev/accweb/fun.py" timestamp="1584063530567">
         <mark key="'" line="6" column="0" />
@@ -225,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="81" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
-      <jump line="12" column="1" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="27" column="75" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/effloresce/tests/test_proof_checker.py" />
@@ -325,6 +323,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/dollar_cost_averaging/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/accweb/fun.py" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/proof_checker.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/effloresce/effloresce/grammar.py" />
+      <jump line="12" column="16" filename="$USER_HOME$/dev/effloresce/effloresce/grammar.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
